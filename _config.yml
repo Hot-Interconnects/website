@@ -1,4 +1,4 @@
-title: IEEE Hot Interconnects
+title: Hot Interconnects
 email: info@hoti.org
 description: >- # this means to ignore newlines until "baseurl:"
   The international forum where the high-performance computing and high-speed networking communities meet
@@ -11,10 +11,11 @@ theme: minima
 markdown: kramdown
 
 header_pages:
-  - contact_us.md
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#- registration.md
+- program.md
+#- keynotes.md
+#- tutorials.md
+- attendees.md
+- committees.md
+- archive.md
+- contact_us.md
