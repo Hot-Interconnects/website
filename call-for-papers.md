@@ -42,11 +42,14 @@ We invite paper submissions across a wide range of topics and levels, ranging fr
 
 ## Submissions
 
-| Event                      | Date            |
-| -------------------------- | --------------- |
-| Paper abstract deadline    | May 8th, 2020   |
-| Submission deadline        | May 15th, 2020  |
-| Notification of acceptance | June 19th, 2020 |
+| Event                      | Date               |
+| -------------------------- | ------------------ |
+| Paper abstract deadline    | May 8th, 2020      |
+| Submission deadline        | May 15th, 2020     |
+| Notification of acceptance | June 19th, 2020    |
+| Symposium                  | August 19-20, 2020 |
+| Tutorials                  | August 21, 2020    |
+
 
 ## Process
 

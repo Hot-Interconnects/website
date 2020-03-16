@@ -17,6 +17,7 @@ header_pages:
 #- keynotes.md
 #- tutorials.md
 #- attendees.md
+- safety.md
 - call-for-papers.md
 - sponsors.md
 - committees.md
