@@ -24,3 +24,8 @@ header_pages:
 - archive.md
 # Don't need this as it is on committee and footer? 
 # - contact_us.md
+
+exclude:
+  - _ignore
+
+destination: hoti.org
