@@ -17,8 +17,8 @@ layout: page
 | Publication Chairs                                 | Nicola Andriolli           | [_Scuola Superiore Sant'Anna_](http://www.sssup.it)       |
 |                                                    | Luca Valcarenghi           | [_Scuola Superiore Sant'Anna_](http://www.sssup.it)       |
 | [Registration Chair](mailto:registration@hoti.org) | Songkrant Muneenaem        | [_Prince of Songkla University_](http://www.en.psu.ac.th) |
-| [Sponsors Chair](mailto:sponsor@hot.org)           | Raj Channa                 | [_RBC Capital Markets_](http://www.rbccm.com)             |
+| [Sponsorship Chair](mailto:sponsor@hoti.org)       | Raj Channa                 | [_RBC Capital Markets_](http://www.rbccm.com)             |
 | Finance Chairs                                     | Jimes Dinan                | [_NVIDIA_](https://www.nvidia.com)                        |
 |                                                    | Xinyu Que                  | [_IBM T.J. Watson_](http://www.watson.ibm.com)            |
-| Web/IT                                             | Kevin Broch                |                                                           |
+| [Web/IT](mailto:webmaster@hoti.org)                | Kevin Broch                |                                                           |
 | Invited Speakers/Panel Chair                       | Dan Pitt                   | [_MEF_](https://mef.net)                                  |
