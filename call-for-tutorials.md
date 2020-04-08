@@ -38,16 +38,16 @@ Tutorials may be proposed for one half-day (three hours, 2 presenters max) durat
 The submission should include a single PDF file with the following sections, each beginning on a separate page:
 
 - Title page including the following components:
-- Title
-- Name, organization, and email address of each author
-- 200-word (maximum) abstract
-- (Optional) A URL with samples of your visual aids
+  - Title
+  - Name, organization, and email address of each author
+  - 200-word (maximum) abstract
+  - (Optional) A URL with samples of your visual aids
 - Description of the tutorial content (1 page maximum) containing:
-   ** Goals of the tutorials (takeaways for the audience)
-   ** Why is it relevant for HOTI 2020 attendees?
-   ** Target audience
-   ** Content level: beginner, intermediate, or advanced
-   ** Previous presentations of this tutorial including any differences in the proposed tutorial
+   - Goals of the tutorials (takeaways for the audience)
+   - Why is it relevant for HOTI 2020 attendees?
+   - Target audience
+   - Content level: beginner, intermediate, or advanced
+   - Previous presentations of this tutorial including any differences in the proposed tutorial
 - Detailed outline of the tutorial (2 pages maximum)
 - Resume or curriculum vitae for each presenter (2 presenters maximum, 1 page maximum each)
 - A statement agreeing to release the notes to HOTI 2020 tutorial attendees
