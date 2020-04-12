@@ -16,7 +16,7 @@ We hope you can join us and benefit not only by the content but also by the prim
 
 ## Submissions
 
-If you are interested in submitting a paper to the symposium please review the [Call for Papers](call-for-papers.html)
+Please review the [Call for Papers](call-for-papers.html) or [Call For Tutorials](call-for-tutorials.html) if you are interested in submitting to the symposium.
 
 ## Registration
 
