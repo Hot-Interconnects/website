@@ -1,10 +1,7 @@
 ---
-layout: page
 title: Home
 ---
 {% include reg-open.md %}
-
-{% include sponsors-thankyou.md %}
 
 ## Hoti27 (2020) Overview
 

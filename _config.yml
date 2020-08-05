@@ -1,15 +1,19 @@
-title: Hot Interconnects
+name: Hot Interconnects
 email: info@hoti.org
-description: >- # this means to ignore newlines until "baseurl:"
-  The international forum where the high-performance computing and high-speed networking communities meet
+description: The international forum where the high-performance computing and high-speed networking communities meet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:  IEEEHOTI
-facebook_username: hoti.org
+
+twitter:
+  username: IEEEHOTI
+facebook:
+  username: hoti.org
 
 # Build settings
-theme: minima
-markdown: kramdown
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
+logo: /assets/img/hoti_logo_150x75.png
 
 defaults:
   # _pages
@@ -17,23 +21,10 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: page
-
-
-header_pages:
-#- registration.md
-- program.md
-#- keynotes.md
-#- tutorials.md
-#- attendees.md
-#- safety.md
-#- call-for-papers.md
-#- call-for-tutorials.md
-- sponsors.md
-- committees.md
-- archive.md
-# Don't need this as it is on committee and footer? 
-# - contact_us.md
+      layout: single
+      # Wide might not work with hacked layouts (I see the sponsor sidebar jump from right to left)
+      sidebar: sponsors-sidebar.md #from the _includes folder
+      # Build settings
 
 exclude:
   - _ignore

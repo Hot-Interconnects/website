@@ -1,6 +1,5 @@
 ---
 title: Committees
-layout: page
 ---
 ## Organizing Committee
 

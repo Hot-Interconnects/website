@@ -1,8 +1,6 @@
 ---
 title: Sponsors
 ---
-{% include sponsors-thankyou.md %}
-
 ## Become an IEEE Hot Interconnects Patron!
 
 IEEE Hot Interconnects Patrons receive immeasurably valuable visibility in numerous conference announcements, in the conference proceedings package, on the conference website with a IEEE Hot-linked logo, and at the conference site among its many influential attendees.

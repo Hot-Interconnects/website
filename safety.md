@@ -1,5 +1,4 @@
 ---
-layout: page
 title: COVID-19
 ---
 ## Safety and Well-Being (Coronavirus COVID-19)

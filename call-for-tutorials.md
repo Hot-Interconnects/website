@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Call For Tutorials
 ---
 Hot Interconnects 2020 continues its tradition to offer world-class tutorials held by internationally renowned experts in the area of high-performance interconnect networks.

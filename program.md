@@ -1,10 +1,7 @@
 ---
 title: Program
-layout: page
 ---
 {% include reg-open.md %}
-
-{% include sponsors-thankyou.md %}
 
 ## Conference Day 1: Wednesday, August 19, 2020
 

@@ -1,0 +1,9 @@
+main:
+  - title: Program
+    url: /program.html
+  - title: Sponsors
+    url: /sponsors.html
+  - title: Committees
+    url: /committees.html
+  - title: Archive
+    url: /archive.html

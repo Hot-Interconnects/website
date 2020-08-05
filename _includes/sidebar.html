@@ -1,0 +1,10 @@
+{% if page.sidebar %}
+<div class="sidebar__right sticky">
+
+  {% capture sidebardata %} {% include {{page.sidebar}} %}{% endcapture %}
+  {{ sidebardata | markdownify }}
+
+</div>
+{% endif %}
+
+{% comment %} For right hand side bar change "sidebar sticky" to "sidebar__right sticky". {% endcomment %}
