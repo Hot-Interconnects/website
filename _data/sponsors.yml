@@ -10,7 +10,7 @@
   - name: Intel
     logo: /assets/img/sponsors/intel_200px.png
     url: https://intel.com
-    slack:/
+    slack:
 
 - name: Gold
   members:
