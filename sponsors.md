@@ -1,11 +1,7 @@
 ---
 title: Sponsors
 ---
-## Thank You!
-
-{%- for sponsor in site.data.sponsors %}
-![{{ sponsor.name }} logo]({{ sponsor.logo }})
-{%- endfor %}
+{% include sponsors-thankyou.md %}
 
 ## Become an IEEE Hot Interconnects Patron!
 

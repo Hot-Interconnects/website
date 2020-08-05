@@ -2,6 +2,10 @@
 title: Program
 layout: page
 ---
+{% include reg-open.md %}
+
+{% include sponsors-thankyou.md %}
+
 ## Conference Day 1: Wednesday, August 19, 2020
 
 {% include sections_tbl.md content=site.data.conf_d1 progtype="conference" showpdf=false showvid=false  %}
