@@ -54,8 +54,8 @@ The submission should include a single PDF file with the following sections, eac
 
 ## Important dates
 
-- Proposals due: May 17, 2020
-- Notification of acceptance: Jun 07, 2020
+- Proposals due: June 5, 2020
+- Notification of acceptance: June 07, 2020
 - Materials due: August 14, 2020
 - Tutorial date: August 21, 2020
 

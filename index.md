@@ -2,22 +2,18 @@
 layout: page
 title: Home
 ---
-## Hoti27 (2020) Overview
-
-Hot Interconnects Symposium August 19-20, 2020 (Tutorials August 21, 2020) at [QCT](https://www.qct.io/), San Jose, CA in 2020!
-
-Join us for our 27th year of an information packed three day symposium about the latest in high performance interconnects. IEEE Hot Interconnects is the premier international forum for researchers and developers of state of the art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core on-chip interconnects to those within systems, clusters, and data centers. Leaders in industry and academia attend the conference to interact with individuals at the forefront of this field.
-
-Two days of technical sessions and a day of tutorials are waiting for you, to keep you on the top of the latest developments in industry and academia.
-
-Our objective is to address the data center networking and the supercomputing communities.
-
-We hope you can join us and benefit not only by the content but also by the prime networking opportunities this event always offers.
-
-## Submissions
-
-Please review the [Call for Papers](call-for-papers.html) or [Call For Tutorials](call-for-tutorials.html) if you are interested in submitting to the symposium.
-
 ## Registration
 
-Registration is not yet open.
+FREE!! (thanks to our sponsors) [![Register Now](/img/regnow-100px.png)](https://hoti.123signup.com/event/registration/rnsmq) For Hoti27, Wednesday, August 19, 2020 - Friday, August, 21, 2020.
+
+## Hoti27 (2020) Overview
+
+Welcome to  Hot Interconnects 27.  Due to continued uncertainty around the spread of COVID-19, there will not be an in-person event for Hot Interconnects 27, but it will be held as an on-line virtual conference. All tutorials, keynotes, and sessions will be broadcast  so that all registered conference attendees will be able to access. Logon instructions will be emailed to all  attendees before the start of the conference. The broadcast will be in the Pacific Time Zone.  Per-talk Slack channels connect you to presenters for live Q&A and discussions with other attendees.  We hope that you enjoy this new format conference and all the interesting presentations described here. 
+
+IEEE Hot Interconnects is the premier international forum for researchers and developers of state of the art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core on-chip interconnects to those within systems, clusters, and data centers. Leaders in industry and academia attend the conference to interact with individuals at the forefront of this field.
+Two days of technical sessions and a day of tutorials are waiting for you, to keep you on the top of the latest developments in industry and academia.
+Our objective is to address the data center networking and the supercomputing communities.
+
+## Last Year's Papers (hoti26 (2019))
+
+Available at [IEEE here](https://ieeexplore.ieee.org/xpl/conhome/9058768/proceeding).
