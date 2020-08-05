@@ -1,44 +1,58 @@
-- name: QCT
-  logo: /assets/img/qct_200px.png
-  url:
-  slack:
-- name: Intel
-  logo: /assets/img/intel_200px.png
-  url:
-  slack:
-- name: GigaIO 
-  logo: /assets/img/gigaio_150px.png
-  url:
-  slack:
-- name: TidalScale
-  logo: /assets/img/tidalscale_150px.png
-  url:
-  slack:
-- name: IBM
-  logo: /assets/img/ibm_150px.png
-  url:
-  slack:
-- name: Algo-Logic
-  logo: /assets/img/algo_logic_100px.png
-  url:
-  slack:
-- name: Lenovo 
-  logo: /assets/img/lenovo_100px.png
-  url:
-  slack:
-- name: Ayar Labs
-  logo: /assets/img/ayar_labs_100px.png
-  url:
-  slack:
-- name: IEEE Computer Society
-  logo: /assets/img/ieee_cs_50px.png
-  url:
-  slack:
-- name: IEEE
-  logo: /assets/img/ieee_50px.png
-  url:
-  slack:
-- name: TCMM
-  logo: /assets/img/tcmm_50px.png
-  url:
-  slack:
+- name: Host
+  members:
+  - name: QCT
+    logo: /assets/img/qct_200px.png
+    url:
+    slack:
+
+- name: Diamond
+  members:
+  - name: Intel
+    logo: /assets/img/intel_200px.png
+    url:
+    slack:
+
+- name: Gold
+  members:
+  - name: GigaIO 
+    logo: /assets/img/gigaio_150px.png
+    url:
+    slack:
+  - name: TidalScale
+    logo: /assets/img/tidalscale_150px.png
+    url:
+    slack:
+  - name: IBM
+    logo: /assets/img/ibm_150px.png
+    url:
+    slack:
+
+- name: Silver
+  members:
+  - name: Algo-Logic
+    logo: /assets/img/algo_logic_100px.png
+    url:
+    slack:
+  - name: Lenovo 
+    logo: /assets/img/lenovo_100px.png
+    url:
+    slack:
+  - name: Ayar Labs
+    logo: /assets/img/ayar_labs_100px.png
+    url:
+    slack:
+
+- name: Sponsors
+  members:
+  - name: IEEE Computer Society
+    logo: /assets/img/ieee_cs_50px.png
+    url:
+    slack:
+  - name: IEEE
+    logo: /assets/img/ieee_50px.png
+    url:
+    slack:
+  - name: TCMM
+    logo: /assets/img/tcmm_50px.png
+    url:
+    slack:
