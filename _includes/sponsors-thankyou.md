@@ -1,7 +1,5 @@
 ## Thank You Sponsors!
 
-{% group in site.data.sponsors %}
-{{ group.name }}
-{%- for sponsor in group.members %}
+{%- for sponsor in site.data.sponsors %}
 ![{{ sponsor.name }} logo]({{ sponsor.logo }})
 {%- endfor %}
