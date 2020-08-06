@@ -13,4 +13,4 @@ title: Program
 
 ## Tutorials: Friday, August 21, 2020
 
-{% include sections_tbl.md content=site.data.conf_d2 progtype="tutorials" showpdf=false showvid=false %}
+{% include sections_tbl.md content=site.data.tutorials progtype="tutorials" showpdf=false showvid=false %}

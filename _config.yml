@@ -1,15 +1,14 @@
 name: Hot Interconnects
 email: info@hoti.org
 description: The international forum where the high-performance computing and high-speed networking communities meet
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: ""
 
 twitter:
   username: IEEEHOTI
 facebook:
   username: hoti.org
 
-# Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 
@@ -26,7 +25,12 @@ defaults:
       sidebar: sponsors-sidebar.md #from the _includes folder
       # Build settings
 
-exclude:
+icons:
+  video-file: <i class="fa fa-file-video fa-fw" aria-hidden="true"></i>
+  pdf-file: <i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i>
+  slack: <i class="fab fa-slack fa-fw" aria-hidden="true"></i>
+
+  exclude:
   - _ignore
 
 destination: hoti.org
