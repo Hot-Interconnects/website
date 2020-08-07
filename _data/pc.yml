@@ -1,0 +1,57 @@
+- name: Patrick Bridges             
+  affiliation: University of New Mexico
+  url: https://www.unm.edu/             
+- name: Ron Brightwell              
+  affiliation: Sandia National Laboratories
+  url: http://www.sandia.gov        
+- name: Nicola Calabretta           
+  affiliation: Eindhoven University of Technology
+  url: https://www.tue.nl/en/ 
+- name: Matthew Dosanjh             
+  affiliation: Sandia National Laboratories
+  url: http://www.sandia.gov        
+- name: Jesus Escudero-Sahuquillo   
+  affiliation: University of Castilla-La Mancha
+  url: https://www.uclm.es/     
+- name: Pedro Javier Garcia         
+  affiliation: Universidad de Castilla-La Mancha
+  url: https://www.uclm.es/    
+- name: Paolo Giaccone              
+  affiliation: Politecnico di Torino
+  url: https://www.polito.it/              
+- name: Taylor Groves               
+  affiliation: Lawrence Berkeley National Laboratory
+  url: https://www.llnl.gov/
+- name: Julien Jaeger               
+  affiliation: CEA
+  url: http://www.cea.fr                                     
+- name: Avinash Karanth             
+  affiliation: Ohio State University
+  url: https://www.osu.edu/                
+- name: Kirill Kogan                
+  affiliation: IMDEA Networks
+  url: https://www.networks.imdea.org/            
+- name: Rami Melhem                 
+  affiliation: University of Pittsburgh
+  url: https://www.pitt.edu/            
+- name: Mondrian Nuessle            
+  affiliation: EXTOLL GmbH
+  url: http://www.extoll.de/                         
+- name: Fabrizio Petrini            
+  affiliation: Intel
+  url: https://intel.com                                   
+- name: Artem Polyakov              
+  affiliation: Mellanox Technologies
+  url: https://www.mellanox.com            
+- name: Raghunath Raja Chandrasekar 
+  affiliation: Amazon Web Services
+  url: https://aws.amazon.com                
+- name: Laurent Schares             
+  affiliation: IBM
+  url: http://ibm.com                                        
+- name: Craig Stunkel               
+  affiliation: IBM
+  url: http://ibm.com                                        
+- name: Keith Underwood             
+  affiliation: HPE
+  url: https://www.hpe.com/                                  

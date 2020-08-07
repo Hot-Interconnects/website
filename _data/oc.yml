@@ -1,0 +1,92 @@
+- name: Don Draper                
+  affiliation: ProPrincipia International Associates                                       |
+  position: General Chairs
+  email: info@hoti.org            
+
+- name: Khaled Hamidouche         
+  affiliation: AMD
+  url: http://www.amd.com                                                 
+  # position: General Chair
+  # email: info@hoti.org            
+
+- name: Ryan Grant                
+  affiliation: Sandia National Laboratories
+  url: http://www.sandia.gov                     
+  position: Program Chairs
+  email: program@hoti.org         
+
+- name: Manjunath Gorentla Venkata
+  affiliation: Mellanox Technologies
+  url: https://www.mellanox.com                         
+  # position: Program Chair
+  # email: program@hoti.org         
+
+- name: Misbah Mubarak            
+  affiliation: Amazon Web Services
+  url: https://aws.amazon.com                             
+  position: Tutorials Chairs
+  email: tutorials@hoti.org     
+
+- name: Pavel Shamis              
+  affiliation: ARM
+  url: https://www.arm.com                                                
+  # position: Tutorials Chair
+  # email: tutorials@hoti.org     
+
+- name: Matthew Dosanjh           
+  affiliation: Sandia National Laboratories
+  url: http://www.sandia.gov                     
+  position: Poster Chair                                      
+
+- name: Min Si                    
+  affiliation: Argonne National Lab
+  url: https://www.anl.gov                               
+  position: Publicity Chair                                   
+
+- name: Nicola Andriolli          
+  affiliation: National Research Council of Italy (CNR-IEIIT)
+  url: http://www.ieiit.cnr.it 
+  position: Publication Chairs                                
+
+- name: Luca Valcarenghi          
+  affiliation: Scuola Superiore Sant'Anna
+  url: http://www.sssup.it                         
+  # position: Publication Chair                               
+
+- name: Songkrant Muneenaem       
+  affiliation: Prince of Songkla University
+  url: http://www.en.psu.ac.th                   
+  position: Registration Chair
+  email: registration@hoti.org
+
+- name: Raj Channa                
+  affiliation: RBC Capital Markets
+  url: http://www.rbccm.com                               
+  position: Sponsorship Chair
+  email: sponsor@hoti.org      
+
+- name: Jimes Dinan               
+  affiliation: NVIDIA
+  url: https://www.nvidia.com                                          
+  position: Finance Chairs                                    
+
+- name: Xinyu Que                 
+  affiliation: IBM T.J. Watson
+  url: http://www.watson.ibm.com                              
+  # position: Finance Chair                                    
+
+- name: Kevin Broch               
+  affiliation: Provino Technologies
+  url: https://provino-tech.com                          
+  position: Web/IT
+  email: webmaster@hoti.org               
+
+- name: Dan Pitt                  
+  affiliation: MEF
+  url: https://mef.net                                                    
+  position: Invited Speakers/Panel Chair                      
+
+- name: Mark Arnold               
+  affiliation: NVIDIA
+  url: https://www.nvidia.com                                          
+  position: Remote Arrangement Chair                          
