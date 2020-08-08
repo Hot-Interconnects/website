@@ -34,3 +34,6 @@ icons:
   - _ignore
 
 destination: hoti.org
+
+plugins:
+  - jekyll-target-blank
