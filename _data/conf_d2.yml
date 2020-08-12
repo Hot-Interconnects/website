@@ -1,7 +1,8 @@
 - title: Keynote 2
   time: "9:00AM-10:00AM"
-  presenters: Brian Barrett
-  affiliation: AWS
+  presenters: 
+  - name: Brian Barrett
+    affiliation: AWS
 
 - title: Break
   time: "10:00AM-10:20AM"
@@ -9,20 +10,37 @@
 - title: Gold Sponsor Presentation
   time: "10:20AM-10:30AM"
   presenters:
-  affiliation: TidalScale
+  - name:
+    affiliation: TidalScale
 
 - title: Machine Learning
   time: "10:30AM-11:30AM"
   subsections:
   - title: Design Space Exploration for Scalable Training of Recommendation Models
-    presenters: Saeed Rashidi, Pallavi Shurpali, Srinivas Sridharan, Naader Hassani, Dheevatsa Mudigere, Krishnakumar Nair, Misha Smelyanskiy and Tushar Krishna
-    affiliation:
+    presenters: 
+    - name: Saeed Rashidi
+      affiliation: Georgia Tech
+    - name: Pallavi Shurpali
+      affiliation: Facebook
+    - name: Srinivas Sridharan
+      affiliation: Facebook
+    - name: Naader Hassani
+      affiliation: Facebook
+    - name: Dheevatsa Mudigere
+      affiliation: Facebook
+    - name: Krishnakumar Nair
+      affiliation: Facebook
+    - name: Misha Smelyanskiy
+      affiliation: Facebook
+    - name: Tushar Krishna
+      affiliation: Georgia Tech
     pdf:
     video:
     slack:
   - title: Communication-Efficient Distributed Deep Learning with GPU-FPGA Heterogeneous Computing
-    presenters: Kenji Tanaka, Yuki Arikawa, Ito Tsuyoshi, Kazutaka Morita, Naru Nemoto, Fumiaki Miura, Kazuhiko Terada, Junji Teramoto and Takeshi
-    affiliation:
+    presenters: 
+    - name: Kenji Tanaka, Yuki Arikawa, Ito Tsuyoshi, Kazutaka Morita, Naru Nemoto, Fumiaki Miura, Kazuhiko Terada, Junji Teramoto and Takeshi
+      affiliation: NTT Corporation
     pdf:
     video:
     slack:
@@ -30,7 +48,8 @@
 - title: Silver Sponsor Presentation
   time: "11:30AM-11:35AM"
   presenters:
-  affiliation: AlgoLogic
+  - name:
+    affiliation: AlgoLogic
 
 - title: Lunch
   time: "11:35AM-12:30PM"
@@ -39,13 +58,36 @@
   time: "12:30PM-1:30PM"
   subsections:
   - title: Optimizing Packet Dropping by Efficient Congesting-Flow Isolation in Lossy Data-Center Networks
-    presenters: Cristina Olmedilla, Jesús Escudero-Sahuquillo, Pedro Javier García, Francisco Alfaro Cortés, Francisco J. Quiles, José L. Sánchez, Wenhao Sun, Xiang Yu, Xu Yonghui and Jose Duato
-    affiliation:
+    presenters: 
+    - name: Cristina Olmedilla
+      affiliation: Universidad de Castilla-La Mancha
+    - name: Jesús Escudero-Sahuquillo
+      affiliation: Universidad de Castilla-La Mancha
+    - name: Pedro Javier García
+      affiliation: Universidad de Castilla-La Mancha
+    - name: Francisco Alfaro Cortés
+      affiliation: Universidad de Castilla-La Mancha
+    - name: Francisco J. Quiles
+      affiliation: Universidad de Castilla-La Mancha
+    - name: José L. Sánchez
+      affiliation: Universidad de Castilla-La Mancha
+    - name: Wenhao Sun
+      affiliation: Huawei
+    - name: Xiang Yu
+      affiliation: Huawei
+    - name: Xu Yonghui
+      affiliation: Huawei
+    - name: Jose Duato
+      affiliation: Universitat Politècnica de València
     pdf:
     video:
     slack:
   - title: Isolated Trees in Multi-Tenant Fat Tree Datacenters for In-Network Computing
-    presenters: Ori Rottenstreich, Jose Yallouz and Lion Levi
+    presenters: 
+    - name: Ori Rottenstreich
+      affiliation: Technion
+    - name: Jose Yallouz and Lion Levi
+      affiliation: Mellanox Tecnologies
     affiliation:
     pdf:
     video:
@@ -54,7 +96,8 @@
 - title: Silver Sponsor Presentation
   time: "1:30PM-1:35PM"
   presenters:
-  affiliation: Ayar Labs
+  - name:
+    affiliation: Ayar Labs
 
 - title: Break
   time: "1:35PM-1:45PM"
@@ -63,14 +106,22 @@
   time: "1:45PM-2:45PM"
   subsections:
   - title: "Kano: Efficient Container Network Policy Verification"
-    presenters: Yifan Li, Chengjun Jia, Xiaohe Hu and Jun Li
-    affiliation:
+    presenters: 
+    - name: Yifan Li
+      affiliation: Tsinghua University
+    - name: Chengjun Jia
+      affiliation: Tsinghua University
+    - name: Xiaohe Hu
+      affiliation: Tsinghua University
+    - name: Jun Li
+      affiliation: RITT
     pdf:
     video:
     slack:
   - title: Reliable and Time-efficient Virtualized Function Placement
-    presenters: Roi Ben Haim and Ori Rottenstreich
-    affiliation:
+    presenters: 
+    - name: Roi Ben Haim and Ori Rottenstreich
+      affiliation: Technion
     pdf:
     video:
     slack:
@@ -78,17 +129,19 @@
 - title: Silver Sponsor Presentation
   time: "2:45PM-2:50PM"
   presenters:
-  affiliation: Lenovo
+  - name:
+    affiliation: Lenovo
 
 - title: Break
   time: "2:50PM-3:00PM"
 
 - title: "Invited Talk 2: Constructing a Computationally-Efficient Distributed GPU Appliance In a PCI Express-bsed Network"
   time: "3:00PM-3:30PM"
-  presenters: Scott Taylor
-  affiliation: GigaIO
+  presenters: 
+  - name: Scott Taylor
+    affiliation: GigaIO
 
 - title: Close
   time: "3:30PM-3:35PM"
-  presenters: Don Draper
-  affiliation:
+  presenters: 
+  - name: Don Draper

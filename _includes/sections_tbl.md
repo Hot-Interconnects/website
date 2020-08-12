@@ -1,7 +1,7 @@
 | Time | Title | Presenters |
 | --- | ------- | ---------- |
 {%- for section in include.content %}
-| {{ section.time }} | {{ section.title }} | {{ section.presenters }}{% if section.presenters and section.affiliation %}, {% endif %}{{ section.affiliation }} |
+| {{ section.time }} | {{ section.title }} | {% for presenter in section.presenters %} {{ presenter.name }}, {{ presenter.affiliation }} {% endfor %} |
   {%- if section.subsections %}
       {%- for talk in section.subsections %}
 | | {{ talk.title }}
@@ -14,7 +14,7 @@
         {%- if talk.slack -%}
 [{{ site.icons.slack }}]({{ talk.slack }})
         {%- endif -%}
-| {{ talk.presenters }}{% if talk.presenters and talk.affiliation %}, {% endif %}{{talk.affiliation }} |
+|{% for presenter in talk.presenters %} {{ presenter.name }} ({{presenter.affiliation }}),{% endfor %} |
       {%- endfor %}
   {%- endif %}
 {%- endfor %}
