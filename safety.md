@@ -8,7 +8,7 @@ monitor official travel advisories related to the Coronavirus and update the eve
  keep you informed. We encourage you to review the conference’s “Travel and Safety
 Information” page for tips and travel recommendations.
 If you have any questions or need additional information, please email us for further
-details: [info@hoti.org](mailto:info@hoti.org)
+details: <info@hoti.org>
 
 As well as a Travel and Safety Information page with these links:
 

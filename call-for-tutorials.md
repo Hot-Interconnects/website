@@ -30,7 +30,7 @@ All materials must be submitted to the tutorials chair by August 1st and will be
 
 ## How to Submit
 
-Tutorials may be proposed for one half-day (three hours, 2 presenters max) duration. Tutorials on new and emerging technologies are encouraged. Tutorial proposals must be submitted electronically to submission address [tutorials@hoti.org](mailto:tutorials@hoti.org). Although not required, you are strongly urged to submit samples of your visual aids. You may supply a URL at which the samples may be found.
+Tutorials may be proposed for one half-day (three hours, 2 presenters max) duration. Tutorials on new and emerging technologies are encouraged. Tutorial proposals must be submitted electronically to submission address <tutorials@hoti.org>. Although not required, you are strongly urged to submit samples of your visual aids. You may supply a URL at which the samples may be found.
 
 ## Submission
 

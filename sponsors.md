@@ -9,4 +9,4 @@ All levels of patronage are designed to increase participation and maximize expo
 
 Email announcements sent monthly until conference time are received by more than 50,000 targeted professionals in the electronics industry through organizational affiliations in the ACM, IEEE Computer Society, IEEE Communications Society, and academic institutions. They are directed to the IEEE Hoti.org website, where your logo appears prominently.
 
-To participate, please email [sponsor@hoti.org](mailto:sponsor@hoti.org)  to discuss your desired level of participation.  Since the conference may be held online due to the Coronavirus COVID-19, sponsorship levels are yet to be determined.
+To participate, please email <sponsor@hoti.org> to discuss your desired level of participation.  Since the conference may be held online due to the Coronavirus COVID-19, sponsorship levels are yet to be determined.

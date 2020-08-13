@@ -2,7 +2,7 @@ name: Hot Interconnects
 email: info@hoti.org
 description: The international forum where the high-performance computing and high-speed networking communities meet
 baseurl: ""
-url: ""
+url: "https://hoti.org"
 
 twitter:
   username: IEEEHOTI
