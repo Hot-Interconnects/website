@@ -25,12 +25,9 @@ defaults:
       sidebar: sponsors-sidebar.md #from the _includes folder
       # Build settings
 
-icons:
-  video-file: <i class="fa fa-file-video fa-fw" aria-hidden="true"></i>
-  pdf-file: <i class="fa fa-file-pdf fa-fw" aria-hidden="true"></i>
-  slack: <i class="fab fa-slack fa-fw" aria-hidden="true"></i>
+slack-workspace-url: https://hot-interconnects.slack.com/
 
-  exclude:
+exclude:
   - _ignore
 
 destination: hoti.org

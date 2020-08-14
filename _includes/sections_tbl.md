@@ -6,13 +6,13 @@
       {%- for talk in section.subsections %}
 | | {{ talk.title }}
         {%- if include.showpdf == true and talk.pdf -%}
-[{{ site.icons.pdf-file }}](/assets/program/{{ include.progtype }}/{{ talk.pdf }})
+[{{ site.data.icons.pdf-file }}](/assets/program/{{ include.progtype }}/{{ talk.pdf }})
         {%- endif -%}
         {%- if include.showvid == true and talk.video -%}
-[{{ site.icons.video-file }}]({{ talk.video }})
+[{{ site.data.icons.video-file }}]({{ talk.video }})
         {%- endif -%}
         {%- if talk.slack -%}
-[{{ site.icons.slack }}]({{ talk.slack }})
+[{{ site.data.icons.slack }}]({{ talk.slack }})
         {%- endif -%}
 |{% for presenter in talk.presenters %} {{ presenter.name }} ({{presenter.affiliation }}),{% endfor %} |
       {%- endfor %}
