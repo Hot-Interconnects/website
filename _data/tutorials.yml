@@ -2,7 +2,7 @@
   time: "9:00AM-12:30PM"
   presenters: 
   - name: Dhabaleswar K. (DK) Panda, Hari Subramoni, Arpan Jain and Ammar Ahmad Awan
-    affiliation:
+    affiliation: The Ohio State University
   
 - title: Lunch
   time: "12:30PM-1:30PM"
@@ -11,7 +11,7 @@
   time: "1:30PM-5:00PM"
   presenters: 
   - name: Dhabaleswar K. (DK) Panda and Hari Subramoni
-    affiliation:
+    affiliation: The Ohio State University
 
 - title: Close
   time: "5:00PM-5:05PM"
