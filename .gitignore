@@ -3,3 +3,4 @@ hoti.org
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.zip
