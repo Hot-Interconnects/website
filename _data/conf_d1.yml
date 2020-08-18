@@ -25,22 +25,22 @@
     presenters:
     - name: Debendra Das Sharma
       affiliation: Intel
-  - title: "Bunch of Wires: An Open D2D Interface"
+  - title: "Bunch of Wires: An Open Die-to-Die Interface"
     presenters:
-    - name: Bapi Vinnakota
-      affiliation: Intel
-    - name: Ramin Farjadrad
-      affiliation: Marvell
     - name: Shahab Ardalan
       affiliation: Ayar Labs
-    - name: Mark Kuemerle
-      affiliation: Marvell
-    - name: Suresh Subramanian
-      affiliation: Apex
     - name: Halil Cirit
       affiliation: Facebook
+    - name: Ramin Farjadrad
+      affiliation: Marvell
+    - name: Mark Kuemerle
+      affiliation: Marvell
     - name: Ken Poulton
       affiliation: Keysight
+    - name: Suresh Subramanian
+      affiliation: Apex Semiconductor
+    - name: Bapi Vinnakota
+      affiliation: Broadcom
 
 - title: Lunch
   time: "11:30AM-12:30PM"
@@ -48,7 +48,7 @@
 - title: "Session B: Frameworks and Architectures"
   time: "12:30PM-1:30PM"
   subsections:
-  - title: Configurable network Protocol Accelerator (COPA) - An Integrated Networking/Accelerator Hardware/Software Framework
+  - title: Configurable Network Protocol Accelerator (COPA) - An Integrated Networking/Accelerator Hardware/Software Framework
     presenters: 
     - name: Venkata Krishnan, Olivier Serres and Michael Blocksome
       affiliation: Intel
@@ -57,14 +57,20 @@
     slack:
   - title: The Open Domain-Specific Architecture
     presenters: 
-    - name: Bapi Vinnakota
-      affiliation: Broadcom 
-    - name: Kevin Drucker, Dharmesh Jani
+    - name: Kevin Drucker
       affiliation: Facebook
-    - name: Millind Mittal
-      affiliation: Xilinx
+    - name: Dharmesh Jani
+      affiliation: Facebook
     - name: Ishwar Agarwal
       affiliation: Microsoft
+    - name: Gary Miller
+      affliliation: NXP Semiconductors
+    - name: Millind Mittal
+      affiliation: Xilinx
+    - name: Robert Wang
+      affiliation: AnalogX
+    - name: Bapi Vinnakota
+      affiliation: Broadcom 
     pdf:
     video:
     slack:

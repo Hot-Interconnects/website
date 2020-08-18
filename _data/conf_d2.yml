@@ -13,10 +13,10 @@
   - name:
     affiliation: TidalScale
 
-- title: Machine Learning
+- title: "Session C: Machine Learning"
   time: "10:30AM-11:30AM"
   subsections:
-  - title: Design Space Exploration for Scalable Training of Recommendation Models
+  - title: "Scalable Distributed Training of Recommendation Models: An ASTRA-SIM + NS3 case-study with TCP/IP transport"
     presenters: 
     - name: Saeed Rashidi
       affiliation: Georgia Tech
@@ -102,7 +102,7 @@
 - title: Break
   time: "1:35PM-1:45PM"
 
-- title: Session E
+- title: "Session E: Containers and Virtualization"
   time: "1:45PM-2:45PM"
   subsections:
   - title: "Kano: Efficient Container Network Policy Verification"
