@@ -1,6 +1,10 @@
 ---
 title: Call For Papers
 ---
+
+To be announced soon.
+
+{% comment %}
 ## Overview
 
 Hot Interconnects is the premier international forum for researchers and developers of state-of-the-art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core on-chip interconnects to those within systems, clusters, data centers, and clouds.  This yearly conference is attended by leaders in industry and academia. The atmosphere provides for a wealth of opportunities to interact with individuals at the forefront of this field.
@@ -60,3 +64,4 @@ This year we invite papers to be submitted either as regular, long papers (6-8 p
 * Hot topic paper limit: 4 pages, single-spaced, 2 columns
 * Papers should be submitted electronically through EasyChair [![Submit Paper](img/red-submit-button-md.png)](https://easychair.org/my/conference?conf=hoti27#)
 * Accepted papers (both long and hot topic papers) will be published in proceedings by the IEEE Computer Society
+{% endcomment %}

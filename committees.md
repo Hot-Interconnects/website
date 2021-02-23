@@ -1,6 +1,10 @@
 ---
 title: Committees
 ---
+
+Committee information to be released soon.
+
+{% comment %}
 ## Organizing Committee
 
 | Position | Name | Affiliation |
@@ -17,3 +21,4 @@ title: Committees
 {%- for member in site.data.pc %}
 | {{ member.name }} | [_{{ member.affiliation }}_]({{ member.url }}) |
 {%- endfor %}
+{% endcomment %}
