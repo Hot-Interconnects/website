@@ -20,9 +20,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash # TODO: change from splash to single after adding sponsor sidebar
       # Wide might not work with hacked layouts (I see the sponsor sidebar jump from right to left)
-      sidebar: sponsors-sidebar.md #from the _includes folder
+      #sidebar: sponsors-sidebar.md #from the _includes folder
       # Build settings
 
 slack-workspace-url: https://hot-interconnects.slack.com/
