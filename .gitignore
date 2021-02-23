@@ -4,3 +4,4 @@ hoti.org
 .jekyll-metadata
 vendor
 *.zip
+.DS_Store
