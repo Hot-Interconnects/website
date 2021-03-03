@@ -2,7 +2,7 @@
 title: Home
 ---
 
-## Hoti28 (2021) Overview
+## HotI28 (2021) Overview
 
 Welcome to the 28th iteration of the IEEE Hot Interconnects
 symposium. HotI28 will be held August 18-20, 2021. 
@@ -30,8 +30,9 @@ but also by the prime networking opportunities this event always offers.
 
 ## Submission
 
-The [Call for Papers](call-for-papers.html) and other aspects of the
-conference (e.g., tutorials) will be out soon.
+The [Call for Papers](call-for-papers.html) is now out!
+Papers should be submitted electronically through EasyChair [![Submit Paper](assets/img/red-submit-button-md.png)](https://easychair.org/my/conference?conf=hoti28)
+
 
 ## Last Year's Proceedings (HotI27 (2020))
 
