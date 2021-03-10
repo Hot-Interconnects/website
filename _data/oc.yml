@@ -1,14 +1,14 @@
 - name: Pavel Shamis                
   affiliation: Arm Research
   url: https://www.arm.com/resources/research
-  position: General Chair
+  position: General Co-chairs
   email: info@hoti.org       
 
 - name: Manjunath Gorentla Venkata
   affiliation: NVIDIA
   url: https://www.nvidia.com                                          
-  position: General Vice-chair
-  email: info@hoti.org            
+  #position: General Vice-chair
+  #email: info@hoti.org            
 
 - name: Ryan Grant                
   affiliation: Sandia National Laboratories
