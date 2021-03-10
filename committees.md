@@ -2,9 +2,6 @@
 title: Committees
 ---
 
-Committee information to be released soon.
-
-{% comment %}
 ## Organizing Committee
 
 | Position | Name | Affiliation |
@@ -14,6 +11,7 @@ Committee information to be released soon.
 {%- if member.url %}[_{{ member.affiliation }}_]({{ member.url }}){% else %}{{ member.affiliation }}{% endif %} |
 {%- endfor %}
 
+{% comment %}
 ## Program Committee
 
 | Name | Affiliation |

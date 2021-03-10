@@ -1,47 +1,38 @@
-- name: Don Draper                
-  affiliation: ProPrincipia International Associates                                       |
-  position: General Chairs
-  email: info@hoti.org            
+- name: Pavel Shamis                
+  affiliation: Arm Research
+  url: https://www.arm.com/resources/research
+  position: General Chair
+  email: info@hoti.org       
 
-- name: Khaled Hamidouche         
-  affiliation: AMD
-  url: http://www.amd.com                                                 
-  # position: General Chair
-  # email: info@hoti.org            
+- name: Manjunath Gorentla Venkata
+  affiliation: NVIDIA
+  url: https://www.nvidia.com                                          
+  position: General Vice-chair
+  email: info@hoti.org            
 
 - name: Ryan Grant                
   affiliation: Sandia National Laboratories
   url: http://www.sandia.gov                     
-  position: Program Chairs
+  position: Program Co-chairs
   email: program@hoti.org         
 
-- name: Manjunath Gorentla Venkata
-  affiliation: Mellanox Technologies
-  url: https://www.mellanox.com                         
+- name: Min Si
+  affiliation: Argonne National Laboratory
+  url: https://www.anl.gov                               
   # position: Program Chair
   # email: program@hoti.org         
 
-- name: Misbah Mubarak            
-  affiliation: Amazon Web Services
-  url: https://aws.amazon.com                             
+- name: Mathew Dosanjh            
+  affiliation: Sandia National Laboratories
+  url: http://www.sandia.gov                     
   position: Tutorials Chairs
   email: tutorials@hoti.org     
 
-- name: Pavel Shamis              
-  affiliation: ARM
-  url: https://www.arm.com                                                
-  # position: Tutorials Chair
+- name: Taylor Groves  
+  affiliation: Lawrence Berkeley National Laboratory
+  url: https://www.lbl.gov/
+  # position: Tutorials Chairs
   # email: tutorials@hoti.org     
-
-- name: Matthew Dosanjh           
-  affiliation: Sandia National Laboratories
-  url: http://www.sandia.gov                     
-  position: Poster Chair                                      
-
-- name: Min Si                    
-  affiliation: Argonne National Lab
-  url: https://www.anl.gov                               
-  position: Publicity Chair                                   
 
 - name: Nicola Andriolli          
   affiliation: National Research Council of Italy (CNR-IEIIT)
@@ -75,18 +66,28 @@
   url: http://www.watson.ibm.com                              
   # position: Finance Chair                                    
 
-- name: Kevin Broch               
-  affiliation: Provino Technologies
-  url: https://provino-tech.com                          
-  position: Web/IT
-  email: webmaster@hoti.org               
+- name: Sayan Ghosh               
+  affiliation: Pacific Northwest National Laboratory
+  url: https://www.pnnl.gov/                   
+  position: Chair for IEEE Micro                                  
 
-- name: Dan Pitt                  
+- name: Dan Pitt
   affiliation: MEF
   url: https://mef.net                                                    
-  position: Invited Speakers/Panel Chair                      
+  position: Invited Speakers/Panel Chairs                    
 
-- name: Mark Arnold               
-  affiliation: NVIDIA
-  url: https://www.nvidia.com                                          
-  position: Remote Arrangement Chair                          
+- name: Oscar Hernandez
+  affiliation: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/                                                    
+  # position: Invited Speakers/Panel Chairs                    
+
+- name: Rohit Zambre               
+  affiliation: AMD Research
+  url: https://www.amd.com/en/corporate/research                          
+  position: Web Chair
+  email: webmaster@hoti.org               
+
+  #- name: Mark Arnold               
+  #affiliation: NVIDIA
+  #url: https://www.nvidia.com                                          
+  #position: Remote Arrangement Chair                          
