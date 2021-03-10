@@ -83,11 +83,11 @@ Sponsor Hot Interconnects!  Email the Sponsorship Chair, Raj Channa
 at: sponsor@hoti.org
 
 Send questions relating to the conference operation to General Co-Chairs,
-Pavel Shamis, ARM
-Manjunath Gorentla Venkata, NVIDIA
+Pavel Shamis (Arm Research)
+and Manjunath Gorentla Venkata (NVIDIA)
 at: info@hoti.org
 
 Send questions relating to the program to Technical Program Co-Chairs,
-Ryan E. Grant, Sandia National Laboratories
-Min Si, Argonne National Laboratory
+Ryan E. Grant (Sandia National Laboratories)
+and Min Si (Argonne National Laboratory)
 at: program@hoti.org
