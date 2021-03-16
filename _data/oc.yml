@@ -66,6 +66,11 @@
   url: http://www.watson.ibm.com                              
   # position: Finance Chair                                    
 
+- name: Artem Polyakov              
+  affiliation: NVIDIA
+  url: https://www.nvidia.com                                          
+  position: Publicity Chair
+
 - name: Sayan Ghosh               
   affiliation: Pacific Northwest National Laboratory
   url: https://www.pnnl.gov/                   
