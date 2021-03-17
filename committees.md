@@ -16,7 +16,7 @@ title: Committees
 | Name | Affiliation |
 | ---- | ----------- |
 {%- for member in site.data.sc %}
-| [{{ member.name }}](mailto:{{member.email}}) | {{ member.affiliation }} |
+| {{ member.name }} | {{ member.affiliation }} |
 {%- endfor %}
 
 {% comment %}
