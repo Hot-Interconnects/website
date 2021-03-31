@@ -11,7 +11,7 @@ title: Committees
 {%- if member.url %}[_{{ member.affiliation }}_]({{ member.url }}){% else %}{{ member.affiliation }}{% endif %} |
 {%- endfor %}
 
-## Program Committee
+## Technical Program Committee
 
 | Name | Affiliation |
 | ---- | ----------- |
