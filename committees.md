@@ -11,15 +11,6 @@ title: Committees
 {%- if member.url %}[_{{ member.affiliation }}_]({{ member.url }}){% else %}{{ member.affiliation }}{% endif %} |
 {%- endfor %}
 
-## Steering Committee
-
-| Name | Affiliation |
-| ---- | ----------- |
-{%- for member in site.data.sc %}
-| {{ member.name }} | {{ member.affiliation }} |
-{%- endfor %}
-
-{% comment %}
 ## Program Committee
 
 | Name | Affiliation |
@@ -27,4 +18,11 @@ title: Committees
 {%- for member in site.data.pc %}
 | {{ member.name }} | [_{{ member.affiliation }}_]({{ member.url }}) |
 {%- endfor %}
-{% endcomment %}
+
+## Steering Committee
+
+| Name | Affiliation |
+| ---- | ----------- |
+{%- for member in site.data.sc %}
+| {{ member.name }} | {{ member.affiliation }} |
+{%- endfor %}

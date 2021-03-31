@@ -1,57 +1,79 @@
-- name: Patrick Bridges             
-  affiliation: University of New Mexico
-  url: https://www.unm.edu/             
-- name: Ron Brightwell              
-  affiliation: Sandia National Laboratories
-  url: http://www.sandia.gov        
-- name: Nicola Calabretta           
-  affiliation: Eindhoven University of Technology
-  url: https://www.tue.nl/en/ 
-- name: Matthew Dosanjh             
-  affiliation: Sandia National Laboratories
-  url: http://www.sandia.gov        
-- name: Jesus Escudero-Sahuquillo   
-  affiliation: University of Castilla-La Mancha
-  url: https://www.uclm.es/     
-- name: Pedro Javier Garcia         
-  affiliation: Universidad de Castilla-La Mancha
-  url: https://www.uclm.es/    
+- name: Ahmad Afsahi         
+  affiliation: Queen's University
+  url: https://www.queensu.ca/       
+
+- name: Hans Eberle 
+  affiliation: Nvidia
+  url: https://www.nvidia.com/en-us/
+
+- name: Ada Gavrilovska 
+  affiliation: Georgia Tech
+  url: https://www.gatech.edu/
+
 - name: Paolo Giaccone              
   affiliation: Politecnico di Torino
-  url: https://www.polito.it/              
+  url: https://www.polito.it/
+
+- name: Madeleine Glick           
+  affiliation: Columbia University
+  url: https://www.columbia.edu/      
+
+- name: Brice Goglin         
+  affiliation: Inria
+  url: https://www.inria.fr/fr
+
 - name: Taylor Groves               
   affiliation: Lawrence Berkeley National Laboratory
   url: https://www.llnl.gov/
-- name: Julien Jaeger               
-  affiliation: CEA
-  url: http://www.cea.fr                                     
-- name: Avinash Karanth             
-  affiliation: Ohio State University
-  url: https://www.osu.edu/                
-- name: Kirill Kogan                
-  affiliation: IMDEA Networks
-  url: https://www.networks.imdea.org/            
-- name: Rami Melhem                 
-  affiliation: University of Pittsburgh
-  url: https://www.pitt.edu/            
-- name: Mondrian Nuessle            
-  affiliation: EXTOLL GmbH
-  url: http://www.extoll.de/                         
+
+- name: Ajay Joshi               
+  affiliation: Boston University
+  url: https://www.bu.edu/
+
+- name: Thomas Naughton            
+  affiliation: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/
+
+- name: Lena Oden
+  affiliation: FernUniversität in Hagen
+  url: https://www.fernuni-hagen.de/english/
+
+- name: David Ozog
+  affiliation: Intel
+  url: https://www.intel.com
+
+- name: Luis Peña
+  affiliation: Arm Research
+  url: https://www.arm.com/resources/research
+
 - name: Fabrizio Petrini            
   affiliation: Intel
-  url: https://intel.com                                   
-- name: Artem Polyakov              
-  affiliation: Mellanox Technologies
-  url: https://www.mellanox.com            
-- name: Raghunath Raja Chandrasekar 
-  affiliation: Amazon Web Services
-  url: https://aws.amazon.com                
-- name: Laurent Schares             
-  affiliation: IBM
-  url: http://ibm.com                                        
+  url: https://www.intel.com
+
+- name: Swaroop Pophale
+  affiliation: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/
+
+- name: Galen Shipman
+  affiliation: Los Alamos National Laboratory
+  url: https://www.lanl.gov/
+
+- name: Meral Shirazipour
+  affiliation: Ericsson
+  url: https://www.ericsson.com/en
+
 - name: Craig Stunkel               
-  affiliation: IBM
-  url: http://ibm.com                                        
-- name: Keith Underwood             
+  affiliation: Nvidia
+  url: https://www.nvidia.com/en-us/
+
+- name: Keith Underwood
   affiliation: HPE
-  url: https://www.hpe.com/                                  
+  url: https://www.hpe.com/
+
+- name: Hao Wang
+  affiliation: The Ohio State University
+  url: https://www.osu.edu/
+
+- name: Xiaodong Yu
+  affiliation: Argonne National Laboratory
+  url: https://www.anl.gov/
