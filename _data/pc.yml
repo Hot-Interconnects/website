@@ -26,6 +26,10 @@
   affiliation: Lawrence Berkeley National Laboratory
   url: https://www.llnl.gov/
 
+- name: Hyun-Wook Jin    
+  affiliation: Konkuk University
+  url: http://www.konkuk.ac.kr/do/Index.do
+
 - name: Ajay Joshi               
   affiliation: Boston University
   url: https://www.bu.edu/
@@ -54,6 +58,10 @@
   affiliation: Oak Ridge National Laboratory
   url: https://www.ornl.gov/
 
+- name: Sarunya Pumma
+  affiliation: AMD
+  url: https://www.amd.com/
+
 - name: Galen Shipman
   affiliation: Los Alamos National Laboratory
   url: https://www.lanl.gov/
@@ -77,3 +85,7 @@
 - name: Xiaodong Yu
   affiliation: Argonne National Laboratory
   url: https://www.anl.gov/
+
+- name: Amelie Chi Zhou
+  affiliation: Shenzhen University
+  url: https://www.szu.edu.cn/
