@@ -1,7 +1,7 @@
 | Time | Title | Presenters |
 | --- | ------- | ---------- |
 {%- for section in include.content %}
-| {{ section.time }} | {{ section.title }} | {% for presenter in section.presenters %} {{ presenter.name }} ({{ presenter.affiliation }}) {% endfor %} |
+| {{ section.time }} | {{ section.title }} | {% for presenter in section.presenters %} {{ presenter.name }} {{ presenter.affiliation }} {% endfor %} |
   {%- if section.subsections %}
       {%- for talk in section.subsections %}
 | | {{ talk.title }}
