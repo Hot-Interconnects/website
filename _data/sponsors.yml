@@ -31,17 +31,17 @@
       #url: https://ayarlabs.com/
       #slack:
 
-      #- name: Sponsors
-      #members:
-      #- name: IEEE Computer Society
-      #logo: /assets/img/sponsors/ieee_cs_50px.png
-      #url: https://www.computer.org/
-      #slack:
-      #- name: IEEE
-      #logo: /assets/img/sponsors/ieee_50px.png
-      #url: https://www.ieee.org/
-      #slack:
-      #- name: TCMM
-      #logo: /assets/img/sponsors/tcmm_50px.png
-      #url: https://www.computer.org/communities/technical-committees/tcmm
-      #slack:
+- name: Sponsors
+  members:
+  - name: IEEE Computer Society
+    logo: /assets/img/sponsors/ieee_cs_50px.png
+    url: https://www.computer.org/
+    slack:
+  - name: IEEE
+    logo: /assets/img/sponsors/ieee_50px.png
+    url: https://www.ieee.org/
+    slack:
+  - name: TCMM
+    logo: /assets/img/sponsors/tcmm_50px.png
+    url: https://www.computer.org/communities/technical-committees/tcmm
+    slack:
