@@ -3,98 +3,98 @@
   presenters:
   - name: "General Chairs: Pavel Shamis and Manjunath Manjunath Gorentla Venkata"
 
-# - title: "Keynote 1: The Data Center is a Computer"
-#   time: "9:00AM-10:00AM"
-#   presenters: 
-#   - name: Michael Kagan
-#     affiliation: Chief Technology Officer, NVIDIA
+- title: "Keynote 1: TBD"
+  time: "TBD"
+  presenters: 
+  - name: TBD
+    affiliation:
 
-# - title: Break
-#   time: "10:00AM-10:10AM"
+- title: Break
+  time: "TBD"
 
-# - title: Diamond Sponsor Presentation
-#   time: "10:10AM-10:30AM"
-#   presenters:
-#   - name:
-#     affiliation: Intel
+- title: Platinum Sponsor Presentation
+  time: "TBD"
+  presenters:
+  - name:
+    affiliation:
 
-# - title: "Session A: Hardware"
-#   time: "10:30AM-11:30AM"
-#   subsections:
-#   - title: "PCI Express® 6.0 at 64.0 GT/s with PAM-4 signaling: a low latency, high bandwidth, high reliability, and cost-effective interconnect"
-#     presenters:
-#     - name: Debendra Das Sharma
-#       affiliation: Intel
-#   - title: "Bunch of Wires: An Open Die-to-Die Interface"
-#     presenters:
-#     - name: Shahab Ardalan
-#       affiliation: Ayar Labs
-#     - name: Halil Cirit
-#       affiliation: Facebook
-#     - name: Ramin Farjadrad
-#       affiliation: Marvell
-#     - name: Mark Kuemerle
-#       affiliation: Marvell
-#     - name: Ken Poulton
-#       affiliation: Keysight
-#     - name: Suresh Subramanian
-#       affiliation: Apex Semiconductor
-#     - name: Bapi Vinnakota
-#       affiliation: Broadcom
+- title: "Paper session A: TBD"
+  time: "TBD"
+  subsections:
+  # - title: "PCI Express® 6.0 at 64.0 GT/s with PAM-4 signaling: a low latency, high bandwidth, high reliability, and cost-effective interconnect"
+  #   presenters:
+  #   - name: Debendra Das Sharma
+  #     affiliation: Intel
+  # - title: "Bunch of Wires: An Open Die-to-Die Interface"
+  #   presenters:
+  #   - name: Shahab Ardalan
+  #     affiliation: Ayar Labs
+  #   - name: Halil Cirit
+  #     affiliation: Facebook
+  #   - name: Ramin Farjadrad
+  #     affiliation: Marvell
+  #   - name: Mark Kuemerle
+  #     affiliation: Marvell
+  #   - name: Ken Poulton
+  #     affiliation: Keysight
+  #   - name: Suresh Subramanian
+  #     affiliation: Apex Semiconductor
+  #   - name: Bapi Vinnakota
+  #     affiliation: Broadcom
 
-# - title: Lunch
-#   time: "11:30AM-12:30PM"
+- title: Lunch
+  time: "TBD"
 
-# - title: "Session B: Frameworks and Architectures"
-#   time: "12:30PM-1:30PM"
-#   subsections:
-#   - title: Configurable Network Protocol Accelerator (COPA) - An Integrated Networking/Accelerator Hardware/Software Framework
-#     presenters: 
-#     - name: Venkata Krishnan, Olivier Serres and Michael Blocksome
-#       affiliation: Intel
-#     pdf:
-#     video:
-#     slack:
-#   - title: The Open Domain-Specific Architecture
-#     presenters: 
-#     - name: Kevin Drucker
-#       affiliation: Facebook
-#     - name: Dharmesh Jani
-#       affiliation: Facebook
-#     - name: Ishwar Agarwal
-#       affiliation: Microsoft
-#     - name: Gary Miller
-#       affliliation: NXP Semiconductors
-#     - name: Millind Mittal
-#       affiliation: Xilinx
-#     - name: Robert Wang
-#       affiliation: AnalogX
-#     - name: Bapi Vinnakota
-#       affiliation: Broadcom 
-#     pdf:
-#     video:
-#     slack:
+- title: "Paper Session B: TBD"
+  time: "TBD"
+  subsections:
+  # - title: Configurable Network Protocol Accelerator (COPA) - An Integrated Networking/Accelerator Hardware/Software Framework
+  #   presenters: 
+  #   - name: Venkata Krishnan, Olivier Serres and Michael Blocksome
+  #     affiliation: Intel
+  #   pdf:
+  #   video:
+  #   slack:
+  # - title: The Open Domain-Specific Architecture
+  #   presenters: 
+  #   - name: Kevin Drucker
+  #     affiliation: Facebook
+  #   - name: Dharmesh Jani
+  #     affiliation: Facebook
+  #   - name: Ishwar Agarwal
+  #     affiliation: Microsoft
+  #   - name: Gary Miller
+  #     affliliation: NXP Semiconductors
+  #   - name: Millind Mittal
+  #     affiliation: Xilinx
+  #   - name: Robert Wang
+  #     affiliation: AnalogX
+  #   - name: Bapi Vinnakota
+  #     affiliation: Broadcom 
+  #   pdf:
+  #   video:
+  #   slack:
 
-# - title: Break
-#   time: "1:30PM-1:50PM"
+- title: Break
+  time: "TBD"
 
-# - title: Gold Sponsor Presentation
-#   time: "1:50PM-2:00PM"
-#   presenters:
-#   - name:
-#     affiliation: IBM
+- title: Gold Sponsor Presentation
+  time: "TBD"
+  presenters:
+  - name:
+    affiliation: TBD
 
-# - title: "Invited Talk: TeraPHY: An O-band WDM Electro-optic Chiplet for Low Power, Terabit/s Optical I/O"
-#   time: "2:00PM-2:30PM"
-#   presenters: 
-#   - name: Mark Wade
-#     affiliation: Ayar Labs
+- title: "Invited Talk: TBD"
+  time: "TBD"
+  presenters: 
+  - name: TBD
+    affiliation:
 
-# - title: Gold Sponsor Presentation
-#   time: "2:30PM-2:40PM"
-#   presenters:
-#   - name:
-#     affiliation: GigaIO
+- title: Gold Sponsor Presentation
+  time: "TBD"
+  presenters:
+  - name:
+    affiliation: TBD
 
 - title: "Panel -- Von Neumann vs. Programmable Logic Smart NICs: Which is the Dead End?"
   time: "TBD"

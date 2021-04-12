@@ -1,147 +1,147 @@
 - title: Keynote 2
-  time: "9:00AM-10:00AM"
+  time: "TBD"
   presenters: 
-  - name: Brian Barrett
-    affiliation: AWS
+  - name: TBD
+    affiliation:
 
 - title: Break
-  time: "10:00AM-10:20AM"
+  time: "TBD"
 
 - title: Gold Sponsor Presentation
-  time: "10:20AM-10:30AM"
+  time: "TBD"
   presenters:
   - name:
-    affiliation: TidalScale
+    affiliation: TBD
 
-- title: "Session C: Machine Learning"
-  time: "10:30AM-11:30AM"
+- title: "Paper session C: TBD"
+  time: "TBD"
   subsections:
-  - title: "Scalable Distributed Training of Recommendation Models: An ASTRA-SIM + NS3 case-study with TCP/IP transport"
-    presenters: 
-    - name: Saeed Rashidi
-      affiliation: Georgia Tech
-    - name: Pallavi Shurpali
-      affiliation: Facebook
-    - name: Srinivas Sridharan
-      affiliation: Facebook
-    - name: Naader Hassani
-      affiliation: Facebook
-    - name: Dheevatsa Mudigere
-      affiliation: Facebook
-    - name: Krishnakumar Nair
-      affiliation: Facebook
-    - name: Misha Smelyanskiy
-      affiliation: Facebook
-    - name: Tushar Krishna
-      affiliation: Georgia Tech
-    pdf:
-    video:
-    slack:
-  - title: Communication-Efficient Distributed Deep Learning with GPU-FPGA Heterogeneous Computing
-    presenters: 
-    - name: Kenji Tanaka, Yuki Arikawa, Ito Tsuyoshi, Kazutaka Morita, Naru Nemoto, Fumiaki Miura, Kazuhiko Terada, Junji Teramoto and Takeshi
-      affiliation: NTT Corporation
-    pdf:
-    video:
-    slack:
+  # - title: "Scalable Distributed Training of Recommendation Models: An ASTRA-SIM + NS3 case-study with TCP/IP transport"
+  #   presenters: 
+  #   - name: Saeed Rashidi
+  #     affiliation: Georgia Tech
+  #   - name: Pallavi Shurpali
+  #     affiliation: Facebook
+  #   - name: Srinivas Sridharan
+  #     affiliation: Facebook
+  #   - name: Naader Hassani
+  #     affiliation: Facebook
+  #   - name: Dheevatsa Mudigere
+  #     affiliation: Facebook
+  #   - name: Krishnakumar Nair
+  #     affiliation: Facebook
+  #   - name: Misha Smelyanskiy
+  #     affiliation: Facebook
+  #   - name: Tushar Krishna
+  #     affiliation: Georgia Tech
+  #   pdf:
+  #   video:
+  #   slack:
+  # - title: Communication-Efficient Distributed Deep Learning with GPU-FPGA Heterogeneous Computing
+  #   presenters: 
+  #   - name: Kenji Tanaka, Yuki Arikawa, Ito Tsuyoshi, Kazutaka Morita, Naru Nemoto, Fumiaki Miura, Kazuhiko Terada, Junji Teramoto and Takeshi
+  #     affiliation: NTT Corporation
+  #   pdf:
+  #   video:
+  #   slack:
 
 - title: Silver Sponsor Presentation
-  time: "11:30AM-11:35AM"
+  time: "TBD"
   presenters:
   - name:
-    affiliation: AlgoLogic
+    affiliation: TBD
 
 - title: Lunch
-  time: "11:35AM-12:30PM"
+  time: "TBD"
 
-- title: "Session D: Topologies and Routing"
-  time: "12:30PM-1:30PM"
-  subsections:
-  - title: Optimizing Packet Dropping by Efficient Congesting-Flow Isolation in Lossy Data-Center Networks
-    presenters: 
-    - name: Cristina Olmedilla
-      affiliation: Universidad de Castilla-La Mancha
-    - name: Jesús Escudero-Sahuquillo
-      affiliation: Universidad de Castilla-La Mancha
-    - name: Pedro Javier García
-      affiliation: Universidad de Castilla-La Mancha
-    - name: Francisco Alfaro Cortés
-      affiliation: Universidad de Castilla-La Mancha
-    - name: Francisco J. Quiles
-      affiliation: Universidad de Castilla-La Mancha
-    - name: José L. Sánchez
-      affiliation: Universidad de Castilla-La Mancha
-    - name: Wenhao Sun
-      affiliation: Huawei
-    - name: Xiang Yu
-      affiliation: Huawei
-    - name: Xu Yonghui
-      affiliation: Huawei
-    - name: Jose Duato
-      affiliation: Universitat Politècnica de València
-    pdf:
-    video:
-    slack:
-  - title: Isolated Trees in Multi-Tenant Fat Tree Datacenters for In-Network Computing
-    presenters: 
-    - name: Ori Rottenstreich
-      affiliation: Technion
-    - name: Jose Yallouz and Lion Levi
-      affiliation: Mellanox Tecnologies
-    affiliation:
-    pdf:
-    video:
-    slack:
-
-- title: Silver Sponsor Presentation
-  time: "1:30PM-1:35PM"
-  presenters:
-  - name:
-    affiliation: Ayar Labs
-
-- title: Break
-  time: "1:35PM-1:45PM"
-
-- title: "Session E: Containers and Virtualization"
-  time: "1:45PM-2:45PM"
-  subsections:
-  - title: "Kano: Efficient Container Network Policy Verification"
-    presenters: 
-    - name: Yifan Li
-      affiliation: Tsinghua University
-    - name: Chengjun Jia
-      affiliation: Tsinghua University
-    - name: Xiaohe Hu
-      affiliation: Tsinghua University
-    - name: Jun Li
-      affiliation: RITT
-    pdf:
-    video:
-    slack:
-  - title: Reliable and Time-efficient Virtualized Function Placement
-    presenters: 
-    - name: Roi Ben Haim and Ori Rottenstreich
-      affiliation: Technion
-    pdf:
-    video:
-    slack:
+- title: "Paper session D: TBD"
+  time: "TBD"
+  # subsections:
+  # - title: Optimizing Packet Dropping by Efficient Congesting-Flow Isolation in Lossy Data-Center Networks
+  #   presenters: 
+  #   - name: Cristina Olmedilla
+  #     affiliation: Universidad de Castilla-La Mancha
+  #   - name: Jesús Escudero-Sahuquillo
+  #     affiliation: Universidad de Castilla-La Mancha
+  #   - name: Pedro Javier García
+  #     affiliation: Universidad de Castilla-La Mancha
+  #   - name: Francisco Alfaro Cortés
+  #     affiliation: Universidad de Castilla-La Mancha
+  #   - name: Francisco J. Quiles
+  #     affiliation: Universidad de Castilla-La Mancha
+  #   - name: José L. Sánchez
+  #     affiliation: Universidad de Castilla-La Mancha
+  #   - name: Wenhao Sun
+  #     affiliation: Huawei
+  #   - name: Xiang Yu
+  #     affiliation: Huawei
+  #   - name: Xu Yonghui
+  #     affiliation: Huawei
+  #   - name: Jose Duato
+  #     affiliation: Universitat Politècnica de València
+  #   pdf:
+  #   video:
+  #   slack:
+  # - title: Isolated Trees in Multi-Tenant Fat Tree Datacenters for In-Network Computing
+  #   presenters: 
+  #   - name: Ori Rottenstreich
+  #     affiliation: Technion
+  #   - name: Jose Yallouz and Lion Levi
+  #     affiliation: Mellanox Tecnologies
+  #   affiliation:
+  #   pdf:
+  #   video:
+  #   slack:
 
 - title: Silver Sponsor Presentation
-  time: "2:45PM-2:50PM"
+  time: "TBD"
   presenters:
   - name:
-    affiliation: Lenovo
+    affiliation: TBD
 
 - title: Break
-  time: "2:50PM-3:00PM"
+  time: "TBD"
 
-- title: "Invited Talk 2: Constructing a Computationally-Efficient Distributed GPU Appliance In a PCI Express-bsed Network"
-  time: "3:00PM-3:30PM"
+- title: "Paper session E: TBD"
+  time: "TBD"
+  # subsections:
+  # - title: "Kano: Efficient Container Network Policy Verification"
+  #   presenters: 
+  #   - name: Yifan Li
+  #     affiliation: Tsinghua University
+  #   - name: Chengjun Jia
+  #     affiliation: Tsinghua University
+  #   - name: Xiaohe Hu
+  #     affiliation: Tsinghua University
+  #   - name: Jun Li
+  #     affiliation: RITT
+  #   pdf:
+  #   video:
+  #   slack:
+  # - title: Reliable and Time-efficient Virtualized Function Placement
+  #   presenters: 
+  #   - name: Roi Ben Haim and Ori Rottenstreich
+  #     affiliation: Technion
+  #   pdf:
+  #   video:
+  #   slack:
+
+- title: Silver Sponsor Presentation
+  time: "TBD"
+  presenters:
+  - name:
+    affiliation: TBD
+
+- title: Break
+  time: "TBD"
+
+- title: "Invited Talk 2: TBD"
+  time: "TBD"
   presenters: 
-  - name: Scott Taylor
-    affiliation: GigaIO
+  - name: TBD
+    affiliation:
 
 - title: Close
-  time: "3:30PM-3:35PM"
+  time: "TBD"
   presenters: 
-  - name: Don Draper
+  - name: TBD

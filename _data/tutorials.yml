@@ -1,17 +1,17 @@
-- title: Exploiting HPC for distributed Deep Learning
-  time: "9:00AM-12:30PM"
+- title: TBD
+  time: "TBD"
   presenters: 
-  - name: Dhabaleswar K. (DK) Panda, Hari Subramoni, Arpan Jain and Ammar Ahmad Awan
-    affiliation: The Ohio State University
-  
-- title: Lunch
-  time: "12:30PM-1:30PM"
+  # - name: Dhabaleswar K. (DK) Panda, Hari Subramoni, Arpan Jain and Ammar Ahmad Awan
+  #   affiliation: The Ohio State University
 
-- title: InfiniBand, High-speed Ethernet, RoCE, Omni-Path, EFA and Slingshot for Beginners
-  time: "1:30PM-5:00PM"
+- title: Lunch
+  time: "TBD"
+
+- title: TBD
+  time: "TBD"
   presenters: 
-  - name: Dhabaleswar K. (DK) Panda and Hari Subramoni
-    affiliation: The Ohio State University
+  # - name: Dhabaleswar K. (DK) Panda and Hari Subramoni
+  #   affiliation: The Ohio State University
 
 - title: Close
-  time: "5:00PM-5:05PM"
+  time: "TBD"
