@@ -42,6 +42,10 @@
   affiliation: Oak Ridge National Laboratory
   url: https://www.ornl.gov/
 
+- name: Nhat Nguyen
+  affiliation: Ayar Labs
+  url: https://ayarlabs.com/
+
 - name: Lena Oden
   affiliation: FernUniversität in Hagen
   url: https://www.fernuni-hagen.de/english/
@@ -89,6 +93,10 @@
 - name: Xiaodong Yu
   affiliation: Argonne National Laboratory
   url: https://www.anl.gov/
+
+- name: Xin Yuan
+  affiliation: Florida State University
+  url: https://www.fsu.edu/
 
 - name: Amelie Chi Zhou
   affiliation: Shenzhen University
