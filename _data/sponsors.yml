@@ -1,3 +1,10 @@
+- name: Diamond
+  members:
+  - name: Intel
+    logo: /assets/img/sponsors/intel_250px.png
+    url: https://www.intel.com
+    slack:
+
 - name: Platinum
   members:
   - name: GigaIO
@@ -18,6 +25,10 @@
   - name: Arista Networks
     logo: /assets/img/sponsors/arista_150px.png
     url: https://www.arista.com/en/
+    slack:
+  - name: IBM
+    logo: /assets/img/sponsors/ibm_150px.jpg
+    url: https://www.ibm.com
     slack:
 
 - name: Silver
