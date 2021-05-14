@@ -10,6 +10,8 @@ Themes include cross-cutting issues spanning computer systems, networking techno
 
 Contributions should focus on real experimental systems, prototypes, or leading-edge products and their performance evaluation. In past year’s the best papers on interconnect microarchitecture have been invited to submit extended versions of their papers to special journal editions, we are pursuing this once again this year.
 
+We will be offering a best paper award this year.
+
 We invite paper submissions across a wide range of topics and levels, ranging from fundamentals to the latest advances in hot topic areas.
 
 ## Topics of Interest
@@ -61,6 +63,8 @@ This year we invite papers to be submitted either as regular, long papers (6-8 p
 * Hot topic paper limit: 4 pages, single-spaced, 2 columns.
 * Accepted papers (both long and hot topic papers) will be published in proceedings by the IEEE Computer Society.
 * Papers should be submitted electronically through EasyChair [![Submit Paper](assets/img/red-submit-button-md.png)](https://easychair.org/my/conference?conf=hoti28)
+
+We will be offering a best paper award this year.
 
 ## Posters and Tutorials
 
