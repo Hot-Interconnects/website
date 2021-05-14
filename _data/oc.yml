@@ -86,6 +86,11 @@
   url: https://www.ornl.gov/                                                    
   # position: Invited Speakers/Panel Chairs                    
 
+- name: Alan Benjamin
+  affiliation: GigaIO
+  url: https://gigaio.com/                                                    
+  # position: Invited Speakers/Panel Chairs                    
+
 - name: Rohit Zambre               
   affiliation: AMD Research
   url: https://www.amd.com/en/corporate/research                          
