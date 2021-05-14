@@ -32,6 +32,7 @@ but also by the prime networking opportunities this event always offers.
 
 The [Call for Papers](call-for-papers.html) is now out!
 Papers should be submitted electronically through EasyChair [![Submit Paper](assets/img/red-submit-button-md.png)](https://easychair.org/my/conference?conf=hoti28)
+The [Call for Tutorials](call-for-tutorials.html) is also out now!
 
 
 ## Last Year's Proceedings (HotI27 (2020))

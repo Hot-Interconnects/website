@@ -1,6 +1,8 @@
 main:
   - title: Call for Papers
     url: /call-for-papers.html
+  - title: Call for Tutorials
+    url: /call-for-tutorials.html
   - title: Program
     url: /program.html
   - title: Sponsors

@@ -10,3 +10,10 @@ All levels of patronage are designed to increase participation and maximize expo
 Email announcements sent monthly until conference time are received by more than 50,000 targeted professionals in the electronics industry through organizational affiliations in the ACM, IEEE Computer Society, IEEE Communications Society, and academic institutions. They are directed to the IEEE Hoti.org website, where your logo appears prominently.
 
 To participate, please email <sponsor@hoti.org> to discuss your desired level of participation.
+
+| Level    | Cost   | Speaking slot time (preferably recorded) | Splash screen (rotating display) | Email distribution to 59K Recipients (3 times) | Sponsor logo on website | Sponsor logo size | Recording of sponsor talk |
+|----------|--------|------------------------------------------|----------------------------------|------------------------------------------------|-------------------------|-------------------|---------------------------|
+| Silver   | $1,000 | 5 min                                    | No                               | Yes                                            | Yes                     | Small             | Yes                       |
+| Gold     | $2,000 | 10 min                                   | Yes                              | Yes                                            | Yes                     | Medium            | Yes                       |
+| Platinum | $3,000 | 15 min                                   | Yes                              | Yes                                            | Yes                     | Large             | Yes                       |
+| Diamond  | $4,000 | 20 min                                   | Yes                              | Yes                                            | Yes                     | Jumbo             | Yes                       |

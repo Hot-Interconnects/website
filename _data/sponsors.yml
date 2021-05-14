@@ -9,27 +9,27 @@
   members:
   - name: TidalScale
     logo: /assets/img/sponsors/tidalscale_150px.png
-    url: https://tidalscale.com/
+    url: https://www.tidalscale.com/
     slack:
-      #  - name: IBM
-      #logo: /assets/img/sponsors/ibm_150px.png
-      #url: https://ibm.com/
-      #slack:
+  - name: Algo-Logic
+    logo: /assets/img/sponsors/algo_logic_150px.png
+    url: https://www.algo-logic.com/
+    slack:
+  - name: Arista Networks
+    logo: /assets/img/sponsors/arista_150px.png
+    url: https://www.arista.com/en/
+    slack:
 
-      #- name: Silver
-      #members:
-      #- name: Algo-Logic
-      #logo: /assets/img/sponsors/algo_logic_100px.png
-      #url: https://algo-logic.com/
-      #slack:
-      #- name: Lenovo 
-      #logo: /assets/img/sponsors/lenovo_100px.png
-      #url: https://lenovo.com/
-      #slack:
-      #- name: Ayar Labs
-      #logo: /assets/img/sponsors/ayar_labs_100px.png
-      #url: https://ayarlabs.com/
-      #slack:
+- name: Silver
+  members:
+  - name: Lenovo 
+    logo: /assets/img/sponsors/lenovo_100px.png
+    url: https://www.lenovo.com/us/en/
+    slack:
+  - name: Ayar Labs
+    logo: /assets/img/sponsors/ayar_labs_100px.png
+    url: https://ayarlabs.com/
+    slack:
 
 - name: Sponsors
   members:

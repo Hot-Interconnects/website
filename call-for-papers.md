@@ -64,7 +64,7 @@ This year we invite papers to be submitted either as regular, long papers (6-8 p
 
 ## Posters and Tutorials
 
-We are also inviting poster and tutorial submissions. More information regarding poster and tutorial submission will come out soon.
+We are also inviting poster and tutorial submissions. More information regarding poster will come out soon. [The call for tutorials is now out](call-for-tutorials.html).
 
 ## Safety and Well-Being
 
