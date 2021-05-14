@@ -41,8 +41,8 @@ We invite paper submissions across a wide range of topics and levels, ranging fr
 
 | Event                      | Date               |
 | -------------------------- | ------------------ |
-| Paper abstract deadline    | May 7th, 2021      |
-| Submission deadline        | May 14th, 2021     |
+| Paper abstract deadline    | May 21st, 2021 (extended)      |
+| Submission deadline        | May 21st, 2021 (extended)     |
 | Notification of acceptance | June 21st, 2021    |
 
 {% comment %}
