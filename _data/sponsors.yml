@@ -11,6 +11,10 @@
     logo: /assets/img/sponsors/gigaio_200px.png
     url: https://www.gigaio.com
     slack:
+  - name: Dell
+    logo: /assets/img/sponsors/dell_200px_2.jpeg
+    url: https://www.dell.com
+    slack:
 
 - name: Gold
   members:
