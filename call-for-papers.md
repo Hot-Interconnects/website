@@ -45,7 +45,7 @@ We invite paper submissions across a wide range of topics and levels, ranging fr
 | -------------------------- | ------------------ |
 | Paper abstract deadline    | May 31st, 2021 (final)      |
 | Submission deadline        | May 31st, 2021 (final)     |
-| Notification of acceptance | June 21st, 2021    |
+| Notification of acceptance | June 24th, 2021    |
 
 {% comment %}
 | Symposium                  | August 18-20, 2021 |
