@@ -1,13 +1,29 @@
 - title: Introduction and Welcome
   time: "TBD"
   presenters:
-  - name: "General Chairs: Pavel Shamis and Manjunath Manjunath Gorentla Venkata"
+  - name: "General Chairs: Pavel Shamis and Manjunath Gorentla Venkata"
 
-- title: "Keynote 1: TBD"
+- title: "Keynote 1: Compute Express Link (CXL) changing the game for Cloud Computing"
+  #abstract: "High-performance workloads demand heterogeneous processing, tiered memory architecture,
+  #persistent memory support, infrastructure accelerators such as smart NICs, and infrastructure
+  #processing units to meet the demands of the emerging compute landscape. Applications such as
+  #Artificial Intelligence, Machine Learning, Analytics, 5G, automotive, and high-performance computing
+  #are driving significant change in infrastructure such as Cloud, Edge, and client computing. Interconnect is
+  #a key pillar in this evolving computational landscape. The recent advent of Compute Express Link (CXL), a
+  #new open standard for cache-coherent interconnect, with its memory and coherency semantics has
+  #made it possible to pool computational and memory resources at the rack level using low-latency,
+  #higher-throughput, and memory-coherent access mechanisms. CXL is adopting networking features such
+  #as multi-host connectivity, pooled memory, persistence flows, and fabric manager while keeping its low-
+  #latency load-store semantics intact. The load-store I/O interconnects such as PCI Express (PCIe) and CXL
+  #are evolving to provide efficient access mechanisms across multiple nodes with advanced atomics,
+  #acceleration, smart NICs, persistent memory support etc. In this talk we will explore how synergistic
+  #evolution across load-store interconnects and fabrics can benefit the compute infrastructure of the
+  #future."
   time: "TBD"
-  presenters: 
-  - name: TBD
-    affiliation:
+  presenters:
+  - name: Dr. Debendra Das Sharma
+    affiliation: (Intel)
+    #logo: /assets/img/dds_photo.png
 
 - title: Break
   time: "TBD"
