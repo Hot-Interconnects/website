@@ -64,32 +64,32 @@
 - title: "Paper Session B: TBD"
   time: "TBD"
   subsections:
-  # - title: Configurable Network Protocol Accelerator (COPA) - An Integrated Networking/Accelerator Hardware/Software Framework
-  #   presenters: 
-  #   - name: Venkata Krishnan, Olivier Serres and Michael Blocksome
-  #     affiliation: Intel
-  #   pdf:
-  #   video:
-  #   slack:
-  # - title: The Open Domain-Specific Architecture
-  #   presenters: 
-  #   - name: Kevin Drucker
-  #     affiliation: Facebook
-  #   - name: Dharmesh Jani
-  #     affiliation: Facebook
-  #   - name: Ishwar Agarwal
-  #     affiliation: Microsoft
-  #   - name: Gary Miller
-  #     affliliation: NXP Semiconductors
-  #   - name: Millind Mittal
-  #     affiliation: Xilinx
-  #   - name: Robert Wang
-  #     affiliation: AnalogX
-  #   - name: Bapi Vinnakota
-  #     affiliation: Broadcom 
-  #   pdf:
-  #   video:
-  #   slack:
+   - title: Configurable Network Protocol Accelerator (COPA) - An Integrated Networking/Accelerator Hardware/Software Framework
+     presenters: 
+     - name: Venkata Krishnan, Olivier Serres and Michael Blocksome
+       affiliation: Intel
+     pdf:
+     video:
+     slack:
+   - title: The Open Domain-Specific Architecture
+     presenters: 
+     - name: Kevin Drucker
+       affiliation: Facebook
+     - name: Dharmesh Jani
+       affiliation: Facebook
+     - name: Ishwar Agarwal
+       affiliation: Microsoft
+     - name: Gary Miller
+       affliliation: NXP Semiconductors
+     - name: Millind Mittal
+       affiliation: Xilinx
+     - name: Robert Wang
+       affiliation: AnalogX
+     - name: Bapi Vinnakota
+       affiliation: Broadcom 
+     pdf:
+     video:
+     slack:
 
 - title: Break
   time: "TBD"
