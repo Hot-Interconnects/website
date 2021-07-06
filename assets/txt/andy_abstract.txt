@@ -1,0 +1,5 @@
+The escalation in network bandwidth is accelerating the need
+for higher speed optics that are denser, lower power and lower
+cost. In this talk I will discuss the evolution of pluggable
+optics technologies from 800G to1600G and what is next for
+co-packaged optics.
