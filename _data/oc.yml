@@ -17,8 +17,8 @@
   email: program@hoti.org         
 
 - name: Min Si
-  affiliation: Argonne National Laboratory
-  url: https://www.anl.gov                               
+  affiliation: Facebook
+  #url: https://research.fb.com/ 
   # position: Program Chair
   # email: program@hoti.org         
 
@@ -82,14 +82,20 @@
   position: Invited Speakers/Panel Chairs                    
 
 - name: Oscar Hernandez
-  affiliation: Oak Ridge National Laboratory
-  url: https://www.ornl.gov/                                                    
+  affiliation: NVIDIA
+  url: https://www.nvidia.com                                          
   # position: Invited Speakers/Panel Chairs                    
 
 - name: Alan Benjamin
   affiliation: GigaIO
   url: https://gigaio.com/                                                    
   # position: Invited Speakers/Panel Chairs                    
+
+- name: Dong Zhong               
+  affiliation: The University of Tennessee
+  url: https://www.utk.edu/
+  position: Media Chair
+  #email: webmaster@hoti.org               
 
 - name: Rohit Zambre               
   affiliation: AMD Research
