@@ -160,7 +160,27 @@ title: Program
 <tr>
 <td markdown="span">10:00</td>
 <td markdown="span">**Platinum Sponsor Talks**</td>
-<td markdown="span">GigaIO, Dell</td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">
+Meet Your Kinetic Data Centre - Composable Disaggregated Infrastructure
+<br>
+<a href="assets/txt/dell_abstract.txt">[Abstract]</a>
+</td>
+<td markdown="span">
+Summit Puri (LIQID), David Nguyen (Dell)
+<br>
+<a href="assets/txt/dell_bios.txt">[Bios]</a>
+</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">GigaIO</td>
+<td markdown="span">GigaIO</td>
 </tr>
 
 <tr>
