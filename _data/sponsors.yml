@@ -34,6 +34,11 @@
     logo: /assets/img/sponsors/ibm_150px.jpg
     url: https://www.ibm.com
     slack:
+  - name: Facebook
+    logo: /assets/img/sponsors/facebook_150px.png
+    url: https://research.fb.com/
+    slack:
+
 
 - name: Silver
   members:
