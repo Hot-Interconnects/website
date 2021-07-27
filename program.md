@@ -120,7 +120,7 @@ title: Program
 </tr>
 
 <tr>
-<td markdown="span">15:05</td>
+<td markdown="span">15:35</td>
 <td markdown="span">**Head Bubba Memorial Cocktail Reception**</td>
 <td markdown="span"></td>
 </tr>
