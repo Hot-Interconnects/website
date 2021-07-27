@@ -1,0 +1,21 @@
+InfiniBand (IB), High-speed Ethernet (HSE), RoCE, Omni-Path, EFA,
+Tofu, and Slingshot technologies are generating a lot of excitement
+towards building next generation High-End Computing (HEC) systems
+including clusters, datacenters, file systems, storage, cloud computing
+and Big Data (Hadoop, Spark, HBase and Memcached) environments. This
+tutorial will provide an overview of these emerging technologies, their
+offered architectural features, their current market standing, and their
+suitability for designing HEC systems. It will start with a brief
+overview of IB, HSE, RoCE, Omni-Path, EFA, Tofu, Slingshot, and Omni-Path.
+In-depth overview of the architectural features of IB, HSE (including
+iWARP and RoCE), and Omni-Path, their similarities and differences, and
+the associated protocols will be presented. An overview of the emerging
+NVLink, NVLink2, and NVSwitch architectures will also be given. Next, an
+overview of the OpenFabrics stack which encapsulates IB, HSE, and RoCE
+(v1/v2) in a unified manner will be presented. An overview of libfabrics
+stack will also be provided. Hardware/software solutions and the market
+trends behind these networking technologies will be highlighted. Sample
+performance numbers of these technologies and protocols for different
+environments will be presented. Finally, hands-on exercises will be
+carried out for the attendees to gain first-hand experience of running
+experiments with high- performance networks. 
