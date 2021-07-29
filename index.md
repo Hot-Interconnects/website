@@ -2,6 +2,8 @@
 title: Home
 ---
 
+{% include reg-open.md %}
+
 ## HotI28 (2021) Overview
 
 Welcome to the 28th iteration of the IEEE Hot Interconnects
