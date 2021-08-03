@@ -1,5 +1,5 @@
 Andreas "Andy" Bechtolsheim is Chairman, Chief Development Officer
-and Co-Founder of Arista Networks.  Previously, Andy was a Co-Founder
+and Co-Founder of Arista Networks. Previously, Andy was a Co-Founder
 and Chief System Architect at Sun Microsystems, responsible for next
 generation server, storage, and network architectures.
 
