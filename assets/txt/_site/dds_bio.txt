@@ -1,0 +1,31 @@
+Dr. Debendra Das Sharma is an Intel Fellow in the Data Platforms
+Group and director of the I/O Technology and Standards Group at
+Intel Corporation. He is a leading expert on I/O subsystem and
+interface architecture. Dr. Das Sharma’s team delivers Intel-wide
+critical interconnect technologies in Peripheral Component
+Interconnect Express (PCIe), Compute Express Link (CXL), Intel’s
+Coherency interconnect, and multichip package interconnect. He is
+a key driver of external standards for PCIe and CXL, and internal
+proprietary interfaces, as well as implementation. 
+
+Dr. Das Sharma joined Intel in 2001 as a technical lead in the
+Advanced Components Division, designing server chipsets. He
+previously worked with Hewlett-Packard, where he led development
+of their server chipsets. He holds 137 US patents and is a frequent
+keynote speaker, distinguished lecturer, invited speaker, and
+panelist at the PCI-SIG Developers Conference, CXL consortium
+events, Open Server Summit, Open Fabrics Alliance, Flash Memory
+Summit, SNIA SDC, and Intel Developer Forum.
+
+Dr. Das Sharma is a member of the Board of Directors for the PCI
+Special Interest Group (PCI-SIG) and a lead contributor to PCIe
+specifications since its inception. He is a co-inventor and founding
+member of the CXL consortium and co-leads the CXL Technical Task
+Force. 
+
+Dr. Das Sharma has a bachelor’s in technology (with honors) degree
+in Computer Science and Engineering from the Indian Institute of
+Technology, Kharagpur and a Ph.D. in Computer Engineering from the
+University of Massachusetts, Amherst. He has been awarded the
+Distinguished Alumnus Award from Indian Institute of Technology,
+Kharagpur. 

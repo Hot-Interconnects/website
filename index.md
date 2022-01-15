@@ -2,7 +2,9 @@
 title: Home
 ---
 
+{% comment %}
 {% include reg-open.md %}
+{% endcomment %}
 
 ## HotI28 (2021) Overview
 

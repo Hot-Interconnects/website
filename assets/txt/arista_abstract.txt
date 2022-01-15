@@ -1,0 +1,14 @@
+Normalizing cloud connectivity across cloud providers
+and bringing those constructs back to the existing
+on-premises environment has proven to be a complex challenge
+for many enterprises.  This session will discuss how standards-based
+BGP/EVPN/IPSEC constructs can be used, in conjunction with
+cloud-native declarative provisioning systems to enable
+consistent network segmentation and abstractions across
+diverse operating environments.
+
+We will then discuss building on top of these a common
+observability framework to enable distributed network sensor
+capabilities that can be dynamically targeted for increased
+capture fidelity against threats, anomalies, or as part of
+targeted investigations.

@@ -5,6 +5,10 @@ title: Program
 {% include reg-open.md %}
 {% endcomment %}
 
+The times in the program below are Pacific Time (PT). The <u>link</u>
+to the conference's platform is provided in the invitation email
+that follows your registration.
+
 ## Conference Day 1: Wednesday, August 18, 2021
 
 <table>
@@ -25,7 +29,7 @@ title: Program
 <tr>
 <td markdown="span">08:45</td>
 <td markdown="span">**Introduction and Welcome**</td>
-<td markdown="span">General Chairs: Pavel Shamis and Manjunath Gorentla Venkata</td>
+<td markdown="span">General Co-chair: Pavel Shamis</td>
 </tr>
 
 <tr>
@@ -33,6 +37,9 @@ title: Program
 <td markdown="span">**Keynote 1**: Compute Express Link (CXL) changing the game for Cloud Computing
 <br>
 <a href="assets/txt/dds_abstract.txt">[Abstract]</a>
+<br>
+<br>
+**Session chair**: Dan Pitt (Palo Alto Innovation Advisors)
 </td>
 <td markdown="span"> Debendra Das Sharma, Intel <a href="assets/txt/dds_bio.txt">[Bio]</a>
 <br>
@@ -55,7 +62,7 @@ title: Program
 <tr>
 <td markdown="span">10:35</td>
 <td markdown="span">**Technical Paper Session A**: Specialized Network Hardware</td>
-<td markdown="span"></td>
+<td markdown="span">**Session chair**: Scott Levy (Sandia National Laboratories)</td>
 </tr>
 
 <tr>
@@ -79,7 +86,7 @@ title: Program
 <tr>
 <td markdown="span">12:30</td>
 <td markdown="span">**Technical Paper Session B**: Deep Learning</td>
-<td markdown="span"></td>
+<td markdown="span">**Session chair**: Vishwanath Venkatesan (Nvidia)</td>
 </tr>
 
 <tr>
@@ -97,7 +104,27 @@ title: Program
 <tr>
 <td markdown="span">13:30</td>
 <td markdown="span">**Gold Sponsor Talks**</td>
-<td markdown="span">Arista, IBM</td>
+<td markdown="span">**Session chair**: Oscar Hernandez (Nvidia)</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">
+Extending Network Transport Across Multiple Cloud Providers
+<br>
+<a href="assets/txt/arista_abstract.txt">[Abstract]</a>
+</td>
+<td markdown="span">
+Douglas Gourlay (Vice President/General Manager, Arista)
+<br>
+<a href="assets/txt/arista_bio.txt">[Bio]</a>
+</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">IBM</td>
+<td markdown="span">IBM</td>
 </tr>
 
 <tr>
@@ -114,8 +141,8 @@ title: Program
 </td>
 <td markdown="span">
 **Moderator**: Scott Schweitzer (Achronix) <br>
-**Team Von Neumann**: Mario Baldi (Pensando), Michael Kagan (NVIDIA), John Sakamoto (Marvell) <br>
-**Team FPGA**: Chris Browning (Intel), Nick Ilyadis (Achronix), Ripduman Sohan (Xilinx) <br>
+**Team Von Neumann**: Mario Baldi (Pensando), Michael Kagan (NVIDIA), Cary Ussery (Marvell) <br>
+**Team FPGA**: Jim Dworkin (Intel), Nick Ilyadis (Achronix), Ripduman Sohan (Xilinx) <br>
 </td>
 </tr>
 
@@ -150,6 +177,9 @@ title: Program
 <td markdown="span">**Keynote 2**: What is Next for Optics?
 <br>
 <a href="assets/txt/andy_abstract.txt">[Abstract]</a>
+<br>
+<br>
+**Session chair**: Raj Channa (RBCCM)
 </td>
 <td markdown="span"> Andy Bechtolsheim, Arista <a href="assets/txt/andy_bio.txt">[Bio]</a>
 <br>
@@ -160,7 +190,7 @@ title: Program
 <tr>
 <td markdown="span">10:00</td>
 <td markdown="span">**Platinum Sponsor Talks**</td>
-<td markdown="span"></td>
+<td markdown="span">**Session chair**: Luis E. Peña (Arm Research)</td>
 </tr>
 
 <tr>
@@ -179,8 +209,16 @@ Summit Puri (LIQID), David Nguyen (Dell)
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">GigaIO</td>
-<td markdown="span">GigaIO</td>
+<td markdown="span">
+The Path to Resource Pooling from PCIe to CXL, Reducing Network Bottlenecks to Boot
+<br>
+<a href="assets/txt/gigaio_abstract.txt">[Abstract]</a>
+</td>
+<td markdown="span">
+Alan Benjamin (President and CEO, GigaIO)
+<br>
+<a href="assets/txt/gigaio_bio.txt">[Bio]</a>
+</td>
 </tr>
 
 <tr>
@@ -192,7 +230,7 @@ Summit Puri (LIQID), David Nguyen (Dell)
 <tr>
 <td markdown="span">10:45</td>
 <td markdown="span">**Technical Paper Session C**: Buses and Memory</td>
-<td markdown="span"></td>
+<td markdown="span">**Session chair**: William (Whit) Schonbein (Sandia National Laboratories)</td>
 </tr>
 
 <tr>
@@ -210,7 +248,35 @@ Summit Puri (LIQID), David Nguyen (Dell)
 <tr>
 <td markdown="span">11:45</td>
 <td markdown="span">**Gold Sponsor Talks**</td>
-<td markdown="span">Algo-logic, Tidalscale, Facebook</td>
+<td markdown="span">**Session chair**: Raj Channa (RBCCM)</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">Algo-Logic
+<br>
+<a href="assets/txt/algo_abstract.txt">[Abstract]</a>
+</td>
+<td markdown="span">John W. Lockwood (CEO, Algo-Logic)
+<br>
+<a href="assets/txt/algo_bio.txt">[Bio]</a>
+</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">Tidalscale
+</td>
+<td markdown="span">Gary Smerdon (CEO, Tidalscale)
+</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">Facebook
+</td>
+<td markdown="span">Facebook
+</td>
 </tr>
 
 <tr>
@@ -221,8 +287,8 @@ Summit Puri (LIQID), David Nguyen (Dell)
 
 <tr>
 <td markdown="span">13:00</td>
-<td markdown="span">**Technical Paper session D**: Routing and Switches</td>
-<td markdown="span"></td>
+<td markdown="span">**Technical Paper Session D**: Routing and Switches</td>
+<td markdown="span">**Session chair**: Ching-Hsiang Chu (Facebook)</td>
 </tr>
 
 <tr>
@@ -240,7 +306,22 @@ Summit Puri (LIQID), David Nguyen (Dell)
 <tr>
 <td markdown="span">14:00</td>
 <td markdown="span">**Silver Sponsor Talks**</td>
-<td markdown="span">Ayar Labs, Lenovo</td>
+<td markdown="span">**Session chair:** Min Si (Facebook)</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">Ayar Labs</td>
+<td markdown="span">Shahab Ardalan
+<br>
+<a href="assets/txt/ayar_bio.txt">[Bio]</a>
+</td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">Lenovo</td>
+<td markdown="span">Lenovo</td>
 </tr>
 
 <tr>
@@ -252,19 +333,19 @@ Summit Puri (LIQID), David Nguyen (Dell)
 <tr>
 <td markdown="span">14:25</td>
 <td markdown="span">**Technical Paper Session E**: Hot Topics</td>
-<td markdown="span"></td>
+<td markdown="span">**Session chair**: Ryan Grant (Sandia National Laboratories)</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">The Future of Low Latency Memory</td>
-<td markdown="span">Thomas Coughlin (Coughlin Associates, Inc.) and James Handy (Objective Analysis) </td>
+<td markdown="span">Thomas Coughlin (Coughlin Associates, Inc.) and Jim Handy (Objective Analysis) </td>
 </tr>
 
 <tr>
 <td markdown="span">14:45</td>
-<td markdown="span">**Awards + Closing Remarks**</td>
-<td markdown="span"></td>
+<td markdown="span">**Closing Remarks**</td>
+<td markdown="span">General Co-chair: Manjunath Gorentla Venkata</td>
 </tr>
 
 </tbody>

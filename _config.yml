@@ -29,6 +29,7 @@ slack-workspace-url: https://hot-interconnects.slack.com/
 
 exclude:
   - _ignore
+  - proceedings.md
 
 destination: hoti.org
 

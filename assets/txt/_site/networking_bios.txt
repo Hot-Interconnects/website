@@ -1,0 +1,31 @@
+Dhabaleswar K. (DK) Panda is a Professor of Computer Science and Engineering
+and University Distinguished Scholar at the Ohio State University. His
+research interests include parallel computer architecture, high-performance
+networking, Exascale computing, Big Data, Deep Learning, programming models,
+accelerators, high-performance file systems and storage, virtualization,
+and cloud computing. He has published over 500 papers in major journals and
+international conferences related to these research areas. Dr. Panda and his
+research group members have been doing extensive research on modern networking
+technologies including InfiniBand, High-Speed Ethernet, RDMA over Converged
+Enhanced Ethernet (RoCE), Omni-Path, and EFA. Dr. Panda and his team have
+been actively working on high-performance MPI and PGAS libraries
+(http://mvapich.cse.ohio-state.edu), Deep Learning libraries
+(http://hidl.cse.ohio-state.edu) and Big Data libraries
+(http://hibd.cse.ohio-state.edu). Dr. Panda has served (or serving) as Program
+Chair/Co-Chair/Vice-Chair of many international conferences. He is an IEEE
+Fellow and a member of ACM. More details are available at
+http://www.cse.ohio-state.edu/~panda.
+
+Hari Subramoni received a Ph.D. degree in Computer Science from The Ohio State
+University, Columbus, OH, in 2013. He is a research scientist in the Department
+of Computer Science and Engineering at the Ohio State University, USA, since Sept
+2015. His research interests include high-performance interconnects and protocols,
+parallel computer architecture, network-based computing, exascale computing, network
+topology aware computing, QoS, power-aware LAN-WAN communication, fault tolerance,
+virtualization, cloud computing, and deep learning. He has published over 70 papers
+in international journals and conferences related to these research areas. He has
+been actively involved in various professional activities in academic journals and
+conferences. Recently, Dr. Subramoni is doing research and working on design and
+development for MVAPICH2 (High-Performance MPI over InfiniBand, iWARP, and RoCE)
+and MVAPICH2-X (Hybrid MPI and PGAS (OpenSHMEM and UPC)) software packages. More
+details about Dr. Subramoni are available at http://www.cse.ohio-state.edu/~subramon.

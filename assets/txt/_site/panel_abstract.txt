@@ -1,0 +1,16 @@
+SmartNICs and DPUs are separated from their generic counterparts
+by their capability to dynamically load and execute programs,
+enabling them to adapt to changing workloads. These NIC-based
+applications can execute on classic Von Neumann-architecture CPUs
+like ARM cores or be compiled into bitstreams that can then be
+loaded into programmable logic. It is generally accepted that
+programming for an ARM core is more straightforward than building
+a bitstream for an FPGA. Conversely, programs manipulating integer
+data, like that in a network packet flow, often produce results at
+a significantly faster rate when using programmable logic versus
+ARM cores. Today we have leaders from three of the most powerful
+Von Neumann-architecture SmartNIC platforms: Marvell, NVIDIA, and
+Pensando, as well as all three from the programmable-logic architecture
+side: Achronix, Intel, and Xilinx. In the end, the market will
+decide which architecture will rule the day, but until then, you
+decide!

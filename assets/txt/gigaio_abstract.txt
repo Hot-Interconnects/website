@@ -1,0 +1,36 @@
+GigaIO, one of the earliest members of the CXL consortium,
+outlines the path from PCIe to CXL that enables unprecedented
+resource sharing, including system memory. We will show how
+transforming the PCI bus protocol into a routable network
+solves the thorniest network congestion issues encountered
+with heterogeneous enterprise computing.
+
+Data and edge computing proliferation creates the daunting
+challenge of collecting, organizing, analyzing, moving, and
+storing unprecedented volumes of information. Simultaneously,
+advances in data analytics and artificial intelligence are
+driving the need for ever-greater processing performance,
+leading to heterogeneous computing. However, these emerging
+computing paradigms can experience bottlenecks and interconnect
+issues that drag down system performance and utilization.
+
+As more applications and models introduce support for
+accelerators (e.g., GPUs and FPGAs), which can dramatically
+reduce time to result, users are clamoring for more of these
+expensive on-demand resources. Yet, industry data shows
+accelerators are only utilized 15% to 20% of the time, stranded
+behind the traditional data center's inflexible node and rack-level
+architectures.
+
+Sustainable modern data centers need solutions that can dynamically
+integrate compute, memory, storage and other communication I/O into
+a single-system cluster fabric, scaling resources up and out across
+the cluster as required. The load-store I/O interconnects, such as
+PCI Express (PCIe) and CXL, provide elegant solutions to increasing
+resource efficiency and performance, sharing devices securely - including
+memory with CXL -, and creating scalable network compositions. 
+
+This talk discusses the GigaIO solution that frees orphaned resources
+from their inflexible node and rack-level architectures, sharing seamlessly
+among users while reducing the burden of cluster communication, and
+dramatically reducing network congestion. 
