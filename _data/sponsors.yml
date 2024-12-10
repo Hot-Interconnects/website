@@ -1,67 +1,42 @@
-- name: Diamond
-  members:
-  - name: Intel
-    logo: /assets/img/sponsors/intel_250px.png
-    url: https://www.intel.com
-    slack:
+- name: Conference Date
+  text_only: true 
+  members:  
+  - name: 
+    text: "MM/DD/2025"
 
-- name: Platinum
+- name: Social Media
+  image_only: true
+  image_width: 50px
   members:
-  - name: GigaIO
-    logo: /assets/img/sponsors/gigaio_200px.png
-    url: https://www.gigaio.com
-    slack:
-  - name: Dell
-    logo: /assets/img/sponsors/dell_200px_2.jpeg
-    url: https://www.dell.com
-    slack:
-
-- name: Gold
-  members:
-  - name: TidalScale
-    logo: /assets/img/sponsors/tidalscale_150px.png
-    url: https://www.tidalscale.com/
-    slack:
-  - name: Algo-Logic
-    logo: /assets/img/sponsors/algo_logic_150px.png
-    url: https://www.algo-logic.com/
-    slack:
-  - name: Arista Networks
-    logo: /assets/img/sponsors/arista_150px.png
-    url: https://www.arista.com/en/
-    slack:
-  - name: IBM
-    logo: /assets/img/sponsors/ibm_150px.jpg
-    url: https://www.ibm.com
-    slack:
+  - name: X
+    # image_width: 50px
+    logo: /assets/img/logo_x.png
+    url: https://twitter.com/ieeehoti
+  - name: YouTube
+    # image_width: 50px
+    logo: /assets/img/logo_youtube.png
+    url: https://www.youtube.com/@IEEEHOTI
+  - name: LinkedIn
+    # image_width: 50px
+    logo: /assets/img/logo_linkedin.png
+    url: https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all
   - name: Facebook
-    logo: /assets/img/sponsors/facebook_150px.png
-    url: https://research.fb.com/
-    slack:
+    # image_width: 50px
+    logo: /assets/img/logo_facebook.png
+    url: https://www.facebook.com/hoti.org
 
-
-- name: Silver
+- name: Thank you for 2024 sponsors!
   members:
-  - name: Lenovo 
-    logo: /assets/img/sponsors/lenovo_100px.png
-    url: https://www.lenovo.com/us/en/
-    slack:
-  - name: Ayar Labs
-    logo: /assets/img/sponsors/ayar_labs_100px.png
-    url: https://ayarlabs.com/
-    slack:
-
-- name: Sponsors
-  members:
-  - name: IEEE Computer Society
-    logo: /assets/img/sponsors/ieee_cs_50px.png
-    url: https://www.computer.org/
-    slack:
-  - name: IEEE
-    logo: /assets/img/sponsors/ieee_50px.png
-    url: https://www.ieee.org/
-    slack:
-  - name: TCMM
-    logo: /assets/img/sponsors/tcmm_50px.png
-    url: https://www.computer.org/communities/technical-committees/tcmm
-    slack:
+  - name: Platinum Sponsors
+    image_width: 150px  # Largest size for Platinum
+    logos: 
+      - /assets/img/eliyan_logo.png
+  - name: Gold Sponsors
+    image_width: 130px  # Medium size for Gold
+    logos:
+      - /assets/img/gold_sponsors_1.png
+      - /assets/img/gold_sponsors_2.png
+  - name: Silver Sponsors
+    image_width: 80px  # Smallest size for Silver
+    logos:
+      - /assets/img/lenovo_logo.png

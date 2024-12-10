@@ -6,7 +6,36 @@ title: Home
 {% include reg-open.md %}
 {% endcomment %}
 
-## HotI28 (2021) Overview
+<!-- <div style="text-align: center; font-size: 30px">
+<strong>2025 Conference Theme<br>
+Interconnect Software: You can't touch it but you need it</strong>
+</div> -->
+
+<!-- The latest advancements in photonics, chips, parallel paths, and other cutting-edge interconnect technologies are dazzling. However, the picture is incomplete without the system software needed to exploit their full potential. This edition of Hot Interconnects will explore the underlying software ecosystems that empower interconnect fabrics to support a wide array of applications. -->
+
+<div style="max-width: 850px; margin: 0 auto; text-align: center">
+    <div style="text-align: center; font-size: 30px">
+    <strong>2025 Conference Theme<br>
+    Interconnect Software: You can't touch it but you need it</strong>
+    </div>
+
+    The latest advancements in photonics, chips, parallel paths, and other cutting-edge interconnect technologies are dazzling. However, the picture is incomplete without the system software needed to exploit their full potential. This edition of Hot Interconnects will explore the underlying software ecosystems that empower interconnect fabrics to support a wide array of applications.
+</div>
+
+## Submissions
+
+| Event                      | Date               |
+| -------------------------- | ------------------ |
+| Paper abstract deadline    | <span style="color: #FF0000">MM/DD/2025</span>      |
+| Submission deadline        | <span style="color: #FF0000">MM/DD/2025</span>     |
+| Notification of acceptance | <span style="color: #FF0000">MM/DD/2025</span>   |
+
+{% comment %}
+| Symposium                  | August 18-20, 2021 |
+| Tutorials                  | August 21, 2021    |
+{% endcomment %}
+
+## HotI32 (2025) Overview
 
 Welcome to the 28th iteration of the IEEE Hot Interconnects
 symposium. HotI28 will be held virtually August 18-20, 2021. 
@@ -26,19 +55,21 @@ Our objective is to address the data center networking and the supercomputing
 communities. We hope you can join us and benefit not only by the content
 but also by the prime networking opportunities this event always offers.
 
+
 {% comment %}
 #Two days of technical sessions and a day of tutorials are waiting for you,
 #to keep you on the top of the latest developments in industry and academia.
 #Our objective is to address the data center networking and the supercomputing communities.
 {% endcomment %}
 
-## Submission
+<!-- ## Submission
 
-The [Call for Papers](call-for-papers.html) is now out!
+TBD -->
+<!-- The [Call for Papers](call-for-papers.html) is now out!
 Papers should be submitted electronically through EasyChair [![Submit Paper](assets/img/red-submit-button-md.png)](https://easychair.org/my/conference?conf=hoti28)
-The [Call for Tutorials](call-for-tutorials.html) is also out now!
+The [Call for Tutorials](call-for-tutorials.html) is also out now! -->
 
 
-## Last Year's Proceedings (HotI27 (2020))
+## Last Year's Proceedings (HotI31 (2024))
 
-Available at [IEEE here](https://ieeexplore.ieee.org/xpl/conhome/9186549/proceeding).
+Available at [IEEE here](https://ieeexplore.ieee.org/xpl/conhome/10664198/proceeding).
