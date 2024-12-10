@@ -5,6 +5,8 @@ main:
     # url: /call-for-tutorials.html
   # - title: Program
     # url: /program.html
+  - title: Home
+    url: /index.html
   - title: Sponsors
     url: /sponsors.html
   # - title: Committees

@@ -4,26 +4,22 @@
   - name: 
     text: "MM/DD/2025"
 
-- name: Social Media
-  image_only: true
-  image_width: 50px
-  members:
-  - name: X
-    # image_width: 50px
-    logo: /assets/img/logo_x.png
-    url: https://twitter.com/ieeehoti
-  - name: YouTube
-    # image_width: 50px
-    logo: /assets/img/logo_youtube.png
-    url: https://www.youtube.com/@IEEEHOTI
-  - name: LinkedIn
-    # image_width: 50px
-    logo: /assets/img/logo_linkedin.png
-    url: https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all
-  - name: Facebook
-    # image_width: 50px
-    logo: /assets/img/logo_facebook.png
-    url: https://www.facebook.com/hoti.org
+# - name: Social Media
+#   image_only: true
+#   image_width: 40px
+#   members:
+#   - name: X
+#     logo: /assets/img/logo_x_1.png
+#     url: https://twitter.com/ieeehoti
+#   - name: YouTube
+#     logo: /assets/img/logo_youtube.png
+#     url: https://www.youtube.com/@IEEEHOTI
+#   - name: LinkedIn
+#     logo: /assets/img/logo_linkedin.png
+#     url: https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all
+#   - name: Facebook
+#     logo: /assets/img/logo_facebook.png
+#     url: https://www.facebook.com/hoti.org
 
 - name: Thank you for 2024 sponsors!
   members:

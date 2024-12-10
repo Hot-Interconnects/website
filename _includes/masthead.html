@@ -1,0 +1,57 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <div class="masthead__brand">
+        {% unless logo_path == empty %}
+          <a href="https://hoti.org" class="site-logo">
+            <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          </a>
+        {% endunless %}
+        
+        <div class="social-icons">
+          <a href="https://twitter.com/ieeehoti" target="_blank" class="social-icon">
+            <img src="/assets/img/logo_x_1.png" alt="X (Twitter)" class="social-logo">
+            <span class="sr-only">X (Twitter)</span>
+          </a>
+          
+          <a href="https://www.youtube.com/@IEEEHOTI" target="_blank" class="social-icon">
+            <img src="/assets/img/logo_youtube.png" alt="YouTube" class="social-logo">
+            <span class="sr-only">YouTube</span>
+          </a>
+          
+          <a href="https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all" target="_blank" class="social-icon">
+            <img src="/assets/img/logo_linkedin.png" alt="LinkedIn" class="social-logo">
+            <span class="sr-only">LinkedIn</span>
+          </a>
+          
+          <a href="https://www.facebook.com/hoti.org" target="_blank" class="social-icon">
+            <img src="/assets/img/logo_facebook.png" alt="Facebook" class="social-logo">
+            <span class="sr-only">Facebook</span>
+          </a>
+        </div>
+
+        <a href="{{ '/' | relative_url }}" class="site-title">
+          {{ site.masthead_title | default: site.title }}
+          {% if site.subtitle %}
+            <span class="site-subtitle">{{ site.subtitle }}</span>
+          {% endif %}
+        </a>
+      </div>
+
+      <nav class="site-nav">
+        <div class="nav-items">
+          {%- for link in site.data.navigation.main -%}
+            <a href="{{ link.url | relative_url }}" 
+               class="masthead__menu-item" 
+               {% if link.description %}title="{{ link.description }}"{% endif %}
+               {% if link.target %}target="{{ link.target }}"{% endif %}>
+              {{ link.title }}
+            </a>
+          {%- endfor -%}
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>

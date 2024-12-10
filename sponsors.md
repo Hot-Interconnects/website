@@ -1,5 +1,5 @@
 ---
-title: Sponsors
+# title: Sponsors
 ---
 ## Become an IEEE Hot Interconnects Patron!
 
