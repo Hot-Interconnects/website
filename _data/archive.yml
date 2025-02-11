@@ -1,32 +1,66 @@
-- name: hoti27 (2021)
-  url: https://ieeexplore.ieee.org/xpl/conhome/9547004/proceeding
-- name: hoti27 (2020)
-  url: https://ieeexplore.ieee.org/xpl/conhome/9186549/proceeding
-- name: hoti26 (2019)
-  url: https://ieeexplore.ieee.org/xpl/conhome/9058768/proceeding
-- name: hoti25 (2017)
-  url: https://ieeexplore.ieee.org/xpl/conhome/8063637/proceeding
-- name: hoti24 (2016)
-  url: https://ieeexplore.ieee.org/xpl/conhome/7801357/proceeding
-- name: hoti23 (2015)
-  url: https://ieeexplore.ieee.org/xpl/conhome/7312649/proceeding
-- name: hoti22 (2014)
-  url: https://ieeexplore.ieee.org/xpl/conhome/6923025/proceeding
-- name: hoti21 (2013)
-  url: https://ieeexplore.ieee.org/xpl/conhome/6626675/proceeding
-- name: hoti20 (2012)
-  url: https://ieeexplore.ieee.org/xpl/conhome/6298767/proceeding
-- name: hoti19 (2011)
-  url: https://ieeexplore.ieee.org/xpl/conhome/6041101/proceeding
-- name: hoti18 (2010)
-  url: https://ieeexplore.ieee.org/xpl/conhome/5575319/proceeding
-- name: hoti17 (2009)
-  url: https://ieeexplore.ieee.org/xpl/conhome/5238649/proceeding
-- name: hoti16 (2008)
-  url: https://ieeexplore.ieee.org/xpl/conhome/4618557/proceeding
-- name: hoti15 (2007)
-  url: https://ieeexplore.ieee.org/xpl/conhome/4296787/proceeding
-- name: hoti14 (2006)
-  url: https://ieeexplore.ieee.org/xpl/conhome/11119/proceeding
-- name: hoti13 (2005)
-  url: https://ieeexplore.ieee.org/xpl/conhome/10367/proceeding
+- name: "HOTI31 (2024)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/10664198/proceeding
+  website_url: https://old.hoti.org/2024
+- name: "HOTI30 (2023)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/10287280/proceeding
+  website_url: https://old.hoti.org/2023
+- name: "HOTI29 (2022)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9912439/proceeding
+  website_url: https://old.hoti.org/2023
+- name: "HOTI28 (2021)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9547004/proceeding
+  website_url: https://old.hoti.org/2021
+- name: "HOTI27 (2020)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9186549/proceeding
+  website_url: https://old.hoti.org/hoti27
+- name: "HOTI26 (2019)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9058768/proceeding
+  website_url: https://old.hoti.org/hoti26/program/
+- name: "HOTI25 (2017)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/8063637/proceeding
+  website_url: https://old.hoti.org/index2017.shtml
+- name: "HOTI24 (2016)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/7801357/proceeding
+  website_url: https://old.hoti.org/index2016.shtml
+- name: "HOTI23 (2015)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/7312649/proceeding
+  website_url: https://old.hoti.org/index2015.shtml
+- name: "HOTI22 (2014)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/6923025/proceeding
+  website_url: https://old.hoti.org/index2014.shtml
+- name: "HOTI21 (2013)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/6626675/proceeding
+  website_url: https://old.hoti.org/index2013.shtml
+- name: "HOTI20 (2012)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/6298767/proceeding
+  website_url: https://old.hoti.org/index2012.shtml
+- name: "HOTI19 (2011)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/6041101/proceeding
+  website_url: https://old.hoti.org/index2011.shtml
+- name: "HOTI18 (2010)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/5575319/proceeding
+  website_url: https://old.hoti.org/index2010.shtml
+- name: "HOTI17 (2009)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/5238649/proceeding
+  website_url: https://old.hoti.org/index2009.php
+- name: "HOTI16 (2008)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/4618557/proceeding
+  website_url: https://old.hoti.org/index2008.php
+- name: "HOTI15 (2007)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/4296787/proceeding
+  website_url: https://old.hoti.org/index2007.php
+- name: "HOTI14 (2006)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/11119/proceeding
+  website_url: https://old.hoti.org/index2006.php
+- name: "HOTI13 (2005)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/10367/proceeding
+  website_url: https://old.hoti.org/index2005.php
+- name: "HOTI12 (2004)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9463/proceeding
+  website_url: https://old.hoti.org/index_HOTI12.html
+- name: "HOTI11 (2003)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/8712/proceeding
+  website_url: https://old.hoti.org/archive/hoti11/
+- name: "HOTI10 (2002)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/8058/proceeding
+  website_url: https://old.hoti.org/index_10.html

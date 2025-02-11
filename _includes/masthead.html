@@ -5,7 +5,7 @@
     <div class="masthead__menu">
       <div class="masthead__brand">
         {% unless logo_path == empty %}
-          <a href="https://hoti.org" class="site-logo">
+          <a href="{{ '/' | relative_url }}" class="site-logo">
             <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
           </a>
         {% endunless %}

@@ -2,7 +2,7 @@
 **{{ group.name }}**  
 {% for sponsor in group.members %}
 {%- if group.text_only %}
-{{ sponsor.name }}: {{ sponsor.text }}  
+<div style="text-align: left; font-size: 16px; color: darkred;">{{ sponsor.name }} {{ sponsor.text }}</div>
 {%- elsif group.image_only %}
 [![{{ sponsor.name }} logo]({{ sponsor.logo }}){: width="{{ group.image_width | default: '200px' }}"}]({{ sponsor.url }})
 {%- else %}

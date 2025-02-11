@@ -1,7 +1,7 @@
 name: Hot Interconnects
 email: info@hoti.org
 description: The international forum where the high-performance computing and high-speed networking communities meet
-baseurl: "https://hoti.org"
+baseurl: ""
 url: "https://hoti.org"
 
 twitter:
@@ -15,7 +15,6 @@ minimal_mistakes_skin: "default"
 logo: /assets/img/hoti_logo_150x75.png
 
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages

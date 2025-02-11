@@ -49,7 +49,7 @@
   align-items: center;
   margin-right: 1.5rem;
   padding-left: 0.5rem;
-  gap: 0.75rem;  /* Added consistent spacing between social icons */
+  gap: 0.75rem;
 }
 
 .social-icon {
@@ -58,6 +58,8 @@
   justify-content: center;
   text-decoration: none;
   transition: opacity 0.2s ease-in-out;
+  width: 24px;  /* Fixed width for the container */
+  height: 24px; /* Fixed height for the container */
   
   &:hover {
     opacity: 0.8;
@@ -65,9 +67,11 @@
 }
 
 .social-logo {
-  width: 24px;  /* Set a consistent size for all social media logos */
+  width: 24px;
   height: 24px;
-  object-fit: contain;  /* Preserve aspect ratio */
+  object-fit: contain;
+  max-width: 100%;   /* Ensure image doesn't overflow */
+  max-height: 100%;  /* Ensure image doesn't overflow */
 }
 
 .sr-only {
@@ -112,5 +116,27 @@
   .site-nav {
     float: right;
     margin-left: auto;
+  }
+}
+
+/* Add specific media queries to handle different screen sizes */
+@media screen and (max-width: 768px) {
+  .social-icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .social-logo {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* Add specific browser fixes */
+@supports (-webkit-appearance:none) {
+  /* Safari-specific fixes */
+  .social-logo {
+    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
   }
 }

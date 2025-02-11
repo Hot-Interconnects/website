@@ -7,9 +7,11 @@ IEEE Hot Interconnects Patrons receive immeasurably valuable visibility in numer
 
 To participate, please email <sponsor@hoti.org> to discuss your desired level of participation.
 
-| Level    | Cost   | Speaking slot time (preferably recorded) | Splash screen (rotating display) | Email distribution to 59K Recipients (3 times) | Sponsor logo on website | Sponsor logo size | Recording of sponsor talk |
-|----------|--------|------------------------------------------|----------------------------------|------------------------------------------------|-------------------------|-------------------|---------------------------|
-| Silver   | $1,000 | 5 min                                    | No                               | Yes                                            | Yes                     | Small             | Yes                       |
-| Gold     | $2,000 | 10 min                                   | Yes                              | Yes                                            | Yes                     | Medium            | Yes                       |
-| Platinum | $3,000 | 15 min                                   | Yes                              | Yes                                            | Yes                     | Large             | Yes                       |
-| Diamond  | $4,000 | 20 min                                   | Yes                              | Yes                                            | Yes                     | Jumbo             | Yes                       |
+[Download Sponsorship Information (PDF)](assets/slides/HOTI2025_Sponsorship_info_v4.1.pptx.pdf)
+
+| Level    | Cost   | Speaking Slot Time (preferably recorded) | Email/Social Media Recognition | Sponsor Logo on Website | Sponsor Logo During Event | Sponsor Logo Size | Youtube Recording of Sponsor Talk |
+|----------|--------|------------------------------------------|--------------------------------|-------------------------|---------------------------|-------------------|-----------------------------------|
+| Silver   | $1,000 | 0 min                                    | Yes                            | Yes                     | Yes                       | Small             | NA                                |
+| Gold     | $2,000 | 5 min                                    | Yes                            | Yes                     | Yes                       | Medium            | Yes                               |
+| Platinum | $3,000 | 10 min                                   | Yes                            | Yes                     | Yes                       | Large             | Yes                               |
+| Diamond  | $4,000 | 15 min                                   | Yes                            | Yes                     | Yes                       | Jumbo             | Yes                               |

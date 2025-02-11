@@ -1,6 +1,6 @@
 main:
-  # - title: Call for Papers
-    # url: /call-for-papers.html
+  - title: Call for Papers
+    url: /call-for-papers.html
   # - title: Call for Tutorials
     # url: /call-for-tutorials.html
   # - title: Program
@@ -9,7 +9,7 @@ main:
     url: /index.html
   - title: Sponsors
     url: /sponsors.html
-  # - title: Committees
-  #   url: /committees.html
+  - title: Committees
+    url: /committees.html
   - title: Archive
     url: /archive.html

@@ -1,109 +1,116 @@
-- name: Pavel Shamis                
-  affiliation: Arm Research
-  url: https://www.arm.com/resources/research
-  position: General Co-chairs
-  email: info@hoti.org       
-
-- name: Manjunath Gorentla Venkata
+# General Chair
+- position: General Chair
+  name: Artem Polyakov
   affiliation: NVIDIA
-  url: https://www.nvidia.com                                          
-  #position: General Vice-chair
-  #email: info@hoti.org            
 
-- name: Ryan Grant                
-  affiliation: Sandia National Laboratories
-  url: http://www.sandia.gov                     
-  position: Program Co-chairs
-  email: program@hoti.org         
-
-- name: Min Si
-  affiliation: Facebook
-  #url: https://research.fb.com/ 
-  # position: Program Chair
-  # email: program@hoti.org         
-
-- name: Mathew Dosanjh            
-  affiliation: Sandia National Laboratories
-  url: http://www.sandia.gov                     
-  position: Tutorials Chairs
-  email: tutorials@hoti.org     
-
-- name: Taylor Groves  
-  affiliation: Lawrence Berkeley National Laboratory
-  url: https://www.lbl.gov/
-  # position: Tutorials Chairs
-  # email: tutorials@hoti.org     
-
-- name: Nicola Andriolli          
-  affiliation: National Research Council of Italy (CNR-IEIIT)
-  url: http://www.ieiit.cnr.it 
-  position: Publication Chairs                                
-
-- name: Luca Valcarenghi          
-  affiliation: Scuola Superiore Sant'Anna
-  url: http://www.sssup.it                         
-  # position: Publication Chair                               
-
-- name: Songkrant Muneenaem       
-  affiliation: Prince of Songkla University
-  url: http://www.en.psu.ac.th                   
-  position: Registration Chair
-  email: registration@hoti.org
-
-- name: Raj Channa                
-  affiliation: RBC Capital Markets
-  url: http://www.rbccm.com                               
-  position: Sponsorship Chair
-  email: sponsor@hoti.org      
-
-- name: James Dinan               
-  affiliation: NVIDIA
-  url: https://www.nvidia.com                                          
-  position: Finance Chairs                                    
-
-- name: Xinyu Que                 
-  affiliation: IBM T.J. Watson
-  url: http://www.watson.ibm.com                              
-  # position: Finance Chair                                    
-
-- name: Artem Polyakov              
-  affiliation: NVIDIA
-  url: https://www.nvidia.com                                          
-  position: Publicity Chair
-
-- name: Sayan Ghosh               
+# Vice Chair
+- position: Vice Chair
+  name: Sayan Ghosh
   affiliation: Pacific Northwest National Laboratory
-  url: https://www.pnnl.gov/                   
-  position: Chair for IEEE Micro                                  
 
-- name: Dan Pitt
-  affiliation: Palo Alto Innovation Advisors
-  url: http://www.paloaltoinnovationadvisors.com/                              
-  position: Invited Speakers/Panel Chairs                    
-
-- name: Oscar Hernandez
+# PC Chairs
+- position: PC Chairs
+  name: Rohit Zambre
   affiliation: NVIDIA
-  url: https://www.nvidia.com                                          
-  # position: Invited Speakers/Panel Chairs                    
 
-- name: Alan Benjamin
+- position: PC Chairs
+  name: David Ozog
+  affiliation: Cornelis Networks
+
+# Keynote/Panel Chairs
+- position: Keynote/Panel Chairs
+  name: Dan Pitt
+  affiliation: Palo Alto Innovation Advisors
+
+- position: Keynote/Panel Chairs
+  name: Alan Benjamin
   affiliation: GigaIO
-  url: https://gigaio.com/                                                    
-  # position: Invited Speakers/Panel Chairs                    
 
-- name: Dong Zhong               
-  affiliation: The University of Tennessee
-  url: https://www.utk.edu/
-  position: Media Chair
-  #email: webmaster@hoti.org               
+- position: Keynote/Panel Chairs
+  name: Pavel Shamis
+  affiliation: NVIDIA
 
-- name: Rohit Zambre               
-  affiliation: AMD Research
-  url: https://www.amd.com/en/corporate/research                          
-  position: Web Chair
-  email: webmaster@hoti.org               
+- position: Keynote/Panel Chairs
+  name: Taylor Groves
+  affiliation: Lightmatter
 
-  #- name: Mark Arnold               
-  #affiliation: NVIDIA
-  #url: https://www.nvidia.com                                          
-  #position: Remote Arrangement Chair                          
+# Tutorial Chairs
+- position: Tutorial Chairs
+  name: Amanda Bienz
+  affiliation: UNM
+
+# Online Conference Chairs
+- position: Online Conference Chairs
+  name: Matthew Fricke
+  affiliation: UNM
+
+- position: Online Conference Chairs
+  name: Nicholas Sarkauskas
+  affiliation: NVIDIA
+
+- position: Online Conference Chairs
+  name: Pepper Marts
+  affiliation: HPE
+
+# Web Chairs
+- position: Web Chairs
+  name: Timothy Stamler
+  affiliation: NVIDIA
+
+- position: Web Chairs
+  name: Yuke Li
+  affiliation: UC Merced
+
+# Publicity Chairs
+- position: Publicity Chairs
+  name: Subhadeep Bhattacharya
+  affiliation: NVIDIA
+
+- position: Publicity Chairs
+  name: Don Draper
+  affiliation: ProPrincipia International Associates
+
+# Finance Chairs
+- position: Finance Chairs
+  name: Scott Levy
+  affiliation: Sandia National Laboratories
+
+- position: Finance Chairs
+  name: Jim Dinan
+  affiliation: NVIDIA
+
+# Publication Chairs
+- position: Publication Chairs
+  name: Nicola Andriolli
+  affiliation: University of Pisa
+
+- position: Publication Chairs
+  name: Shannon Kinkead
+  affiliation: Sandia National Laboratories
+
+# Journal Chairs
+- position: Journal Chairs
+  name: Joseph Schuchart
+  affiliation: Stony Brook University
+
+- position: Journal Chairs
+  name: Whit Schonbein
+  affiliation: Sandia National Laboratories
+
+# Sponsor Chairs
+- position: Sponsor Chairs
+  name: Raj Channa
+  affiliation: RBC Capital Markets
+
+- position: Sponsor Chairs
+  name: Emilio Paolini
+  affiliation: Scuola Superiore Sant'Anna
+
+# Award Chairs
+- position: Award Chairs
+  name: Ryan Grant
+  affiliation: Queen's University
+
+- position: Award Chairs
+  name: Yiltan Temucin
+  affiliation: AMD
