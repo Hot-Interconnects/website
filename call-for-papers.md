@@ -66,7 +66,7 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 
 * Papers need sufficient technical detail to judge quality and suitability for presentation. Submissions must conform to <a href="https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/">[IEEE ethics standards]</a>
 * Submissions should include title, author, abstract, and paper in double-column, see <a href="https://www.ieee.org/conferences/publishing/templates.html">[IEEE format]</a> for details.
-* Papers will be submitted electronically through EasyChair (link soon!) and will undergo a single-blind review process.
+* Papers will be submitted electronically through <a href="https://easychair.org/conferences?conf=hoti2025"> [EasyChair] </a> and will undergo a single-blind review process.
 * Regular papers: up to 10 pages (including technical content and figures), excluding references and any appendices. Appendices (if any) are limited to 5 pages (the limit might be extended upon committee approval in advance). Reproducibility appendices are encouraged but no official verification is provided by the HotI program committee.
 * Hot topic papers: up to 4 pages (including technical content and figures) excluding references. Appendices are not allowed for hot topic papers.
 * Materials other than the abstract, main paper body, and references will be read at the committee’s discretion.
