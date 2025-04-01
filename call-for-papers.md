@@ -46,7 +46,7 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
 | -------------------------- | ------------------ |
 | Paper abstract deadline    |   May 9, 2025      |
 | Submission deadline        |   May 23, 2025     |
-| Notification of acceptance |   June 20, 2025    |
+| Notification of acceptance |   June 27, 2025    |
 
 {% comment %}
 | Symposium                  | August 18-20, 2021 |

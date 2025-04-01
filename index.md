@@ -26,7 +26,7 @@ Interconnect Software: You can't touch it but you need it</strong>
 | -------------------------- | ------------------ |
 | Paper abstract deadline    |   May 9, 2025      |
 | Submission deadline        |   May 23, 2025     |
-| Notification of acceptance |   June 20, 2025    |
+| Notification of acceptance |   June 27, 2025    |
 
 {% comment %}
 | Symposium                  | August 18-20, 2021 |
