@@ -42,7 +42,43 @@
   </table>
 </div>
 
+<!-- TPC Members Table -->
+<!-- <div class="tpc-table">
+  <h2>TPC Members</h2>
+  <table>
+    <tbody>
+      {% assign members = site.data.pc %}
+      {% for member in members %}
+        {% if forloop.index0 == 0 or forloop.index0 | modulo: 3 == 0 %}<tr>{% endif %}
+          <td class="name">{{ member.name }}</td>
+        {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}</tr>{% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div> -->
+
 <style>
+.tpc-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.tpc-table td {
+  width: 33.33%; /* Three columns per row */
+  text-align: center;
+  padding: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+.tpc-table h2 {
+  text-align: center;
+}
+</style>
+
+
+<style>
+
 .committee-table {
   max-width: 900px;
   margin: 0 auto;

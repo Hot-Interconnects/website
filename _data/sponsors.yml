@@ -21,18 +21,22 @@
 #     logo: /assets/img/logo_facebook.png
 #     url: https://www.facebook.com/hoti.org
 
-- name: Thank you for 2024 sponsors!
+- name: Thank you for 2025 Sponsors!
   members:
-  - name: Platinum Sponsors
-    image_width: 150px  # Largest size for Platinum
+  - name: Diamond 
+    image_width: 150px
+    logos:
+      - /assets/img/lightmatter_logo.jpeg
+      - /assets/img/cornelis-logo-stacked.png
+  - name: Platinum
+    image_width: 170px  # Largest size for Platinum
     logos: 
-      - /assets/img/eliyan_logo.png
-  - name: Gold Sponsors
-    image_width: 130px  # Medium size for Gold
+      - /assets/img/arista_logo.png
+  - name: Gold
+    image_width: 150px  # Medium size for Gold
     logos:
-      - /assets/img/gold_sponsors_1.png
-      - /assets/img/gold_sponsors_2.png
-  - name: Silver Sponsors
-    image_width: 80px  # Smallest size for Silver
-    logos:
-      - /assets/img/lenovo_logo.png
+      - /assets/img/gigaio.png
+  # - name: Silver Sponsors
+  #   image_width: 80px  # Smallest size for Silver
+  #   logos:
+  #     - /assets/img/
