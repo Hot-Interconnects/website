@@ -42,20 +42,23 @@
   </table>
 </div>
 
+<span></span>
+
 <!-- TPC Members Table -->
-<!-- <div class="tpc-table">
-  <h2>TPC Members</h2>
+<div class="tpc-table">
+  <h2> TPC Members </h2>
   <table>
     <tbody>
       {% assign members = site.data.pc %}
       {% for member in members %}
         {% if forloop.index0 == 0 or forloop.index0 | modulo: 3 == 0 %}<tr>{% endif %}
           <td class="name">{{ member.name }}</td>
+          <td class="name">{{ member.affiliation }}</td>
         {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}</tr>{% endif %}
       {% endfor %}
     </tbody>
   </table>
-</div> -->
+</div> 
 
 <style>
 .tpc-table table {
@@ -65,14 +68,14 @@
 }
 
 .tpc-table td {
-  width: 33.33%; /* Three columns per row */
-  text-align: center;
+  width: 50.00%; /* Two columns per row */
+  text-align: left;
   padding: 0.5em;
   border-bottom: 1px solid #ddd;
 }
 
 .tpc-table h2 {
-  text-align: center;
+  text-align: left;
 }
 </style>
 

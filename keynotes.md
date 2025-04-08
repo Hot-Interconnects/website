@@ -1,0 +1,15 @@
+---
+# title: Keynote Speakers
+---
+
+### Amin Vahdet: Vice President of ML, Systems, and Cloud AI at Google
+
+Biography: a Amin Vahdat is a Fellow and vice president of Engineering at Google, where his team is responsible for delivering industry-leading Machine Learning software and hardware that serves Alphabet, Google and the world, and Artificial Intelligence technologies that empower ML developers and solve customers’ most pressing business challenges. In the past, he was General Manager for Google's compute, storage, and network hardware and software infrastructure. Until 2019, he was the Technical Lead for the Networking organization at Google. 
+
+Before joining Google, Amin was the Science Applications International Corporation (SAIC) Professor of Computer Science and Engineering at UC San Diego (UCSD). He received his doctorate from the University of California, Berkeley in computer science, and is a member of the National Academy of Engineering (NAE) and an ACM, Association for Computing Machinery (ACM) Fellow. 
+
+Amin has been recognized with a number of awards, including the National Science Foundation (NSF) CAREER award, the UC Berkeley Distinguished EECS Alumni Award, the Alfred P. Sloan Fellowship, the Association for Computing Machinery's SIGCOMM Networking Systems Award, and the Duke University David and Janet Vaughn Teaching Award. Most recently, Amin was awarded the SIGCOMM lifetime achievement award for his contributions to data center and wide area networks.  Lastly, he was inducted into the National Academy of Engineering in September 2023 for his contributions to the design and implementation of datacenter and planet-scale networks that power cloud computer systems.
+
+We’ll be sharing the title and abstract of his talk soon. Stay tuned and follow us for updates on the full program!
+
+IEEE Hot Interconnects Patrons receive immeasurably valuable visibility in numerous conference announcements, in the conference proceedings package, on the conference website with a IEEE Hot-linked logo, and at the conference site among its many influential attendees. All levels of patronage are designed to increase participation and maximize exposure to the evolving interconnects industry. When you become a patron, we work to publicize your company’s name and/or logo in all aspects of the conference. Patron benefits include your company logo or name on our printed conference flyers and announcements that are distributed on university campuses across the globe. Email announcements sent monthly until conference time are received by more than 50,000 targeted professionals in the electronics industry through organizational affiliations in the ACM, IEEE Computer Society, IEEE Communications Society, and academic institutions. They are directed to the IEEE Hoti.org website, where your logo appears prominently. 
