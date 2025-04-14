@@ -59,10 +59,7 @@ but also by the prime networking opportunities this event always offers.
 
 ## Keynote Speakers
 
-We are excited to announce Amin Vahdat, Vice President of ML, Systems, and Cloud AI at Google, as a keynote speaker for IEEE Hot Interconnects 2025!
-
-|           {::nomarkdown}<img src="/assets/img/amin_photo.jpg">{:/}            |
-| ----------------------------------------------------------------------------- |
+|           {::nomarkdown}<img src="/assets/img/amin_photo_150.jpg">{:/}        |
 |      Amin Vahdat, Vice President of ML, Systems, and Cloud AI at Google       |
 | ----------------------------------------------------------------------------- |
 |                                   Title TBA                                   |

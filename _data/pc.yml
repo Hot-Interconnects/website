@@ -1,3 +1,6 @@
+- name: Ram Sharan Chaulagain
+  affiliation: Florida State University
+
 - name: Xiaoyi Lu
   affiliation: University of California, Merced
 
@@ -7,20 +10,11 @@
 - name: Jahanzeb Maqbool Hashmi
   affiliation: NVIDIA
 
-- name: Swapna Raj
-  affiliation: NVIDIA
-
 - name: Hans Eberle
   affiliation: NVIDIA
 
-- name: Shelby Lockhart
-  affiliation: AMD
-
 - name: Kaiming Ouyang
   affiliation: NVIDIA
-
-- name: Dwendolyn Voskuilen
-  affiliation: Sandia National Laboratories
 
 - name: Pedro Javier Garcia
   affiliation: Universidad de Castilla-La Mancha
@@ -46,14 +40,8 @@
 - name: Keith Underwood
   affiliation: HPE
 
-- name: Salvatore Di Girolamo
-  affiliation: NVIDIA
-
 - name: Ron Brightwell
   affiliation: Sandia National Laboratories
-
-- name: Yuke Li
-  affiliation: University of California, Merced
 
 - name: Xin Yuan
   affiliation: Florida State University
@@ -66,3 +54,15 @@
 
 - name: Md Atiqul Mollah
   affiliation: Cornelis Networks
+
+- name: Mitch Gusat
+  affiliation: IBM Zurich Research Laboratory
+
+- name: Galen Shipman
+  affiliation: Los Alamos National Laboratory
+
+- name: Vishwanath Venkatesan
+  affiliation: NVIDIA
+
+- name: Letizia Giuliano
+  affiliation: Alphawave Semi
