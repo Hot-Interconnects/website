@@ -65,6 +65,11 @@ but also by the prime networking opportunities this event always offers.
 |                                   Title TBA                                   |
 |                                  Abstract TBA                                 |
 
+| <img src="/assets/img/speaker-deepak.jpeg" style="width: 18%; height: auto;"> |
+|      Deepak Bansal, Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft       |
+| ----------------------------------------------------------------------------- |
+|                                   Title TBA                                   |
+|                                  Abstract TBA                                 |
 
 ## Last Year's Proceedings (HotI31 (2024))
 
