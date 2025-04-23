@@ -1,9 +1,0 @@
-SHAHAB ARDALAN has been with Ayar Labs, Santa Clara, CA, USA,
-since 2017, where he is working on high-speed SerDes link for
-CMOS monolithic optical I/Os. He was with AMS R&D Group in Gennum
-Corporation from 2007 to 2010. In 2010, he joined San Jose State
-University as an Assistant Professor and Director the Center for
-Analog and Mixed Signal where he was teaching and conducting
-research on analog and mixed signal integrated circuits. Ardalan
-has a Ph.D. from the University of Waterloo, Waterloo, ON, Canada.
-He has published over 70 papers in integrated circuit design.
