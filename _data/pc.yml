@@ -1,68 +1,86 @@
-- name: Ram Sharan Chaulagain
-  affiliation: Florida State University
-
-- name: Xiaoyi Lu
-  affiliation: University of California, Merced
-
-- name: Raghunath Raja Chandrasekar
-  affiliation: Amazon Web Services
-
-- name: Jahanzeb Maqbool Hashmi
-  affiliation: NVIDIA
-
-- name: Hans Eberle
-  affiliation: NVIDIA
-
-- name: Kaiming Ouyang
-  affiliation: NVIDIA
-
-- name: Pedro Javier Garcia
-  affiliation: Universidad de Castilla-La Mancha
-
-- name: Jithin Jose
-  affiliation: Microsoft
-
 - name: Ferrol Aderholdt
   affiliation: NVIDIA
 
 - name: Yuichiro Ajima
   affiliation: Fujitsu Limited
 
-- name: Craig Stunkel
+- name: Ron Brightwell
+  affiliation: Sandia National Laboratories
+
+- name: Ram Sharan Chaulagain
+  affiliation: Florida State University
+
+- name: Swadesh Choudhary
+  affiliation: Intel
+
+- name: Alexandros Daglis
+  affiliation: Georgia Institute of Technology
+
+- name: Hans Eberle
   affiliation: NVIDIA
 
 - name: Edgar Gabriel
   affiliation: AMD
 
-- name: Kishore Punniyamurthy
-  affiliation: AMD Research
+- name: Pedro Javier Garcia
+  affiliation: Universidad de Castilla-La Mancha
 
-- name: Keith Underwood
-  affiliation: HPE
-
-- name: Ron Brightwell
-  affiliation: Sandia National Laboratories
-
-- name: Xin Yuan
-  affiliation: Florida State University
-
-- name: Hyun-Wook Jin
-  affiliation: Konkuk University
-
-- name: Anna Verner
-  affiliation: NVIDIA
-
-- name: Md Atiqul Mollah
-  affiliation: Cornelis Networks
+- name: Letizia Giuliano
+  affiliation: Alphawave Semi
 
 - name: Mitch Gusat
   affiliation: IBM Zurich Research Laboratory
 
+- name: Jahanzeb Maqbool Hashmi
+  affiliation: NVIDIA
+
+- name: Hyun-Wook Jin
+  affiliation: Konkuk University
+
+- name: Jithin Jose
+  affiliation: Microsoft
+
+- name: Xiaoyi Lu
+  affiliation: University of California, Merced
+
+- name: Mohiuddin Mazumder
+  affiliation: Intel
+
+- name: Md Atiqul Mollah
+  affiliation: Cornelis Networks
+
+- name: Kaiming Ouyang
+  affiliation: NVIDIA
+
+- name: Kishore Punniyamurthy
+  affiliation: AMD Research
+
+- name: Raghunath Raja Chandrasekar
+  affiliation: Amazon Web Services
+
+- name: Adrien Roussel
+  affiliation: CEA
+
 - name: Galen Shipman
   affiliation: Los Alamos National Laboratory
+
+- name: Craig Stunkel
+  affiliation: NVIDIA
+
+- name: Hugo Taboada
+  affiliation: CEA
+
+- name: Anant Thakar
+  affiliation: Lightmatter
+
+- name: Keith Underwood
+  affiliation: HPE
 
 - name: Vishwanath Venkatesan
   affiliation: NVIDIA
 
-- name: Letizia Giuliano
-  affiliation: Alphawave Semi
+- name: Anna Verner
+  affiliation: NVIDIA
+
+- name: Xin Yuan
+  affiliation: Florida State University

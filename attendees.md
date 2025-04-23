@@ -1,6 +1,6 @@
 ---
-title: Attendees
-permalink: /attendees/
+# title: Attendees
+# permalink: /attendees/
 ---
 ## Attending the Virtual Conference
 

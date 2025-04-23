@@ -46,25 +46,49 @@
 
 <!-- TPC Members Table -->
 <div class="tpc-table">
-  <h2> TPC Members </h2>
   <table>
-    <tbody>
+  <thead>
+    <tr>
+    <th colspan="2"> Technical Program Committee​ </th>
+    </tr>
+  </thead>
+    <!-- <tbody> -->
       {% assign members = site.data.pc %}
       {% for member in members %}
-        {% if forloop.index0 == 0 or forloop.index0 | modulo: 3 == 0 %}<tr>{% endif %}
+        <!-- {% if forloop.index0 == 0 or forloop.index0 | modulo: 3 == 0 %}<tr>{% endif %} -->
+        <tr>
           <td class="name">{{ member.name }}</td>
           <td class="name">{{ member.affiliation }}</td>
-        {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}</tr>{% endif %}
+        </tr>
+        <!-- {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}</tr>{% endif %} -->
       {% endfor %}
-    </tbody>
+    <!-- </tbody> -->
   </table>
 </div> 
 
 <style>
+/* .tpc-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  text-align: center;
+} */
+.tpc-table {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .tpc-table table {
   width: 100%;
   border-collapse: collapse;
   margin: 1em 0;
+}
+
+.tpc-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  padding: 0.5em;
+  text-align: center;
 }
 
 .tpc-table td {

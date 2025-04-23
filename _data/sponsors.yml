@@ -28,6 +28,7 @@
     logos:
       - /assets/img/lightmatter_logo.jpeg
       - /assets/img/cornelis-logo-stacked.png
+      - /assets/img/Cisco-Logo.png
   - name: Platinum
     image_width: 160px  # Largest size for Platinum
     logos: 
