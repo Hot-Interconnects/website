@@ -1,6 +1,21 @@
 ---
 # title: Call For Papers
 ---
+
+
+## Submissions
+
+| Event                      | Date               |
+| -------------------------- | ------------------ |
+| Paper abstract deadline    |   May 9, 2025      |
+| Submission deadline        |   May 23, 2025     |
+| Notification of acceptance |   June 27, 2025    |
+
+{% comment %}
+| Symposium                  | August 18-20, 2021 |
+| Tutorials                  | August 21, 2021    |
+{% endcomment %}
+
 ## The 32nd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2025), will take place virtually from Wednesday, August 20 – Friday, August 22, 2025
 
 IEEE Hot Interconnects is the premier international forum for researchers and developers of state-of-the-art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core, on-chip interconnects to those within systems, clusters, data centers, and clouds. This yearly conference is attended by leaders in industry and academia.
@@ -40,18 +55,6 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
 
 
 
-## Submissions
-
-| Event                      | Date               |
-| -------------------------- | ------------------ |
-| Paper abstract deadline    |   May 9, 2025      |
-| Submission deadline        |   May 23, 2025     |
-| Notification of acceptance |   June 27, 2025    |
-
-{% comment %}
-| Symposium                  | August 18-20, 2021 |
-| Tutorials                  | August 21, 2021    |
-{% endcomment %}
 
 
 <div style="text-align: left; font-size: 30px">
@@ -76,6 +79,16 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 
 <!-- We are also inviting tutorial submissions. More information regarding poster will come out soon.  -->
 <!-- [The call for tutorials is now out](call-for-tutorials.html). -->
+
+## Best Papers
+
+High impact papers will be considered for “Best Industry Paper” (primary author(s) from industry) and “Best Academic Paper” (primary author(s) from academia or non-profit research laboratories) categories.
+ 
+2024 Hot Interconnects best papers:
+ 
+[Best Industry Paper] Unified Collective Communication (UCC): A Unified Library for CPU, GPU, and DPU Collectives (*Ferrol Aderholdt, Manjunath Gorentla Venkata, Valentine Petrov, Sergey Lebedev, Devendar Bureddy, Joshua Ladd, Gil Bloch, Mike Dubman, and Gilad Shainer*) <[hyperlink to IEEE Xplore](https://ieeexplore.ieee.org/document/10664373)>
+ 
+[Best Academic Paper] A New Mechanism to Identify Congesting Packets in High-Performance Interconnection Networks (*Cristina Olmedilla, Jesus Escudero-Sahuquillo, Pedro Javier Garcia, Francisco J. Quiles, Wenhao Sun, Long Yan, Yunping Lyu, and Jose Duato*) <[hyperlink to IEEE Xplore](https://ieeexplore.ieee.org/document/10664227)>
 
 ## Safety and Well-being
 

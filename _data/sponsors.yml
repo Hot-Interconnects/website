@@ -30,14 +30,15 @@
       - /assets/img/cornelis-logo-stacked.png
       - /assets/img/Cisco-Logo.png
   - name: Platinum
-    image_width: 160px  # Largest size for Platinum
+    image_width: 170px  # Largest size for Platinum
     logos: 
-      - /assets/img/arista_logo.png
+      - /assets/img/arista_150px.png
+      - /assets/img/UALink_logo.jpg
   - name: Gold
-    image_width: 150px  # Medium size for Gold
+    image_width: 100px  # Medium size for Gold
     logos:
-      - /assets/img/gigaio.png
-  # - name: Silver Sponsors
-  #   image_width: 80px  # Smallest size for Silver
-  #   logos:
-  #     - /assets/img/
+      - /assets/img/gigaio_150px.png
+  - name: Silver
+    image_width: 100px
+    logos:
+      - /assets/img/lenovo_logo.png
