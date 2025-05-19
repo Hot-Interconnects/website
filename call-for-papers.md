@@ -5,10 +5,10 @@
 
 ## Submissions
 
-| Event                      | Date               |
+| Event                       | Date               |
 | -------------------------- | ------------------ |
-| Paper abstract deadline    |   May 9, 2025      |
-| Submission deadline        |   May 23, 2025     |
+| Paper abstract deadline    |   ~~May 9, 2025~~ <span style="color:red">May 25, 2025 (firm)</span>       |
+| Submission deadline        |   ~~May 23, 2025~~ <span style="color:red">May 25, 2025 (firm)</span>     |
 | Notification of acceptance |   June 27, 2025    |
 
 {% comment %}

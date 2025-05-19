@@ -20,18 +20,26 @@ Interconnect Software: You can't touch it but you need it</strong>
     The latest advancements in photonics, chips, parallel paths, and other cutting-edge interconnect technologies are dazzling. However, the picture is incomplete without the system software needed to exploit their full potential. This edition of Hot Interconnects will explore the underlying software ecosystems that empower interconnect fabrics to support a wide array of applications.
 </div>
 
-## Submissions
+## Call for Papers
 
-| Event                      | Date               |
+| Event                       | Date               |
 | -------------------------- | ------------------ |
-| Paper abstract deadline    |   May 9, 2025      |
-| Submission deadline        |   May 23, 2025     |
+| Paper abstract deadline    |   ~~May 9, 2025~~ <span style="color:red">May 25, 2025 (firm)</span>       |
+| Submission deadline        |   ~~May 23, 2025~~ <span style="color:red">May 25, 2025 (firm)</span>     |
 | Notification of acceptance |   June 27, 2025    |
 
 {% comment %}
 | Symposium                  | August 18-20, 2021 |
 | Tutorials                  | August 21, 2021    |
 {% endcomment %}
+
+## Call for Tutorials
+
+| Event                      | Date               |
+| -------------------------- | ------------------ |
+| Proposals due    |   June 3, 2025      |
+| Notification of acceptance        |   June 10, 2025     |
+| Materials due |   August 2, 2025    |
 
 ## HotI32 (2025) Overview
 
@@ -57,20 +65,62 @@ but also by the prime networking opportunities this event always offers.
 #Our objective is to address the data center networking and the supercomputing communities.
 {% endcomment %}
 
-## Keynote Speakers
+## Keynotes
 
-|           {::nomarkdown}<img src="/assets/img/amin_photo_150.jpg">{:/}        |
-|      Amin Vahdat, Vice President of ML, Systems, and Cloud AI at Google       |
-| ----------------------------------------------------------------------------- |
-|                                   Title TBA                                   |
-|                                  Abstract TBA                                 |
 
-| <img src="/assets/img/speaker-deepak.jpeg" style="width: 18%; height: auto;"> |
-|      Deepak Bansal, Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft       |
-| ----------------------------------------------------------------------------- |
-|                                   Title TBA                                   |
-|                                  Abstract TBA                                 |
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="vertical-align: top; text-align: center; font-size: 1.5em;">
+      <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
+        <img src="/assets/img/amin_photo.jpg" style="width: 250px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Amin Vahdat Photo"> <br>
+        <strong>Title TBA</strong> <a href="keynotes-amin.html">Details</a> <br>
+        Amin Vahdat <br>
+        <small>Vice President of ML, Systems, and Cloud AI at Google</small>
+      </td>
+      <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
+        <img src="/assets/img/speaker-deepak-size250.jpeg" style="width: 250px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Deepak Bansal Photo"> <br>
+        <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <a href="keynotes-deepak.html">Details</a> <br>
+        Deepak Bansal <br>
+        <small>Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft</small>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Invited Talk
+
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="vertical-align: top; text-align: center;  font-size: 1.3em;">
+      <td style="width: 50%; padding: 10px; border: none;">
+        <img src="/assets/img/hoefler_dinfk.jpg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Amin Vahdat Photo"> <br>
+        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="keynotes-torsten.html">Details</a> <br>
+        Torsten Hoefler <br>
+        <small>Professor at ETH Zürich</small>
+      </td>
+      <td style="width: 50%; padding: 10px; border: none;">
+        &nbsp; </td>
+      <!-- <td style="width: 33%; padding: 10px; border: none;">
+        &nbsp; </td> -->
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 ## Last Year's Proceedings (HotI31 (2024))
 
 Available at [IEEE here](https://ieeexplore.ieee.org/xpl/conhome/10664198/proceeding).
+
+## Last Year's Publications (HotI31 (2024))
+
+<!-- add a figure -->
+<div style="text-align: left">
+    <img src="/assets/img/hoti_ieeeMicro.jpg" alt="HotI31" style="width: 20%; max-width: 800px; height: auto;">
+    <!-- <br> -->
+    <!-- <strong>IEEE Micro</strong> -->
+</div>
+Available at [IEEE Micro](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10989057&punumber=40).

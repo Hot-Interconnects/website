@@ -13,9 +13,6 @@
 - name: Swadesh Choudhary
   affiliation: Intel
 
-- name: Alexandros Daglis
-  affiliation: Georgia Institute of Technology
-
 - name: Hans Eberle
   affiliation: NVIDIA
 
@@ -81,6 +78,9 @@
 
 - name: Anna Verner
   affiliation: NVIDIA
+
+- name: Gwendolyn Voskuilen
+  affiliation: Sandia National Laboratories
 
 - name: Xin Yuan
   affiliation: Florida State University

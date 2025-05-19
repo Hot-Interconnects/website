@@ -2,11 +2,6 @@
 # title: Sponsors
 ---
 
-<!-- Add a picture here -->
-<div align="center">
-  <!-- <img src="assets/img/combined_logos.png" alt="Alt text" style="width: 80%; height: auto;"> -->
-  <img src="assets/img/combined_logos.png" alt="Alt text">
-</div>
 
 
 ## Become an IEEE Hot Interconnects Patron!

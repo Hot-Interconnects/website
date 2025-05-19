@@ -2,6 +2,14 @@
 # title: Call For Tutorials
 ---
 
+## Submissions and Schedule
+
+| Event                      | Date               |
+| -------------------------- | ------------------ |
+| Proposals due    |   June 3, 2025      |
+| Notification of acceptance        |   June 10, 2025     |
+| Materials due |   August 2, 2025    |
+
 ## Topics of Interest 
 
 - Systems software for communication
@@ -37,13 +45,6 @@ Propose tutorials for one half-day (three hours, 2 presenters max) duration. Sub
 
 For questions, contact: tutorials@hoti.org
 
-## Submissions and Schedule
-
-| Event                      | Date               |
-| -------------------------- | ------------------ |
-| Proposals due    |   May 27, 2025 (Extension: June 3, 2025)      |
-| Notification of acceptance        |   June 3, 2025 (Extension: June 10, 2025)     |
-| Materials due |   August 2, 2025    |
 
 ## Submission Format
 

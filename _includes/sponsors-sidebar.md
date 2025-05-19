@@ -14,7 +14,9 @@
   <span style="font-size: 16px;"><strong>{{ sponsor.name }}</strong></span>
   {% for logo in sponsor.logos %}
   <p style="text-align: center;">
-    <img src="{{ logo }}" alt="{{ sponsor.name }} logo" width="{{ sponsor.image_width | default: '200px' }}">
+    <a href="{{ logo.url }}">
+      <img src="{{ logo.img }}" alt="{{ sponsor.name }} logo" width="{{ sponsor.image_width | default: '200px' }}">
+    </a>
   </p>
   {% endfor %}
 </div>

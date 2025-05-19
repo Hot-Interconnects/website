@@ -1,7 +1,7 @@
 main:
   - title: Home
     url: /index.html
-  - title: Keynotes
+  - title: Conference Highlights
     url: /keynotes.html
   - title: Call for Papers
     url: /call-for-papers.html

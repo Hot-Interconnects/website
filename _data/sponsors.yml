@@ -3,42 +3,31 @@
   members:  
   - name: 
     text: "Aug. 20 - 22, 2025"
-
-# - name: Social Media
-#   image_only: true
-#   image_width: 40px
-#   members:
-#   - name: X
-#     logo: /assets/img/logo_x_1.png
-#     url: https://twitter.com/ieeehoti
-#   - name: YouTube
-#     logo: /assets/img/logo_youtube.png
-#     url: https://www.youtube.com/@IEEEHOTI
-#   - name: LinkedIn
-#     logo: /assets/img/logo_linkedin.png
-#     url: https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all
-#   - name: Facebook
-#     logo: /assets/img/logo_facebook.png
-#     url: https://www.facebook.com/hoti.org
-
-- name: Thank you for 2025 Sponsors!
+- name: 2025 Sponsors
   members:
-  - name: Diamond 
-    image_width: 170px
-    logos:
-      - /assets/img/lightmatter_logo.jpeg
-      - /assets/img/cornelis-logo-stacked.png
-      - /assets/img/Cisco-Logo.png
-  - name: Platinum
-    image_width: 170px  # Largest size for Platinum
-    logos: 
-      - /assets/img/arista_150px.png
-      - /assets/img/UALink_logo.jpg
-  - name: Gold
-    image_width: 100px  # Medium size for Gold
-    logos:
-      - /assets/img/gigaio_150px.png
-  - name: Silver
-    image_width: 100px
-    logos:
-      - /assets/img/lenovo_logo.png
+    - name: Diamond 
+      image_width: 170px
+      logos:
+        - img: /assets/img/lightmatter_logo.jpeg
+          url: https://lightmatter.co/
+        - img: /assets/img/cornelis-logo-stacked.png
+          url: https://www.cornelisnetworks.com/
+        - img: /assets/img/Cisco-Logo.png
+          url: https://www.cisco.com/
+    - name: Platinum
+      image_width: 170px
+      logos: 
+        - img: /assets/img/arista_150px.png
+          url: https://www.arista.com/en/
+        - img: /assets/img/UALink_logo.jpg
+          url: https://ualinkconsortium.org/
+    - name: Gold
+      image_width: 100px
+      logos:
+        - img: /assets/img/gigaio_150px.png
+          url: https://gigaio.com/
+    - name: Silver
+      image_width: 100px
+      logos:
+        - img: /assets/img/lenovo_logo.png
+          url: https://www.lenovo.com
