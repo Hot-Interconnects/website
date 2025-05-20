@@ -15,7 +15,7 @@
   {% for logo in sponsor.logos %}
   <p style="text-align: center;">
     <a href="{{ logo.url }}">
-      <img src="{{ logo.img }}" alt="{{ sponsor.name }} logo" width="{{ sponsor.image_width | default: '200px' }}">
+      <img src="{{ logo.img }}" alt="{{ sponsor.name }} logo" width="{{ logo.image_width | sponsor.image_width | group.image_width ｜ default: '100px' }}">
     </a>
   </p>
   {% endfor %}

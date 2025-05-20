@@ -6,28 +6,40 @@
 - name: 2025 Sponsors
   members:
     - name: Diamond 
-      image_width: 170px
       logos:
         - img: /assets/img/lightmatter_logo.jpeg
           url: https://lightmatter.co/
+          image_width: 150px
         - img: /assets/img/cornelis-logo-stacked.png
           url: https://www.cornelisnetworks.com/
+          image_width: 150px
         - img: /assets/img/Cisco-Logo.png
           url: https://www.cisco.com/
+          image_width: 155px
+        - img: /assets/img/nubis_logo.jpeg
+          url: https://www.nubis-inc.com/
+          image_width: 160px
+        - img: /assets/img/Avicena_logo.jpg
+          url: https://avicena.tech/
+          image_width: 175px
     - name: Platinum
-      image_width: 170px
       logos: 
         - img: /assets/img/arista_150px.png
           url: https://www.arista.com/en/
+          image_width: 150px
         - img: /assets/img/UALink_logo.jpg
           url: https://ualinkconsortium.org/
+          image_width: 150px
     - name: Gold
-      image_width: 100px
       logos:
         - img: /assets/img/gigaio_150px.png
           url: https://gigaio.com/
+          image_width: 100px
     - name: Silver
-      image_width: 100px
       logos:
         - img: /assets/img/lenovo_logo.png
           url: https://www.lenovo.com
+          image_width: 100px
+        - img: /assets/img/dell_logo1.png
+          url: https://www.dell.com/en-us
+          image_width: 100px
