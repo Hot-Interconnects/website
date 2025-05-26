@@ -69,7 +69,7 @@
   <tbody>
     <tr style="vertical-align: top; text-align: center;  font-size: 1.3em;">
       <td style="width: 50%; padding: 10px; border: none;">
-        <img src="/assets/img/Nick_Lightmatter.jpeg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Nick Photo"> <br>
+        <img src="/assets/img/Nick_lightmatter.jpeg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Nick Photo"> <br>
         <strong>Transforming AI Infrastructure with the Power of 3D Photonics</strong> <a href="keynotes-lightmatter.html">Details</a> <br>
         Nick Harris <br>
         <small>Founder and CEO of Lightmatter</small>

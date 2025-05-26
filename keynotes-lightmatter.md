@@ -4,7 +4,7 @@
 
 ### Nick Harris: Founder and CEO of Lightmatter
 
-<img src="/assets/img/Nick_Lightmatter.jpeg">
+<img src="/assets/img/Nick_lightmatter.jpeg">
 
 **Title:** Transforming AI Infrastructure with the Power of 3D Photonics
 

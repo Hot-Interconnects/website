@@ -1,17 +1,16 @@
 main:
-  - title: Home
-    url: /index.html
-  - title: Conference Highlights
+  - title: Highlights
     url: /keynotes.html
-  - title: Call for Papers
-    url: /call-for-papers.html
-  - title: Call for Tutorials
-    url: /call-for-tutorials.html
-  # - title: Program
-    # url: /program.html
+
+  - title: Contributions
+    url: "#"     
+    submenu:
+      - title: Call for Papers
+        url: /call-for-papers.html
+      - title: Call for Tutorials
+        url: /call-for-tutorials.html
+
   - title: Sponsors
     url: /sponsors.html
   - title: Committees
     url: /committees.html
-  - title: Archive
-    url: /archive.html

@@ -5,37 +5,37 @@
     <div class="masthead__menu">
       <div class="masthead__brand">
         {% unless logo_path == empty %}
-          <a href="{{ '/' | relative_url }}" class="site-logo">
-            <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
-          </a>
+        <a href="{{ '/' | relative_url }}" class="site-logo">
+          <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+        </a>
         {% endunless %}
-        
-        <div class="social-icons">
-          <a href="https://twitter.com/ieeehoti" target="_blank" class="social-icon">
-            <img src="/assets/img/logo_x_1.png" alt="X (Twitter)" class="social-logo">
-            <span class="sr-only">X (Twitter)</span>
-          </a>
-          
-          <a href="https://www.youtube.com/@IEEEHOTI" target="_blank" class="social-icon">
-            <img src="/assets/img/logo_youtube.png" alt="YouTube" class="social-logo">
-            <span class="sr-only">YouTube</span>
-          </a>
-          
-          <a href="https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all" target="_blank" class="social-icon">
-            <img src="/assets/img/logo_linkedin.png" alt="LinkedIn" class="social-logo">
-            <span class="sr-only">LinkedIn</span>
-          </a>
-          
-          <a href="https://www.facebook.com/hoti.org" target="_blank" class="social-icon">
-            <img src="/assets/img/logo_facebook.png" alt="Facebook" class="social-logo">
-            <span class="sr-only">Facebook</span>
-          </a>
+        <div class="social-and-date">
+          <div class="social-icons">
+            <a href="https://twitter.com/ieeehoti" target="_blank" class="social-icon">
+              <img src="/assets/img/logo_x_1.png" alt="X (Twitter)" class="social-logo">
+            </a>
+
+            <a href="https://www.youtube.com/@IEEEHOTI" target="_blank" class="social-icon">
+              <img src="/assets/img/logo_youtube.png" alt="YouTube" class="social-logo">
+            </a>
+
+            <a href="https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all" target="_blank"
+              class="social-icon">
+              <img src="/assets/img/logo_linkedin.png" alt="LinkedIn" class="social-logo">
+            </a>
+
+            <a href="https://www.facebook.com/hoti.org" target="_blank" class="social-icon">
+              <img src="/assets/img/logo_facebook.png" alt="Facebook" class="social-logo">
+            </a>
+          </div>
+
+          <div class="masthead__date">Aug. 20 – 22</div>
         </div>
 
         <a href="{{ '/' | relative_url }}" class="site-title">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}
-            <span class="site-subtitle">{{ site.subtitle }}</span>
+          <span class="site-subtitle">{{ site.subtitle }}</span>
           {% endif %}
         </a>
       </div>
@@ -43,15 +43,31 @@
       <nav class="site-nav">
         <div class="nav-items">
           {%- for link in site.data.navigation.main -%}
-            <a href="{{ link.url | relative_url }}" 
-               class="masthead__menu-item" 
-               {% if link.description %}title="{{ link.description }}"{% endif %}
-               {% if link.target %}target="{{ link.target }}"{% endif %}>
+          {% if link.submenu %}
+          <div class="masthead__menu-item dropdown">
+            <a href="{{ link.url | relative_url }}" class="dropdown__toggle">
               {{ link.title }}
             </a>
+            <ul class="dropdown__menu">
+              {% for sub in link.submenu %}
+              <li>
+                <a href="{{ sub.url | relative_url }}" class="dropdown__item">
+                  {{ sub.title }}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% else %}
+          <a href="{{ link.url | relative_url }}" class="masthead__menu-item" {% if link.description
+            %}title="{{ link.description }}" {% endif %} {% if link.target %}target="{{ link.target }}" {% endif %}>
+            {{ link.title }}
+          </a>
+          {% endif %}
           {%- endfor -%}
         </div>
       </nav>
+
     </div>
   </div>
 </div>

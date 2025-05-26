@@ -20,26 +20,60 @@ Interconnect Software: You can't touch it but you need it</strong>
     The latest advancements in photonics, chips, parallel paths, and other cutting-edge interconnect technologies are dazzling. However, the picture is incomplete without the system software needed to exploit their full potential. This edition of Hot Interconnects will explore the underlying software ecosystems that empower interconnect fabrics to support a wide array of applications.
 </div>
 
-## Call for Papers
+<!-- before this line you have your intro… -->
 
-| Event                       | Date               |
-| -------------------------- | ------------------ |
-| Paper abstract deadline    |   ~~May 9, 2025~~ <span style="color:red">May 25, 2025 (firm)</span>       |
-| Submission deadline        |   ~~May 23, 2025~~ <span style="color:red">May 25, 2025 (firm)</span>     |
-| Notification of acceptance |   June 27, 2025    |
+<div class="call-for-container">
 
-{% comment %}
-| Symposium                  | August 18-20, 2021 |
-| Tutorials                  | August 21, 2021    |
-{% endcomment %}
+  <div class="call-for-panel">
+    <h2>Call for Papers</h2>
+    <table>
+      <thead>
+        <tr><th>Event</th><th>Date</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Paper abstract deadline</td>
+          <td><span style="color:red">AOE May 25, 2025 (firm)</span></td>
+        </tr>
+        <tr>
+          <td>Submission deadline</td>
+          <td><span style="color:red">AOE May 25, 2025 (firm)</span></td>
+        </tr>
+        <tr>
+          <td>Notification of acceptance</td>
+          <td>June 27, 2025</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-## Call for Tutorials
+  <div class="call-for-panel">
+    <h2>Call for Tutorials</h2>
+    <table>
+      <thead>
+        <tr><th>Event</th><th>Date</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Proposals due</td>
+          <td>June 3, 2025</td>
+        </tr>
+        <tr>
+          <td>Notification of acceptance</td>
+          <td>June 10, 2025</td>
+        </tr>
+        <tr>
+          <td>Materials due</td>
+          <td>August 2, 2025</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-| Event                      | Date               |
-| -------------------------- | ------------------ |
-| Proposals due    |   June 3, 2025      |
-| Notification of acceptance        |   June 10, 2025     |
-| Materials due |   August 2, 2025    |
+</div>
+
+<!-- then continues with HotI32 overview… -->
+
 
 ## HotI32 (2025) Overview
 

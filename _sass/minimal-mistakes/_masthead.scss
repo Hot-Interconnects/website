@@ -33,23 +33,53 @@
 .masthead__brand {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.social-and-date {
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;   // or center, if you prefer
+  // gap: 0.5rem;
+  // margin-right: 1rem;        // match your other spacing
+  display: grid;
+  grid-auto-flow: row;    // one row per child
+  gap: 0.5rem;
+  justify-items: start;   // or center, if you’d rather your icons be centered
+  margin-right: 1rem;
+}
+
+/* Style your new date line */
+.masthead__date {
+  align-items: center;
+  font-size: 0.8rem;         // tweak as needed
+  color: darkred;        // use your theme’s text color
+  line-height: 1;
+}
+
+/* On very small screens, shrink font slightly */
+@media (max-width: 768px) {
+  .masthead__date {
+    font-size: 0.8rem;
+  }
 }
 
 .site-logo {
-  display: inline-block;
-  margin-right: 1.5rem;
+  display: block;
+  margin-right: 1rem;
   
   img {
-    max-height: 2rem;
+    max-height: 4rem;
   }
 }
 
 .social-icons {
   display: flex;
   align-items: center;
-  margin-right: 1.5rem;
-  padding-left: 0.5rem;
-  gap: 0.75rem;
+  margin-right: 1rem;
+  padding-left: 0rem;
+  gap: 0.1rem;
 }
 
 .social-icon {
@@ -90,6 +120,7 @@
   align-items: center;
   justify-content: flex-end;
   flex-grow: 1;
+  font-size: 0.75rem;
   
   .nav-items {
     display: flex;
@@ -139,4 +170,50 @@
     -webkit-transform: translateZ(0);
     -webkit-backface-visibility: hidden;
   }
+}
+
+/* Container for a dropdown parent item */
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  /* ensure the toggle link matches other menu-items */
+  > .dropdown__toggle {
+    @extend .masthead__menu-item;
+    cursor: pointer;
+  }
+}
+
+/* Hidden by default */
+.dropdown__menu {
+  position: absolute;
+  top: 100%;            // directly below the toggle
+  left: 0;
+  background: white;
+  border: 1px solid $border-color;
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0;
+  display: none;
+  min-width: 12rem;     // adjust as needed
+  z-index: 30;
+}
+
+/* Each submenu link */
+.dropdown__item {
+  display: block;
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    background: $primary-color;
+    color: white;
+  }
+}
+
+/* Show on hover */
+.dropdown:hover .dropdown__menu {
+  display: block;
 }

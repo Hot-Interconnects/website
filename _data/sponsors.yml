@@ -1,15 +1,10 @@
-- name: Conference Date
-  text_only: true 
-  members:  
-  - name: 
-    text: "Aug. 20 - 22, 2025"
 - name: 2025 Sponsors
   members:
     - name: Diamond 
       logos:
         - img: /assets/img/lightmatter_logo.jpeg
           url: https://lightmatter.co/
-          image_width: 150px
+          image_width: 125px
         - img: /assets/img/cornelis-logo-stacked.png
           url: https://www.cornelisnetworks.com/
           image_width: 150px
