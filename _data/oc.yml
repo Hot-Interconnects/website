@@ -34,8 +34,8 @@
   name: Taylor Groves
   affiliation: Lightmatter
 
-# Tutorial Chairs
 - position: Tutorial Chairs
+  email: tutorials@hoti.org
   name: Amanda Bienz
   affiliation: UNM
 
@@ -45,6 +45,7 @@
 
 # Online Conference Chairs
 - position: Online Conference Chairs
+  email: onlinechair@hoti.org
   name: Matthew Fricke
   affiliation: UNM
 
@@ -58,6 +59,7 @@
 
 # Web Chairs
 - position: Web Chairs
+  email: webchair@hoti.org
   name: Timothy Stamler
   affiliation: NVIDIA
 
@@ -67,6 +69,7 @@
 
 # Publicity Chairs
 - position: Publicity Chairs
+  email: publicity@hoti.org
   name: Subhadeep Bhattacharya
   affiliation: NVIDIA
 
@@ -101,8 +104,8 @@
   name: Whit Schonbein
   affiliation: Sandia National Laboratories
 
-# Sponsor Chairs
 - position: Sponsor Chairs
+  email: sponsor@hoti.org
   name: Raj Channa
   affiliation: RBC Capital Markets
 

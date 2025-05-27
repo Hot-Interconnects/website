@@ -17,25 +17,31 @@
     {% for position in positions %}
       {% assign members = site.data.oc | where: "position", position %}
       {% for member in members %}
-        <tr>
-          {% if forloop.first %}
-          <td class="position" rowspan="{{ members.size }}">{{ position }}</td>
-          {% endif %}
-          <td class="name">
-            {% if member.email %}
-              <a href="mailto:{{ member.email }}">{{ member.name }}</a>
-            {% else %}
-              {{ member.name }}
-            {% endif %}
-          </td>
-          <td class="affiliation">
-            {% if member.url %}
-              <a href="{{ member.url }}">{{ member.affiliation }}</a>
-            {% else %}
-              {{ member.affiliation }}
-            {% endif %}
-          </td>
-        </tr>
+<tr>
+  {% if forloop.first %}
+    <td class="position" rowspan="{{ members.size }}">
+      {% if member.email %}
+        <a href="mailto:{{ member.email }}">
+          {{ position }}
+        </a>
+      {% else %}
+        {{ position }}
+      {% endif %}
+    </td>
+  {% endif %}
+  <td class="name">{{ member.name }}</td>
+  <td class="affiliation">
+    {% if member.url %}
+      <a href="{{ member.url }}">{{ member.affiliation }}</a>
+    {% else %}
+      {{ member.affiliation }}
+    {% endif %}
+  </td>
+</tr>
+
+
+
+
       {% endfor %}
     {% endfor %}
     </tbody>
@@ -137,6 +143,17 @@
   font-style: italic;
   color: #666;
 }
+
+.committee-table .position a {
+  color: #2f7d95;            /* make it blue */
+  text-decoration: underline;  /* force the underline */
+  
+  /* optional hover tweak */
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
 
 .committee-table a {
   color: inherit;
