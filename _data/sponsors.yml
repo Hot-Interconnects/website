@@ -21,15 +21,25 @@
       logos: 
         - img: /assets/img/arista_150px.png
           url: https://www.arista.com/en/
-          image_width: 150px
+          image_width: 145px
+          custom_spacing: "7px"
         - img: /assets/img/UALink_logo.jpg
           url: https://ualinkconsortium.org/
           image_width: 150px
+          custom_spacing: "7px"
+        - img: /assets/img/celestial-ai.jpg
+          url: https://www.celestial.ai/
+          image_width: 180px
+          custom_spacing: "7px"
+        - img: /assets/img/Meta_Logo.jpg
+          url: https://www.meta.com/
+          image_width: 120px
+          custom_spacing: "7px"
     - name: Gold
       logos:
         - img: /assets/img/gigaio_150px.png
           url: https://gigaio.com/
-          image_width: 100px
+          image_width: 90px
     - name: Silver
       logos:
         - img: /assets/img/lenovo_logo.png

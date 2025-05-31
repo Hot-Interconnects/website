@@ -37,6 +37,9 @@
 - name: Jithin Jose
   affiliation: Microsoft
 
+- name: Shelby Lockhart
+  affiliation: AMD
+
 - name: Xiaoyi Lu
   affiliation: University of California, Merced
 
@@ -50,7 +53,7 @@
   affiliation: NVIDIA
 
 - name: Kishore Punniyamurthy
-  affiliation: AMD Research
+  affiliation: NVIDIA
 
 - name: Raghunath Raja Chandrasekar
   affiliation: Amazon Web Services

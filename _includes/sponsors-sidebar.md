@@ -1,28 +1,22 @@
-{%- for group in site.data.sponsors %}
-<div style="text-align: center;"><strong>{{ group.name }}</strong></div>
-{% for sponsor in group.members %}
-{%- if group.text_only %}
-<div style="text-align: center; font-size: 16px; color: darkred;">{{ sponsor.name }} {{ sponsor.text }}</div>
-{%- elsif group.image_only %}
-<p style="text-align: center;">
-  <a href="{{ sponsor.url }}">
-    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }} logo" width="{{ group.image_width | default: '200px' }}">
-  </a>
-</p>
-{%- else %}
+{%- for outer_group in site.data.sponsors %}
+<div style="text-align: center;"><strong>{{ outer_group.name }}</strong></div>
+{% for sponsor_tier in outer_group.members %}
 <div style="text-align: center;">
-  <span style="font-size: 16px;"><strong>{{ sponsor.name }}</strong></span>
-  {% for logo in sponsor.logos %}
-  <p style="text-align: center;">
-    <a href="{{ logo.url }}">
-      <img src="{{ logo.img }}" alt="{{ sponsor.name }} logo" width="{{ logo.image_width | sponsor.image_width | group.image_width ｜ default: '100px' }}">
+  <span style="font-size: 20px;"><strong>{{ sponsor_tier.name }}</strong></span>
+  <div class="logo-list-container" style="line-height: 0;">
+    {% for logo_item in sponsor_tier.logos %}
+    {%- assign current_logo_margin = logo_item.custom_spacing | default: "3px 0" -%}
+    <a href="{{ logo_item.url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; 
+                                margin: {{ current_logo_margin }}; 
+                                text-decoration: none;">
+      <img src="{{ logo_item.img | relative_url }}"
+        alt="{{ sponsor_tier.name }} Sponsor Logo: {{ logo_item.url | split: '//' | last | split: '/' | first }}"
+        width="{{ logo_item.image_width | default: '120px' }}" style="vertical-align: middle; border: none; ">
     </a>
-  </p>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
-{%- endif %}
-{%- endfor %}
+{% endfor %}
 
 &nbsp;
-
 {% endfor %}
