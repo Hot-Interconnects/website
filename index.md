@@ -13,6 +13,8 @@ Interconnect Software: You can't touch it but you need it</strong>
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
+    <strong>Welcome to the 32nd iteration of the IEEE Hot Interconnects symposium. </strong>
+    <strong>HotI’2025 will be held virtually.</strong> <br><br>
     <strong>2025 Conference Theme<br>
     Interconnect Software: You can't touch it but you need it</strong>
     </div>
@@ -25,7 +27,7 @@ Interconnect Software: You can't touch it but you need it</strong>
 <div class="call-for-container">
 
   <div class="call-for-panel">
-    <h2>Call for Papers</h2>
+    <h2>Call for Papers <a href="call-for-papers.html">[details]</a></h2>
     <table>
       <thead>
         <tr><th>Event</th><th>Date</th></tr>
@@ -33,22 +35,26 @@ Interconnect Software: You can't touch it but you need it</strong>
       <tbody>
         <tr>
           <td>Paper abstract deadline</td>
-          <td><span style="color:red">AOE May 25, 2025 (firm)</span></td>
+          <td><span style="color:black"><del>AOE May 25, 2025 (firm)</del></span></td>
         </tr>
         <tr>
           <td>Submission deadline</td>
-          <td><span style="color:red">AOE May 25, 2025 (firm)</span></td>
+          <td><span style="color:black"><del>AOE May 25, 2025 (firm)</del></span></td>
         </tr>
         <tr>
           <td>Notification of acceptance</td>
-          <td>June 27, 2025</td>
+          <td><span style="color:red">June 27, 2025</span></td>
+        </tr>
+        <tr>
+          <td>Camera-ready due</td>
+          <td><span style="color:red">July 18, 2025</span></td>
         </tr>
       </tbody>
     </table>
   </div>
 
   <div class="call-for-panel">
-    <h2>Call for Tutorials</h2>
+    <h2>Call for Tutorials <a href="call-for-tutorials.html">[details]</a></h2>
     <table>
       <thead>
         <tr><th>Event</th><th>Date</th></tr>
@@ -77,49 +83,26 @@ Interconnect Software: You can't touch it but you need it</strong>
 
 ## HotI32 (2025) Overview
 
-{% comment %}
-#Due to continued uncertainty around the spread of COVID-19, there will not be an in-person event for Hot Interconnects 28, but it will be held as an on-line virtual conference. All tutorials, keynotes, and sessions will be broadcast  so that all registered conference attendees will be able to access. Logon instructions will be emailed to all  attendees before the start of the conference. The broadcast will be in the Pacific Time Zone.  Per-talk Slack channels connect you to presenters for live Q&A and discussions with other attendees.  We hope that you enjoy this new format conference and all the interesting presentations described here. 
-{% endcomment %}
-
+<div style="text-align: justify; text-indent: 2em;">
+<p>
 IEEE Hot Interconnects is the premier international forum for researchers
 and developers of state of the art hardware and software architectures and
 implementations for interconnection networks of all scales, ranging from
 multi-core on-chip interconnects to those within systems, clusters, and
 data centers. Leaders in industry and academia attend the conference to
 interact with individuals at the forefront of this field.
-
+</p>
+<p>
 Our objective is to address the data center networking and the supercomputing
 communities. We hope you can join us and benefit not only by the content
 but also by the prime networking opportunities this event always offers.
+</p>
+</div>
 
 
-{% comment %}
-#Two days of technical sessions and a day of tutorials are waiting for you,
-#to keep you on the top of the latest developments in industry and academia.
-#Our objective is to address the data center networking and the supercomputing communities.
-{% endcomment %}
 
 ## Keynotes
 
-
-<!-- <table style="width: 100%; border-collapse: collapse; border: none;">
-  <tbody>
-    <tr style="vertical-align: top; text-align: center; font-size: 1.5em;">
-      <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
-        <img src="/assets/img/amin_photo.jpg" style="width: 250px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Amin Vahdat Photo"> <br>
-        Amin Vahdat <br>
-        <small>Vice President of ML, Systems, and Cloud AI at Google</small> <br>
-        <strong>Title TBA</strong> <a href="keynotes-amin.html">details</a> 
-      </td>
-      <td style="width: 50%; padding: 10px; border: none; vertical-align: top;">
-        <img src="/assets/img/speaker-deepak-size250.jpeg" style="width: 250px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Deepak Bansal Photo"> <br>
-        Deepak Bansal <br>
-        <small>Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft</small> <br>
-        <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <a href="keynotes-deepak.html">details</a> 
-      </td>
-    </tr>
-  </tbody>
-</table> -->
 
 <table class="keynote-table" style="width:100%; border-collapse: collapse;">
   <tbody>
@@ -149,10 +132,10 @@ but also by the prime networking opportunities this event always offers.
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Title TBA</strong> <br> <a href="keynotes-amin.html">details</a>
+        <strong>Title TBA</strong> <br> <a href="keynotes-amin.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <br> <a href="keynotes-deepak.html">details</a>
+        <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <br> <a href="keynotes-deepak.html">[details]</a>
       </td>
     </tr>
   </tbody>
@@ -161,7 +144,7 @@ but also by the prime networking opportunities this event always offers.
 
 ## Panel
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<!-- <table style="width: 100%; border-collapse: collapse; border: none;">
   <tbody>
     <td style="padding: 10px; border: none; font-size: 1.1em;">
       <large><strong> Moderator </strong>: <br>
@@ -173,6 +156,18 @@ but also by the prime networking opportunities this event always offers.
       </td>
       <td style="width: 60%; padding: 10px; border: none;">
         <small>New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="keynotes-panel.html"> <br> details</a></small>
+      </td>
+    </tr>
+  </tbody>
+</table> -->
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="vertical-align: top; text-align: left;  font-size: 1.5em;">
+      <td style="width: 60%; padding: 10px; border: none;">
+        <large><strong>LLM Token Economy: How is networking going to play in the age of agents?</strong></large>  <br>
+        Moderator: Peter Olcott, Principal at First Spark Ventures <br>
+        <small>New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="keynotes-panel.html"> [details]</a></small>
       </td>
     </tr>
   </tbody>
@@ -189,7 +184,7 @@ but also by the prime networking opportunities this event always offers.
         <img src="/assets/img/hoefler_dinfk.jpg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="hoefler Photo"> <br>
         Torsten Hoefler <br>
         <small>Professor at ETH Zürich</small> <br>
-        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="keynotes-torsten.html">details</a>
+        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="keynotes-torsten.html">[details]</a>
       </td>
       <td style="width: 40%; padding: 10px; border: none;">
         &nbsp; </td>

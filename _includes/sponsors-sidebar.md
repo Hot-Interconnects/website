@@ -2,7 +2,7 @@
 <div style="text-align: center;"><strong>{{ outer_group.name }}</strong></div>
 {% for sponsor_tier in outer_group.members %}
 <div style="text-align: center;">
-  <span style="font-size: 20px;"><strong>{{ sponsor_tier.name }}</strong></span>
+  <span style="font-size: 18px;"><strong>{{ sponsor_tier.name }}</strong></span>
   <div class="logo-list-container" style="line-height: 0;">
     {% for logo_item in sponsor_tier.logos %}
     {%- assign current_logo_margin = logo_item.custom_spacing | default: "3px 0" -%}

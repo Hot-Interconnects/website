@@ -48,3 +48,19 @@
         - img: /assets/img/dell_logo1.png
           url: https://www.dell.com/en-us
           image_width: 100px
+    - name: Technical Sponsors
+      logos:
+        - img: /assets/img/ieee.png
+          url: https://www.ieee.org/
+          image_width: 100px
+        - img: /assets/img/ieee-comp-society.png
+          url: https://www.computer.org/
+          image_width: 100px
+        - img: /assets/img/tcmm.png
+          url: https://tc.computer.org/tcmm/
+          image_width: 100px
+    - name: Media Partner
+      logos:
+        - img: /assets/img/HPCwire-logo-800.png
+          url: https://www.hpcwire.com/
+          image_width: 150px

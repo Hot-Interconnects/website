@@ -3,7 +3,7 @@ main:
     url: /keynotes.html
 
   - title: Contributions
-    url: "#"     
+    url: "/call-for-papers.html"     
     submenu:
       - title: Call for Papers
         url: /call-for-papers.html

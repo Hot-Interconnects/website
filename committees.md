@@ -4,6 +4,7 @@
 
 
 <div class="committee-table">
+  <p> Contact us: info@hoti.org </p>
   <table>
     <thead>
       <tr>
@@ -21,8 +22,9 @@
   {% if forloop.first %}
     <td class="position" rowspan="{{ members.size }}">
       {% if member.email %}
-        <a href="mailto:{{ member.email }}">
-          {{ position }}
+        {{position}}<br>
+        <a class="email" href="mailto:{{ member.email }}">
+          {{ member.email }}
         </a>
       {% else %}
         {{ position }}

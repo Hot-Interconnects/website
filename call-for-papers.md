@@ -7,9 +7,10 @@
 
 | Event                       | Date               |
 | -------------------------- | ------------------ |
-| Paper abstract deadline    |   <span style="color:red"> AOE May 25, 2025 (firm)</span>       |
-| Submission deadline        |   <span style="color:red"> AOE May 25, 2025 (firm)</span>     |
-| Notification of acceptance |   June 27, 2025    |
+| Paper abstract deadline    |   <span style="color:black"><del> AOE May 25, 2025 (firm)</del></span>       |
+| Submission deadline        |   <span style="color:black"><del> AOE May 25, 2025 (firm)</del></span>     |
+| Notification of acceptance |   <span style="color:red">June 27, 2025 </span>   |
+| Camera-ready               |   <span style="color:red">July 18, 2025 </span>   |
 
 {% comment %}
 | Symposium                  | August 18-20, 2021 |
@@ -71,9 +72,9 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 * Submissions should include title, author, abstract, and paper in double-column, see <a href="https://www.ieee.org/conferences/publishing/templates.html">[IEEE format]</a> for details.
 * Papers will be submitted electronically through <a href="https://easychair.org/conferences?conf=hoti2025"> [EasyChair] </a> and will undergo a single-blind review process.
 * Regular papers: up to 10 pages (including technical content and figures), excluding references and any appendices. Appendices (if any) are limited to 5 pages (the limit might be extended upon committee approval in advance). Reproducibility appendices are encouraged but no official verification is provided by the HotI program committee.
-* Hot topic papers: up to 4 pages (including technical content and figures) excluding references. Appendices are not allowed for hot topic papers.
+* Hot topic papers: up to 4 pages (including technical content and figures) excluding references. Appendices are not allowed for hot topic papers. Hot topic papers should describe initial research or early first-of-a-kind results (from industry or academia) and will be reviewed independently from the regular papers. Hot topic papers will not be considered for IEEE Micro special issue.
 * Materials other than the abstract, main paper body, and references will be read at the committee’s discretion.
-* Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. We plan to invite the best papers for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission.
+* Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. We plan to invite regular papers with the highest review scores for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission.
 * After a paper is accepted, the authors must follow the conference and <a href="https://www.computer.org/conferences/cps"> [IEEE CPS guidelines]</a> in publishing the paper.
 <!-- ## Posters and Tutorials -->
 
