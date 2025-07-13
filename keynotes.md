@@ -33,7 +33,7 @@
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Title TBA</strong> <br> <a href="keynotes-amin.html">[details]</a>
+        <strong>Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure</strong> <br> <a href="keynotes-amin.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <br> <a href="keynotes-deepak.html">[details]</a>

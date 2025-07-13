@@ -43,7 +43,7 @@ Interconnect Software: You can't touch it but you need it</strong>
         </tr>
         <tr>
           <td>Notification of acceptance</td>
-          <td><span style="color:red">June 27, 2025</span></td>
+          <td><span style="color:red">July 3, 2025</span></td>
         </tr>
         <tr>
           <td>Camera-ready due</td>
@@ -132,7 +132,7 @@ but also by the prime networking opportunities this event always offers.
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Title TBA</strong> <br> <a href="keynotes-amin.html">[details]</a>
+        <strong>Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure</strong> <br> <a href="keynotes-amin.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <br> <a href="keynotes-deepak.html">[details]</a>

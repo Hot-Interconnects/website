@@ -6,9 +6,9 @@
 
 <img src="/assets/img/amin_photo.jpg">
 
-**Title:** TBA
+**Title:** Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure
 
-**Abstract:** TBA
+**Abstract:** Amin Vahdat VP/GM of AI & Infrastructure at Google, will examine the evolution of computing infrastructure, from its transformation for internet service delivery to the modern-day revolution driven by genAI. Amin explores the design principles behind scale-out architectures and the shift towards specialized hardware, high-bandwidth networks, liquid cooling and advanced memory technologies necessitated by genAI. Taken together, these shifts promise to render next-generation unrecognizable relative to today’s conventional wisdom with orders of magnitude improvement in compute capacity, scalability, and power efficiency.
 
 **Biography:** 
 <div style="text-align: justify; text-indent: 0em;">

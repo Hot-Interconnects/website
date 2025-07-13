@@ -9,7 +9,7 @@
 | -------------------------- | ------------------ |
 | Paper abstract deadline    |   <span style="color:black"><del> AOE May 25, 2025 (firm)</del></span>       |
 | Submission deadline        |   <span style="color:black"><del> AOE May 25, 2025 (firm)</del></span>     |
-| Notification of acceptance |   <span style="color:red">June 27, 2025 </span>   |
+| Notification of acceptance |   <span style="color:red">July 3, 2025 </span>   |
 | Camera-ready               |   <span style="color:red">July 18, 2025 </span>   |
 
 {% comment %}
