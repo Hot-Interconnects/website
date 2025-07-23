@@ -13,8 +13,9 @@ Interconnect Software: You can't touch it but you need it</strong>
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
+    <span style="color:red">Registration link will be published by 7/25 on the HOTI website</span><br><br>
     <strong>Welcome to the 32nd iteration of the IEEE Hot Interconnects symposium. </strong>
-    <strong>HotI’2025 will be held virtually.</strong> <br><br>
+    <strong>HotI’2025 will be held virtually.</strong> <br>
     <strong>2025 Conference Theme<br>
     Interconnect Software: You can't touch it but you need it</strong>
     </div>

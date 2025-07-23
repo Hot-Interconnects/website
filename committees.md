@@ -74,6 +74,27 @@
   </table>
 </div> 
 
+<div class="tpc-table">
+  <table>
+  <thead>
+    <tr>
+    <th colspan="2"> Steering Committee​ </th>
+    </tr>
+  </thead>
+    <!-- <tbody> -->
+      {% assign members = site.data.sc %}
+      {% for member in members %}
+        <!-- {% if forloop.index0 == 0 or forloop.index0 | modulo: 3 == 0 %}<tr>{% endif %} -->
+        <tr>
+          <td class="name">{{ member.name }}</td>
+          <td class="name">{{ member.affiliation }}</td>
+        </tr>
+        <!-- {% if forloop.index0 | modulo: 3 == 2 or forloop.last %}</tr>{% endif %} -->
+      {% endfor %}
+    <!-- </tbody> -->
+  </table>
+</div> 
+
 <style>
 /* .tpc-table table {
   width: 100%;
