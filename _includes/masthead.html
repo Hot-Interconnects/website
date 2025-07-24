@@ -33,6 +33,11 @@
           <div class="masthead__date">2025, Virtual</div> 
         </div>
 
+        <!-- add a button for register -->
+        <!-- <a href="attendee_instructions.html" class="register-button">Register</a> -->
+        <a href="register.html" class="register-button">REGISTER NOW!</a>
+
+
         <a href="{{ '/' | relative_url }}" class="site-title">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}
@@ -72,3 +77,29 @@
     </div>
   </div>
 </div>
+
+<style>
+.register-button {
+  display: inline-block;
+  background: linear-gradient(to bottom, #e60000 0%, #990000 100%);
+  color: white !important; /* Force white text */
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none !important; /* Remove underline */
+  border-radius: 25px;
+  box-shadow: inset 0 2px 3px rgba(255,255,255,0.3), 
+              0 4px 6px rgba(0,0,0,0.4);
+  border: 1px solid #800000;
+  text-shadow: 0 -1px 1px #800000;
+  font-family: Arial, sans-serif;
+  transition: transform 0.1s ease-in-out;
+}
+
+.register-button:hover {
+  transform: scale(1.03);
+  background: linear-gradient(to bottom, #ff1a1a 0%, #b30000 100%);
+}
+</style>
+

@@ -1,7 +1,11 @@
 ---
 # title: Sponsors
 ---
-
+<!-- <div style="max-width: 850px; margin: 0 auto; text-align: center">
+  <div style="text-align: center; font-size: 30px">
+    <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
+  </div>
+</div> -->
 
 
 ## Become an IEEE Hot Interconnects Patron!

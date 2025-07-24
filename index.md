@@ -13,7 +13,7 @@ Interconnect Software: You can't touch it but you need it</strong>
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
-    <span style="color:red">Registration link will be published by 7/25 on the HOTI website</span><br><br>
+    <!-- <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br> -->
     <strong>Welcome to the 32nd iteration of the IEEE Hot Interconnects symposium. </strong>
     <strong>HotI’2025 will be held virtually.</strong> <br>
     <strong>2025 Conference Theme<br>
@@ -44,11 +44,11 @@ Interconnect Software: You can't touch it but you need it</strong>
         </tr>
         <tr>
           <td>Notification of acceptance</td>
-          <td><span style="color:red">July 3, 2025</span></td>
+          <td><span style="color:black"><del>July 3, 2025</del></span></td>
         </tr>
         <tr>
           <td>Camera-ready due</td>
-          <td><span style="color:red">July 18, 2025</span></td>
+          <td><span style="color:black"><del>July 18, 2025</del></span></td>
         </tr>
       </tbody>
     </table>
@@ -63,15 +63,15 @@ Interconnect Software: You can't touch it but you need it</strong>
       <tbody>
         <tr>
           <td>Proposals due</td>
-          <td>June 3, 2025</td>
+          <td><del>June 3, 2025</del></td>
         </tr>
         <tr>
           <td>Notification of acceptance</td>
-          <td>June 10, 2025</td>
+          <td><del>June 10, 2025</del></td>
         </tr>
         <tr>
           <td>Materials due</td>
-          <td>August 2, 2025</td>
+          <td style="color:red">August 2, 2025</td>
         </tr>
       </tbody>
     </table>

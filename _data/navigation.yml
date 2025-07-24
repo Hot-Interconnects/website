@@ -1,9 +1,10 @@
 main:
+   
   - title: Highlights
     url: /keynotes.html
 
   - title: Contributions
-    url: "/call-for-papers.html"     
+    url: "/call-for-tutorials.html"     
     submenu:
       - title: Call for Papers
         url: /call-for-papers.html
