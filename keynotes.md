@@ -89,24 +89,43 @@
 
 ## Sponsor Talks
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table class="keynote-table" style="width:100%; border-collapse: collapse;">
   <tbody>
-    <tr style="vertical-align: top; text-align: center;  font-size: 1.3em;">
-      <td style="width: 50%; padding: 10px; border: none;">
-        <img src="/assets/img/Nick_lightmatter.jpeg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Nick Photo"> <br>
-        Nick Harris <br>
-        <small>Founder and CEO of Lightmatter</small> <br>
-        <strong>Transforming AI Infrastructure with the Power of 3D Photonics</strong> <a href="keynotes-lightmatter.html"> <br> [details]</a> 
+    <!-- Row: photos -->
+    <tr>
+      <td style="width:33%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/Nick_lightmatter.jpeg" alt="Nick Harris" style="width:200px; height:auto;">
       </td>
-      <td style="width: 50%; padding: 10px; border: none;">
-        <img src="/assets/img/Peter_nubis.jpg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="Peter Photo"> <br>
-        Peter Winzer <br>
-        <small>Founder and CTO of Nubis</small> <br>
-        <strong>Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration</strong> <a href="keynotes-nubis.html"> <br> [details]</a> 
+      <td style="width:33%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/Peter_nubis.jpg" alt="Peter Winzer" style="width:200px; height:auto;">
+      </td>
+    </tr>
+    <!-- Row: names -->
+    <tr>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Nick Harris</td>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Peter Winzer</td>
+    </tr>
+    <!-- Row: affiliations -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Founder and CEO of Lightmatter
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Founder and CTO of Nubis
+      </td>
+    </tr>
+    <!-- Row: titles + details link -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Transforming AI Infrastructure with the Power of 3D Photonics</strong> <br> <a href="keynotes-lightmatter.html">[details]</a>
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration</strong> <br> <a href="keynotes-nubis.html">[details]</a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ------------------------
 

@@ -5,11 +5,9 @@ title: Program
 {% include reg-open.md %}
 {% endcomment %}
 
-The times in the program below are Pacific Time (PT). The <u>link</u>
-to the conference's platform is provided in the invitation email
-that follows your registration.
+The times in the program below are Pacific Time (PT). We will keep updating the program as we get closer to the event date.
 
-## Conference Day 1: Wednesday, August 18, 2021
+## Conference Day 1: Wednesday, August 20
 
 <table>
 <colgroup>
@@ -27,135 +25,112 @@ that follows your registration.
 <tbody>
 
 <tr>
-<td markdown="span">08:45</td>
-<td markdown="span">**Introduction and Welcome**</td>
-<td markdown="span">General Co-chair: Pavel Shamis</td>
+<td markdown="span">09:20</td>
+<td markdown="span">**Introduction and Day 1 Welcome**</td>
+<td markdown="span">General Chair: Artem Polyakov</td>
 </tr>
 
 <tr>
-<td markdown="span">09:00</td>
-<td markdown="span">**Keynote 1**: Compute Express Link (CXL) changing the game for Cloud Computing
+<td markdown="span">09:30 - 10:30</td>
+<td markdown="span">**Keynote 1**: Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure
 <br>
-<a href="assets/txt/dds_abstract.txt">[Abstract]</a>
+<a href="keynotes-amin.html">[details]</a>
 <br>
 <br>
-**Session chair**: Dan Pitt (Palo Alto Innovation Advisors)
+**Session chair**: Artem Polyakov
 </td>
-<td markdown="span"> Debendra Das Sharma, Intel <a href="assets/txt/dds_bio.txt">[Bio]</a>
+<td markdown="span"> Amin Vahdat, Google
 <br>
-<img src="assets/img/dds_photo.png" alt="Dr. Debendra Das Sharma">
 </td>
 </tr>
 
 <tr>
-<td markdown="span">10:00</td>
-<td markdown="span">**Diamond Sponsor Talk**</td>
-<td markdown="span">Intel</td>
+<td markdown="span">10:30 - 10:45</td>
+<td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics <a href="keynotes-lightmatter.html">[details]</a></td>
+<td markdown="span">Nick Harris </td>
+</tr>
+<tr>
+<td markdown="span">10:45 - 11:00</td>
+<td markdown="span">**Diamond Sponsor Talk:** Cornelis</td>
+<td markdown="span">Matt Williams </td>
 </tr>
 
 <tr>
-<td markdown="span">10:20</td>
-<td markdown="span">*Break*</td>
-<td markdown="span"></td>
-</tr>
-
-<tr>
-<td markdown="span">10:35</td>
-<td markdown="span">**Technical Paper Session A**: Specialized Network Hardware</td>
-<td markdown="span">**Session chair**: Scott Levy (Sandia National Laboratories)</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">In-network reductions on a multi-dimensional HyperX</td>
-<td markdown="span">Kartik Lakhotia (USC), Fabrizio Petrini (Intel), Rajgopal Kannan (US Army Research Lab), and Viktor Prasanna (USC)</td>
+<td markdown="span">11:00 - 12:00</td>
+<td markdown="span">**Technical Paper Session A**: <br>Network Synchronization and Routing</td>
+<td markdown="span">**Session chair**: TBD</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Hardware SYN Attack Protection For High Performance Load Balancers</td>
-<td markdown="span">Reuven Cohen (Technion), Matty Kadosh (Nvidia), Alan Lo (Nvidia), and Qasem Sayah (Technion)</td>
+<td markdown="span">bittide: Control Time, Not Flows</td>
+<td markdown="span"> Martijn Bastiaan, Christiaan Baaij, Martin Izzard, Felix Klein, Sanjay Lall and Tammo Spalink </td>
 </tr>
 
 <tr>
-<td markdown="span">11:35</td>
+<td markdown="span"></td>
+<td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels</td>
+<td markdown="span"> Alejandro Cano Cos, Cristóbal Camarero, Carmen Martinez and Ramon Beivide </td>
+</tr>
+
+<tr>
+<td markdown="span">12:00 - 12:30</td>
 <td markdown="span">*Lunch*</td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">12:30</td>
-<td markdown="span">**Technical Paper Session B**: Deep Learning</td>
-<td markdown="span">**Session chair**: Vishwanath Venkatesan (Nvidia)</td>
+<td markdown="span">**Technical Paper Session B**: Co-packaged Optics</td>
+<td markdown="span">**Session chair**: TBD</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Accelerating CPU-based Distributed DNN Training on Modern HPC Clusters using BlueField-2 DPUs</td>
-<td markdown="span">Arpan Jain, Nawras Alnaasan, Aamir Shafi, Hari Subramoni, and Dhabaleswar K Panda (The Ohio State University)</td>
+<td markdown="span">Accelerating Frontier MoE Training with 3D Integrated Optics</td>
+<td markdown="span"> Taylor Groves, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Efficient Multi-Path NVLink/PCIe-Aware UCX based Collective Communication for Deep Learning</td>
-<td markdown="span">Yiltan Hassan Temucin, Amirhossein Sojoodi, Pedram Alizadeh and Ahmad Afsahi (Queen's University)</td>
+<td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation</td>
+<td markdown="span"> Zhenguo Wu and Keren Bergman </td>
 </tr>
 
 <tr>
-<td markdown="span">13:30</td>
-<td markdown="span">**Gold Sponsor Talks**</td>
-<td markdown="span">**Session chair**: Oscar Hernandez (Nvidia)</td>
+<td markdown="span">13:30-13:45</td>
+<td markdown="span">**Diamond Sponsor Talk:** Cisco</td>
+<td markdown="span"> Will Eatherton </td>
 </tr>
 
 <tr>
-<td markdown="span"></td>
-<td markdown="span">
-Extending Network Transport Across Multiple Cloud Providers
-<br>
-<a href="assets/txt/arista_abstract.txt">[Abstract]</a>
+<td markdown="span">13:45-14:00</td>
+<td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration <a href="keynotes-nubis.html">[details]</a> </td>
+<td markdown="span"> Peter Winzer </td>
+</tr>
+
+<tr>
+<td markdown="span">14:00 - 15:30</td>
+<td markdown="span">**Panel** -- LLM Token Economy: How is networking going to play in the age of agents?
+<a href="keynotes-panel.html">[details]</a> <br>
+**Session chair**: Alan Benjamin
 </td>
 <td markdown="span">
-Douglas Gourlay (Vice President/General Manager, Arista)
-<br>
-<a href="assets/txt/arista_bio.txt">[Bio]</a>
+**Moderator**: Peter Olcott (First Spark Ventures) <br>
+**Panelists**: Phill Brown (Meta), Davor Capalija (Tenstorrent Inc.), Ethan Lockshin (Groq), Sid Sheth (d-Matrix)
 </td>
 </tr>
 
 <tr>
-<td markdown="span"></td>
-<td markdown="span">IBM</td>
-<td markdown="span">IBM</td>
-</tr>
-
-<tr>
-<td markdown="span">13:50</td>
-<td markdown="span">*Break*</td>
-<td markdown="span"></td>
-</tr>
-
-<tr>
-<td markdown="span">14:05</td>
-<td markdown="span">**Panel** -- Von Neumann vs. Programmable Logic Smart NICs: Which is the Dead End?
-<br>
-<a href="assets/txt/panel_abstract.txt">[Abstract]</a>
-</td>
-<td markdown="span">
-**Moderator**: Scott Schweitzer (Achronix) <br>
-**Team Von Neumann**: Mario Baldi (Pensando), Michael Kagan (NVIDIA), Cary Ussery (Marvell) <br>
-**Team FPGA**: Jim Dworkin (Intel), Nick Ilyadis (Achronix), Ripduman Sohan (Xilinx) <br>
-</td>
-</tr>
-
-<tr>
-<td markdown="span">15:35</td>
-<td markdown="span">**Head Bubba Memorial Cocktail Reception**</td>
-<td markdown="span"></td>
+<td markdown="span">15:30</td>
+<td markdown="span">**The Head Bubba Memorial & HotI Closing Remarks Day 1**</td>
+<td markdown="span"> Dan Pitt </td>
 </tr>
 
 </tbody>
 </table>
 
-## Conference Day 2: Thursday, August 19, 2021
+## Conference Day 2: Thursday, August 21
 
 <table>
 <colgroup>
@@ -173,186 +148,145 @@ Douglas Gourlay (Vice President/General Manager, Arista)
 <tbody>
 
 <tr>
-<td markdown="span">09:00</td>
-<td markdown="span">**Keynote 2**: What is Next for Optics?
+<td markdown="span">08:50</td>
+<td markdown="span">**Day 2 Welcome**</td>
+<td markdown="span">General Chair: Artem Polyakov</td>
+</tr>
+
+<tr>
+<td markdown="span">09:00 - 10:00</td>
+<td markdown="span">**Keynote 2**: Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI
 <br>
-<a href="assets/txt/andy_abstract.txt">[Abstract]</a>
+<a href="keynotes-deepak.html">[details]</a>
 <br>
 <br>
-**Session chair**: Raj Channa (RBCCM)
+**Session chair**: Dan Pitt
 </td>
-<td markdown="span"> Andy Bechtolsheim, Arista <a href="assets/txt/andy_bio.txt">[Bio]</a>
+<td markdown="span"> Deepak Bansal (Microsoft)
 <br>
-<img src="assets/img/andy_photo.jpeg" alt="Andy Bechtolsheim">
 </td>
 </tr>
 
 <tr>
-<td markdown="span">10:00</td>
-<td markdown="span">**Platinum Sponsor Talks**</td>
-<td markdown="span">**Session chair**: Luis E. Peña (Arm Research)</td>
+<td markdown="span">10:00 - 10:15</td>
+<td markdown="span">**Diamond Sponsor Talk:** Avicena</td>
+<td markdown="span"> </td>
+</tr>
+
+<tr>
+<td markdown="span">10:15 - 10:25</td>
+<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics<a href="keynotes-arista.html">[details]</a> </td>
+<td markdown="span"> Andreas Bechtolsheim </td>
+</tr>
+
+<tr>
+<td markdown="span">10:25 - 10:30</td>
+<td markdown="span">**Gold Sponsor Talk:** GigaIO</td>
+<td markdown="span"> TBD </td>
+</tr>
+
+<tr>
+<td markdown="span">10:30 - 12:00</td>
+<td markdown="span">**Technical Paper Session C**: <br>Interconnect Software -- Runtimes & Workloads</td>
+<td markdown="span">**Session chair**: TBD</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">
-Meet Your Kinetic Data Centre - Composable Disaggregated Infrastructure
-<br>
-<a href="assets/txt/dell_abstract.txt">[Abstract]</a>
-</td>
-<td markdown="span">
-Summit Puri (LIQID), David Nguyen (Dell)
-<br>
-<a href="assets/txt/dell_bios.txt">[Bios]</a>
-</td>
+<td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms</td>
+<td markdown="span">Zhiyi Hu, Siyuan Shen, Tommaso Bonato and Torsten Hoefler</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">
-The Path to Resource Pooling from PCIe to CXL, Reducing Network Bottlenecks to Boot
-<br>
-<a href="assets/txt/gigaio_abstract.txt">[Abstract]</a>
-</td>
-<td markdown="span">
-Alan Benjamin (President and CEO, GigaIO)
-<br>
-<a href="assets/txt/gigaio_bio.txt">[Bio]</a>
-</td>
-</tr>
-
-<tr>
-<td markdown="span">10:30</td>
-<td markdown="span">*Break*</td>
-<td markdown="span"></td>
-</tr>
-
-<tr>
-<td markdown="span">10:45</td>
-<td markdown="span">**Technical Paper Session C**: Buses and Memory</td>
-<td markdown="span">**Session chair**: William (Whit) Schonbein (Sandia National Laboratories)</td>
+<td markdown="span">Characterizing Communication Patterns in Distributed LLM Inference</td>
+<td markdown="span"> Lang Xu, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">A low latency approach to delivering alternate protocols with coherency and memory semantics using PCI Express® 6.0 PHY at 64.0 GT/s</td>
-<td markdown="span">Debendra Das Sharma (Intel)</td>
+<td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network</td>
+<td markdown="span"> Timo Schneider, Pengcheng Xu and Torsten Hoefler </td>
 </tr>
 
 <tr>
-<td markdown="span"></td>
-<td markdown="span">Programmable FPGA-based Memory Controller</td>
-<td markdown="span">Sasindu Wijeratne, Sanket Pattnaik, Zhiyu Chen, Rajgopal Kannan and Viktor Prasanna (University of Southern California)</td>
-</tr>
-
-<tr>
-<td markdown="span">11:45</td>
-<td markdown="span">**Gold Sponsor Talks**</td>
-<td markdown="span">**Session chair**: Raj Channa (RBCCM)</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Algo-Logic
-<br>
-<a href="assets/txt/algo_abstract.txt">[Abstract]</a>
-</td>
-<td markdown="span">John W. Lockwood (CEO, Algo-Logic)
-<br>
-<a href="assets/txt/algo_bio.txt">[Bio]</a>
-</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Tidalscale
-</td>
-<td markdown="span">Gary Smerdon (CEO, Tidalscale)
-</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Facebook
-</td>
-<td markdown="span">Facebook
-</td>
-</tr>
-
-<tr>
-<td markdown="span">12:15</td>
+<td markdown="span">12:00 - 12:30</td>
 <td markdown="span">*Lunch*</td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
-<td markdown="span">13:00</td>
-<td markdown="span">**Technical Paper Session D**: Routing and Switches</td>
-<td markdown="span">**Session chair**: Ching-Hsiang Chu (Facebook)</td>
+<td markdown="span"> </td>
+<td markdown="span">**Invited Talk Session:** Next Gen Interconnects</td>
+<td markdown="span">**Session chair**: TBD</td>
+</tr>
+
+<tr>
+<td markdown="span">12:30 - 13:00</td>
+<td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> <a href="keynotes-torsten.html">[details]</a> </td>
+<td markdown="span">Torsten Hoefler</td>
+</tr>
+
+<tr>
+<td markdown="span">13:00 - 13:30</td>
+<td markdown="span">TBD</td>
+<td markdown="span">TBD</td>
+</tr>
+
+<tr>
+<td markdown="span">13:30 - 13:40</td>
+<td markdown="span">**Platinum Sponsor Talk:** UALink</td>
+<td markdown="span"> TBD </td>
+</tr>
+
+<tr>
+<td markdown="span">13:40 - 13:50</td>
+<td markdown="span">**Platinum Sponsor Talk:** Celestial AI</td>
+<td markdown="span"> TBD </td>
+</tr>
+
+<tr>
+<td markdown="span">13:50 - 14:00</td>
+<td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta <a href="keynotes-meta.html">[details]</a> </td>
+<td markdown="span"> Wesley Bland </td>
+</tr>
+
+<tr>
+<td markdown="span">14:00 - 15:00</td>
+<td markdown="span">**Technical Paper Session D**: Scale-up Interconnects</td>
+<td markdown="span">**Session chair**: TBD</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Polarized routing: An efficient and versatile algorithm for large direct networks</td>
-<td markdown="span">Cristóbal Camarero, Carmen Martinez and Ramon Beivide (University of Cantabria)</td>
+<td markdown="span">Micro-LED data interconnect for scale-up networks with record energy efficiency</td>
+<td markdown="span"> Bardia Pezeshki, Alex Tselikov, Rob Kalman, Suresh Rangarajan, Ivan Huang, Jeff Pepper, Sarah Zou, Howard Rourke and Alasdair Fikouras </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">MBitTree: A fast and scalable packet classification for software switches</td>
-<td markdown="span">Jing Tan, Gaofeng Lv and Guanjie Qiao (NUDT)</td>
+<td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach</td>
+<td markdown="span"> Debendra Das Sharma, Swadesh Choudhary, Peter Onufryk and Robert Pelt </td>
+</tr>
+
+
+<tr>
+<td markdown="span">15:00</td>
+<td markdown="span">**HotI Awards**</td>
+<td markdown="span"> Ryan Grant </td>
 </tr>
 
 <tr>
-<td markdown="span">14:00</td>
-<td markdown="span">**Silver Sponsor Talks**</td>
-<td markdown="span">**Session chair:** Min Si (Facebook)</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Ayar Labs</td>
-<td markdown="span">Shahab Ardalan
-<br>
-<a href="assets/txt/ayar_bio.txt">[Bio]</a>
-</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Lenovo</td>
-<td markdown="span">Lenovo</td>
-</tr>
-
-<tr>
-<td markdown="span">14:10</td>
-<td markdown="span">*Break*</td>
-<td markdown="span"></td>
-</tr>
-
-<tr>
-<td markdown="span">14:25</td>
-<td markdown="span">**Technical Paper Session E**: Hot Topics</td>
-<td markdown="span">**Session chair**: Ryan Grant (Sandia National Laboratories)</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">The Future of Low Latency Memory</td>
-<td markdown="span">Thomas Coughlin (Coughlin Associates, Inc.) and Jim Handy (Objective Analysis) </td>
-</tr>
-
-<tr>
-<td markdown="span">14:45</td>
-<td markdown="span">**Closing Remarks**</td>
-<td markdown="span">General Co-chair: Manjunath Gorentla Venkata</td>
+<td markdown="span">15:10</td>
+<td markdown="span">**HotI Closing Remarks**</td>
+<td markdown="span">Vice Chair: Sayan Ghosh</td>
 </tr>
 
 </tbody>
 </table>
 
-## Tutorials: Friday, August 20, 2021
-
+## Tutorial: <br> Conference Day 3: Friday, August 22
+### Track 1 (in parallel)
 <table>
 <colgroup>
 <col width="10%" />
@@ -369,58 +303,93 @@ Alan Benjamin (President and CEO, GigaIO)
 <tbody>
 
 <tr>
-<td markdown="span">09:00 - 12:00</td>
-<td markdown="span">**Morning Sessions (in parallel)**</td>
+<td markdown="span"></td>
+<td markdown="span">**Morning Sessions**</td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
-<td markdown="span"></td>
-<td markdown="span">High Performance Machine Learning, Deep Learning, and Data Science
+<td markdown="span">08:30 - 12:00</td>
+<td markdown="span">Principles and Practice of Scalable and Distributed Deep Neural Networks Training and Inference
 <br>
-<a href="assets/txt/dl_abstract.txt">[Abstract]</a>
+<a href="/tutorial.html">[details TBD]</a>
 </td>
-<td markdown="span">Dhabaleswar K. (DK) Panda, Arpan Jain, and Aamir Shafi (The Ohio State University) 
+<td markdown="span">Dhabaleswar K. (DK) Panda(The Ohio State University) 
 <br>
-<a href="assets/txt/dl_bios.txt">[Bios]</a>
-</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Unified Communication X for Performance Portable Network Acceleration
-<br>
-<a href="assets/txt/ucx_abstract.txt">[Abstract]</a>
-</td>
-<td markdown="span">Oscar Hernandez (Nvidia), Jeffrey Young (Georgia Institute of Technology), Matthew Baker (Oak Ridge National Laboratory), Gilad Shainer (Nvidia), Yossi Itigin (Nvidia)
-<br>
-<a href="assets/txt/ucx_bios.txt">[Bios]</a>
 </td>
 </tr>
 
 <tr>
-<td markdown="span">12:00</td>
+<td markdown="span">12:00 - 13:00</td>
 <td markdown="span">*Lunch*</td>
 <td markdown="span"></td>
 </tr>
 
+
 <tr>
-<td markdown="span">13:00 - 16:00</td>
+<td markdown="span"></td>
 <td markdown="span">**Afternoon Session**</td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
-<td markdown="span"></td>
-<td markdown="span">Introduction to Networking Technologies for High-Performance Computing
+<td markdown="span">13:00 - 16:30</td>
+<td markdown="span">High-Performance and Smart Networking Technologies for HPC and AI
 <br>
-<a href="assets/txt/networking_abstract.txt">[Abstract]</a>
+<a href="/tutorial.html">[details TBD]</a>
 </td>
-<td markdown="span">Dhabaleswar K. (DK) Panda and Hari Subramoni (The Ohio State University) 
+<td markdown="span">Dhabaleswar K. (DK) Panda(The Ohio State University) 
 <br>
-<a href="assets/txt/networking_bios.txt">[Bios]</a>
 </td>
 </tr>
+
+</tbody>
+</table>
+
+### Track 2 (in parallel)
+<table>
+<colgroup>
+<col width="10%" />
+<col width="45%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Title</th>
+<th>Presenters</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">**Morning Sessions**</td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span">7:00 - 8:30</td>
+<td markdown="span">LibFabric Communication Library
+<br>
+<a href="/tutorial.html">[details TBD]</a>
+</td>
+<td markdown="span">TBD 
+<br>
+</td>
+</tr>
+
+<tr>
+<td markdown="span">08:30 - 12:00</td>
+<td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
+<br>
+<a href="/tutorial.html">[details TBD]</a>
+</td>
+<td markdown="span">TBD 
+<br>
+</td>
+</tr>
+
 
 </tbody>
 </table>
