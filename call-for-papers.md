@@ -1,7 +1,7 @@
 ---
 # title: Call For Papers
 ---
-
+# Call For Papers
 
 ## Submissions
 
@@ -9,8 +9,8 @@
 | -------------------------- | ------------------ |
 | Paper abstract deadline    |   <span style="color:black"><del> AOE May 25, 2025 (firm)</del></span>       |
 | Submission deadline        |   <span style="color:black"><del> AOE May 25, 2025 (firm)</del></span>     |
-| Notification of acceptance |   <span style="color:red">July 3, 2025 </span>   |
-| Camera-ready               |   <span style="color:red">July 18, 2025 </span>   |
+| Notification of acceptance |   <span style="color:red"><del> July 3, 2025 </del></span>   |
+| Camera-ready               |   <span style="color:red"><del> July 18, 2025 </del></span>   |
 
 {% comment %}
 | Symposium                  | August 18-20, 2021 |

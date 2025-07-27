@@ -1,9 +1,8 @@
 ---
-title: Program
+# title: Program
 ---
-{% comment %}
-{% include reg-open.md %}
-{% endcomment %}
+
+# Program
 
 The times in the program below are Pacific Time (PT). We will keep updating the program as we get closer to the event date.
 
@@ -181,8 +180,8 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">10:25 - 10:30</td>
-<td markdown="span">**Gold Sponsor Talk:** GigaIO</td>
-<td markdown="span"> TBD </td>
+<td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution <a href="keynotes-gigaio.html">[details]</a> </td>
+<td markdown="span"> Alan Benjamin </td>
 </tr>
 
 <tr>
@@ -312,9 +311,9 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <td markdown="span">08:30 - 12:00</td>
 <td markdown="span">Principles and Practice of Scalable and Distributed Deep Neural Networks Training and Inference
 <br>
-<a href="/tutorial.html">[details TBD]</a>
+<a href="/tutorials-dl-training.html">[details]</a>
 </td>
-<td markdown="span">Dhabaleswar K. (DK) Panda(The Ohio State University) 
+<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University) 
 <br>
 </td>
 </tr>
@@ -336,9 +335,9 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <td markdown="span">13:00 - 16:30</td>
 <td markdown="span">High-Performance and Smart Networking Technologies for HPC and AI
 <br>
-<a href="/tutorial.html">[details TBD]</a>
+<a href="/tutorials-smart-network.html">[details]</a>
 </td>
-<td markdown="span">Dhabaleswar K. (DK) Panda(The Ohio State University) 
+<td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University) 
 <br>
 </td>
 </tr>
@@ -370,11 +369,11 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">7:00 - 8:30</td>
-<td markdown="span">LibFabric Communication Library
+<td markdown="span">Libfabric Communication Library
 <br>
-<a href="/tutorial.html">[details TBD]</a>
+<a href="/tutorials-libfabric.html">[details]</a>
 </td>
-<td markdown="span">TBD 
+<td markdown="span">Rajalaxmi Angadi, Alexia Ingerson (Intel Corporation) 
 <br>
 </td>
 </tr>
@@ -383,9 +382,9 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <td markdown="span">08:30 - 12:00</td>
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
 <br>
-<a href="/tutorial.html">[details TBD]</a>
+<a href="/tutorials-nccl-nvshmem.html">[details]</a>
 </td>
-<td markdown="span">TBD 
+<td markdown="span">Benjamin Glick, Pouya Kousha, Arnav Goel (NVIDIA)
 <br>
 </td>
 </tr>

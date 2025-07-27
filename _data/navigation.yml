@@ -1,6 +1,6 @@
 main:
    
-  - title: Events
+  - title: Event
     url: /program.html
     submenu:
       - title: Program
@@ -11,7 +11,7 @@ main:
       #   url: "/tutorial.html"
 
   - title: Contributions
-    url: "/call-for-tutorials.html"     
+    url: "/call-for-papers.html"     
     submenu:
       - title: Call for Papers
         url: /call-for-papers.html

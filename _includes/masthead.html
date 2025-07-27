@@ -50,7 +50,7 @@
         <div class="nav-items">
           {%- for link in site.data.navigation.main -%}
           {% if link.submenu %}
-          <div class="masthead__menu-item dropdown">
+          <div class="masthead__menu-item dropdown" style="padding:0%">
             <a href="{{ link.url | relative_url }}" class="dropdown__toggle">
               {{ link.title }}
             </a>
