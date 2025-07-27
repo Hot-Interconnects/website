@@ -93,10 +93,10 @@
   <tbody>
     <!-- Row: photos -->
     <tr>
-      <td style="width:33%; text-align:center; padding:10px; border:none;">
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
         <img src="/assets/img/Nick_lightmatter.jpeg" alt="Nick Harris" style="width:200px; height:auto;">
       </td>
-      <td style="width:33%; text-align:center; padding:10px; border:none;">
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
         <img src="/assets/img/Peter_nubis.jpg" alt="Peter Winzer" style="width:200px; height:auto;">
       </td>
     </tr>
@@ -126,6 +126,43 @@
   </tbody>
 </table>
 
+
+<table class="keynote-table" style="width:100%; border-collapse: collapse;">
+  <tbody>
+    <!-- Row: photos -->
+    <tr>
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/avicena_chris.jpg" alt="Chris Pfistner" style="width:auto; height:200px;">
+      </td>
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/cisco-will.jpg" alt="Will Eatherton" style="width:auto; height:200px;">
+      </td>
+    </tr>
+    <!-- Row: names -->
+    <tr>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Chris Pfistner</td>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Will Eatherton</td>
+    </tr>
+    <!-- Row: affiliations -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        VP, Sales & Marketing at Avicena
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
+      </td>
+    </tr>
+    <!-- Row: titles + details link -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects</strong> <br> <a href="keynotes-avicena.html">[details]</a>
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>TBD</strong> <br> <a href="keynotes-cisco.html">[details]</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ------------------------
 

@@ -99,7 +99,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">13:30-13:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cisco</td>
+<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> TBD <a href="keynotes-cisco.html">[details]</a> </td>
 <td markdown="span"> Will Eatherton </td>
 </tr>
 
@@ -169,13 +169,13 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">10:00 - 10:15</td>
-<td markdown="span">**Diamond Sponsor Talk:** Avicena</td>
-<td markdown="span"> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects <a href="keynotes-avicena.html">[details]</a> </td>
+<td markdown="span"> Chris Pfistner </td>
 </tr>
 
 <tr>
 <td markdown="span">10:15 - 10:25</td>
-<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics<a href="keynotes-arista.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics <a href="keynotes-arista.html">[details]</a> </td>
 <td markdown="span"> Andreas Bechtolsheim </td>
 </tr>
 
