@@ -23,5 +23,3 @@ Amin has been recognized with a number of awards, including the National Science
 </div>
 
 ------------------------
-
-We’ll be sharing the title and abstract of their talks soon. Stay tuned and follow us for updates on the full program!
