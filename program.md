@@ -384,7 +384,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <br>
 <a href="/tutorials-nccl-nvshmem.html">[details]</a>
 </td>
-<td markdown="span">Benjamin Glick, Pouya Kousha, Arnav Goel (NVIDIA)
+<td markdown="span">Benjamin Glick, Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
 <br>
 </td>
 </tr>

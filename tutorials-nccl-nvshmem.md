@@ -16,8 +16,9 @@ Through hands-on examples we elaborate on the new features in both libraries, pa
 
 ## Presenters
 - **Benjamin Glick**, NVIDIA 
-- **Pouya Kousha**, NVIDIA 
 - **Arnav Goel**, NVIDIA
+- **Andreas Herten**, Jülich Supercomputing Centre
+- **Pouya Kousha**, NVIDIA 
 
 ## Tutorial Outline 
 1. **Introduction to NCCL & NVSHMEM**
