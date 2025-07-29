@@ -45,7 +45,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">10:30 - 10:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics <a href="keynotes-lightmatter.html">[details]</a></td>
+<td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics <a href="sponsortalk-lightmatter.html">[details]</a></td>
 <td markdown="span">Nick Harris </td>
 </tr>
 <tr>
@@ -98,20 +98,20 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">13:30-13:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> TBD <a href="keynotes-cisco.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> TBD <a href="sponsortalk-cisco.html">[details]</a> </td>
 <td markdown="span"> Will Eatherton </td>
 </tr>
 
 <tr>
 <td markdown="span">13:45-14:00</td>
-<td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration <a href="keynotes-nubis.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration <a href="sponsortalk-nubis.html">[details]</a> </td>
 <td markdown="span"> Peter Winzer </td>
 </tr>
 
 <tr>
 <td markdown="span">14:00 - 15:30</td>
 <td markdown="span">**Panel** -- LLM Token Economy: How is networking going to play in the age of agents?
-<a href="keynotes-panel.html">[details]</a> <br>
+<a href="highlight-panel.html">[details]</a> <br>
 **Session chair**: Alan Benjamin
 </td>
 <td markdown="span">
@@ -168,19 +168,19 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">10:00 - 10:15</td>
-<td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects <a href="keynotes-avicena.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects <a href="sponsortalk-avicena.html">[details]</a> </td>
 <td markdown="span"> Chris Pfistner </td>
 </tr>
 
 <tr>
 <td markdown="span">10:15 - 10:25</td>
-<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics <a href="keynotes-arista.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics <a href="sponsortalk-arista.html">[details]</a> </td>
 <td markdown="span"> Andreas Bechtolsheim </td>
 </tr>
 
 <tr>
 <td markdown="span">10:25 - 10:30</td>
-<td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution <a href="keynotes-gigaio.html">[details]</a> </td>
+<td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution <a href="sponsortalk-gigaio.html">[details]</a> </td>
 <td markdown="span"> Alan Benjamin </td>
 </tr>
 
@@ -222,7 +222,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">12:30 - 13:00</td>
-<td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> <a href="keynotes-torsten.html">[details]</a> </td>
+<td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> <a href="invitedtalk-torsten.html">[details]</a> </td>
 <td markdown="span">Torsten Hoefler</td>
 </tr>
 
@@ -246,7 +246,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">13:50 - 14:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta <a href="keynotes-meta.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta <a href="sponsortalk-meta.html">[details]</a> </td>
 <td markdown="span"> Wesley Bland </td>
 </tr>
 

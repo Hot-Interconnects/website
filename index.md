@@ -145,30 +145,13 @@ but also by the prime networking opportunities this event always offers.
 
 ## Panel
 
-<!-- <table style="width: 100%; border-collapse: collapse; border: none;">
-  <tbody>
-    <td style="padding: 10px; border: none; font-size: 1.1em;">
-      <large><strong> Moderator </strong>: <br>
-      Peter Olcott, Principal at First Spark Ventures  </large>
-    </td>
-    <tr style="vertical-align: top; text-align: left;  font-size: 1.3em;">
-      <td style="width: 40%; padding: 10px; border: none; font-size: 1.4em;">
-        <large><strong>LLM Token Economy: How is networking going to play in the age of agents?</strong></large>  
-      </td>
-      <td style="width: 60%; padding: 10px; border: none;">
-        <small>New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="keynotes-panel.html"> <br> details</a></small>
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tbody>
     <tr style="vertical-align: top; text-align: left;  font-size: 1.5em;">
       <td style="width: 60%; padding: 10px; border: none;">
         <large><strong>LLM Token Economy: How is networking going to play in the age of agents?</strong></large>  <br>
         Moderator: Peter Olcott, Principal at First Spark Ventures <br>
-        <small>New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="keynotes-panel.html"> [details]</a></small>
+        <small>New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="highlight-panel.html"> [details]</a></small>
       </td>
     </tr>
   </tbody>
@@ -185,7 +168,7 @@ but also by the prime networking opportunities this event always offers.
         <img src="/assets/img/hoefler_dinfk.jpg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="hoefler Photo"> <br>
         Torsten Hoefler <br>
         <small>Professor at ETH Zürich</small> <br>
-        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="keynotes-torsten.html">[details]</a>
+        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="invitedtalk-torsten.html">[details]</a>
       </td>
       <td style="width: 40%; padding: 10px; border: none;">
         &nbsp; </td>

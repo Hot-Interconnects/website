@@ -57,7 +57,7 @@
       <td style="width: 60%; padding: 10px; border: none; text-align: justify;">
         <large><strong>LLM Token Economy: How is networking going to play in the age of agents?</strong></large>  <br>
         Moderator: Peter Olcott, Principal at First Spark Ventures <br>
-        <small>  New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="keynotes-panel.html"> [details]</a></small>
+        <small>  New business models in LLM workloads are reshaping the interconnect landscape. While ongoing challenges such as low latency, high bandwidth, and reliability persist, the emergence of scale-up networking creates new opportunities for performance with orders of magnitude more bandwidth...<a href="highlight-panel.html"> [details]</a></small>
       </td>
     </tr>
   </tbody>
@@ -75,7 +75,7 @@
         <img src="/assets/img/hoefler_dinfk.jpg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="hoefler Photo"> <br>
         Torsten Hoefler <br>
         <small>Professor at ETH Zürich</small> <br>
-        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="keynotes-torsten.html">[details]</a>
+        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="invitedtalk-torsten.html">[details]</a>
       </td>
       <td style="width: 40%; padding: 10px; border: none;">
         &nbsp; </td>
@@ -124,10 +124,10 @@
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Transforming AI Infrastructure with the Power of 3D Photonics</strong> <br> <a href="keynotes-lightmatter.html">[details]</a>
+        <strong>Transforming AI Infrastructure with the Power of 3D Photonics</strong> <br> <a href="sponsortalk-lightmatter.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration</strong> <br> <a href="keynotes-nubis.html">[details]</a>
+        <strong>Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration</strong> <br> <a href="sponsortalk-nubis.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Reimagining the Scale-Out Architecture for HPC and AI</strong> <br> <a href="sponsortalk-cornelis.html">[details]</a>
@@ -165,10 +165,10 @@
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects</strong> <br> <a href="keynotes-avicena.html">[details]</a>
+        <strong>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects</strong> <br> <a href="sponsortalk-avicena.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="keynotes-cisco.html">[details]</a>
+        <strong>TBD</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
       </td>
     </tr>
   </tbody>
