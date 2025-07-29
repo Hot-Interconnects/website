@@ -50,7 +50,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 </tr>
 <tr>
 <td markdown="span">10:45 - 11:00</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cornelis</td>
+<td markdown="span">**Diamond Sponsor Talk:** Cornelis <br> Reimagining the Scale-Out Architecture for HPC and AI <a href="sponsortalk-cornelis.html">[details]</a></td>
 <td markdown="span">Matt Williams </td>
 </tr>
 

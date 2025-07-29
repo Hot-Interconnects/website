@@ -94,16 +94,20 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/Nick_lightmatter.jpeg" alt="Nick Harris" style="width:200px; height:auto;">
+        <img src="/assets/img/Nick_lightmatter.jpeg" alt="Nick Harris" style="width:auto; height:200px;">
       </td>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/Peter_nubis.jpg" alt="Peter Winzer" style="width:200px; height:auto;">
+        <img src="/assets/img/Peter_nubis.jpg" alt="Peter Winzer" style="width:auto; height:200px;">
+      </td>
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/cornelis-matt.jpg" alt="Matt Williams" style="width:auto; height:200px;">
       </td>
     </tr>
     <!-- Row: names -->
     <tr>
       <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Nick Harris</td>
       <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Peter Winzer</td>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Matt Williams</td>
     </tr>
     <!-- Row: affiliations -->
     <tr>
@@ -113,6 +117,9 @@
       <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Founder and CTO of Nubis
       </td>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Field CTO at Cornelis
+      </td>
     </tr>
     <!-- Row: titles + details link -->
     <tr>
@@ -121,6 +128,9 @@
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration</strong> <br> <a href="keynotes-nubis.html">[details]</a>
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Reimagining the Scale-Out Architecture for HPC and AI</strong> <br> <a href="sponsortalk-cornelis.html">[details]</a>
       </td>
     </tr>
   </tbody>

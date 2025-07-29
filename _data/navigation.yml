@@ -6,7 +6,7 @@ main:
       - title: Program
         url: "/program.html"
       - title: Highlights
-        url: "/keynotes.html"
+        url: "/highlights.html"
       # - title: Tutorials
       #   url: "/tutorial.html"
 
