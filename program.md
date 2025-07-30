@@ -98,7 +98,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">13:30-13:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> TBD <a href="sponsortalk-cisco.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> Managing the fabrics underpinning AI infrastructure <a href="sponsortalk-cisco.html">[details]</a> </td>
 <td markdown="span"> Will Eatherton </td>
 </tr>
 

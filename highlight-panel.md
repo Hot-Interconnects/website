@@ -48,7 +48,7 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
     <!-- Davor Capalija -->
     <tr style="vertical-align: top;">
       <td style="width: 25%; padding: 10px; text-align: center; font-size: 1.3em;">
-        <img src="assets/img/davor.jpg" alt="Davor Capalija" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
+        <img src="assets/img/Davor.png" alt="Davor Capalija" style="width: auto; height: 150px; display: block; margin: 0 auto;"><br>
         <strong>Davor Capalija</strong><br>
         <small>Senior Fellow, AI Software and Architecture at Tenstorrent Inc.</small>
       </td>
@@ -70,12 +70,16 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
     <!-- Sid Sheth -->
     <tr style="vertical-align: top;">
       <td style="width: 25%; padding: 10px; text-align: center; font-size: 1.3em;">
-        <img src="assets/img/sid.jpeg" alt="Sid Sheth" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
+        <img src="assets/img/Sid-Sheth.jpg" alt="Sid Sheth" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
         <strong>Sid Sheth</strong><br>
         <small>Founder and CEO at d-Matrix</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        TBD
+        Sid Sheth co-founded d-Matrix in 2019 with a vision to build a new class of compute platform to deploy AI inference efficiently at-scale. In his role as CEO, Sid is leading a global team in developing a first-of-a-kind Generative AI inference solution using in-memory compute chiplet-based architectures, that promises to change the trajectory of commercially viable generative AI.
+
+        Sid has spent more than two decades as a business and technical leader transforming startups into industry leaders and steering publicly traded corporations toward groundbreaking innovations. Prior to d-Matrix, as Sr. Vice President & GM for the Networking Business Unit at Inphi Corporation, he incubated and grew the group into a $1B+ business by focusing on the cloud and enterprise data center segment. Prior to Inphi, Sid was at NetLogic Microsystems (now Broadcom) and Intel where he ran marketing and worked in R&D for cutting-edge networking chips and processors.
+
+      Sid earned his Master of Science in Electrical Engineering from Purdue University, where he serves on the Electrical and Computer Engineering Advisory Board. He is a regularly featured speaker at industry tradeshows and conferences, is a published author at ISSCC and holds several patents.
       </td>
     </tr>
   </tbody>
