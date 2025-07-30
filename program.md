@@ -57,7 +57,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span">11:00 - 12:00</td>
 <td markdown="span">**Technical Paper Session A**: <br>Network Synchronization and Routing</td>
-<td markdown="span">**Session chair**: TBD</td>
+<td markdown="span">**Session chair**: Atiqul Mollah</td>
 </tr>
 
 <tr>
@@ -187,7 +187,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span">10:30 - 12:00</td>
 <td markdown="span">**Technical Paper Session C**: <br>Interconnect Software -- Runtimes & Workloads</td>
-<td markdown="span">**Session chair**: TBD</td>
+<td markdown="span">**Session chair**: Galen Shipman</td>
 </tr>
 
 <tr>
@@ -253,7 +253,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span">14:00 - 15:00</td>
 <td markdown="span">**Technical Paper Session D**: Scale-up Interconnects</td>
-<td markdown="span">**Session chair**: TBD</td>
+<td markdown="span">**Session chair**: Letizia Giuliano</td>
 </tr>
 
 <tr>
