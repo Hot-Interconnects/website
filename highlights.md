@@ -168,7 +168,7 @@
         <strong>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects</strong> <br> <a href="sponsortalk-avicena.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
+        <strong>Managing the fabrics underpinning AI infrastructure</strong> <br> <a href="sponsortalk-cisco.html">[detals]</a>
       </td>
     </tr>
   </tbody>
