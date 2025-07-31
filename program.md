@@ -234,14 +234,14 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">13:30 - 13:40</td>
-<td markdown="span">**Platinum Sponsor Talk:** UALink</td>
-<td markdown="span"> TBD </td>
+<td markdown="span">**Platinum Sponsor Talk:** UALink <br> Why UALink: A Protocol-Level Comparison for Rack-Scale AI <a href="sponsortalk-ualink.html">[details]</a> </td>
+<td markdown="span"> Sharada Yeluri </td>
 </tr>
 
 <tr>
 <td markdown="span">13:40 - 13:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Celestial AI</td>
-<td markdown="span"> TBD </td>
+<td markdown="span">**Platinum Sponsor Talk:** Celestial AI <br> Photonic Fabric: Optical Scale-Up Networks for Accelerated Computing <a href="sponsortalk-celestalai.html">[details]</a> </td>
+<td markdown="span"> Ravi Mahatme </td>
 </tr>
 
 <tr>
