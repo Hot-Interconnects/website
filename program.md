@@ -63,13 +63,13 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">bittide: Control Time, Not Flows</td>
-<td markdown="span"> Martijn Bastiaan, Christiaan Baaij, Martin Izzard, Felix Klein, Sanjay Lall and Tammo Spalink </td>
+<td markdown="span"> <strong>Martijn Bastiaan</strong>, Christiaan Baaij, Martin Izzard, Felix Klein, Sanjay Lall and Tammo Spalink </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels</td>
-<td markdown="span"> Alejandro Cano Cos, Cristóbal Camarero, Carmen Martinez and Ramon Beivide </td>
+<td markdown="span"><strong>Alejandro Cano Cos</strong>, Cristóbal Camarero, Carmen Martinez and Ramon Beivide </td>
 </tr>
 
 <tr>
@@ -87,13 +87,13 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Accelerating Frontier MoE Training with 3D Integrated Optics</td>
-<td markdown="span"> Taylor Groves, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh </td>
+<td markdown="span"> <strong>Taylor Groves</strong>, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation</td>
-<td markdown="span"> Zhenguo Wu and Keren Bergman </td>
+<td markdown="span"> <strong>Zhenguo Wu</strong> and Keren Bergman </td>
 </tr>
 
 <tr>
@@ -193,19 +193,19 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms</td>
-<td markdown="span">Zhiyi Hu, Siyuan Shen, Tommaso Bonato and Torsten Hoefler</td>
+<td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato and Torsten Hoefler</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Characterizing Communication Patterns in Distributed LLM Inference</td>
-<td markdown="span"> Lang Xu, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda </td>
+<td markdown="span"> <strong>Lang Xu</strong>, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network</td>
-<td markdown="span"> Timo Schneider, Pengcheng Xu and Torsten Hoefler </td>
+<td markdown="span"> Timo Schneider, <strong>Pengcheng Xu</strong> and Torsten Hoefler </td>
 </tr>
 
 <tr>
@@ -259,13 +259,13 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Micro-LED data interconnect for scale-up networks with record energy efficiency</td>
-<td markdown="span"> Bardia Pezeshki, Alex Tselikov, Rob Kalman, Suresh Rangarajan, Ivan Huang, Jeff Pepper, Sarah Zou, Howard Rourke and Alasdair Fikouras </td>
+<td markdown="span"><strong>Bardia Pezeshki</strong>, Alex Tselikov, Rob Kalman, Suresh Rangarajan, Ivan Huang, Jeff Pepper, Sarah Zou, Howard Rourke and Alasdair Fikouras </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach</td>
-<td markdown="span"> Debendra Das Sharma, Swadesh Choudhary, Peter Onufryk and Robert Pelt </td>
+<td markdown="span"><strong>Debendra Das Sharma</strong>, Swadesh Choudhary, Peter Onufryk and Robert Pelt </td>
 </tr>
 
 
