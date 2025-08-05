@@ -34,11 +34,11 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
 
 <table style="width: 100%; border-collapse: collapse;">
   <tbody>
-    <!-- Phill Brown -->
+    <!-- Phil Brown -->
     <tr style="vertical-align: top;">
       <td style="width: 30%; padding: 10px; text-align: center; font-size: 1.3em;">
-        <img src="assets/img/Phil_Brown_Headshot.jpg" alt="Phill Brown" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
-        <strong>Phill Brown</strong><br>
+        <img src="assets/img/Phil_Brown_Headshot.jpg" alt="Phil Brown" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
+        <strong>Phil Brown</strong><br>
         <small>AI Systems Engineer at Meta</small>
       </td>
       <td style="width: 70%; padding: 10px; text-align: justify; font-size: 1.2em;">
@@ -53,7 +53,7 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
         <small>Senior Fellow, AI Software and Architecture at Tenstorrent Inc.</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        TBD
+        Davor is a senior fellow at Tenstorrent. Davor’s Ph.D. research from the University of Toronto focuses on enabling rapid design cycles of high-performance applications on FPGAs. This is achieved through the use of massively parallel FPGA overlay architectures that are optimized for pipelined execution of data flow graphs. Davor received his Master's degree from University of Toronto with research on task-parallel multi-core architectures.
       </td>
     </tr>
     <!-- Ethan Lockshin -->
@@ -64,7 +64,7 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
         <small>AE, Commercial at Groq</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        TBD
+        Ethan Lockshin is a commercial sales representative at Groq, the fastest AI inference technology. Before joining Groq, Ethan was a sales leader at Kubiya, where he sold one of the world's first AI Agents. Prior to joining Kubiya, Ethan spent nearly four years at CircleCI selling DevOps. Ethan is from Washington, D.C., and currently resides in Denver, Colorado.
       </td>
     </tr>
     <!-- Sid Sheth -->

@@ -116,7 +116,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 </td>
 <td markdown="span">
 **Moderator**: Peter Olcott (First Spark Ventures) <br>
-**Panelists**: Phill Brown (Meta), Davor Capalija (Tenstorrent Inc.), Ethan Lockshin (Groq), Sid Sheth (d-Matrix)
+**Panelists**: Phil Brown (Meta), Davor Capalija (Tenstorrent Inc.), Ethan Lockshin (Groq), Sid Sheth (d-Matrix)
 </td>
 </tr>
 
@@ -228,8 +228,8 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 
 <tr>
 <td markdown="span">13:00 - 13:30</td>
-<td markdown="span">TBD</td>
-<td markdown="span">TBD</td>
+<td markdown="span">Building Custom AI Infrastructure with NVLink Fusion <br> <a href="invitedtalk-krishnan.html">[details]</a> </td>
+<td markdown="span">Krishnan Geeyarpuram</td>
 </tr>
 
 <tr>
