@@ -217,7 +217,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span"> </td>
 <td markdown="span">**Invited Talk Session:** Next Gen Interconnects</td>
-<td markdown="span">**Session chair**: TBD</td>
+<td markdown="span">**Session chair**: Taylor Groves</td>
 </tr>
 
 <tr>
