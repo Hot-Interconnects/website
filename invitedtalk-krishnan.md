@@ -5,6 +5,7 @@
 
 ### Krishnan Geeyarpuram: Senior Distinguished Engineer and Senior Director of Product Architecture at NVIDIA
 
+<img src="/assets/img/krishnan.png" style="width:auto; height:250px;">
 
 **Title:** Building Custom AI Infrastructure with NVLink Fusion
 

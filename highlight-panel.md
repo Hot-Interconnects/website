@@ -53,7 +53,7 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
         <small>Senior Fellow, AI Software and Architecture at Tenstorrent Inc.</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        Davor is a senior fellow at Tenstorrent. Davor’s Ph.D. research from the University of Toronto focuses on enabling rapid design cycles of high-performance applications on FPGAs. This is achieved through the use of massively parallel FPGA overlay architectures that are optimized for pipelined execution of data flow graphs. Davor received his Master's degree from University of Toronto with research on task-parallel multi-core architectures.
+        Davor Capalija is a Senior Fellow at Tenstorrent, where he leads the scale‑out software team and works on software/hardware co‑design. He previously co‑led Tenstorrent’s low‑level programming stack, TT‑Metalium, and has been a public voice on the company’s scale‑out architecture. Before Tenstorrent, he worked in Intel’s PSG on OpenCL‑based deep‑learning acceleration for FPGAs. Davor holds a Ph.D. in ECE from the University of Toronto.
       </td>
     </tr>
     <!-- Ethan Lockshin -->
