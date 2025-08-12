@@ -285,7 +285,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 </table>
 
 ## Tutorial: <br> Conference Day 3: Friday, August 22
-### Track 1 (in parallel)
+### Track 1
 <table>
 <colgroup>
 <col width="10%" />
@@ -345,7 +345,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 </tbody>
 </table>
 
-### Track 2 (in parallel)
+### Track 2
 <table>
 <colgroup>
 <col width="10%" />
