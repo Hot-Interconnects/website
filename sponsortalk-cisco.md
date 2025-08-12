@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Will Eatherton, SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
+### Will Eatherton
+
+SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
 
 <img src="/assets/img/cisco-will.jpg" style="width:auto; height:250px;">
 

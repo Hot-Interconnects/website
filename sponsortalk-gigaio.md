@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Alan Benjamin: President and CEO of GigaIO
+### Alan Benjamin
+
+President and CEO of GigaIO
 
 <img src="/assets/img/gigaio-alan.jpg" style="width:auto; height:250px;">
 

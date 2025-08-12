@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Ravi Mahatme, Senior Director of Product at Celestial AI
+### Ravi Mahatme
+
+Senior Director of Product at Celestial AI
 
 <img src="/assets/img/celestial-ravi.jpeg" style="width:auto; height:250px;">
 

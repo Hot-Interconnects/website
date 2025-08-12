@@ -3,7 +3,9 @@
 ---
 # Keynote
 
-### Amin Vahdat: Vice President of ML, Systems, and Cloud AI at Google
+### Amin Vahdat
+
+Vice President of ML, Systems, and Cloud AI at Google
 
 <img src="/assets/img/amin_photo.jpg">
 

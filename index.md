@@ -161,19 +161,39 @@ but also by the prime networking opportunities this event always offers.
 ## Invited Talk
 
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table class="keynote-table" style="width:100%; border-collapse: collapse;">
   <tbody>
-    <tr style="vertical-align: top; text-align: center;  font-size: 1.3em;">
-      <td style="width: 60%; padding: 10px; border: none;">
-        <img src="/assets/img/hoefler_dinfk.jpg" style="width: 200px; height: auto; display: block; margin-left: auto; margin-right: auto;" alt="hoefler Photo"> <br>
-        Torsten Hoefler <br>
-        <small>Professor at ETH Zürich</small> <br>
-        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <a href="invitedtalk-torsten.html">[details]</a>
+    <!-- Row: photos -->
+    <tr>
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/hoefler_dinfk.jpg" alt="Torsten Hoefler" style="width:auto; height:200px;">
       </td>
-      <td style="width: 40%; padding: 10px; border: none;">
-        &nbsp; </td>
-      <!-- <td style="width: 33%; padding: 10px; border: none;">
-        &nbsp; </td> -->
+      <td style="width:25%; text-align:center; padding:10px; border:none;">
+        <img src="/assets/img/krishnan.png" alt="Krishnan Geeyarpuram" style="width:auto; height:200px;">
+      </td>
+    </tr>
+    <!-- Row: names -->
+    <tr>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Torsten Hoefler</td>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Krishnan Geeyarpuram</td>
+    </tr>
+    <!-- Row: affiliations -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Professor at ETH Zürich
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Senior Distinguished Engineer and Senior Director of Product Architecture at NVIDIA
+      </td>
+    </tr>
+    <!-- Row: titles + details link -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <br> <a href="invitedtalk-torsten.html">[details]</a>
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Building Custom AI Infrastructure with NVLink Fusion</strong> <br> <a href="invitedtalk-krishnan.html">[details]</a>
+      </td>
     </tr>
   </tbody>
 </table>

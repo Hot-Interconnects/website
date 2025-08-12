@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Wesley Bland: Research Scientist at Meta
+### Wesley Bland
+
+Research Scientist at Meta
 
 <img src="/assets/img/meta-wes.png">
 

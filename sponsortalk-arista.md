@@ -3,7 +3,10 @@
 ---
 # Sponsor Talk
 
-### Andreas “Andy” Bechtolsheim: Co-Founder and Chief Architect of Arista Networks
+### Andreas “Andy” Bechtolsheim
+
+Co-Founder and Chief Architect of Arista Networks
+
 
 <img src="/assets/img/arista-andy.jpg">
 

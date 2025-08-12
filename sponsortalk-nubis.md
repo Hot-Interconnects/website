@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Peter Winzer: Founder and CTO of Nubis
+### Peter Winzer
+
+Founder and CTO of Nubis
 
 <img src="/assets/img/Peter_nubis.jpg">
 

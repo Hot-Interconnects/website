@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Sharada Yeluri, AVP Engineering, Astera Labs
+### Sharada Yeluri
+
+AVP Engineering, Astera Labs
 
 <img src="/assets/img/ualink-sharada.jpeg" style="width:auto; height:250px;">
 

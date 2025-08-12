@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Chris Pfistner, VP, Sales & Marketing at Avicena
+### Chris Pfistner
+
+VP, Sales & Marketing at Avicena
 
 <img src="/assets/img/avicena_chris.jpg" style="width:auto; height:250px;">
 

@@ -3,7 +3,9 @@
 ---
 # Invited Talk
 
-### Torsten Hoefler: Professor at ETH Zürich
+### Torsten Hoefler
+
+Professor at ETH Zürich
 
 <img src="/assets/img/hoefler_dinfk.jpg">
 

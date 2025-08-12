@@ -95,7 +95,7 @@
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <br> <a href="invitedtalk-hoefler.html">[details]</a>
+        <strong>Ultra Ethernet for next-generation AI and HPC workloads</strong> <br> <a href="invitedtalk-torsten.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Building Custom AI Infrastructure with NVLink Fusion</strong> <br> <a href="invitedtalk-krishnan.html">[details]</a>
@@ -187,7 +187,7 @@
         <strong>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects</strong> <br> <a href="sponsortalk-avicena.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Managing the fabrics underpinning AI infrastructure</strong> <br> <a href="sponsortalk-cisco.html">[detals]</a>
+        <strong>Managing the fabrics underpinning AI infrastructure</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
       </td>
     </tr>
   </tbody>

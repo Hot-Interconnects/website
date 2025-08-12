@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Nick Harris: Founder and CEO of Lightmatter
+### Nick Harris
+
+Founder and CEO of Lightmatter
 
 <img src="/assets/img/Nick_lightmatter.jpeg">
 

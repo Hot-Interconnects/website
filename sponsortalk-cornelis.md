@@ -3,7 +3,9 @@
 ---
 # Sponsor Talk
 
-### Matt Williams: Field CTO at Cornelis
+### Matt Williams
+
+Field CTO at Cornelis
 
 <img src="/assets/img/cornelis-matt.jpg" style="width: auto; height: 250px;">
 

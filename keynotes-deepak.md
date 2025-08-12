@@ -3,7 +3,9 @@
 ---
 # Keynote
 
-### Deepak Bansal: Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft
+### Deepak Bansal
+
+Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft
 
 <img src="/assets/img/speaker-deepak-size250.jpeg">
 
