@@ -81,7 +81,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span">12:30</td>
 <td markdown="span">**Technical Paper Session B**: Co-packaged Optics</td>
-<td markdown="span">**Session chair**: TBD</td>
+<td markdown="span">**Session chair**: Hossein Hashemi</td>
 </tr>
 
 <tr>

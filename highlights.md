@@ -75,7 +75,7 @@
         <img src="/assets/img/hoefler_dinfk.jpg" alt="Torsten Hoefler" style="width:auto; height:200px;">
       </td>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <!-- <img src="/assets/img/" alt="Krishnan Geeyarpuram" style="width:auto; height:200px;"> -->
+        <img src="/assets/img/krishnan.png" alt="Krishnan Geeyarpuram" style="width:auto; height:200px;">
       </td>
     </tr>
     <!-- Row: names -->
