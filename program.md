@@ -81,7 +81,7 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span">12:30</td>
 <td markdown="span">**Technical Paper Session B**: Co-packaged Optics</td>
-<td markdown="span">**Session chair**: Hossein Hashemi (Astera Labs, University of Southern California)</td>
+<td markdown="span">**Session chair**: Hossein Hashemi (University of Southern California, Astera Labs)</td>
 </tr>
 
 <tr>
