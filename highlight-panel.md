@@ -64,7 +64,7 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
         <small>AE, Commercial at Groq</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        Ethan Lockshin is a commercial sales representative at Groq, the fastest AI inference technology. Before joining Groq, Ethan was a sales leader at Kubiya, where he sold one of the world's first AI Agents. Prior to joining Kubiya, Ethan spent nearly four years at CircleCI selling DevOps. Ethan is from Washington, D.C., and currently resides in Denver, Colorado.
+        Ethan Lockshin is a driven sales representative in the AI infrastructure space, currently serving as a Commercial Sales Representative at Groq, a leader in high‑performance AI inference hardware and software. Prior to joining Groq, he was the Head of Sales at Kubiya.ai—the first AI agent for DevOps. Prior to joining Kubiya, he spent nearly four years at CircleCI, selling DevOps tools to commercial and enterprise clients.
       </td>
     </tr>
     <!-- Sid Sheth -->
