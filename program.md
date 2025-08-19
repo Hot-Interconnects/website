@@ -2,6 +2,7 @@
 # title: Program
 ---
 
+# Program
 
 
 <div class="top-right-qr">
@@ -12,7 +13,6 @@
 
 <br>
 
-# Program
 
 The times in the program below are Pacific Time (PT).
 
