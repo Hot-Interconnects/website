@@ -193,8 +193,9 @@ The times in the program below are Pacific Time (PT). We will keep updating the 
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms</td>
-<td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich) and Torsten Hoefler (ETH Zurich)</td>
+<td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich), Sylvain Jeaugey (NVIDIA), Cedell Alexander, Eric Spada (Broadcom), James Dinan, Jeff Hammond (NVIDIA) and Torsten Hoefler (ETH Zurich)</td>
 </tr>
+
 
 <tr>
 <td markdown="span"></td>
