@@ -1,0 +1,50 @@
+/*
+ * 1. Make the .wrapper the positioning context.
+ * This tells the browser that any absolutely positioned child elements
+ * should be placed relative to this container.
+*/
+// .wrapper {
+//   position: relative;
+// }
+.content-anchor {
+  position: relative;
+}
+/*
+ * 2. Style and position the QR code container.
+*/
+.top-right-qr {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+
+  /* Change this value to a smaller number */
+  gap: 0.5rem; /* <-- Previously was 0.75rem */
+}
+
+/*
+ * 3. Adjust the style for the image inside.
+*/
+.top-right-qr img {
+  width: 100px;      /* A fixed size for the QR code */
+  height: auto;
+}
+
+/*
+ * 4. Adjust the style for the link inside.
+*/
+.top-right-qr a {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+/*
+ * 5. (Recommended) Hide the QR code on small screens to avoid layout issues.
+*/
+@media screen and (max-width: 768px) {
+  .top-right-qr {
+    display: none;
+  }
+}

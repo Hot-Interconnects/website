@@ -4,7 +4,16 @@
 
 # Program
 
-The times in the program below are Pacific Time (PT). We will keep updating the program as we get closer to the event date.
+
+<div class="top-right-qr">
+    <img src="/assets/img/proceedings.png" alt="HOTI 2025 proceedings">
+    <a href="https://www.dropbox.com/scl/fo/44okuwj3bxcezeo8p1tpb/AJLNLc-H7giTHviNI-3UkoA?rlkey=vpdiijs4k9yv1wv7mjc6twhvq&st=akygbujh&dl=0">Use QR Code or<br>Link to access <br>HotI Proceedings</a>
+</div>
+
+
+The times in the program below are Pacific Time (PT).
+
+
 
 ## Conference Day 1: Wednesday, August 20
 
