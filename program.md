@@ -2,7 +2,6 @@
 # title: Program
 ---
 
-# Program
 
 
 <div class="top-right-qr">
@@ -11,6 +10,10 @@
 <td> Get early access to HotI Proceedings via QR code or <a href="https://www.dropbox.com/scl/fo/44okuwj3bxcezeo8p1tpb/AJLNLc-H7giTHviNI-3UkoA?rlkey=vpdiijs4k9yv1wv7mjc6twhvq&st=akygbujh&dl=0">link</a> (Password: hoti_proceedings_2025) </td>
 </div>
 
+
+# Program
+
+<br>
 
 The times in the program below are Pacific Time (PT).
 
