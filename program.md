@@ -388,8 +388,8 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">**Morning Sessions**</td>
-<td markdown="span"></td>
+<td markdown="span">**Morning Sessions A**</td>
+<td markdown="span">**Session chair**: Matthew Dosanjh (Sandia National Laboratories)</td>
 </tr>
 
 <tr>
@@ -398,9 +398,15 @@ The times in the program below are Pacific Time (PT).
 <br>
 <a href="/tutorials-libfabric.html">[details]</a>
 </td>
-<td markdown="span">**Session chair**: Matthew Dosanjh (Sandia National Laboratories)<br> Rajalaxmi Angadi, Alexia Ingerson (Intel) 
+<td markdown="span">Rajalaxmi Angadi, Alexia Ingerson (Intel) 
 <br>
 </td>
+</tr>
+
+<tr>
+<td markdown="span"></td>
+<td markdown="span">**Morning Sessions B**</td>
+<td markdown="span">**Session chair**: Amanda Bienz (UNM)</td>
 </tr>
 
 <tr>
@@ -409,7 +415,7 @@ The times in the program below are Pacific Time (PT).
 <br>
 <a href="/tutorials-nccl-nvshmem.html">[details]</a>
 </td>
-<td markdown="span">**Session chair**: Amanda Bienz (UNM)<br> Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
+<td markdown="span">Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
 <br>
 </td>
 </tr>
