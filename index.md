@@ -24,6 +24,17 @@ Interconnect Software: You can't touch it but you need it</strong>
 </div>
 
 <!-- before this line you have your intro… -->
+<br>
+<table >
+  <tr>
+    <td style="width: 40%; padding: 10px; border: 1px solid #ddd;">
+    <img src="assets/img/join-slack.png" alt="Announcement" style="width: 100%; display: block;">
+    </td>
+    <td style="width: 60%; padding: 10px; border: 1px solid #ddd;">
+    NOTE: Q&A's are handled in Slack, the link is provided in the Zoom Lobby!
+    </td>
+  </tr>
+</table>
 
 <div class="call-for-container">
 
@@ -71,7 +82,7 @@ Interconnect Software: You can't touch it but you need it</strong>
         </tr>
         <tr>
           <td>Materials due</td>
-          <td style="color:red">August 2, 2025</td>
+          <td><del>August 2, 2025</del></td>
         </tr>
       </tbody>
     </table>

@@ -13,6 +13,18 @@
 
 <br>
 
+<table >
+  <tr>
+    <td style="width: 40%; padding: 10px; border: 1px solid #ddd;">
+    <img src="assets/img/join-slack.png" alt="Announcement" style="width: 100%; display: block;">
+    </td>
+    <td style="width: 60%; padding: 10px; border: 1px solid #ddd;">
+    NOTE: Q&A's are handled in Slack, the link is provided in the Zoom Lobby!
+    </td>
+  </tr>
+</table>
+
+<br>
 
 The times in the program below are Pacific Time (PT).
 
