@@ -249,14 +249,22 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms</td>
+<td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms
+    <a href="/assets/slides/2025_08_21_day2_SessionC_demystifying_nccl_hoti_presentation.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich), Sylvain Jeaugey (NVIDIA), Cedell Alexander, Eric Spada (Broadcom), James Dinan, Jeff Hammond (NVIDIA) and Torsten Hoefler (ETH Zurich)</td>
 </tr>
 
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Characterizing Communication Patterns in Distributed LLM Inference</td>
+<td markdown="span">Characterizing Communication Patterns in Distributed LLM Inference
+    <a href="/assets/slides/2025_08_21_day2_SessionC_Inference-hoti25.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> <strong>Lang Xu</strong>, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda (The Ohio State University)</td>
 </tr>
 
