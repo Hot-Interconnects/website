@@ -7,7 +7,6 @@
 
 <div class="top-right-qr">
 <img src="/assets/img/proceedings.png" alt="HOTI 2025 proceedings" style="width: 100px; height: auto;">
-<!-- <a href="https://www.dropbox.com/scl/fo/44okuwj3bxcezeo8p1tpb/AJLNLc-H7giTHviNI-3UkoA?rlkey=vpdiijs4k9yv1wv7mjc6twhvq&st=akygbujh&dl=0">Get early access to HotI Proceedings via QR code or link (Password: hoti_proceedings_2025)</a> -->
 <td> Get early access to HotI Proceedings via QR code or <a href="https://www.dropbox.com/scl/fo/44okuwj3bxcezeo8p1tpb/AJLNLc-H7giTHviNI-3UkoA?rlkey=vpdiijs4k9yv1wv7mjc6twhvq&st=akygbujh&dl=0">link</a> </td>
 </div>
 
@@ -67,6 +66,7 @@ The times in the program below are Pacific Time (PT).
 </td>
 </tr>
 
+<!-- icon-pdf image source: https://www.veryicon.com/icons/file-type/file-type-1/pdf-icon.html, with license Free for personal and commercial purpose -->
 <tr>
 <td markdown="span">10:30 - 10:45</td>
 <td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics 
