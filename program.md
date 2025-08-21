@@ -327,7 +327,7 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span">15:00</td>
 <td markdown="span">**HotI Awards**</td>
-<td markdown="span"> Ryan Grant (Queen's University)</td>
+<td markdown="span"> Yiltan Temucin (AMD) and Ryan Grant (Queen's University)</td>
 </tr>
 
 <tr>
