@@ -71,6 +71,9 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">10:30 - 10:45</td>
 <td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics 
     <a href="sponsortalk-lightmatter.html">[details]</a>
+    <a href="/assets/slides/2025_08_20_day1_Morning_Lightmatter_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
 </td>
 <td markdown="span">Nick Harris (Lightmatter)</td>
 </tr>
