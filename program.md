@@ -141,7 +141,7 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation 
-    <a href="/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pptx" target="_blank">
+    <a href="/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
