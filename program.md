@@ -69,13 +69,22 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">10:30 - 10:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics <a href="sponsortalk-lightmatter.html">[details]</a></td>
+<td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics 
+    <a href="sponsortalk-lightmatter.html">[details]</a>
+</td>
 <td markdown="span">Nick Harris (Lightmatter)</td>
 </tr>
+
 <tr>
-<td markdown="span">10:45 - 11:00</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cornelis <br> Reimagining the Scale-Out Architecture for HPC and AI <a href="sponsortalk-cornelis.html">[details]</a></td>
-<td markdown="span">Matt Williams (Cornelis Networks)</td>
+  <td markdown="span">10:45 - 11:00</td>
+  <td markdown="span">
+    **Diamond Sponsor Talk:** Cornelis <br> Reimagining the Scale-Out Architecture for HPC and AI 
+    <a href="sponsortalk-cornelis.html">[details]</a>
+    <a href="/assets/slides/2025_08_20_day1-Morning_Cornelis_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+  </td>
+  <td markdown="span">Matt Williams (Cornelis Networks)</td>
 </tr>
 
 <tr>
@@ -86,13 +95,21 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">bittide: Control Time, Not Flows</td>
+<td markdown="span">bittide: Control Time, Not Flows 
+    <a href="/assets/slides/2025_08_20_day1_SessionA_bittide_control_time_not_flows_Martijn_Bastiaan.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> <strong>Martijn Bastiaan</strong>, Christiaan Baaij (QBayLogic), Martin Izzard (Google DeepMind), Felix Klein (QBayLogic), Sanjay Lall (Google DeepMind, Stanford University) and Tammo Spalink (Stanford University) </td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels</td>
+<td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels
+    <a href="/assets/slides/2025_08_20_day1_SessionA_Deadlock-free_routing.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"><strong>Alejandro Cano Cos</strong>, Cristóbal Camarero, Carmen Martinez (Universidad de Cantabria) and Ramon Beivide (Universidad de Cantabria, Barcelona Supercomputing Center) </td>
 </tr>
 
@@ -110,13 +127,21 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Accelerating Frontier MoE Training with 3D Integrated Optics</td>
+<td markdown="span">Accelerating Frontier MoE Training with 3D Integrated Optics 
+    <a href="/assets/slides/2025_08_20_day1_SessionB_Accelerating_Frontier_MoE_Training_with_3D_Integrated_Optics.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> <strong>Taylor Groves</strong>, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh (Lightmatter)</td>
 </tr>
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation</td>
+<td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation 
+    <a href="/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pptx" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> <strong>Zhenguo Wu</strong> and Keren Bergman (Columbia University)</td>
 </tr>
 
@@ -128,7 +153,12 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">13:45-14:00</td>
-<td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration <a href="sponsortalk-nubis.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration 
+    <a href="sponsortalk-nubis.html">[details]</a> 
+    <a href="/assets/slides/2025_08_20_day1_Nubis_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> Peter Winzer (Nubis)</td>
 </tr>
 
