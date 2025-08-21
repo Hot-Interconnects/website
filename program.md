@@ -225,7 +225,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">10:00 - 10:15</td>
-<td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects <a href="sponsortalk-avicena.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects 
+    <a href="sponsortalk-avicena.html">[details]</a> 
+    <a href="/assets/slides/2025_08_21_day2-Morning_Avicena_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</td>
 <td markdown="span"> Chris Pfistner (Avicena) </td>
 </tr>
 
@@ -270,7 +274,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network</td>
+<td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network
+    <a href="/assets/slides/2025_08_21_day2_SessionC_FPGA-based_open_platform.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> Timo Schneider, <strong>Pengcheng Xu</strong> and Torsten Hoefler (ETH Zurich)</td>
 </tr>
 
@@ -330,7 +338,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach</td>
+<td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach
+    <a href="/assets/slides/2025_08_21_day2_SessionD_UCIe_Mem.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"><strong>Debendra Das Sharma</strong>, Swadesh Choudhary, Peter Onufryk (Intel) and Robert Pelt (AMD) </td>
 </tr>
 
