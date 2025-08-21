@@ -447,7 +447,7 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">**Morning Sessions B**</td>
-<td markdown="span">**Session chair**: Amanda Bienz (UNM)</td>
+<td markdown="span">**Session chair**: Jackson Wesley (UNM)</td>
 </tr>
 
 <tr>
