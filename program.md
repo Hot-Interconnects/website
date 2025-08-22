@@ -241,7 +241,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">10:25 - 10:30</td>
-<td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution <a href="sponsortalk-gigaio.html">[details]</a> </td>
+<td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution 
+    <a href="sponsortalk-gigaio.html">[details]</a> 
+    <a href="/assets/slides/2025_08_21_day2-Morning_GigaIO_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</td>
 <td markdown="span"> Alan Benjamin (GigaIO) </td>
 </tr>
 
@@ -314,7 +318,12 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">13:40 - 13:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Celestial AI <br> Photonic Fabric: Optical Scale-Up Networks for Accelerated Computing <a href="sponsortalk-celestalai.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** Celestial AI <br> Photonic Fabric: Optical Scale-Up Networks for Accelerated Computing 
+    <a href="sponsortalk-celestalai.html">[details]</a> 
+    <a href="/assets/slides/2025_08_21_day2_Afternoon_CelestialAI_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> Ravi Mahatme (Celestial AI) </td>
 </tr>
 
@@ -390,6 +399,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Principles and Practice of Scalable and Distributed Deep Neural Networks Training and Inference
 <br>
 <a href="/tutorials-dl-training.html">[details]</a>
+<a href="/assets/slides/2025_08_22_day3_Tutorial_Track1_DL.pdf" target="_blank">
+    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University) 
 <br>
