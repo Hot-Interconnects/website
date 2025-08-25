@@ -300,13 +300,21 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">12:30 - 13:00</td>
-<td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> <a href="invitedtalk-torsten.html">[details]</a> </td>
+<td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> 
+    <a href="invitedtalk-torsten.html">[details]</a> 
+    <a href="/assets/slides/2025_08_21_day2_Invited_talk_Ultra_Ethernet.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</td>
 <td markdown="span">Torsten Hoefler (ETH Zurich)</td>
 </tr>
 
 <tr>
 <td markdown="span">13:00 - 13:30</td>
-<td markdown="span">Building Custom AI Infrastructure with NVLink Fusion <br> <a href="invitedtalk-krishnan.html">[details]</a> </td>
+<td markdown="span">Building Custom AI Infrastructure with NVLink Fusion <br> 
+    <a href="invitedtalk-krishnan.html">[details]</a> 
+    <a href="/assets/slides/2025_08_21_day2_Invited_talk_NVIDIA_NVLink_Fusion.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</td>
 <td markdown="span">Krishnan Geeyarpuram (NVIDIA)</td>
 </tr>
 
@@ -329,7 +337,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">13:50 - 14:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta <a href="sponsortalk-meta.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta 
+    <a href="sponsortalk-meta.html">[details]</a> 
+    <a href="/assets/slides/2025_08_21_day2_Afternoon_Meta_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</td>
 <td markdown="span"> Wesley Bland (Meta)</td>
 </tr>
 
@@ -425,6 +437,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">High-Performance and Smart Networking Technologies for HPC and AI
 <br>
 <a href="/tutorials-smart-network.html">[details]</a>
+<a href="/assets/slides/2025_08_22_day3_Tutorial_Track1_HPNetworks.pdf" target="_blank">
+    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University) 
 <br>
@@ -478,6 +492,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
 <br>
 <a href="/tutorials-nccl-nvshmem.html">[details]</a>
+<a href="/assets/slides/2025_08_22_day3_Tutorial_NVIDIA_Julich_GPU_Communications_v2.pdf" target="_blank">
+    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
 <br>
