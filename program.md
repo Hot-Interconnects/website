@@ -475,6 +475,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Libfabric Communication Library
 <br>
 <a href="/tutorials-libfabric.html">[details]</a>
+<a href="/assets/slides/2025_08_22_day3_Tutorial_Libfabric.pdf" target="_blank">
+    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Rajalaxmi Angadi, Alexia Ingerson (Intel) 
 <br>
