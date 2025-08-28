@@ -48,7 +48,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">09:20</td>
-<td markdown="span">**Introduction and Day 1 Welcome**</td>
+<td markdown="span">**Introduction and Day 1 Welcome**
+    <a href="/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
 </tr>
 
@@ -205,7 +209,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">08:50</td>
-<td markdown="span">**Day 2 Welcome**</td>
+<td markdown="span">**Day 2 Welcome**
+    <a href="/assets/slides/2025_08_21_Welcome_day2_Artem.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
 </tr>
 
@@ -320,7 +328,12 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">13:30 - 13:40</td>
-<td markdown="span">**Platinum Sponsor Talk:** UALink <br> Why UALink: A Protocol-Level Comparison for Rack-Scale AI <a href="sponsortalk-ualink.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** UALink <br> Why UALink: A Protocol-Level Comparison for Rack-Scale AI 
+<a href="sponsortalk-ualink.html">[details]</a> 
+<a href="/assets/slides/2025_08_21_day2_Afternoon_UALink_sponsor_talk.pdf" target="_blank">
+    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</a>
+</td>
 <td markdown="span"> Sharada Yeluri (Astera Labs)</td>
 </tr>
 
@@ -370,13 +383,21 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">15:00</td>
-<td markdown="span">**HotI Awards**</td>
+<td markdown="span">**HotI Awards**
+    <a href="/assets/slides/2025_08_21_Awards.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> Yiltan Temucin (AMD) and Ryan Grant (Queen's University)</td>
 </tr>
 
 <tr>
 <td markdown="span">15:10</td>
-<td markdown="span">**HotI Closing Remarks**</td>
+<td markdown="span">**HotI Closing Remarks**
+    <a href="/assets/slides/2025_08_21_ClosingRemarks.pdf" target="_blank">
+        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span">Vice Chair: Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
 
