@@ -154,7 +154,12 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">13:30-13:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> Managing the fabrics underpinning AI infrastructure <a href="sponsortalk-cisco.html">[details]</a> </td>
+<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> Managing the fabrics underpinning AI infrastructure 
+    <a href="sponsortalk-cisco.html">[details]</a> 
+    <a href="/assets/slides/2025_08_20_day1_Afternoon_Cisco_sponsor_talk.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+</td>
 <td markdown="span"> Will Eatherton (Cisco)</td>
 </tr>
 
