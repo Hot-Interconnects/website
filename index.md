@@ -1,6 +1,13 @@
 ---
 # title: Home
 ---
+<br>
+
+<div style="text-align: center; font-size: 30px">
+    <strong>HotI 2025 has concluded. All presentations are now available <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> here</a>!</strong>
+</div>
+
+<br>
 
 {% comment %}
 {% include reg-open.md %}
@@ -23,18 +30,9 @@ Interconnect Software: You can't touch it but you need it</strong>
     The latest advancements in photonics, chips, parallel paths, and other cutting-edge interconnect technologies are dazzling. However, the picture is incomplete without the system software needed to exploit their full potential. This edition of Hot Interconnects will explore the underlying software ecosystems that empower interconnect fabrics to support a wide array of applications.
 </div>
 
+
 <!-- before this line you have your intro… -->
 <br>
-<table >
-  <tr>
-    <td style="width: 40%; padding: 10px; border: 1px solid #ddd;">
-    <img src="assets/img/join-slack.png" alt="Announcement" style="width: 100%; display: block;">
-    </td>
-    <td style="width: 60%; padding: 10px; border: 1px solid #ddd;">
-    NOTE: Q&A's are handled in Slack, the link is provided in the Zoom Lobby!
-    </td>
-  </tr>
-</table>
 
 <div class="call-for-container">
 

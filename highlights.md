@@ -6,6 +6,13 @@
     <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
   </div>
 </div> -->
+<br>
+
+<div style="text-align: center; font-size: 30px">
+    <strong>HotI 2025 has concluded. All presentations are now available <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> here</a>!</strong>
+</div>
+
+<br>
 
 ## Keynotes
 
@@ -66,6 +73,8 @@
 
 
 ## Invited Talk
+
+
 
 <table class="keynote-table" style="width:100%; border-collapse: collapse;">
   <tbody>
