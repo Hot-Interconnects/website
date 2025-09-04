@@ -235,6 +235,7 @@ The times in the program below are Pacific Time (PT).
 <a href="keynotes-deepak.html">[details]</a>
 <a href="/assets/slides/assets/slides/2025_08_21_day2-Morning_Keynote_Microsoft_Deepak_Bansal.pdf" target="_blank">
     <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</a>
 <br>
 <br>
 **Session chair**: Dan Pitt (Palo Alto Innovation Advisors)
