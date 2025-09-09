@@ -91,7 +91,7 @@ The times in the program below are Pacific Time (PT).
 <tr>
   <td markdown="span">10:45 - 11:00</td>
   <td markdown="span">
-    **Diamond Sponsor Talk:** Cornelis <br> Reimagining the Scale-Out Architecture for HPC and AI 
+    **Diamond Sponsor Talk:** Cornelis Networks <br> Reimagining the Scale-Out Architecture for HPC and AI 
     <a href="sponsortalk-cornelis.html">[details]</a>
     <a href="/assets/slides/2025_08_20_day1-Morning_Cornelis_sponsor_talk.pdf" target="_blank">
       <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
