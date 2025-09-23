@@ -4,11 +4,7 @@
 
 # Program
 
-
-<!-- <div class="top-right-qr">
-<img src="/assets/img/proceedings.png" alt="HOTI 2025 proceedings" style="width: 100px; height: auto;">
-<td> Get early access to HotI Proceedings via QR code or <a href="https://www.dropbox.com/scl/fo/44okuwj3bxcezeo8p1tpb/AJLNLc-H7giTHviNI-3UkoA?rlkey=vpdiijs4k9yv1wv7mjc6twhvq&st=akygbujh&dl=0">link</a> </td>
-</div> -->
+ 
 
 <!-- <br>
 
