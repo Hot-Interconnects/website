@@ -118,9 +118,12 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_20_day1_SessionA_Deadlock-free_routing.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <br>
+    <span style="color: #D4AF37; font-weight: bold;">🏆 Best Academic Paper Award</span>
 </td>
 <td markdown="span"><strong>Alejandro Cano Cos</strong>, Cristóbal Camarero, Carmen Martinez (Universidad de Cantabria) and Ramon Beivide (Universidad de Cantabria, Barcelona Supercomputing Center) </td>
 </tr>
+
 
 <tr>
 <td markdown="span">12:00 - 12:30</td>
@@ -140,6 +143,8 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_20_day1_SessionB_Accelerating_Frontier_MoE_Training_with_3D_Integrated_Optics.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <br>
+    <span style="color: #D4AF37; font-weight: bold;">🏆 Best Industry Paper Award</span>
 </td>
 <td markdown="span"> <strong>Taylor Groves</strong>, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh (Lightmatter)</td>
 </tr>
