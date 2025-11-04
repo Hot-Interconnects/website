@@ -530,10 +530,10 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
 <br>
 <a href="/tutorials-nccl-nvshmem.html">[details]</a>
+<a href="https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial" target="_blank">[code]</a>
 <a href="/assets/slides/2025_08_22_day3_Tutorial_NVIDIA_Julich_GPU_Communications_v2.pdf" target="_blank">
     <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-<a href="https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial" target="_blank">
-    <img src="/assets/img/github-41-16.png" alt="GitHub" style="width:20px; vertical-align:middle; margin-left: 5px;">
+</a>
 </td>
 <td markdown="span">Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
 <br>
