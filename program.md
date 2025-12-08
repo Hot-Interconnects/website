@@ -54,6 +54,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    
 </td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
 </tr>
@@ -108,6 +109,11 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_20_day1_SessionA_bittide_control_time_not_flows_Martijn_Bastiaan.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://ieeexplore.ieee.org/document/11244764/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2503.05033" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
 </td>
 <td markdown="span"> <strong>Martijn Bastiaan</strong>, Christiaan Baaij (QBayLogic), Martin Izzard (Google DeepMind), Felix Klein (QBayLogic), Sanjay Lall (Google DeepMind, Stanford University) and Tammo Spalink (Stanford University) </td>
 </tr>
@@ -117,6 +123,11 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels
     <a href="/assets/slides/2025_08_20_day1_SessionA_Deadlock-free_routing.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://ieeexplore.ieee.org/document/11244771/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2510.14730" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
     <br>
     <span style="color: #D4AF37; font-weight: bold;">🏆 Best Academic Paper Award</span>
@@ -143,6 +154,11 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_20_day1_SessionB_Accelerating_Frontier_MoE_Training_with_3D_Integrated_Optics.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://ieeexplore.ieee.org/document/11244753/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2510.15893" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
     <br>
     <span style="color: #D4AF37; font-weight: bold;">🏆 Best Industry Paper Award</span>
 </td>
@@ -154,6 +170,9 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation 
     <a href="/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://ieeexplore.ieee.org/document/11244774/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> <strong>Zhenguo Wu</strong> and Keren Bergman (Columbia University)</td>
@@ -284,6 +303,11 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_21_day2_SessionC_demystifying_nccl_hoti_presentation.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://ieeexplore.ieee.org/document/11244782/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2507.04786" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
 </td>
 <td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich), Sylvain Jeaugey (NVIDIA), Cedell Alexander, Eric Spada (Broadcom), James Dinan, Jeff Hammond (NVIDIA) and Torsten Hoefler (ETH Zurich)</td>
 </tr>
@@ -295,6 +319,11 @@ The times in the program below are Pacific Time (PT).
     <a href="/assets/slides/2025_08_21_day2_SessionC_Inference-hoti25.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://ieeexplore.ieee.org/document/11244786/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2507.14392" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
 </td>
 <td markdown="span"> <strong>Lang Xu</strong>, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda (The Ohio State University)</td>
 </tr>
@@ -302,8 +331,13 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network
-    <a href="/assets/slides/2025_08_21_day2_SessionC_FPGA-based_open_platform.pdf" target="_blank">
+    <a href="https://ieeexplore.ieee.org/document/11244766/" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://ieeexplore.ieee.org/document/11244766/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2405.16378" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> Timo Schneider, <strong>Pengcheng Xu</strong> and Torsten Hoefler (ETH Zurich)</td>
@@ -381,7 +415,13 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Micro-LED data interconnect for scale-up networks with record energy efficiency</td>
+<td markdown="span">Micro-LED data interconnect for scale-up networks with record energy efficiency
+    <a href="/assets/slides/Avicena_HotI_presentation_Aug_2025.pdf" target="_blank">
+      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="https://ieeexplore.ieee.org/document/11244769/" target="_blank">
+            <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+        </a>
+</td>
 <td markdown="span"><strong>Bardia Pezeshki</strong>, Alex Tselikov, Rob Kalman, Suresh Rangarajan, Ivan Huang, Jeff Pepper, Sarah Zou, Howard Rourke and Alasdair Fikouras (AvicenaTech Corp)</td>
 </tr>
 
@@ -390,6 +430,11 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach
     <a href="/assets/slides/2025_08_21_day2_SessionD_UCIe_Mem.pdf" target="_blank">
         <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://ieeexplore.ieee.org/document/11244781/" target="_blank">
+        <img src="/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a><a href="https://arxiv.org/abs/2510.06513" target="_blank">
+        <img src="/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"><strong>Debendra Das Sharma</strong>, Swadesh Choudhary, Peter Onufryk (Intel) and Robert Pelt (AMD) </td>
