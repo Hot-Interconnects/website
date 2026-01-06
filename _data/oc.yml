@@ -1,21 +1,26 @@
 # General Chair
 - position: General Chair
-  name: Artem Polyakov
-  affiliation: NVIDIA
-
-# Vice Chair
-- position: Vice Chair
   name: Sayan Ghosh
   affiliation: Pacific Northwest National Laboratory
 
+# Vice Chair
+- position: Vice Chair
+  name: David Ozog
+  affiliation: Cornelis Networks
+
 # PC Chairs
 - position: PC Chairs
+  email: program@hoti.org
   name: Rohit Zambre
   affiliation: NVIDIA
 
 - position: PC Chairs
-  name: David Ozog
-  affiliation: Cornelis Networks
+  name: Pepper Marts
+  affiliation: HPE
+
+- position: PC Chairs
+  name: Yiltan Temucin
+  affiliation: AMD
 
 # Keynote/Panel Chairs
 - position: Keynote/Panel Chairs
@@ -27,44 +32,56 @@
   affiliation: GigaIO
 
 - position: Keynote/Panel Chairs
-  name: Pavel Shamis
-  affiliation: NVIDIA
-
-- position: Keynote/Panel Chairs
   name: Taylor Groves
   affiliation: Lightmatter
 
+- position: Keynote/Panel Chairs
+  name: Pavel Shamis
+  affiliation: NVIDIA
+
 # Tutorial Chairs
 - position: Tutorial Chairs
+  email: tutorials@hoti.org
   name: Amanda Bienz
   affiliation: UNM
 
+- position: Tutorial Chairs
+  name: Shannon Kinkead
+  affiliation: Sandia National Laboratories
+
 # Online Conference Chairs
 - position: Online Conference Chairs
+  email: onlinechair@hoti.org
   name: Matthew Fricke
   affiliation: UNM
 
 - position: Online Conference Chairs
-  name: Nicholas Sarkauskas
+  name: Subhadeep Bhattacharya
   affiliation: NVIDIA
 
 - position: Online Conference Chairs
-  name: Pepper Marts
-  affiliation: HPE
+  name: Ryan Scherbarth
+  affiliation: Tesla
 
-# Web Chairs
-- position: Web Chairs
-  name: Timothy Stamler
-  affiliation: NVIDIA
+# Website and Data Archival Chairs
+- position: Website and Data Archival Chairs
+  email: webchair@hoti.org
+  name: Ram Charan Chaulagain
+  affiliation: Argonne National Laboratory
 
-- position: Web Chairs
+- position: Website and Data Archival Chairs
   name: Yuke Li
   affiliation: UC Merced
 
 # Publicity Chairs
 - position: Publicity Chairs
-  name: Subhadeep Bhattacharya
-  affiliation: NVIDIA
+  email: publicity@hoti.org
+  name: Emilio Paolini
+  affiliation: Scuola Superiore Sant'Anna
+
+- position: Publicity Chairs
+  name: Nahid Newaz
+  affiliation: Meta
 
 - position: Publicity Chairs
   name: Don Draper
@@ -85,7 +102,7 @@
   affiliation: University of Pisa
 
 - position: Publication Chairs
-  name: Shannon Kinkead
+  name: Matthew Dosanjh
   affiliation: Sandia National Laboratories
 
 # Journal Chairs
@@ -97,14 +114,19 @@
   name: Whit Schonbein
   affiliation: Sandia National Laboratories
 
-# Sponsor Chairs
-- position: Sponsor Chairs
+# Sponsor Engagement and Outreach Chairs
+- position: Sponsor Engagement and Outreach Chairs
+  email: sponsor@hoti.org
   name: Raj Channa
   affiliation: RBC Capital Markets
 
-- position: Sponsor Chairs
-  name: Emilio Paolini
-  affiliation: Scuola Superiore Sant'Anna
+- position: Sponsor Engagement and Outreach Chairs
+  name: Marc Cohn
+  affiliation: 
+
+- position: Sponsor Engagement and Outreach Chairs
+  name: Artem Polyakov
+  affiliation: NVIDIA
 
 # Award Chairs
 - position: Award Chairs

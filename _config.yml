@@ -31,6 +31,7 @@ exclude:
   - _ignore
   - proceedings.md
   - "2025"
+  - hoti.org
 
 destination: hoti.org/2026
 

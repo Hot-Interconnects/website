@@ -1,7 +1,29 @@
 ---
 # title: Call For Papers
 ---
-## The 32nd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2025), will take place virtually from Wednesday, August 20 – Friday, August 22, 2025
+
+<br>
+
+<div style="text-align: center; font-size: 30px">
+    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
+    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+</div>
+
+<br>
+
+# Call For Papers
+
+## Submissions
+
+| Event                       | Date               |
+| -------------------------- | ------------------ |
+| Paper abstract deadline    |   TBD       |
+| Submission deadline        |   TBD     |
+| Notification of acceptance |   TBD   |
+| Camera-ready               |   TBD   |
+
+
+## The 33rd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2026), will take place virtually
 
 IEEE Hot Interconnects is the premier international forum for researchers and developers of state-of-the-art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core, on-chip interconnects to those within systems, clusters, data centers, and clouds. This yearly conference is attended by leaders in industry and academia.
 
@@ -40,25 +62,12 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
 
 
 
-## Submissions
-
-| Event                      | Date               |
-| -------------------------- | ------------------ |
-| Paper abstract deadline    |   May 9, 2025      |
-| Submission deadline        |   May 23, 2025     |
-| Notification of acceptance |   June 20, 2025    |
-
-{% comment %}
-| Symposium                  | August 18-20, 2021 |
-| Tutorials                  | August 21, 2021    |
-{% endcomment %}
 
 
 <div style="text-align: left; font-size: 30px">
-<strong>2025 Conference Theme<br>
-Interconnect Software: You can't touch it but you need it</strong>
+<strong>2026 Conference Theme<br>
+TBD</strong>
 </div>
-The latest advancements in photonics, chips, parallel paths, and other cutting-edge interconnect technologies are dazzling. However, the picture is incomplete without the system software needed to exploit their full potential. This edition of Hot Interconnects will explore the underlying software ecosystems that empower interconnect fabrics to support a wide array of applications.
 
 ## Paper Format
 
@@ -66,22 +75,26 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 
 * Papers need sufficient technical detail to judge quality and suitability for presentation. Submissions must conform to <a href="https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/">[IEEE ethics standards]</a>
 * Submissions should include title, author, abstract, and paper in double-column, see <a href="https://www.ieee.org/conferences/publishing/templates.html">[IEEE format]</a> for details.
-* Papers will be submitted electronically through EasyChair (link soon!) and will undergo a single-blind review process.
+* Papers will be submitted electronically through EasyChair (link TBD) and will undergo a single-blind review process.
 * Regular papers: up to 10 pages (including technical content and figures), excluding references and any appendices. Appendices (if any) are limited to 5 pages (the limit might be extended upon committee approval in advance). Reproducibility appendices are encouraged but no official verification is provided by the HotI program committee.
-* Hot topic papers: up to 4 pages (including technical content and figures)excluding references. Appendices are not allowed for hot topic papers.
+* Hot topic papers: up to 4 pages (including technical content and figures) excluding references. Appendices are not allowed for hot topic papers. Hot topic papers should describe initial research or early first-of-a-kind results (from industry or academia) and will be reviewed independently from the regular papers. Hot topic papers will not be considered for IEEE Micro special issue.
 * Materials other than the abstract, main paper body, and references will be read at the committee’s discretion.
-* Accepted papers (both regular and hot topic papers) will be published in IEEE Xplore Digital Library. We plan to invite the best papers for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission.
+* Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. We plan to invite regular papers with the highest review scores for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission.
 * After a paper is accepted, the authors must follow the conference and <a href="https://www.computer.org/conferences/cps"> [IEEE CPS guidelines]</a> in publishing the paper.
-
-<!-- <span style="color: #FF0000">Link To be updated</span>
- [![Submit Paper](assets/img/red-submit-button-md.png)](https://easychair.org/my/conference?conf=hoti28) -->
-
-<!-- We will be offering a best paper award this year. -->
-
 <!-- ## Posters and Tutorials -->
 
 <!-- We are also inviting tutorial submissions. More information regarding poster will come out soon.  -->
 <!-- [The call for tutorials is now out](call-for-tutorials.html). -->
+
+## Best Papers
+
+High impact papers will be considered for “Best Industry Paper” (primary author(s) from industry) and “Best Academic Paper” (primary author(s) from academia or non-profit research laboratories) categories.
+ 
+2025 Hot Interconnects best papers:
+ 
+**[Best Industry Paper]** Accelerating Frontier MoE Training with 3D Integrated Optics (*Taylor Groves, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh (Lightmatter)*) <[hyperlink to IEEE Xplore](https://ieeexplore.ieee.org/document/11244753)>
+ 
+**[Best Academic Paper]** Deadlock-free routing for Full-mesh networks without using Virtual Channels (*Alejandro Cano Cos, Cristóbal Camarero, Carmen Martinez (Universidad de Cantabria) and Ramon Beivide (Universidad de Cantabria, Barcelona Supercomputing Center)*) <[hyperlink to IEEE Xplore](https://ieeexplore.ieee.org/document/11244771)>
 
 ## Safety and Well-being
 

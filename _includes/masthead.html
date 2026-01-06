@@ -1,0 +1,108 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <div class="masthead__brand">
+        {% unless logo_path == empty %}
+        <a href="{{ '/' | relative_url }}" class="site-logo">
+          <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+        </a>
+        {% endunless %}
+        <div class="social-and-date">
+          <div class="social-icons">
+            <a href="https://twitter.com/ieeehoti" target="_blank" class="social-icon">
+              <img src="{{ '/assets/img/logo_x_1.png' | relative_url }}" alt="X (Twitter)" class="social-logo">
+            </a>
+
+            <a href="https://www.youtube.com/@IEEEHOTI" target="_blank" class="social-icon">
+              <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube" class="social-logo">
+            </a>
+
+            <a href="https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all" target="_blank"
+              class="social-icon">
+              <img src="{{ '/assets/img/logo_linkedin.png' | relative_url }}" alt="LinkedIn" class="social-logo">
+            </a>
+
+            <a href="https://www.facebook.com/hoti.org" target="_blank" class="social-icon">
+              <img src="{{ '/assets/img/logo_facebook.png' | relative_url }}" alt="Facebook" class="social-logo">
+            </a>
+          </div>
+
+          <!-- <div class="masthead__date">Aug. 20 – 22</div> -->
+          <div class="masthead__date">2026, Virtual</div>
+        </div>
+
+        <!-- add a button for register -->
+        <!-- <a href="attendee_instructions.html" class="register-button">Register</a> -->
+        <!-- <a href="register.html" class="register-button">REGISTER / JOIN!</a> -->
+        <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"
+          class="register-button">YouTube</a>
+
+
+        <a href="{{ '/' | relative_url }}" class="site-title">
+          {{ site.masthead_title | default: site.title }}
+          {% if site.subtitle %}
+          <span class="site-subtitle">{{ site.subtitle }}</span>
+          {% endif %}
+        </a>
+      </div>
+
+      <nav class="site-nav">
+        <div class="nav-items">
+          {%- for link in site.data.navigation.main -%}
+          {% if link.submenu %}
+          <div class="masthead__menu-item dropdown" style="padding:0%">
+            <a href="{{ link.url | relative_url }}" class="dropdown__toggle">
+              {{ link.title }}
+            </a>
+            <ul class="dropdown__menu">
+              {% for sub in link.submenu %}
+              <li>
+                <a href="{{ sub.url | relative_url }}" class="dropdown__item">
+                  {{ sub.title }}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% else %}
+          <a href="{{ link.url | relative_url }}" class="masthead__menu-item" {% if link.description
+            %}title="{{ link.description }}" {% endif %} {% if link.target %}target="{{ link.target }}" {% endif %}>
+            {{ link.title }}
+          </a>
+          {% endif %}
+          {%- endfor -%}
+        </div>
+      </nav>
+
+    </div>
+  </div>
+</div>
+
+<style>
+  .register-button {
+    display: inline-block;
+    background: linear-gradient(to bottom, #e60000 0%, #990000 100%);
+    color: white !important;
+    /* Force white text */
+    padding: 12px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none !important;
+    /* Remove underline */
+    border-radius: 25px;
+    box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.3),
+      0 4px 6px rgba(0, 0, 0, 0.4);
+    border: 1px solid #800000;
+    text-shadow: 0 -1px 1px #800000;
+    font-family: Arial, sans-serif;
+    transition: transform 0.1s ease-in-out;
+  }
+
+  .register-button:hover {
+    transform: scale(1.03);
+    background: linear-gradient(to bottom, #ff1a1a 0%, #b30000 100%);
+  }
+</style>
