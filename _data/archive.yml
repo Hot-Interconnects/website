@@ -1,3 +1,6 @@
+- name: "HOTI32 (2025)"
+  ieee_url: ""
+  website_url: https://hoti.org/2025
 - name: "HOTI31 (2024)"
   ieee_url: https://ieeexplore.ieee.org/xpl/conhome/10664198/proceeding
   website_url: https://old.hoti.org/2024
