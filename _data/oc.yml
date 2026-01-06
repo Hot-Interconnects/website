@@ -1,12 +1,13 @@
-# General Chair
-- position: General Chair
+# General/Vice Chairs
+- position: General/Vice Chairs
   name: Sayan Ghosh
   affiliation: Pacific Northwest National Laboratory
+  role: General Chair
 
-# Vice Chair
-- position: Vice Chair
+- position: General/Vice Chairs
   name: David Ozog
   affiliation: Cornelis Networks
+  role: Vice Chair
 
 # PC Chairs
 - position: PC Chairs
