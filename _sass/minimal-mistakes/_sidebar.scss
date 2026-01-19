@@ -92,8 +92,8 @@
   }
 
   > * {
-    margin-top: 0.4em;
-    margin-bottom: 0em;
+    margin-top: 1em;
+    margin-bottom: 1em;
   }
 // Font Definition
   h2, h3, h4, h5, h6 {
@@ -102,8 +102,6 @@
   }
   p,
   li {
-    margin-top: 0;
-    margin-bottom: 0.3em;
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;

@@ -1,92 +1,107 @@
-- name: Ferrol Aderholdt
-  affiliation: NVIDIA
+- name: Ahmad Afsahi         
+  affiliation: Queen's University
+  url: https://www.queensu.ca/       
 
-- name: Yuichiro Ajima
-  affiliation: Fujitsu Limited
+- name: Adrián Castelló
+  affiliation: Universitat Politècnica de València
+  url: http://www.upv.es/index-en.html
 
-- name: Ron Brightwell
-  affiliation: Sandia National Laboratories
+- name: Hans Eberle 
+  affiliation: Nvidia
+  url: https://www.nvidia.com/en-us/
 
-- name: Ram Sharan Chaulagain
-  affiliation: Florida State University
+- name: Ada Gavrilovska 
+  affiliation: Georgia Tech
+  url: https://www.gatech.edu/
 
-- name: Swadesh Choudhary
-  affiliation: Intel
+- name: Paolo Giaccone              
+  affiliation: Politecnico di Torino
+  url: https://www.polito.it/
 
-- name: Jens Domke
-  affiliation: RIKEN
+- name: Madeleine Glick           
+  affiliation: Columbia University
+  url: https://www.columbia.edu/      
 
-- name: Hans Eberle
-  affiliation: NVIDIA
+- name: Brice Goglin         
+  affiliation: Inria
+  url: https://www.inria.fr/fr
 
-- name: Edgar Gabriel
-  affiliation: AMD
+- name: Taylor Groves               
+  affiliation: Lawrence Berkeley National Laboratory
+  url: https://www.llnl.gov/
 
-- name: Pedro Javier Garcia
-  affiliation: Universidad de Castilla-La Mancha
+- name: Jahanzeb Hashmi        
+  affiliation: Nvidia
+  url: https://www.nvidia.com/en-us/
 
-- name: Letizia Giuliano
-  affiliation: Alphawave Semi
-
-- name: Mitch Gusat
-  affiliation: IBM Zurich Research Laboratory
-
-- name: Jahanzeb Maqbool Hashmi
-  affiliation: NVIDIA
-
-- name: Hyun-Wook Jin
+- name: Hyun-Wook Jin    
   affiliation: Konkuk University
+  url: http://www.konkuk.ac.kr/do/Index.do
 
-- name: Jithin Jose
-  affiliation: Microsoft
+- name: Ajay Joshi               
+  affiliation: Boston University
+  url: https://www.bu.edu/
 
-- name: Shelby Lockhart
-  affiliation: AMD
+- name: Thomas Naughton            
+  affiliation: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/
 
-- name: Xiaoyi Lu
-  affiliation: University of California, Merced
+- name: Nhat Nguyen
+  affiliation: Ayar Labs
+  url: https://ayarlabs.com/
 
-- name: Mohiuddin Mazumder
+- name: Lena Oden
+  affiliation: FernUniversität in Hagen
+  url: https://www.fernuni-hagen.de/english/
+
+- name: David Ozog
   affiliation: Intel
+  url: https://www.intel.com
 
-- name: Md Atiqul Mollah
-  affiliation: Cornelis Networks
+- name: Luis Peña
+  affiliation: Arm Research
+  url: https://www.arm.com/resources/research
 
-- name: Kaiming Ouyang
-  affiliation: NVIDIA
+- name: Fabrizio Petrini            
+  affiliation: Intel
+  url: https://www.intel.com
 
-- name: Kishore Punniyamurthy
-  affiliation: NVIDIA
+- name: Swaroop Pophale
+  affiliation: Oak Ridge National Laboratory
+  url: https://www.ornl.gov/
 
-- name: Raghunath Raja Chandrasekar
-  affiliation: Amazon Web Services
-
-- name: Adrien Roussel
-  affiliation: CEA
+- name: Sarunya Pumma
+  affiliation: AMD
+  url: https://www.amd.com/
 
 - name: Galen Shipman
   affiliation: Los Alamos National Laboratory
+  url: https://www.lanl.gov/
 
-- name: Craig Stunkel
-  affiliation: NVIDIA
+- name: Meral Shirazipour
+  affiliation: Ericsson
+  url: https://www.ericsson.com/en
 
-- name: Hugo Taboada
-  affiliation: CEA
-
-- name: Anant Thakar
-  affiliation: Lightmatter
+- name: Craig Stunkel               
+  affiliation: Nvidia
+  url: https://www.nvidia.com/en-us/
 
 - name: Keith Underwood
   affiliation: HPE
+  url: https://www.hpe.com/
 
-- name: Vishwanath Venkatesan
-  affiliation: NVIDIA
+- name: Hao Wang
+  affiliation: The Ohio State University
+  url: https://www.osu.edu/
 
-- name: Anna Verner
-  affiliation: NVIDIA
-
-- name: Gwendolyn Voskuilen
-  affiliation: Sandia National Laboratories
+- name: Xiaodong Yu
+  affiliation: Argonne National Laboratory
+  url: https://www.anl.gov/
 
 - name: Xin Yuan
   affiliation: Florida State University
+  url: https://www.fsu.edu/
+
+- name: Amelie Chi Zhou
+  affiliation: Shenzhen University
+  url: https://www.szu.edu.cn/

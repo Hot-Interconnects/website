@@ -1,66 +1,38 @@
-- name: 2025 Sponsors
+- name: Conference Date
+  text_only: true 
+  members:  
+  - name: 
+    text: "Aug. 20 - Aug. 22, 2025"
+
+# - name: Social Media
+#   image_only: true
+#   image_width: 40px
+#   members:
+#   - name: X
+#     logo: /assets/img/logo_x_1.png
+#     url: https://twitter.com/ieeehoti
+#   - name: YouTube
+#     logo: /assets/img/logo_youtube.png
+#     url: https://www.youtube.com/@IEEEHOTI
+#   - name: LinkedIn
+#     logo: /assets/img/logo_linkedin.png
+#     url: https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all
+#   - name: Facebook
+#     logo: /assets/img/logo_facebook.png
+#     url: https://www.facebook.com/hoti.org
+
+- name: Thank you for 2024 sponsors!
   members:
-    - name: Diamond 
-      logos:
-        - img: /assets/img/lightmatter_logo.jpeg
-          url: https://lightmatter.co/
-          image_width: 125px
-        - img: /assets/img/cornelis-logo-stacked.png
-          url: https://www.cornelisnetworks.com/
-          image_width: 150px
-        - img: /assets/img/Cisco-Logo.png
-          url: https://www.cisco.com/
-          image_width: 155px
-        - img: /assets/img/nubis_logo.jpeg
-          url: https://www.nubis-inc.com/
-          image_width: 160px
-        - img: /assets/img/Avicena_logo.jpg
-          url: https://avicena.tech/
-          image_width: 175px
-    - name: Platinum
-      logos: 
-        - img: /assets/img/arista_150px.png
-          url: https://www.arista.com/en/
-          image_width: 145px
-          custom_spacing: "7px"
-        - img: /assets/img/UALink_logo.jpg
-          url: https://ualinkconsortium.org/
-          image_width: 150px
-          custom_spacing: "7px"
-        - img: /assets/img/celestial-ai.jpg
-          url: https://www.celestial.ai/
-          image_width: 180px
-          custom_spacing: "7px"
-        - img: /assets/img/Meta_Logo.jpg
-          url: https://www.meta.com/
-          image_width: 120px
-          custom_spacing: "7px"
-    - name: Gold
-      logos:
-        - img: /assets/img/gigaio_150px.png
-          url: https://gigaio.com/
-          image_width: 90px
-    - name: Silver
-      logos:
-        - img: /assets/img/lenovo_logo.png
-          url: https://www.lenovo.com
-          image_width: 100px
-        - img: /assets/img/dell_logo1.png
-          url: https://www.dell.com/en-us
-          image_width: 100px
-    - name: Technical Sponsors
-      logos:
-        - img: /assets/img/ieee.png
-          url: https://www.ieee.org/
-          image_width: 100px
-        - img: /assets/img/ieee-comp-society.png
-          url: https://www.computer.org/
-          image_width: 100px
-        - img: /assets/img/tcmm.png
-          url: https://tc.computer.org/tcmm/
-          image_width: 100px
-    - name: Media Partner
-      logos:
-        - img: /assets/img/HPCwire-logo-800.png
-          url: https://www.hpcwire.com/
-          image_width: 150px
+  - name: Platinum Sponsors
+    image_width: 150px  # Largest size for Platinum
+    logos: 
+      - /assets/img/eliyan_logo.png
+  - name: Gold Sponsors
+    image_width: 130px  # Medium size for Gold
+    logos:
+      - /assets/img/gold_sponsors_1.png
+      - /assets/img/gold_sponsors_2.png
+  - name: Silver Sponsors
+    image_width: 80px  # Smallest size for Silver
+    logos:
+      - /assets/img/lenovo_logo.png

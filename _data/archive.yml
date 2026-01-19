@@ -4,9 +4,9 @@
 - name: "HOTI30 (2023)"
   ieee_url: https://ieeexplore.ieee.org/xpl/conhome/10287280/proceeding
   website_url: https://old.hoti.org/2023
-# - name: "HOTI29 (2022)"
-#   ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9912439/proceeding
-#   website_url: https://old.hoti.org/2023
+- name: "HOTI29 (2022)"
+  ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9912439/proceeding
+  website_url: https://old.hoti.org/2023
 - name: "HOTI28 (2021)"
   ieee_url: https://ieeexplore.ieee.org/xpl/conhome/9547004/proceeding
   website_url: https://old.hoti.org/2021
