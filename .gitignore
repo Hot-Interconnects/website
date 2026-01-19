@@ -5,3 +5,5 @@ hoti.org
 vendor
 *.zip
 .DS_Store
+Gemfile
+Gemfile.lock
