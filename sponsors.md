@@ -25,11 +25,11 @@ IEEE Hot Interconnects Patrons receive immeasurably valuable visibility in numer
 
 To participate, please email <sponsor@hoti.org> to discuss your desired level of participation.
 
-<!-- [Download Sponsorship Information (PDF)](assets/slides/HOTI2025_Sponsorship_info_v4.1.pptx.pdf) -->
+[Download Sponsorship Information (PDF)](assets/slides/HOTI2026_Sponsorship_info_v4.pdf)
 
-| Level    | Cost   | Speaking Slot Time (preferably recorded) | Email/Social Media Recognition | Sponsor Logo on Website | Sponsor Logo During Event | Sponsor Logo Size | Youtube Recording of Sponsor Talk |
-|----------|--------|------------------------------------------|--------------------------------|-------------------------|---------------------------|-------------------|-----------------------------------|
-| Silver   | TBD  |                                     |                              |                       |                         |               |                                 |
-| Gold     | TBD  |                                     |                              |                       |                         |               |                                 |
-| Platinum | TBD  |                                     |                              |                       |                         |               |                                 |
-| Diamond  | TBD  |                                     |                              |                      |                         |               |                                 |
+| Level    | # of Slots | Cost   | Speaking Slot Time | Sponsor Logo Size | Email Distribution | Recording | Social Media |
+|:---------|:-----------|:-------|:-------------------|:------------------|:-------------------|:----------|:-------------|
+| **Diamond**  | 3          | $5000  | 15 min             | Largest Logo      | Yes                | Yes       | More Prominent |
+| **Platinum** | 5          | $3500  | 10 min             | Large Logo        | Yes                | Yes       | Prominent      |
+| **Gold**     | Unlimited  | $2000  | N/A                | Medium Logo       | Yes                | Yes       | Prominent      |
+| **Silver**   | Unlimited  | $1000  | N/A                | Small Logo        | Yes                | Yes       | Less Prominent |

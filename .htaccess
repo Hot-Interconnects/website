@@ -4,6 +4,3 @@
 # AuthUserFile "/home1/hcsite/htaccess/.hc32.htpasswd"
 # require valid-user
 Options -Indexes
-RewriteEngine On
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://hc32.hotchips.org/$1 [R,L]

@@ -1,6 +1,0 @@
-# Top Level protection temporary until read to show world
-# AuthType Basic
-# AuthName "Top Level Access (temp until site goes live)"
-# AuthUserFile "/home1/hcsite/htaccess/.hc32.htpasswd"
-# require valid-user
-Options -Indexes

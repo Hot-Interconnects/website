@@ -1,18 +1,20 @@
 {%- for group in site.data.sponsors %}
-**{{ group.name }}**  
-{% for sponsor in group.members %}
-{%- if group.text_only %}
-<div style="text-align: left; font-size: 14px;">{{ sponsor.name }} {{ sponsor.text }}</div>
-{%- elsif group.image_only %}
-[![{{ sponsor.name }} logo]({{ sponsor.logo }}){: width="{{ group.image_width | default: '200px' }}"}]({{ sponsor.url }})
-{%- else %}
-<span style="font-size: 16px;">**{{ sponsor.name }}**</span>
-{% for logo in sponsor.logos %}
-![{{ sponsor.name }} logo]({{ logo }}){: width="{{ sponsor.image_width | default: '200px' }}"} 
-{% endfor %}
-{%- endif %}
-{%- endfor %}
-
-&nbsp;
-
+<div class="sidebar-sponsors">
+  <h3>{{ group.name }}</h3>
+  {% for sponsor in group.members %}
+    <div class="sponsor-group">
+      {%- if sponsor.name %}
+      <h4 style="margin-bottom: 5px;">{{ sponsor.name }}</h4>
+      {%- endif %}
+      
+      <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        {% for logo in sponsor.logos %}
+          <a href="{{ logo.url }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ logo.img | relative_url }}" alt="{{ sponsor.name }} logo" style="width: {{ logo.image_width | default: '150px' }}; max-width: 100%; height: auto; margin-bottom: 10px;">
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
 {% endfor %}

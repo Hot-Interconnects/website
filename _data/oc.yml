@@ -3,117 +3,143 @@
   name: Sayan Ghosh
   affiliation: Pacific Northwest National Laboratory
   role: General Chair
+  image: /assets/img/commitee_pics/Ghosh_Sayan.jpg
 
 - position: General/Vice Chairs
   name: David Ozog
-  affiliation: Cornelis Networks
+  affiliation: NVIDIA
   role: Vice Chair
+  image: /assets/img/commitee_pics/David_Ozog.png
 
 # PC Chairs
 - position: PC Chairs
   email: program@hoti.org
   name: Rohit Zambre
   affiliation: NVIDIA
+  image: /assets/img/commitee_pics/Rohit_Zambre.png
 
 - position: PC Chairs
   name: Pepper Marts
   affiliation: HPE
+  image: /assets/img/commitee_pics/Pepper_Marts.jpeg
 
 - position: PC Chairs
   name: Yiltan Temucin
   affiliation: AMD
+  image: /assets/img/commitee_pics/Yiltan.jpeg
+  image: /assets/img/commitee_pics/Yiltan.jpeg
 
 # Keynote/Panel Chairs
 - position: Keynote/Panel Chairs
   name: Dan Pitt
   affiliation: Palo Alto Innovation Advisors
+  image: /assets/img/commitee_pics/Dan_Pitt.jpg
 
 - position: Keynote/Panel Chairs
   name: Alan Benjamin
   affiliation: GigaIO
+  image: /assets/img/commitee_pics/Alan_Benjamin.jpeg
 
 - position: Keynote/Panel Chairs
   name: Taylor Groves
   affiliation: Lightmatter
+  image: /assets/img/commitee_pics/Taylor_Groves.jpeg
 
 - position: Keynote/Panel Chairs
   name: Pavel Shamis
   affiliation: NVIDIA
+  image: /assets/img/commitee_pics/Pavel_Shamis.jpeg
 
 # Tutorial Chairs
 - position: Tutorial Chairs
   email: tutorials@hoti.org
   name: Amanda Bienz
   affiliation: UNM
+  image: /assets/img/commitee_pics/Amanda_Bienz.jpeg
 
 - position: Tutorial Chairs
   name: Shannon Kinkead
   affiliation: Sandia National Laboratories
+  image: /assets/img/commitee_pics/Shannon_Kinkead.jpeg
 
 # Online Conference Chairs
 - position: Online Conference Chairs
   email: onlinechair@hoti.org
   name: Matthew Fricke
   affiliation: UNM
+  image: /assets/img/commitee_pics/Matthew_Fricke.png
 
 - position: Online Conference Chairs
   name: Subhadeep Bhattacharya
   affiliation: NVIDIA
+  image: /assets/img/commitee_pics/Subhadeep_Bhattacharya.jpeg
 
 - position: Online Conference Chairs
   name: Ryan Scherbarth
   affiliation: Tesla
+  image: /assets/img/commitee_pics/ryan_scherbarth.jpg
 
 # Website and Data Archival Chairs
 - position: Website and Data Archival Chairs
   email: webchair@hoti.org
   name: Ram Charan Chaulagain
   affiliation: Argonne National Laboratory
+  image: /assets/img/commitee_pics/Ram_Sharan_Chaulagain.jpg
 
 - position: Website and Data Archival Chairs
   name: Yuke Li
   affiliation: UC Merced
+  image: /assets/img/commitee_pics/Yuke_Li.jpeg
 
 # Publicity Chairs
 - position: Publicity Chairs
   email: publicity@hoti.org
   name: Emilio Paolini
   affiliation: Scuola Superiore Sant'Anna
+  image: /assets/img/commitee_pics/Emilio_Paolini.jpeg
 
 - position: Publicity Chairs
   name: Nahid Newaz
   affiliation: Meta
+  image: /assets/img/commitee_pics/Nahid_Newaz.jpg
 
 - position: Publicity Chairs
   name: Don Draper
   affiliation: ProPrincipia International Associates
+  image: /assets/img/commitee_pics/Don_Draper.jpeg
 
 # Finance Chairs
 - position: Finance Chairs
   name: Scott Levy
   affiliation: Sandia National Laboratories
+  image: /assets/img/commitee_pics/Scott_Levy.jpg
 
 - position: Finance Chairs
   name: Jim Dinan
   affiliation: NVIDIA
+  image: /assets/img/commitee_pics/jim_dinan.jpg
 
 # Publication Chairs
 - position: Publication Chairs
   name: Nicola Andriolli
   affiliation: University of Pisa
+  image: /assets/img/commitee_pics/Nicola_Andriolli.jpg
 
 - position: Publication Chairs
   name: Matthew Dosanjh
   affiliation: Sandia National Laboratories
+  image: /assets/img/commitee_pics/Matthew_Dosanjh.jpeg
 
 # Journal Chairs
 - position: Journal Chairs
   name: Joseph Schuchart
   affiliation: Stony Brook University
+  image: /assets/img/commitee_pics/Schuchart.jpg
 
 - position: Journal Chairs
   name: Whit Schonbein
   affiliation: Sandia National Laboratories
+  image: /assets/img/commitee_pics/schonbein.jpg
 
 # Sponsor Engagement and Outreach Chairs
 - position: Sponsor Engagement and Outreach Chairs
@@ -128,12 +154,15 @@
 - position: Sponsor Engagement and Outreach Chairs
   name: Artem Polyakov
   affiliation: NVIDIA
+  image: /assets/img/commitee_pics/artem_polyakov.jpeg
 
 # Award Chairs
 - position: Award Chairs
   name: Ryan Grant
   affiliation: Queen's University
+  image: /assets/img/commitee_pics/Ryan_Grant.jpg
 
 - position: Award Chairs
   name: Yiltan Temucin
   affiliation: AMD
+  image: /assets/img/commitee_pics/Yiltan.jpeg
