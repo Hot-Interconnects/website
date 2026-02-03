@@ -3,22 +3,6 @@
 ---
 <br>
 
-<div style="text-align: center; font-size: 30px">
-    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
-</div>
-
-<br>
-
-{% comment %}
-{% include reg-open.md %}
-{% endcomment %}
-
-<!-- <div style="text-align: center; font-size: 30px">
-<strong>2025 Conference Theme<br>
-Interconnect Software: You can't touch it but you need it</strong>
-</div> -->
-
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
     <!-- <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br> -->
@@ -29,6 +13,21 @@ Interconnect Software: You can't touch it but you need it</strong>
     </div>
 
 </div>
+
+<br>
+
+
+
+
+{% comment %}
+{% include reg-open.md %}
+{% endcomment %}
+
+<!-- <div style="text-align: center; font-size: 30px">
+<strong>2025 Conference Theme<br>
+Interconnect Software: You can't touch it but you need it</strong>
+</div> -->
+
 
 
 <!-- before this line you have your intro… -->
@@ -114,9 +113,13 @@ TBD
 
 
 
+
+
 ## Last Year's Proceedings (HotI32 (2025))
 
 Available at [IEEE here](https://ieeexplore.ieee.org/xpl/conhome/11244728/proceeding).
+
+Watch the recordings of all sessions and talks on [YouTube](https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r).
 
 ## Last Year's Publications (HotI32 (2025))
 
