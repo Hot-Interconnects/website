@@ -6,7 +6,7 @@
 
 
 <div style="text-align: center; font-size: 30px">
-<strong>HOTI 2026<br></strong>
+<strong>HOTI 2026 Theme<br></strong>
 </div>
 
 <div style="text-align: center; font-size: 30px">
@@ -19,7 +19,7 @@
 # Call For Papers
 HotI 2026 solicits original research papers addressing the design, analysis, implementation, and evaluation of high-performance interconnects and closely related technologies. Topics of interest include, but are not limited to, interconnect architectures, network protocols, networking software, communication runtimes, congestion control, optical and emerging fabrics, accelerator and chiplet interconnects, disaggregated systems, and system–network co-design. 
 
-Paper submissions are expected to open in March 2026. Like the previous years, we will consider regular and hot-topic papers. The full Call for Papers, including important dates and submission guidelines, will be released closer to the submission opening. Please monitor relevant CFP information here: <a>https://hoti.org/2026/call-for-papers.html</a>
+Paper submissions are expected to open in March 2026. Like the previous years, we will consider regular and hot-topic papers. The full Call for Papers, including important dates and submission guidelines, will be released closer to the submission opening. 
 
 ## Submissions
 
