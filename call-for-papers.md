@@ -16,6 +16,10 @@
 
 <br>
 
+
+Complex high-capacity training and disaggregated inference workloads are being scaled-across multiple sites, blurring the lines between contemporary scale-out and scale-up interconnection stacks. All the classical issues, such as jitter, bursts, flow/congestion, long-tail latencies, etc., are amplified over long distances, requiring deliberate interventions across the full interconnection stack: algorithms, operational tools, communication frameworks, and network fabrics. This edition of Hot Interconnects will explore these interventions behind operationalizing interconnects over long, short, and shorter distances. 
+
+
 # Call For Papers
 HotI 2026 solicits original research papers addressing the design, analysis, implementation, and evaluation of high-performance interconnects and closely related technologies. Topics of interest include, but are not limited to, interconnect architectures, network protocols, networking software, communication runtimes, congestion control, optical and emerging fabrics, accelerator and chiplet interconnects, disaggregated systems, and system–network co-design. 
 
