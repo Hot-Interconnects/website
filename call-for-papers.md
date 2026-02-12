@@ -4,14 +4,22 @@
 
 <br>
 
+
 <div style="text-align: center; font-size: 30px">
-    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+<strong>HOTI 2026<br></strong>
+</div>
+
+<div style="text-align: center; font-size: 30px">
+    <strong>Scale-Up, Scale-Out, Scale-Across: Do they really differ? 
+ </strong>
 </div>
 
 <br>
 
 # Call For Papers
+HotI 2026 solicits original research papers addressing the design, analysis, implementation, and evaluation of high-performance interconnects and closely related technologies. Topics of interest include, but are not limited to, interconnect architectures, network protocols, networking software, communication runtimes, congestion control, optical and emerging fabrics, accelerator and chiplet interconnects, disaggregated systems, and system–network co-design. 
+
+Paper submissions are expected to open in March 2026. Like the previous years, we will consider regular and hot-topic papers. The full Call for Papers, including important dates and submission guidelines, will be released closer to the submission opening. Please monitor relevant CFP information here: <a>https://hoti.org/2026/call-for-papers.html</a>
 
 ## Submissions
 
@@ -23,10 +31,10 @@
 | Camera-ready               |   TBD   |
 
 
-## The 33rd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2026), will take place virtually
+<!-- ## The 33rd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2026), will take place virtually
 
 IEEE Hot Interconnects is the premier international forum for researchers and developers of state-of-the-art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core, on-chip interconnects to those within systems, clusters, data centers, and clouds. This yearly conference is attended by leaders in industry and academia.
-
+ -->
 
 
 
@@ -63,13 +71,10 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
 
 
 
-
-<div style="text-align: left; font-size: 30px">
-<strong>2026 Conference Theme<br>
-TBD</strong>
-</div>
+<!-- 
 
 ## Paper Format
+TBD
 
 This year we invite papers to be submitted either as regular (long) papers (up to 10 pages) or as hot topic papers (up to 4 pages). Hot topic papers could be positional papers, industry papers, or papers describing hot-off-the-press breaking research results and will be judged accordingly and independently from the regular papers.
 
@@ -80,11 +85,11 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 * Hot topic papers: up to 4 pages (including technical content and figures) excluding references. Appendices are not allowed for hot topic papers. Hot topic papers should describe initial research or early first-of-a-kind results (from industry or academia) and will be reviewed independently from the regular papers. Hot topic papers will not be considered for IEEE Micro special issue.
 * Materials other than the abstract, main paper body, and references will be read at the committee’s discretion.
 * Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. We plan to invite regular papers with the highest review scores for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission.
-* After a paper is accepted, the authors must follow the conference and <a href="https://www.computer.org/conferences/cps"> [IEEE CPS guidelines]</a> in publishing the paper.
-<!-- ## Posters and Tutorials -->
+* After a paper is accepted, the authors must follow the conference and <a href="https://www.computer.org/conferences/cps"> [IEEE CPS guidelines]</a> in publishing the paper. 
+## Posters and Tutorials 
 
-<!-- We are also inviting tutorial submissions. More information regarding poster will come out soon.  -->
-<!-- [The call for tutorials is now out](call-for-tutorials.html). -->
+We are also inviting tutorial submissions. More information regarding poster will come out soon. 
+[The call for tutorials is now out](call-for-tutorials.html).
 
 ## Best Papers
 
@@ -99,4 +104,4 @@ High impact papers will be considered for “Best Industry Paper” (primary aut
 ## Safety and Well-being
 
 Given the success of previous year’s online format, Hot Interconnects 2025 will continue to be an online conference.
-
+ -->
