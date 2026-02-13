@@ -1,35 +1,47 @@
-- name: Dan Pitt (Chair)
-  affiliation: Palo Alto Innovation Advisors
-
-- name: Don Draper        
-  affiliation: ProPrincipia International Associates
-
-- name: Jim Dinan
+- name: Jim Dinan (Chair)
   affiliation: NVIDIA
 
-- name: Xinyu Que     
-  affiliation: IBM Research
-
-- name: John Lockwood         
-  affiliation: Algo-Logic Systems
-
-- name: Madeleine Glick
-  affiliation: Columbia University
+- name: Allen Baum
+  affiliation: Esperanto Technologies
 
 - name: Raj Channa
   affiliation: RBC Capital Markets
 
-- name: Allen Baum             
-  affiliation: Esperanto Technologies
+- name: Matthew Dosanjh
+  affiliation: Sandia National Laboratories
+
+- name: Don Draper
+  affiliation: ProPrincipia International Associates
+
+- name: Madeleine Glick
+  affiliation: Columbia University
+
+- name: Manjunath Gorentla Venkata
+  affiliation: NVIDIA
+
+- name: Ryan Grant
+  affiliation: Queen's University
+
+- name: Taylor Groves
+  affiliation: Lightmatter
 
 - name: Mitch Gusat
   affiliation: IBM Research
 
+- name: John Lockwood
+  affiliation: Algo-Logic Systems
+
 - name: Fabrizio Petrini
   affiliation: Intel Labs
 
-- name: Ryan Grant
-  affiliation: Sandia National Laboratories
+- name: Dan Pitt
+  affiliation: Palo Alto Innovation Advisors
 
-- name: Ada Gavrilovska                
-  affiliation: Georgia Tech
+- name: Artem Polyakov
+  affiliation: NVIDIA
+
+- name: Xinyu Que
+  affiliation: IBM Research
+
+- name: Pavel Shamis
+  affiliation: NVIDIA
