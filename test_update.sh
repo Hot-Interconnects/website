@@ -5,7 +5,7 @@ username=$1
 hostname=$2
 
 # Fetch from GitHub
-git fetch origin || echo "Failed to fetch from the upstream"
+git fetch origin || { echo "ERROR: Failed to fetch from the upstream"; exit 1; }
 
 # Check that there are NO unstaged changes
 if ! git diff --quiet; then
@@ -14,10 +14,10 @@ if ! git diff --quiet; then
 fi
 
 # Rebase on top of the upstream branch
-git rebase origin/main || echo "Failed to rebase on top of Upstream"
+git rebase origin/main || { echo "ERROR: Failed to rebase on top of Upstream"; exit 1; }
 
 # Push to upstream
-git push origin main
+git push origin main || { echo "ERROR: Failed to push to upstream"; exit 1; }
 
 # Rsync website
 rsync -i -r -P --exclude '2025' --timeout=120 -e "ssh -o ServerAliveInterval=60" ./${hostname} ${username}@${hostname}:/home/${username}/
