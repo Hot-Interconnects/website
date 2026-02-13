@@ -59,18 +59,18 @@
       #     image_width: 100px
     - name: Technical Sponsors
       logos:
-        - img: /assets/img/empty-box.png
+        # - img: /assets/img/empty-box.png
           # url: https://www.arista.com/en/
-          image_width: 145px
-      #   - img: /assets/img/ieee.png
-      #     url: https://www.ieee.org/
-      #     image_width: 100px
-      #   - img: /assets/img/ieee-comp-society.png
-      #     url: https://www.computer.org/
-      #     image_width: 100px
-      #   - img: /assets/img/tcmm.png
-      #     url: https://tc.computer.org/tcmm/
-      #     image_width: 100px
+          # image_width: 145px
+        - img: /assets/img/ieee.png
+          url: https://www.ieee.org/
+          image_width: 100px
+        - img: /assets/img/ieee-comp-society.png
+          url: https://www.computer.org/
+          image_width: 100px
+        - img: /assets/img/tcmm.png
+          url: https://tc.computer.org/tcmm/
+          image_width: 100px
     - name: Media Partner
       logos:
         - img: /assets/img/empty-box.png
