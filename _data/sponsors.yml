@@ -40,14 +40,12 @@
         #   image_width: 120px
         #   custom_spacing: "7px"
     - name: Gold
-      total_slots: Unlimited
       available_slots: 2
       logos: []
       #   - img: /assets/img/gigaio_150px.png
       #     url: https://gigaio.com/
       #     image_width: 90px
     - name: Silver
-      total_slots: Unlimited
       available_slots: 2
       logos: []
       #   - img: /assets/img/lenovo_logo.png
