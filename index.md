@@ -7,9 +7,13 @@
     <div style="text-align: center; font-size: 30px">
     <!-- <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br> -->
     <strong>Welcome to the 33rd iteration of the IEEE Hot Interconnects symposium. </strong>
-    <strong>HotI’2026 will be held virtually.</strong> <br>
-    <!-- <strong>2026 Conference Theme<br>
-    TBD</strong> -->
+    <strong>HotI’2026 will be held virtually.</strong> <br><br>
+    <strong>2026 Conference Theme<br>
+    Scale-Up, Scale-Out, Scale-Across: Do they really differ?</strong>
+    </div>
+
+    <div style="max-width: 850px; margin: 0 auto; text-align: justify; font-size: 18px; padding-top: 10px;">
+    Complex high-capacity training and disaggregated inference workloads are being scaled-across multiple sites, blurring the lines between contemporary scale-out and scale-up interconnection stacks. All the classical issues, such as jitter, bursts, flow/congestion, long-tail latencies, etc., are amplified over long distances, requiring deliberate interventions across the full interconnection stack: algorithms, operational tools, communication frameworks, and network fabrics. This edition of Hot Interconnects will explore these interventions behind operationalizing interconnects over long, short, and shorter distances.
     </div>
 
 </div>
