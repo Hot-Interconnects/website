@@ -14,7 +14,7 @@
           </a>
         {% endfor %}
         {% if sponsor.available_slots %}
-          {% if sponsor.name == "Diamond" %}{% assign slot_logo_width = "130px" %}{% elsif sponsor.name == "Platinum" %}{% assign slot_logo_width = "85px" %}{% else %}{% assign slot_logo_width = "85px" %}{% endif %}
+          {% if sponsor.name == "Diamond" %}{% assign slot_logo_width = "130px" %}{% elsif sponsor.name == "Platinum" %}{% assign slot_logo_width = "105px" %}{% else %}{% assign slot_logo_width = "85px" %}{% endif %}
           {% for i in (1..sponsor.available_slots) %}
             <a href="sponsors.html" title="Available {{ sponsor.name }} slot – become a sponsor!" style="text-decoration: none;">
               <img src="{{ '/assets/img/hoti_logo.png' | relative_url }}" alt="Available slot" style="width: {{ slot_logo_width }}; max-width: 100%; height: auto; margin-bottom: 10px; opacity: 0.15; filter: grayscale(100%);">
