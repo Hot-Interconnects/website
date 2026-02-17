@@ -1,6 +1,8 @@
 - name: 2026 Sponsors
   members:
-    - name: Diamond 
+    - name: Diamond
+      total_slots: 3
+      available_slots: 1
       logos:
         - img: /assets/img/lightmatter_logo.jpeg
           url: https://lightmatter.co/
@@ -18,10 +20,9 @@
         #   url: https://avicena.tech/
         #   image_width: 175px
     - name: Platinum
-      logos: 
-        - img: /assets/img/empty-box.png
-          url: https://www.arista.com/en/
-          image_width: 145px
+      total_slots: 5
+      available_slots: 5
+      logos: []
         # - img: /assets/img/arista_150px.png
         #   url: https://www.arista.com/en/
         #   image_width: 145px
