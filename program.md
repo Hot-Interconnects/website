@@ -27,7 +27,7 @@
 
 <br>
 
-The times in the program below are Pacific Time (PT).
+The times in the program below are Pacific Time (PT)..
 
 
 

@@ -16,3 +16,8 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+gem "csv", "~> 3.3"
+
+gem "base64", "~> 0.3.0"
+gem "bigdecimal", "~> 3.1"
+gem "mutex_m", "~> 0.3.0"
