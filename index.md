@@ -96,7 +96,9 @@ Interconnect Software: You can't touch it but you need it</strong>
 
 ## HotI33 (2026) Overview
 
-TBD
+IEEE Hot Interconnects is the premier international forum for researchers and developers of state of the art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core on-chip interconnects to those within systems, clusters, and data centers. Leaders in industry and academia attend the conference to interact with individuals at the forefront of this field.
+
+Our objective is to address the data center networking and the supercomputing communities. We hope you can join us and benefit not only by the content but also by the prime networking opportunities this event always offers.
 
 
 

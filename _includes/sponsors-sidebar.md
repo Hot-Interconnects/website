@@ -4,8 +4,19 @@
   {% for sponsor in group.members %}
     <div class="sponsor-group">
       {%- if sponsor.name %}
-      <h4 style="margin-bottom: 5px;">{{ sponsor.name }}{% if sponsor.total_slots %} <span style="font-size: 0.75em; font-weight: normal; color: #999;">({{ sponsor.total_slots }} slots)</span>{% endif %}</h4>
-      {%- endif %}
+        <h4 style="margin-bottom: 5px;">
+          {{ sponsor.name }}
+          {% if sponsor.available_slots == "uncapped" %}
+            <span style="font-size: 0.75em; font-weight: normal; color: #999;">
+              (uncapped)
+            </span>
+          {% elsif sponsor.total_slots %}
+            <span style="font-size: 0.75em; font-weight: normal; color: #999;">
+              ({{ sponsor.total_slots }} slots)
+            </span>
+          {% endif %}
+        </h4>
+        {%- endif %}
       
       <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         {% for logo in sponsor.logos %}

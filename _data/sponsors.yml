@@ -1,8 +1,8 @@
-- name: 2026 Sponsors
+- name: Sponsors
   members:
     - name: Diamond
       total_slots: 3
-      available_slots: 1
+      available_slots: 0
       logos:
         - img: /assets/img/lightmatter_logo.jpeg
           url: https://lightmatter.co/
@@ -10,6 +10,9 @@
         - img: /assets/img/sponsors/marvell-logo.png
           url: https://www.marvell.com/
           image_width: 160px
+        - img: /assets/img/napatech-logo.png
+          url: https://www.napatech.com/
+          image_width: 155px
         # - img: /assets/img/Cisco-Logo.png
         #   url: https://www.cisco.com/
         #   image_width: 155px
@@ -39,18 +42,18 @@
         #   url: https://www.meta.com/
         #   image_width: 120px
         #   custom_spacing: "7px"
-    - name: Gold
-      available_slots: 2
+    - name: Gold 
+      available_slots: uncapped
       logos: []
       #   - img: /assets/img/gigaio_150px.png
       #     url: https://gigaio.com/
       #     image_width: 90px
-    - name: Silver
-      available_slots: 2
-      logos: []
-      #   - img: /assets/img/lenovo_logo.png
-      #     url: https://www.lenovo.com
-      #     image_width: 100px
+    - name: Silver 
+      available_slots: uncapped
+      logos: 
+        - img: assets/img/Netpreme-logo.svg
+          url: https://netpreme.com/
+          image_width: 140px
       #   - img: /assets/img/dell_logo1.png
       #     url: https://www.dell.com/en-us
       #     image_width: 100px
