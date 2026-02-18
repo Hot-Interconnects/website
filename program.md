@@ -22,7 +22,7 @@
 
 <div style="text-align: center; font-size: 30px">
     <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
 
 <br>
@@ -51,8 +51,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span">09:20</td>
 <td markdown="span">**Introduction and Day 1 Welcome**
-    <a href="/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_Welcome_day1_Artem.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
@@ -77,8 +77,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">10:30 - 10:45</td>
 <td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics 
     <a href="sponsortalk-lightmatter.html">[details]</a>
-    <a href="/assets/slides/2025_08_20_day1_Morning_Lightmatter_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_Morning_Lightmatter_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span">Nick Harris (Lightmatter)</td>
@@ -89,8 +89,8 @@ The times in the program below are Pacific Time (PT).
   <td markdown="span">
     **Diamond Sponsor Talk:** Cornelis Networks <br> Reimagining the Scale-Out Architecture for HPC and AI 
     <a href="sponsortalk-cornelis.html">[details]</a>
-    <a href="/assets/slides/2025_08_20_day1-Morning_Cornelis_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1-Morning_Cornelis_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
   </td>
   <td markdown="span">Matt Williams (Cornelis Networks)</td>
@@ -105,8 +105,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">bittide: Control Time, Not Flows 
-    <a href="/assets/slides/2025_08_20_day1_SessionA_bittide_control_time_not_flows_Martijn_Bastiaan.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_SessionA_bittide_control_time_not_flows_Martijn_Bastiaan.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> <strong>Martijn Bastiaan</strong>, Christiaan Baaij (QBayLogic), Martin Izzard (Google DeepMind), Felix Klein (QBayLogic), Sanjay Lall (Google DeepMind, Stanford University) and Tammo Spalink (Stanford University) </td>
@@ -115,8 +115,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels
-    <a href="/assets/slides/2025_08_20_day1_SessionA_Deadlock-free_routing.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_SessionA_Deadlock-free_routing.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
     <br>
     <span style="color: #D4AF37; font-weight: bold;">🏆 Best Academic Paper Award</span>
@@ -140,8 +140,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Accelerating Frontier MoE Training with 3D Integrated Optics 
-    <a href="/assets/slides/2025_08_20_day1_SessionB_Accelerating_Frontier_MoE_Training_with_3D_Integrated_Optics.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_SessionB_Accelerating_Frontier_MoE_Training_with_3D_Integrated_Optics.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
     <br>
     <span style="color: #D4AF37; font-weight: bold;">🏆 Best Industry Paper Award</span>
@@ -152,8 +152,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation 
-    <a href="/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> <strong>Zhenguo Wu</strong> and Keren Bergman (Columbia University)</td>
@@ -163,8 +163,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">13:30-13:45</td>
 <td markdown="span">**Diamond Sponsor Talk:** Cisco <br> Managing the fabrics underpinning AI infrastructure 
     <a href="sponsortalk-cisco.html">[details]</a> 
-    <a href="/assets/slides/2025_08_20_day1_Afternoon_Cisco_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_Afternoon_Cisco_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> Will Eatherton (Cisco)</td>
@@ -174,8 +174,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">13:45-14:00</td>
 <td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration 
     <a href="sponsortalk-nubis.html">[details]</a> 
-    <a href="/assets/slides/2025_08_20_day1_Nubis_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_20_day1_Nubis_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> Peter Winzer (Nubis)</td>
@@ -222,8 +222,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span">08:50</td>
 <td markdown="span">**Day 2 Welcome**
-    <a href="/assets/slides/2025_08_21_Welcome_day2_Artem.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_Welcome_day2_Artem.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
@@ -234,8 +234,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">**Keynote 2**: Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI
 <br>
 <a href="keynotes-deepak.html">[details]</a>
-<a href="/assets/slides/2025_08_21_day2-Morning_Keynote_Microsoft_Deepak_Bansal.pdf" target="_blank">
-    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+<a href="{{ '/assets/slides/2025_08_21_day2-Morning_Keynote_Microsoft_Deepak_Bansal.pdf' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </a>
 <br>
 <br>
@@ -250,8 +250,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">10:00 - 10:15</td>
 <td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects 
     <a href="sponsortalk-avicena.html">[details]</a> 
-    <a href="/assets/slides/2025_08_21_day2-Morning_Avicena_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2-Morning_Avicena_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span"> Chris Pfistner (Avicena) </td>
 </tr>
@@ -266,8 +266,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">10:25 - 10:30</td>
 <td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution 
     <a href="sponsortalk-gigaio.html">[details]</a> 
-    <a href="/assets/slides/2025_08_21_day2-Morning_GigaIO_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2-Morning_GigaIO_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span"> Alan Benjamin (GigaIO) </td>
 </tr>
@@ -281,8 +281,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms
-    <a href="/assets/slides/2025_08_21_day2_SessionC_demystifying_nccl_hoti_presentation.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_SessionC_demystifying_nccl_hoti_presentation.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich), Sylvain Jeaugey (NVIDIA), Cedell Alexander, Eric Spada (Broadcom), James Dinan, Jeff Hammond (NVIDIA) and Torsten Hoefler (ETH Zurich)</td>
@@ -292,8 +292,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Characterizing Communication Patterns in Distributed LLM Inference
-    <a href="/assets/slides/2025_08_21_day2_SessionC_Inference-hoti25.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_SessionC_Inference-hoti25.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> <strong>Lang Xu</strong>, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda (The Ohio State University)</td>
@@ -302,8 +302,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network
-    <a href="/assets/slides/2025_08_21_day2_SessionC_FPGA-based_open_platform.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_SessionC_FPGA-based_open_platform.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> Timo Schneider, <strong>Pengcheng Xu</strong> and Torsten Hoefler (ETH Zurich)</td>
@@ -325,8 +325,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">12:30 - 13:00</td>
 <td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> 
     <a href="invitedtalk-torsten.html">[details]</a> 
-    <a href="/assets/slides/2025_08_21_day2_Invited_talk_Ultra_Ethernet.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_Invited_talk_Ultra_Ethernet.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Torsten Hoefler (ETH Zurich)</td>
 </tr>
@@ -335,8 +335,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">13:00 - 13:30</td>
 <td markdown="span">Building Custom AI Infrastructure with NVLink Fusion <br> 
     <a href="invitedtalk-krishnan.html">[details]</a> 
-    <a href="/assets/slides/2025_08_21_day2_Invited_talk_NVIDIA_NVLink_Fusion.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_Invited_talk_NVIDIA_NVLink_Fusion.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Krishnan Geeyarpuram (NVIDIA)</td>
 </tr>
@@ -345,8 +345,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">13:30 - 13:40</td>
 <td markdown="span">**Platinum Sponsor Talk:** UALink <br> Why UALink: A Protocol-Level Comparison for Rack-Scale AI 
 <a href="sponsortalk-ualink.html">[details]</a> 
-<a href="/assets/slides/2025_08_21_day2_Afternoon_UALink_sponsor_talk.pdf" target="_blank">
-    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+<a href="{{ '/assets/slides/2025_08_21_day2_Afternoon_UALink_sponsor_talk.pdf' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </a>
 </td>
 <td markdown="span"> Sharada Yeluri (Astera Labs)</td>
@@ -356,8 +356,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">13:40 - 13:50</td>
 <td markdown="span">**Platinum Sponsor Talk:** Celestial AI <br> Photonic Fabric: Optical Scale-Up Networks for Accelerated Computing 
     <a href="sponsortalk-celestalai.html">[details]</a> 
-    <a href="/assets/slides/2025_08_21_day2_Afternoon_CelestialAI_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_Afternoon_CelestialAI_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> Ravi Mahatme (Celestial AI) </td>
@@ -367,8 +367,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">13:50 - 14:00</td>
 <td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta 
     <a href="sponsortalk-meta.html">[details]</a> 
-    <a href="/assets/slides/2025_08_21_day2_Afternoon_Meta_sponsor_talk.pdf" target="_blank">
-      <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_Afternoon_Meta_sponsor_talk.pdf' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span"> Wesley Bland (Meta)</td>
 </tr>
@@ -388,8 +388,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach
-    <a href="/assets/slides/2025_08_21_day2_SessionD_UCIe_Mem.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_day2_SessionD_UCIe_Mem.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"><strong>Debendra Das Sharma</strong>, Swadesh Choudhary, Peter Onufryk (Intel) and Robert Pelt (AMD) </td>
@@ -399,8 +399,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span">15:00</td>
 <td markdown="span">**HotI Awards**
-    <a href="/assets/slides/2025_08_21_Awards.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_Awards.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span"> Yiltan Temucin (AMD) and Ryan Grant (Queen's University)</td>
@@ -409,8 +409,8 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span">15:10</td>
 <td markdown="span">**HotI Closing Remarks**
-    <a href="/assets/slides/2025_08_21_ClosingRemarks.pdf" target="_blank">
-        <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    <a href="{{ '/assets/slides/2025_08_21_ClosingRemarks.pdf' | relative_url }}" target="_blank">
+        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
 </td>
 <td markdown="span">Vice Chair: Sayan Ghosh (Pacific Northwest National Laboratory)</td>
@@ -447,8 +447,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Principles and Practice of Scalable and Distributed Deep Neural Networks Training and Inference
 <br>
 <a href="/tutorials-dl-training.html">[details]</a>
-<a href="/assets/slides/2025_08_22_day3_Tutorial_Track1_DL.pdf" target="_blank">
-    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_Track1_DL.pdf' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University) 
 <br>
@@ -473,8 +473,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">High-Performance and Smart Networking Technologies for HPC and AI
 <br>
 <a href="/tutorials-smart-network.html">[details]</a>
-<a href="/assets/slides/2025_08_22_day3_Tutorial_Track1_HPNetworks.pdf" target="_blank">
-    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_Track1_HPNetworks.pdf' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University) 
 <br>
@@ -511,8 +511,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Libfabric Communication Library
 <br>
 <a href="/tutorials-libfabric.html">[details]</a>
-<a href="/assets/slides/2025_08_22_day3_Tutorial_Libfabric.pdf" target="_blank">
-    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_Libfabric.pdf' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </td>
 <td markdown="span">Rajalaxmi Angadi, Alexia Ingerson (Intel) 
 <br>
@@ -530,10 +530,10 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
 <br>
 <a href="/tutorials-nccl-nvshmem.html">[details]</a>
-<a href="/assets/slides/2025_08_22_day3_Tutorial_NVIDIA_Julich_GPU_Communications_v2.pdf" target="_blank">
-    <img src="/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;"></a>
+<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_NVIDIA_Julich_GPU_Communications_v2.pdf' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;"></a>
 <a href="https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial" target="_blank">
-    <img src="/assets/img/icon-src.png" alt="GitHub" style="width:24px; vertical-align:middle; margin-left: 5px;"></a>
+    <img src="{{ '/assets/img/icon-src.png' | relative_url }}" alt="GitHub" style="width:24px; vertical-align:middle; margin-left: 5px;"></a>
 </td>
 <td markdown="span">Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
 <br>

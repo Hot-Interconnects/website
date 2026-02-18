@@ -7,7 +7,7 @@
 
 Vice President and Technical Fellow in Azure Core Engineering organization at Microsoft
 
-<img src="/assets/img/speaker-deepak-size250.jpeg">
+<img src="{{ '/assets/img/speaker-deepak-size250.jpeg' | relative_url }}">
 
 **Title:** Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads
 

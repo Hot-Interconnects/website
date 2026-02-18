@@ -7,7 +7,7 @@
 
 Vice President of ML, Systems, and Cloud AI at Google
 
-<img src="/assets/img/amin_photo.jpg">
+<img src="{{ '/assets/img/amin_photo.jpg' | relative_url }}">
 
 **Title:** Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure
 

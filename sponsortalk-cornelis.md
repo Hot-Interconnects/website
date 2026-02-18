@@ -7,7 +7,7 @@
 
 Field CTO at Cornelis
 
-<img src="/assets/img/cornelis-matt.jpg" style="width: auto; height: 250px;">
+<img src="{{ '/assets/img/cornelis-matt.jpg' | relative_url }}" style="width: auto; height: 250px;">
 
 **Title:** Reimagining the Scale-Out Architecture for HPC and AI
 

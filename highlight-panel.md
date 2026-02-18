@@ -18,7 +18,7 @@ New business models in LLM workloads are reshaping the interconnect landscape. W
     <tbody>
         <tr style="vertical-align: top; text-align: left;">
         <td style="width: 30%; padding: 10px; border: none; text-align: center; font-size: 1.3em;">
-            <img src="/assets/img/Peter_Olcott.jpg" alt="Peter Olcott" style="width: 150px; height: auto; display: block; margin-left: auto; margin-right: auto;">
+            <img src="{{ '/assets/img/Peter_Olcott.jpg' | relative_url }}" alt="Peter Olcott" style="width: 150px; height: auto; display: block; margin-left: auto; margin-right: auto;">
             <br>
             <strong>Peter Olcott</strong><br>
             <small>Principal at First Spark Ventures</small>

@@ -20,4 +20,4 @@ git rebase origin/2025 || { echo "ERROR: Failed to rebase on top of Upstream"; e
 git push origin 2025 || { echo "ERROR: Failed to push to upstream"; exit 1; }
 
 # Rsync website
-rsync -i -r -P --timeout=120 -e "ssh -o ServerAliveInterval=60" ./${hostname}/ ${username}@${hostname}:/home/${username}/${hostname}/2025/
+rsync -i -r -P --timeout=120 -e "ssh -o ServerAliveInterval=60" ./${hostname}/2025/ ${username}@${hostname}:/home/${username}/${hostname}/2025/

@@ -7,7 +7,7 @@
 
 President and CEO of GigaIO
 
-<img src="/assets/img/gigaio-alan.jpg" style="width:auto; height:250px;">
+<img src="{{ '/assets/img/gigaio-alan.jpg' | relative_url }}" style="width:auto; height:250px;">
 
 **Title:** GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution
 

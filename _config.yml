@@ -1,7 +1,7 @@
 name: Hot Interconnects
 email: info@hoti.org
 description: The international forum where the high-performance computing and high-speed networking communities meet
-baseurl: ""
+baseurl: "/2025"
 url: "https://hoti.org"
 
 twitter:
@@ -30,7 +30,7 @@ exclude:
   - _ignore
   - proceedings.md
 
-destination: hoti.org
+destination: hoti.org/2025
 
 plugins:
   - jekyll-target-blank

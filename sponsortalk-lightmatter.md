@@ -7,7 +7,7 @@
 
 Founder and CEO of Lightmatter
 
-<img src="/assets/img/Nick_lightmatter.jpeg">
+<img src="{{ '/assets/img/Nick_lightmatter.jpeg' | relative_url }}">
 
 **Title:** Transforming AI Infrastructure with the Power of 3D Photonics
 

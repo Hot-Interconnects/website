@@ -7,7 +7,7 @@
 
 Senior Director of Product at Celestial AI
 
-<img src="/assets/img/celestial-ravi.jpeg" style="width:auto; height:250px;">
+<img src="{{ '/assets/img/celestial-ravi.jpeg' | relative_url }}" style="width:auto; height:250px;">
 
 **Title:** Photonic Fabric: Optical Scale-Up Networks for Accelerated Computing
 

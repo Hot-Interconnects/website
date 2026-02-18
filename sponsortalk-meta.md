@@ -7,7 +7,7 @@
 
 Research Scientist at Meta
 
-<img src="/assets/img/meta-wes.png">
+<img src="{{ '/assets/img/meta-wes.png' | relative_url }}">
 
 **Title:** AI Infra at Meta
 

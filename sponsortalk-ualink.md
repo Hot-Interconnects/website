@@ -7,7 +7,7 @@
 
 AVP Engineering, Astera Labs
 
-<img src="/assets/img/ualink-sharada.jpeg" style="width:auto; height:250px;">
+<img src="{{ '/assets/img/ualink-sharada.jpeg' | relative_url }}" style="width:auto; height:250px;">
 
 
 **Title:** Why UALink: A Protocol-Level Comparison for Rack-Scale AI

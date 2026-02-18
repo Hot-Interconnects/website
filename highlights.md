@@ -10,7 +10,7 @@
 
 <div style="text-align: center; font-size: 30px">
     <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
 
 <br>
@@ -23,10 +23,10 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/amin_photo.jpg" alt="Amin Vahdat" style="width:250px; height:auto;">
+        <img src="{{ '/assets/img/amin_photo.jpg' | relative_url }}" alt="Amin Vahdat" style="width:250px; height:auto;">
       </td>
       <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/speaker-deepak-size250.jpeg" alt="Deepak Bansal" style="width:250px; height:auto;">
+        <img src="{{ '/assets/img/speaker-deepak-size250.jpeg' | relative_url }}" alt="Deepak Bansal" style="width:250px; height:auto;">
       </td>
     </tr>
     <!-- Row: names -->
@@ -82,10 +82,10 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/hoefler_dinfk.jpg" alt="Torsten Hoefler" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/hoefler_dinfk.jpg' | relative_url }}" alt="Torsten Hoefler" style="width:auto; height:200px;">
       </td>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/krishnan.png" alt="Krishnan Geeyarpuram" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/krishnan.png' | relative_url }}" alt="Krishnan Geeyarpuram" style="width:auto; height:200px;">
       </td>
     </tr>
     <!-- Row: names -->
@@ -123,13 +123,13 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/Nick_lightmatter.jpeg" alt="Nick Harris" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/Nick_lightmatter.jpeg' | relative_url }}" alt="Nick Harris" style="width:auto; height:200px;">
       </td>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/Peter_nubis.jpg" alt="Peter Winzer" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/Peter_nubis.jpg' | relative_url }}" alt="Peter Winzer" style="width:auto; height:200px;">
       </td>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/cornelis-matt.jpg" alt="Matt Williams" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/cornelis-matt.jpg' | relative_url }}" alt="Matt Williams" style="width:auto; height:200px;">
       </td>
     </tr>
     <!-- Row: names -->
@@ -171,10 +171,10 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/avicena_chris.jpg" alt="Chris Pfistner" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/avicena_chris.jpg' | relative_url }}" alt="Chris Pfistner" style="width:auto; height:200px;">
       </td>
       <td style="width:25%; text-align:center; padding:10px; border:none;">
-        <img src="/assets/img/cisco-will.jpg" alt="Will Eatherton" style="width:auto; height:200px;">
+        <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton" style="width:auto; height:200px;">
       </td>
     </tr>
     <!-- Row: names -->

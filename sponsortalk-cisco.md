@@ -7,7 +7,7 @@
 
 SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
 
-<img src="/assets/img/cisco-will.jpg" style="width:auto; height:250px;">
+<img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" style="width:auto; height:250px;">
 
 **Title:** Managing the fabrics underpinning AI infrastructure
 

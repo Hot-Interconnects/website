@@ -7,7 +7,7 @@
 
 Founder and CTO of Nubis
 
-<img src="/assets/img/Peter_nubis.jpg">
+<img src="{{ '/assets/img/Peter_nubis.jpg' | relative_url }}">
 
 **Title:** Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration
 

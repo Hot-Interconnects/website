@@ -7,7 +7,7 @@
 
 VP, Sales & Marketing at Avicena
 
-<img src="/assets/img/avicena_chris.jpg" style="width:auto; height:250px;">
+<img src="{{ '/assets/img/avicena_chris.jpg' | relative_url }}" style="width:auto; height:250px;">
 
 **Title:** Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects
 

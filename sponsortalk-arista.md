@@ -8,7 +8,7 @@
 Co-Founder and Chief Architect of Arista Networks
 
 
-<img src="/assets/img/arista-andy.jpg">
+<img src="{{ '/assets/img/arista-andy.jpg' | relative_url }}">
 
 **Title:** Multiple Pathways to Energy Efficient Optics
 

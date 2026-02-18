@@ -7,7 +7,7 @@
 
 Professor at ETH Zürich
 
-<img src="/assets/img/hoefler_dinfk.jpg">
+<img src="{{ '/assets/img/hoefler_dinfk.jpg' | relative_url }}">
 
 **Title:** Ultra Ethernet for next-generation AI and HPC workloads
 
