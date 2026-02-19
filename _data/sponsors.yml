@@ -24,8 +24,12 @@
         #   image_width: 175px
     - name: Platinum
       total_slots: 5
-      available_slots: 5
-      logos: []
+      available_slots: 4
+      logos:      
+        - img: /assets/img/Qualcomm.png
+          url: https://www.qualcomm.com/
+          image_width: 145px
+          custom_spacing: "7px"
         # - img: /assets/img/arista_150px.png
         #   url: https://www.arista.com/en/
         #   image_width: 145px
