@@ -35,10 +35,16 @@
   align-items: center;
 }
 
+.masthead__logo-block {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin-right: 1rem;
+}
+
 .site-logo {
   display: inline-block;
-  margin-right: 1.5rem;
-  
+
   img {
     max-height: 2rem;
   }
@@ -47,9 +53,9 @@
 .social-icons {
   display: flex;
   align-items: center;
-  margin-right: 1.5rem;
-  padding-left: 0.5rem;
-  gap: 0.75rem;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 0.25rem;
 }
 
 .social-icon {
@@ -58,9 +64,11 @@
   justify-content: center;
   text-decoration: none;
   transition: opacity 0.2s ease-in-out;
-  width: 24px;  /* Fixed width for the container */
-  height: 24px; /* Fixed height for the container */
-  
+  width: 24px;
+  /* Fixed width for the container */
+  height: 24px;
+  /* Fixed height for the container */
+
   &:hover {
     opacity: 0.8;
   }
@@ -70,8 +78,10 @@
   width: 24px;
   height: 24px;
   object-fit: contain;
-  max-width: 100%;   /* Ensure image doesn't overflow */
-  max-height: 100%;  /* Ensure image doesn't overflow */
+  max-width: 100%;
+  /* Ensure image doesn't overflow */
+  max-height: 100%;
+  /* Ensure image doesn't overflow */
 }
 
 .sr-only {
@@ -90,7 +100,7 @@
   align-items: center;
   justify-content: flex-end;
   flex-grow: 1;
-  
+
   .nav-items {
     display: flex;
     align-items: center;
@@ -102,7 +112,7 @@
   padding: 0.5rem 1rem;
   color: $text-color;
   text-decoration: none;
-  
+
   &:hover {
     color: $primary-color;
   }
@@ -112,7 +122,7 @@
   .masthead__menu {
     clear: none;
   }
-  
+
   .site-nav {
     float: right;
     margin-left: auto;
@@ -125,7 +135,7 @@
     width: 20px;
     height: 20px;
   }
-  
+
   .social-logo {
     width: 20px;
     height: 20px;
@@ -134,6 +144,7 @@
 
 /* Add specific browser fixes */
 @supports (-webkit-appearance:none) {
+
   /* Safari-specific fixes */
   .social-logo {
     -webkit-transform: translateZ(0);

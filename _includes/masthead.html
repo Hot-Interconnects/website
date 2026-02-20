@@ -4,40 +4,38 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <div class="masthead__brand">
-        {% unless logo_path == empty %}
-        <a href="{{ '/' | relative_url }}" class="site-logo">
-          <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
-        </a>
-        {% endunless %}
-        <div class="social-and-date">
+        <div class="masthead__logo-block">
           <div class="social-icons">
             <a href="https://twitter.com/ieeehoti" target="_blank" class="social-icon">
               <img src="{{ '/assets/img/logo_x_1.png' | relative_url }}" alt="X (Twitter)" class="social-logo">
             </a>
-
             <a href="https://www.youtube.com/@IEEEHOTI" target="_blank" class="social-icon">
               <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube" class="social-logo">
             </a>
-
             <a href="https://www.linkedin.com/company/hot-interconnects/posts/?feedView=all" target="_blank"
               class="social-icon">
               <img src="{{ '/assets/img/logo_linkedin.png' | relative_url }}" alt="LinkedIn" class="social-logo">
             </a>
-
             <a href="https://www.facebook.com/hoti.org" target="_blank" class="social-icon">
               <img src="{{ '/assets/img/logo_facebook.png' | relative_url }}" alt="Facebook" class="social-logo">
             </a>
           </div>
+          {% unless logo_path == empty %}
+          <a href="{{ '/' | relative_url }}" class="site-logo">
+            <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          </a>
+          {% endunless %}
+        </div>
 
+        <div class="social-and-date">
           <div class="masthead__date">19-21 Aug</div>
-          <div class="masthead__date">2026, Virtual</div>
+          <div class="masthead__date">2026</div>
+          <div class="masthead__date masthead__date--virtual">(virtual)</div>
         </div>
 
         <!-- add a button for register -->
         <!-- <a href="attendee_instructions.html" class="register-button">Register</a> -->
         <!-- <a href="register.html" class="register-button">REGISTER / JOIN!</a> -->
-
-
 
         <a href="{{ '/' | relative_url }}" class="site-title">
           {{ site.masthead_title | default: site.title }}
