@@ -38,23 +38,23 @@
 .masthead__logo-block {
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: center;
   margin-right: 1rem;
 }
 
 .site-logo {
-  display: inline-block;
+  display: block;
 
   img {
-    max-height: 2rem;
+    max-height: 3.5rem;
   }
 }
 
 .social-icons {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  width: 100%;
+  justify-content: center;
+  gap: 0.3rem;
   margin-bottom: 0.25rem;
 }
 
