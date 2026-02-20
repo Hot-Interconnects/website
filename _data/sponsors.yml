@@ -6,13 +6,13 @@
       logos:
         - img: /assets/img/lightmatter_logo.jpeg
           url: https://lightmatter.co/
-          image_width: 120px
+          image_width: 130px
         - img: /assets/img/sponsors/marvell-logo.png
           url: https://www.marvell.com/
-          image_width: 160px
+          image_width: 170px
         - img: /assets/img/napatech-logo.png
           url: https://www.napatech.com/
-          image_width: 155px
+          image_width: 165px
         # - img: /assets/img/Cisco-Logo.png
         #   url: https://www.cisco.com/
         #   image_width: 155px
@@ -28,7 +28,7 @@
       logos:      
         - img: /assets/img/Qualcomm.png
           url: https://www.qualcomm.com/
-          image_width: 145px
+          image_width: 155px
           custom_spacing: "7px"
         # - img: /assets/img/arista_150px.png
         #   url: https://www.arista.com/en/
@@ -57,7 +57,7 @@
       logos: 
         - img: assets/img/Netpreme-logo.svg
           url: https://netpreme.com/
-          image_width: 140px
+          image_width: 130px
       #   - img: /assets/img/dell_logo1.png
       #     url: https://www.dell.com/en-us
       #     image_width: 100px
