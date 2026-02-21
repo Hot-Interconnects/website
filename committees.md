@@ -8,32 +8,19 @@
 </div> -->
 
 
-<br>
-
-<div style="text-align: center; font-size: 30px">
-    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
-</div>
-
-<br>
-
 
 <div class="oc-container">
-  <p style="text-align: center; margin-bottom: 20px;"> Contact us: <a href="mailto:info@hoti.org">info@hoti.org</a> </p>
+
   
   {% assign positions = site.data.oc | map: "position" | uniq %}
   {% for position in positions %}
     <!-- Position Header -->
     {% assign members = site.data.oc | where: "position", position %}
-    {% assign group_email = members.first.email %}
     
     <div class="position-header">
       <span class="header-line"></span>
       <div class="position-info">
         <span class="position-title">{{ position }}</span>
-        {% if group_email %}
-          <a class="position-email" href="mailto:{{ group_email }}">{{ group_email }}</a>
-        {% endif %}
       </div>
       <span class="header-line"></span>
     </div>

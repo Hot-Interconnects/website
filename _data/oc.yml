@@ -77,7 +77,7 @@
 - position: Online Conference Chairs
   name: Ryan Scherbarth
   affiliation: Tesla
-  image: /assets/img/commitee_pics/ryan_scherbarth.jpg
+  image: /assets/img/commitee_pics/ryan-headshot.jpeg
 
 # Website and Data Archival Chairs
 - position: Website and Data Archival Chairs
@@ -146,6 +146,7 @@
   email: sponsor@hoti.org
   name: Raj Channa
   affiliation: RBC Capital Markets
+  image: /assets/img/commitee_pics/Raj_Channa_headshot.jpg
 
 - position: Sponsor Engagement and Outreach Chairs
   name: Marc Cohn
