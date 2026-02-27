@@ -109,7 +109,7 @@ Our objective is to address the data center networking and the supercomputing co
     <!-- Row: photos -->
     <tr>
       <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto;">
+        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto;">
       </td>
       <!-- <td style="width:50%; text-align:center; padding:10px; border:none;">
         <img src="{{ '/assets/img/speaker-deepak-size250.jpeg' | relative_url }}" alt="Deepak Bansal" style="width:250px; height:auto;">

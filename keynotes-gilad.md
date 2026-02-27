@@ -7,7 +7,7 @@
 
 Senior Vice President Marketing at NVIDIA
 
-<img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}" width="200">
+<img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" width="200">
 <!-- <img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}"> -->
 
 **Title:** TBD
