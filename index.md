@@ -104,7 +104,44 @@ Our objective is to address the data center networking and the supercomputing co
 
 ## Keynotes
 
-TBD
+<table class="keynote-table" style="width:100%; border-collapse: collapse;">
+  <tbody>
+    <!-- Row: photos -->
+    <tr>
+      <td style="width:50%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto;">
+      </td>
+      <!-- <td style="width:50%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/speaker-deepak-size250.jpeg' | relative_url }}" alt="Deepak Bansal" style="width:250px; height:auto;">
+      </td> -->
+    </tr>
+    <!-- Row: names -->
+    <tr>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Gilad Shainer</td>
+      <!-- <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Deepak Bansal</td> -->
+    </tr>
+    <!-- Row: affiliations -->
+    <tr>
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Senior Vice President Marketing at NVIDIA
+        <br> <a href="keynotes-gilad.html">[details]</a>
+      </td>
+      <!-- <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Vice President and Technical Fellow in Azure Core Engineering at Microsoft
+      </td> -->
+    </tr>
+    <!-- Row: titles + details link -->
+    <!-- <tr>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure</strong> <br> <a href="keynotes-amin.html">[details]</a>
+      </td>
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <br> <a href="keynotes-deepak.html">[details]</a>
+      </td>
+    </tr> -->
+  </tbody>
+</table>
+
 
 
 ## Panel
