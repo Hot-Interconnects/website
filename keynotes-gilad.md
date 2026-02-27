@@ -3,16 +3,16 @@
 ---
 # Keynote
 
-### Amin Vahdat
+### Gliad Shainer
 
-Vice President of ML, Systems, and Cloud AI at Google
+Senior Vice President Marketing at NVIDIA
 
 <img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}" width="200">
 <!-- <img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}"> -->
 
-**Title:** 
+**Title:** TBD
 
-**Abstract:** 
+**Abstract:** TBD
 
 **Biography:** 
 <div style="text-align: justify; text-indent: 0em;">
