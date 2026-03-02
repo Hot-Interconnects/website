@@ -1,14 +1,14 @@
 main:
    
-  # - title: Event
-  #   url: /program.html
-  #   submenu:
-  #     - title: Program
-  #       url: "/program.html"
-  #     - title: Highlights
-  #       url: "/highlights.html"
-  #     - title: HPCwire Q/A
-  #       url: "/hpcwire.html"
+  - title: Event
+    url: /highlights.html
+    submenu:
+      - title: Highlights
+        url: "/highlights.html"
+      # - title: Program
+      #   url: "/program.html"
+      # - title: HPCwire Q/A
+      #   url: "/hpcwire.html"
       # - title: Tutorials
       #   url: "/tutorial.html"
 

@@ -145,9 +145,17 @@ Our objective is to address the data center networking and the supercomputing co
 
 
 ## Panel
-
-TBD
-
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="vertical-align: top; text-align: left;  font-size: 1.5em;">
+      <td style="width: 60%; padding: 10px; border: none;">
+        <large><strong>Title: TBD </strong></large>  <br>
+        Moderator: Timothy Crawford, Managing Director at KeyBanc Capital Markets <br>
+        <small>Abstract: TBD ... <a href="highlight-panel.html"> [details]</a></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Invited Talk
 
