@@ -18,9 +18,9 @@ TBD
     <tbody>
         <tr style="vertical-align: top; text-align: left;">
         <td style="width: 30%; padding: 10px; border: none; text-align: center; font-size: 1.3em;">
-            <img src="{{ '/assets/img/Tim_Crawford.jpg' | relative_url }}" alt="Tim Crawford" style="width: 150px; height: auto; display: block; margin-left: auto; margin-right: auto;">
+            <img src="{{ '/assets/img/Tim_Crawford.jpg' | relative_url }}" alt="Timothy Crawford" style="width: 150px; height: auto; display: block; margin-left: auto; margin-right: auto;">
             <br>
-            <strong>Tim Crawford</strong><br>
+            <strong>Timothy Crawford</strong><br>
             <small>Managing Director, KeyBanc Capital Markets</small>
         </td>
         <td style="width: 70%; padding: 10px; border: none; text-align: justify;  font-size: 1.2em;">
