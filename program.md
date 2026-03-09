@@ -21,7 +21,7 @@
 <br>
 
 <div style="text-align: center; font-size: 30px">
-    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
+    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href=""> YouTube</a>!</strong>
     <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
 
@@ -54,6 +54,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
         <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
     
 </td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
@@ -64,6 +65,7 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">**Keynote 1**: Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure
 <br>
 <a href="keynotes-amin.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=ijnG0gx_ewE&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=2&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 <br>
 <br>
 **Session chair**: Artem Polyakov (NVIDIA)
@@ -81,6 +83,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_20_day1_Morning_Lightmatter_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=qs_P1yFf_0M&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=3&pp=iAQB0gcJCcUKAYcqIYzv" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Nick Harris (Lightmatter)</td>
 </tr>
@@ -93,6 +96,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_20_day1-Morning_Cornelis_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=SNSmg_Vo4mI&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=4&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
   </td>
   <td markdown="span">Matt Williams (Cornelis Networks)</td>
 </tr>
@@ -114,6 +118,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2503.05033" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=GkYu3UFDdFM&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=5&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> <strong>Martijn Bastiaan</strong>, Christiaan Baaij (QBayLogic), Martin Izzard (Google DeepMind), Felix Klein (QBayLogic), Sanjay Lall (Google DeepMind, Stanford University) and Tammo Spalink (Stanford University) </td>
 </tr>
@@ -129,6 +134,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2510.14730" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=owjavPS1HY4&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=6&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
     <br>
     <span style="color: #D4AF37; font-weight: bold;">🏆 Best Academic Paper Award</span>
 </td>
@@ -159,6 +165,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2510.15893" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=oq7Y9pAeAvs&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=7&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
     <br>
     <span style="color: #D4AF37; font-weight: bold;">🏆 Best Industry Paper Award</span>
 </td>
@@ -174,6 +181,7 @@ The times in the program below are Pacific Time (PT).
     <a href="https://ieeexplore.ieee.org/document/11244774/" target="_blank">
         <img src="/2025/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=akDNRHOZl5E&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=8&pp=iAQB0gcJCcUKAYcqIYzv" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> <strong>Zhenguo Wu</strong> and Keren Bergman (Columbia University)</td>
 </tr>
@@ -185,6 +193,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_20_day1_Afternoon_Cisco_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=ISrm828MISU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=9&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Will Eatherton (Cisco)</td>
 </tr>
@@ -196,6 +205,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_20_day1_Nubis_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=cLZ9wFZrz7s&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=10&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Peter Winzer (Nubis)</td>
 </tr>
@@ -203,7 +213,9 @@ The times in the program below are Pacific Time (PT).
 <tr>
 <td markdown="span">14:00 - 15:30</td>
 <td markdown="span">**Panel** -- LLM Token Economy: How is networking going to play in the age of agents?
-<a href="highlight-panel.html">[details]</a> <br>
+<a href="highlight-panel.html">[details]</a> 
+<a href="https://www.youtube.com/watch?v=jQOZlWD19G4&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=11&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
+<br>
 **Session chair**: Alan Benjamin (GigaIO)
 </td>
 <td markdown="span">
@@ -214,10 +226,11 @@ The times in the program below are Pacific Time (PT).
 
 <tr>
 <td markdown="span">15:30</td>
-<td markdown="span">**The Head Bubba Memorial & HotI Closing Remarks Day 1**</td>
+<td markdown="span">**The Head Bubba Memorial & HotI Closing Remarks Day 1**
+<a href="https://www.youtube.com/watch?v=xeITBf3n6FU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=12&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
+</td>
 <td markdown="span"> Dan Pitt (Palo Alto Innovation Advisors) </td>
 </tr>
-
 </tbody>
 </table>
 
@@ -244,6 +257,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_21_Welcome_day2_Artem.pdf" target="_blank">
         <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=acDJhUcOafQ&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=13&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
 </tr>
@@ -256,6 +270,7 @@ The times in the program below are Pacific Time (PT).
 <a href="/2025/assets/slides/2025_08_21_day2-Morning_Keynote_Microsoft_Deepak_Bansal.pdf" target="_blank">
     <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </a>
+<a href="https://www.youtube.com/watch?v=vuo6KfdRRZw&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=14&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 <br>
 <br>
 **Session chair**: Dan Pitt (Palo Alto Innovation Advisors)
@@ -271,13 +286,16 @@ The times in the program below are Pacific Time (PT).
     <a href="sponsortalk-avicena.html">[details]</a> 
     <a href="/2025/assets/slides/2025_08_21_day2-Morning_Avicena_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+      <a href="https://www.youtube.com/watch?v=GjWjYNVwrOs&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=15&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Chris Pfistner (Avicena) </td>
 </tr>
 
 <tr>
 <td markdown="span">10:15 - 10:25</td>
-<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics <a href="sponsortalk-arista.html">[details]</a> </td>
+<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics <a href="sponsortalk-arista.html">[details]</a> 
+<a href="https://www.youtube.com/watch?v=ThFFDSVzoF8&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=16&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
+</td>
 <td markdown="span"> Andreas Bechtolsheim (Arista Networks) </td>
 </tr>
 
@@ -287,6 +305,8 @@ The times in the program below are Pacific Time (PT).
     <a href="sponsortalk-gigaio.html">[details]</a> 
     <a href="/2025/assets/slides/2025_08_21_day2-Morning_GigaIO_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+      </a>
+      <a href="https://www.youtube.com/watch?v=r4C9d1l4c4s&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=17&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Alan Benjamin (GigaIO) </td>
 </tr>
@@ -308,6 +328,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2507.04786" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=UDCLvBqEPcA&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=18&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich), Sylvain Jeaugey (NVIDIA), Cedell Alexander, Eric Spada (Broadcom), James Dinan, Jeff Hammond (NVIDIA) and Torsten Hoefler (ETH Zurich)</td>
 </tr>
@@ -324,6 +345,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2507.14392" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=EKXsElm_TLY&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=19&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> <strong>Lang Xu</strong>, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda (The Ohio State University)</td>
 </tr>
@@ -339,6 +361,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2405.16378" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=zxmUwKt3ob0&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=20&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Timo Schneider, <strong>Pengcheng Xu</strong> and Torsten Hoefler (ETH Zurich)</td>
 </tr>
@@ -360,7 +383,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> 
     <a href="invitedtalk-torsten.html">[details]</a> 
     <a href="/2025/assets/slides/2025_08_21_day2_Invited_talk_Ultra_Ethernet.pdf" target="_blank">
-        <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+        <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;"></a>
+        <a href="https://www.youtube.com/watch?v=qqgGyY_K_Vw&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=21&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Torsten Hoefler (ETH Zurich)</td>
 </tr>
@@ -370,7 +394,8 @@ The times in the program below are Pacific Time (PT).
 <td markdown="span">Building Custom AI Infrastructure with NVLink Fusion <br> 
     <a href="invitedtalk-krishnan.html">[details]</a> 
     <a href="/2025/assets/slides/2025_08_21_day2_Invited_talk_NVIDIA_NVLink_Fusion.pdf" target="_blank">
-        <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+        <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;"></a>
+        <a href="https://www.youtube.com/watch?v=GMJj4KDqYGo&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=22&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Krishnan Geeyarpuram (NVIDIA)</td>
 </tr>
@@ -382,6 +407,7 @@ The times in the program below are Pacific Time (PT).
 <a href="/2025/assets/slides/2025_08_21_day2_Afternoon_UALink_sponsor_talk.pdf" target="_blank">
     <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
 </a>
+<a href="https://www.youtube.com/watch?v=QOYsvGIdEyY&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=23&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Sharada Yeluri (Astera Labs)</td>
 </tr>
@@ -393,6 +419,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_21_day2_Afternoon_CelestialAI_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=Rchp-QjdCgE&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=24&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Ravi Mahatme (Celestial AI) </td>
 </tr>
@@ -403,6 +430,8 @@ The times in the program below are Pacific Time (PT).
     <a href="sponsortalk-meta.html">[details]</a> 
     <a href="/2025/assets/slides/2025_08_21_day2_Afternoon_Meta_sponsor_talk.pdf" target="_blank">
       <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+      </a>
+      <a href="https://www.youtube.com/watch?v=Bac3UAqwhiI&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=25&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Wesley Bland (Meta)</td>
 </tr>
@@ -421,6 +450,7 @@ The times in the program below are Pacific Time (PT).
     <a href="https://ieeexplore.ieee.org/document/11244769/" target="_blank">
             <img src="/2025/assets/img/ieee_logo.png" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
         </a>
+        <a href="https://www.youtube.com/watch?v=hy12htvWFgg&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=26&pp=iAQB0gcJCcUKAYcqIYzv" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"><strong>Bardia Pezeshki</strong>, Alex Tselikov, Rob Kalman, Suresh Rangarajan, Ivan Huang, Jeff Pepper, Sarah Zou, Howard Rourke and Alasdair Fikouras (AvicenaTech Corp)</td>
 </tr>
@@ -436,6 +466,7 @@ The times in the program below are Pacific Time (PT).
     </a><a href="https://arxiv.org/abs/2510.06513" target="_blank">
         <img src="/2025/assets/img/arxiv-logo2.png" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=7DLrqVl_2m8&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=27&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"><strong>Debendra Das Sharma</strong>, Swadesh Choudhary, Peter Onufryk (Intel) and Robert Pelt (AMD) </td>
 </tr>
@@ -447,6 +478,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_21_Awards.pdf" target="_blank">
         <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=LQtkx6GSjs0&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=32&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span"> Yiltan Temucin (AMD) and Ryan Grant (Queen's University)</td>
 </tr>
@@ -457,6 +489,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_21_ClosingRemarks.pdf" target="_blank">
         <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=LQtkx6GSjs0&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=32&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Vice Chair: Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
@@ -494,6 +527,8 @@ The times in the program below are Pacific Time (PT).
 <a href="/tutorials-dl-training.html">[details]</a>
 <a href="/2025/assets/slides/2025_08_22_day3_Tutorial_Track1_DL.pdf" target="_blank">
     <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://www.youtube.com/watch?v=kuCtrJ9zQEI&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=28&pp=iAQB0gcJCcUKAYcqIYzv" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University) 
 <br>
@@ -520,6 +555,8 @@ The times in the program below are Pacific Time (PT).
 <a href="/tutorials-smart-network.html">[details]</a>
 <a href="/2025/assets/slides/2025_08_22_day3_Tutorial_Track1_HPNetworks.pdf" target="_blank">
     <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://www.youtube.com/watch?v=dhi5k_W-TMY&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=29&pp=iAQB0gcJCcUKAYcqIYzv" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University) 
 <br>
@@ -558,6 +595,8 @@ The times in the program below are Pacific Time (PT).
 <a href="/tutorials-libfabric.html">[details]</a>
 <a href="/2025/assets/slides/2025_08_22_day3_Tutorial_Libfabric.pdf" target="_blank">
     <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+    </a>
+    <a href="https://www.youtube.com/watch?v=upQUFHKhedk&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=30&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Rajalaxmi Angadi, Alexia Ingerson (Intel) 
 <br>
@@ -579,6 +618,7 @@ The times in the program below are Pacific Time (PT).
     <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;"></a>
 <a href="https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial" target="_blank">
     <img src="/2025/assets/img/icon-src.png" alt="GitHub" style="width:24px; vertical-align:middle; margin-left: 5px;"></a>
+    <a href="https://www.youtube.com/watch?v=rlA5QreHekk&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=31&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
 <br>
