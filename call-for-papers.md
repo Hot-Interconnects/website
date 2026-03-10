@@ -6,7 +6,7 @@
 
 
 <div style="text-align: center; font-size: 30px">
-<strong>HOTI 2026 Theme<br></strong>
+<strong>HotI 2026 Theme<br></strong>
 </div>
 
 <div style="text-align: center; font-size: 30px">

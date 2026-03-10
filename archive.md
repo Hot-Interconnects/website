@@ -1,7 +1,7 @@
 ---
 # title: Archive
 ---
-## HOTI Archive
+## HotI Archive
 
 <ul>
 {% for year in site.data.archive %}
