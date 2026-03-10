@@ -3,7 +3,7 @@
 ---
 # Keynote
 
-### Gliad Shainer
+### Gilad Shainer
 
 Senior Vice President Marketing at NVIDIA
 

@@ -22,34 +22,34 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gliad Shainer" style="width:250px; height:auto;">
+        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto;">
       </td>
-      <!-- <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/speaker-deepak-size250.jpeg' | relative_url }}" alt="Deepak Bansal" style="width:250px; height:auto;">
-      </td> -->
+      <td style="width:50%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:210px; height:auto;">
+      </td>
     </tr>
     <!-- Row: names -->
     <tr>
-      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Gliad Shainer</td>
-      <!-- <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Deepak Bansal</td> -->
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Gilad Shainer</td>
+      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Omar Baldonado</td>
     </tr>
     <!-- Row: affiliations -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Vice President Marketing at NVIDIA
       </td>
-      <!-- <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Vice President and Technical Fellow in Azure Core Engineering at Microsoft
-      </td> -->
+      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Vice Director of DC Networking at Meta
+      </td>
     </tr>
     <!-- Row: titles + details link -->
     <tr>
       <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
-      <!-- <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI workloads</strong> <br> <a href="keynotes-deepak.html">[details]</a>
-      </td> -->
+      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
+      </td>
     </tr>
   </tbody>
 </table>
