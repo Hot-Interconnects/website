@@ -489,7 +489,7 @@ The times in the program below are Pacific Time (PT).
     <a href="/2025/assets/slides/2025_08_21_ClosingRemarks.pdf" target="_blank">
         <img src="/2025/assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
     </a>
-    <a href="https://www.youtube.com/watch?v=LQtkx6GSjs0&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r&index=32&pp=iAQB" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
+    <a href="https://youtu.be/LQtkx6GSjs0?si=vcjAqX5zX3wJEqKt&t=85" target="_blank"> <img src="/2025/assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 </td>
 <td markdown="span">Vice Chair: Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
