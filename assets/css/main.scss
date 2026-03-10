@@ -1,0 +1,19 @@
+---
+---
+
+@import "minimal-mistakes";
+
+@media (max-width: 1023px) {
+  #main {
+    display: flex;
+    flex-direction: column;
+  }
+
+  aside.sidebar_right {
+    order: 2;
+  }
+
+  article.page {
+    order: 1;
+  }
+}
