@@ -124,11 +124,9 @@ Our objective is to address the data center networking and the supercomputing co
     <tr>
       <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Vice President Marketing at NVIDIA
-        <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
       <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Vice Director of DC Networking at Meta
-        <br> <a href="keynotes-omar.html">[details]</a>
       </td>
     </tr>
     <!-- Row: titles + details link -->
