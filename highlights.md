@@ -25,7 +25,7 @@
         <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto;">
       </td>
       <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:210px; height:auto;">
+        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:250px; height:auto;">
       </td>
     </tr>
     <!-- Row: names -->
