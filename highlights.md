@@ -17,43 +17,52 @@
 
 ## Keynotes
 
-<table class="keynote-table" style="width:100%; border-collapse: collapse;">
+<table class="keynote-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tbody>
     <!-- Row: photos -->
     <tr>
-      <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto;">
+      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto; object-fit:cover; object-position:top;">
       </td>
-      <td style="width:50%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:250px; height:auto;">
+      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+      </td>
+      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:250px; height:auto; object-fit:cover; object-position:top;">
       </td>
     </tr>
     <!-- Row: names -->
     <tr>
-      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Gilad Shainer</td>
-      <td style="text-align:center; padding:0px; border:none; font-size: 1.3em;">Omar Baldonado</td>
+      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Gilad Shainer</td>
+      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Omar Baldonado</td>
+      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal Riaz</td>
     </tr>
     <!-- Row: affiliations -->
     <tr>
-      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Vice President Marketing at NVIDIA
       </td>
-      <td style="vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Vice Director of DC Networking at Meta
+      </td>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
       </td>
     </tr>
     <!-- Row: titles + details link -->
     <tr>
-      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
-      <td style="vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
+      </td>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>TBD</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## Panel

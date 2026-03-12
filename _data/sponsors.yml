@@ -81,9 +81,10 @@
           image_width: 100px
     - name: Media Partner
       logos:
-        - img: /assets/img/empty-box.png
+        - img: /assets/img/HPCwire-logo-800.png
+          url: https://www.hpcwire.com/
+          image_width: 150px
+        # - img: /assets/img/empty-box.png
           # url: https://www.arista.com/en/
-          image_width: 145px
-      #   - img: /assets/img/HPCwire-logo-800.png
-      #     url: https://www.hpcwire.com/
-      #     image_width: 150px
+          # image_width: 145px
+       
