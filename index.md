@@ -48,46 +48,24 @@ Interconnect Software: You can't touch it but you need it</strong>
       <tbody>
         <tr>
           <td>Paper abstract deadline</td>
-          <td><span style="color:gray">TBD</span></td>
+          <td><span style="color:gray">May 9, 2026</span></td>
         </tr>
         <tr>
           <td>Submission deadline</td>
-          <td><span style="color:gray">TBD</span></td>
+          <td><span style="color:gray">May 15, 2026</span></td>
         </tr>
         <tr>
           <td>Notification of acceptance</td>
-          <td><span style="color:gray">TBD</span></td>
+          <td><span style="color:gray">June 26, 2026</span></td>
         </tr>
         <tr>
           <td>Camera-ready due</td>
-          <td><span style="color:gray">TBD</span></td>
+          <td><span style="color:gray">July 15, 2026</span></td>
         </tr>
       </tbody>
     </table>
   </div>
 
-  <!-- <div class="call-for-panel">
-    <h2>Call for Tutorials <a href="call-for-tutorials.html">[details]</a></h2>
-    <table>
-      <thead>
-        <tr><th>Event</th><th>Date</th></tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Proposals due</td>
-          <td><span style="color:gray">TBD</span></td>
-        </tr>
-        <tr>
-          <td>Notification of acceptance</td>
-          <td><span style="color:gray">TBD</span></td>
-        </tr>
-        <tr>
-          <td>Materials due</td>
-          <td><span style="color:gray">TBD</span></td>
-        </tr>
-      </tbody>
-    </table>
-  </div> -->
 
 </div>
 

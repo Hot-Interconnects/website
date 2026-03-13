@@ -17,7 +17,7 @@ HotI 2026 solicits original research papers addressing the design, analysis, imp
 | Paper abstract deadline    |   May 9, 2026       |
 | Submission deadline        |   May 15, 2026     |
 | Notification of acceptance |   June 26, 2026   |
-| Camera-ready               |   TBD   |
+| Camera-ready               |   July 15, 2026   |
 
 
 <!-- ## The 33rd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2026), will take place virtually
