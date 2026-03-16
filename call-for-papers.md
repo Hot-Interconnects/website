@@ -12,7 +12,7 @@ HotI 2026 solicits original research papers addressing the design, analysis, imp
 
 ## Submissions
 
-| Event                       | Date (AoE)              |
+| Event                       | Deadline (AoE)              |
 | -------------------------- | ------------------ |
 | Paper abstract deadline    |   May 9, 2026       |
 | Submission deadline        |   May 15, 2026     |

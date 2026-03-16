@@ -43,7 +43,7 @@ Interconnect Software: You can't touch it but you need it</strong>
     <h2>Call for Papers <a href="call-for-papers.html">[details]</a></h2>
     <table>
       <thead>
-        <tr><th>Event</th><th>Date (AoE)</th></tr>
+        <tr><th>Event</th><th>Deadline (AoE)</th></tr>
       </thead>
       <tbody>
         <tr>
