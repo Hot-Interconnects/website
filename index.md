@@ -43,7 +43,7 @@ Interconnect Software: You can't touch it but you need it</strong>
     <h2>Call for Papers <a href="call-for-papers.html">[details]</a></h2>
     <table>
       <thead>
-        <tr><th>Event</th><th>Date</th></tr>
+        <tr><th>Event</th><th>Date (AoE)</th></tr>
       </thead>
       <tbody>
         <tr>
@@ -60,7 +60,7 @@ Interconnect Software: You can't touch it but you need it</strong>
         </tr>
         <tr>
           <td>Camera-ready due</td>
-          <td><span style="color:gray">July 15, 2026</span></td>
+          <td><span style="color:gray">July 17, 2026</span></td>
         </tr>
       </tbody>
     </table>
