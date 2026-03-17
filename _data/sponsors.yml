@@ -83,7 +83,7 @@
         - img: /assets/img/tcmm.png
           url: https://tc.computer.org/tcmm/
           image_width: 100px
-    - name: Media Partner
+    - name: Media Partners
       logos:
         - img: /assets/img/HPCwire-logo-800.png
           url: https://www.hpcwire.com/
