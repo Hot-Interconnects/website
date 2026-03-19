@@ -1,21 +1,20 @@
 ---
-# title: Keynote Speakers
+title: Keynotes
+description: "Keynotes for HotI 2026"
 ---
 <!-- <div style="max-width: 850px; margin: 0 auto; text-align: center">
   <div style="text-align: center; font-size: 30px">
     <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
   </div>
 </div> -->
-<br>
 
 <!-- <div style="text-align: center; font-size: 30px">
     <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
     <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div> -->
 
-<br>
 
-## Keynotes
+## Keynote Speakers
 
 <table class="keynote-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tbody>

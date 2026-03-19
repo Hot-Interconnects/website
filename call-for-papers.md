@@ -1,9 +1,10 @@
 ---
-# title: Call For Papers
+title: "Call For Papers"
+description: "IEEE Hot Interconnects 2026 Call for Papers. The 33rd IEEE Symposium on High-Performance Interconnects (HotI 2026) will take place virtually August 19–21, 2026. Soliciting original research on interconnect architectures, network protocols, optical fabrics, accelerator interconnects, and more. Paper abstract deadline: May 9, 2026."
 ---
 
 
-# Call For Papers
+<!-- # Call For Papers -->
 ## The 33rd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2026), will take place virtually from Wednesday, August 19 – Friday, August 21, 2026
 
 IEEE Hot Interconnects is the premier international forum for researchers and developers of state-of-the-art hardware and software architectures and implementations for interconnection networks of all scales, ranging from multi-core, on-chip interconnects to those within systems, clusters, data centers, and clouds. This yearly conference is attended by leaders in industry and academia.
