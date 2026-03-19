@@ -90,7 +90,7 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 * Materials other than the abstract, main paper body, and references will be read at the committee’s discretion.
 * Authors may post their preprints in arXiv.org, TechRxiv.org, or any not-for-profit preprint server approved by the IEEE Publication Services and Products Board (PSPB), in Author’s employer’s website or institutional repository, or in Author’s personal website.
 * Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. 
-* We plan to invite the best papers for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission which will be peer reviewed for further consideration. The special issue will require an additional 30% new content, and the page length for this special issue will be 8 pages.
+<!-- * We plan to invite the best papers for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission which will be peer reviewed for further consideration. The special issue will require an additional 30% new content, and the page length for this special issue will be 8 pages. -->
 * After a paper is accepted, the authors must follow the conference and <a href="https://www.computer.org/conferences/cps">[IEEE CPS guidelines]</a> in publishing the paper. Review <a href="https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/">[IEEE post publication policies]</a>. 
 
 
