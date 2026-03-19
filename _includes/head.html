@@ -11,8 +11,8 @@
     <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
 
     <meta property="og:site_name" content="{{ site.name | escape }}">
-    {% if page.og_image %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.og_image }}">
-    {% elsif site.logo %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.logo }}">
+    {% if page.og_image %}<meta property="og:image" content="https://hoti.org{{ site.baseurl }}{{ page.og_image }}">
+    {% elsif site.logo %}<meta property="og:image" content="https://hoti.org{{ site.baseurl }}{{ site.logo }}">
     {% endif %}
 
     <!-- Twitter -->
