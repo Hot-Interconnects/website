@@ -4,9 +4,9 @@
       total_slots: 3
       available_slots: 0
       logos:
-        - img: /assets/img/lightmatter_logo.jpeg
+        - img: /assets/img/LM_Wordmark.png
           url: https://lightmatter.co/
-          image_width: 130px
+          image_width: 170px
         - img: /assets/img/sponsors/marvell-logo.png
           url: https://www.marvell.com/
           image_width: 170px
