@@ -17,3 +17,25 @@
     order: 1;
   }
 }
+
+.call-for-container {
+  display: flex;
+  gap: 20px;              /* space between the two tables */
+  align-items: flex-start;
+}
+
+.call-for-panel {
+  flex: 1;                /* both take equal width */
+}
+
+.call-for-panel table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.call-for-panel th, 
+.call-for-panel td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
