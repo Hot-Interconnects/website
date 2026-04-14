@@ -29,9 +29,11 @@ To participate, please email <sponsor@hoti.org> to discuss your desired level of
 
 
 <p align="center">
-  <a href="https://youtu.be/xscUeri2tDM">
-    <img src="https://img.youtube.com/vi/xscUeri2tDM/maxresdefault.jpg" alt="Watch the video" style="width:100%;">
-  </a>
+  <iframe width="800" height="450"
+    src="https://www.youtube.com/embed/xscUeri2tDM"
+    title="YouTube video"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
 </p>
-
 
