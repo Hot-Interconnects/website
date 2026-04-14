@@ -25,3 +25,13 @@ To participate, please email <sponsor@hoti.org> to discuss your desired level of
 | **Platinum** | 5          | $3500  | 10 min             | Large Logo        | Yes                | Yes       | Prominent      |
 | **Gold**     | Unlimited  | $2000  | N/A                | Medium Logo       | Yes                | Yes       | Prominent      |
 | **Silver**   | Unlimited  | $1000  | N/A                | Small Logo        | Yes                | Yes       | Less Prominent |
+
+
+
+<p align="center">
+  <a href="https://youtu.be/xscUeri2tDM">
+    <img src="https://img.youtube.com/vi/xscUeri2tDM/maxresdefault.jpg" alt="Watch the video" style="width:100%;">
+  </a>
+</p>
+
+
