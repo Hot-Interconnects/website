@@ -79,11 +79,6 @@ description: "Keynotes for HotI 2026"
 </table>
 
 
-
-## Invited Talk
-TBD
-
-
 ## Sponsor Talks
 TBD
 

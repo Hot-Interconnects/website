@@ -165,13 +165,6 @@ Our objective is to address the data center networking and the supercomputing co
   </tbody>
 </table>
 
-## Invited Talk
-
-TBD
-
-
-
-
 
 
 ## Last Year's Proceedings (HotI32 (2025))
