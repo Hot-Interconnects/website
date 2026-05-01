@@ -103,11 +103,6 @@
   affiliation: Meta
   image: /assets/img/commitee_pics/Nahid_Newaz.jpg
 
-- position: Publicity Chairs
-  name: Don Draper
-  affiliation: ProPrincipia International Associates
-  image: /assets/img/commitee_pics/Don_Draper.jpeg
-
 # Finance Chairs
 - position: Finance Chairs
   name: Scott Levy
@@ -167,3 +162,9 @@
   name: Yiltan Temucin
   affiliation: AMD
   image: /assets/img/commitee_pics/Yiltan.jpeg
+
+
+- position: Emeritus
+  name: Don Draper
+  affiliation: ProPrincipia International Associates
+  image: /assets/img/commitee_pics/Don_Draper.jpeg
