@@ -50,14 +50,14 @@ Interconnect Software: You can't touch it but you need it</strong>
           <td>Paper abstract deadline</td>
           <td><span style="color:gray"><del>May 9, 2026</del></span>
           <br>
-          <span style="color:gray">May 20, 2026</span>
+          <span style="color:red">May 20, 2026</span>
           </td>
         </tr>
         <tr>
           <td>Submission deadline</td>
           <td><span style="color:gray"><del>May 15, 2026</del></span>
           <br>
-          <span style="color:gray">May 20, 2026</span>
+          <span style="color:red">May 20, 2026</span>
           </td>
         </tr>
         <tr>
