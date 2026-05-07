@@ -17,12 +17,46 @@ Please review the author guidelines:
 
 ## Submissions
 
-| Event                       | Deadline (AoE)              |
+<div class="call-for-container">
+
+  <div class="call-for-panel">
+    <table>
+      <thead>
+        <tr><th>Event</th><th>Deadline (AoE)</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Paper abstract deadline</td>
+          <td><span style="color:gray"><del style="text-decoration-color:red"> May 9, 2026</del></span>
+          <br>
+          <span style="color:red">May 20, 2026</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Submission deadline</td>
+          <td><span style="color:gray"><del style="text-decoration-color:red"> May 15, 2026</del></span>
+          <br>
+          <span style="color:red">May 20, 2026</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Notification of acceptance</td>
+          <td><span style="color:gray">June 26, 2026</span></td>
+        </tr>
+        <tr>
+          <td>Camera-ready due</td>
+          <td><span style="color:gray">July 17, 2026</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- | Event                       | Deadline (AoE)              |
 | -------------------------- | ------------------ |
 | Paper abstract deadline    |   May 9, 2026       |
 | Submission deadline        |   May 15, 2026     |
 | Notification of acceptance |   June 26, 2026   |
-| Camera-ready               |   July 17, 2026   |
+| Camera-ready               |   July 17, 2026   | -->
 
 
 <!-- ## The 33rd IEEE Symposium on High-Performance Interconnects, Hot Interconnects (HotI 2026), will take place virtually
