@@ -11,6 +11,10 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
 
 HotI 2026 solicits original research papers addressing the design, analysis, implementation, and evaluation of high-performance interconnects and closely related technologies. Topics of interest include, but are not limited to, interconnect architectures, network protocols, networking software, communication runtimes, congestion control, optical and emerging fabrics, accelerator and chiplet interconnects, disaggregated systems, and system–network co-design.
 
+## Author Guidelines
+Please review the author guidelines:
+[(Guidelines)](assets/slides/HotI26_Author_Guidelines.pdf)
+
 ## Submissions
 
 | Event                       | Deadline (AoE)              |
