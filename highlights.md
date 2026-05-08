@@ -1,6 +1,5 @@
 ---
-title: Keynotes
-description: "Keynotes for HotI 2026"
+
 ---
 <!-- <div style="max-width: 850px; margin: 0 auto; text-align: center">
   <div style="text-align: center; font-size: 30px">
