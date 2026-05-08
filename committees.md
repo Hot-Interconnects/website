@@ -50,8 +50,8 @@
 
 <span></span>
 
-<!-- TPC Members Table -->
-<!-- <div class="tpc-table">
+<!-- TPC Members Table  -->
+<div class="tpc-table">
   <table>
   <thead>
     <tr>
@@ -66,7 +66,7 @@
         </tr>
       {% endfor %}
   </table>
-</div>  -->
+</div>  
 
 <div class="oc-container">
   <div class="position-header">
