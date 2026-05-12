@@ -51,22 +51,34 @@
 <span></span>
 
 <!-- TPC Members Table  -->
-<div class="tpc-table">
-  <table>
-  <thead>
-    <tr>
-    <th colspan="2"> Technical Program Committee​ </th>
-    </tr>
-  </thead>
-      {% assign members = site.data.pc %}
-      {% for member in members %}
-        <tr>
-          <td class="name">{{ member.name }}</td>
-          <td class="name">{{ member.affiliation }}</td>
-        </tr>
-      {% endfor %}
-  </table>
-</div>  
+<!-- Technical Program Committee -->
+<div class="oc-container">
+  <div class="position-header">
+    <span class="header-line"></span>
+    <div class="position-info">
+      <span class="position-title">2026 Technical Program Committee</span>
+    </div>
+    <span class="header-line"></span>
+  </div>
+
+  <div class="members-grid">
+    {% assign members = site.data.pc %}
+    {% for member in members %}
+      <div class="member-card">
+        <div class="member-details">
+          <div class="member-name">{{ member.name }}</div>
+          <div class="member-affiliation">
+            {% if member.url %}
+              <a href="{{ member.url }}">{{ member.affiliation }}</a>
+            {% else %}
+              {{ member.affiliation }}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
 
 <div class="oc-container">
   <div class="position-header">
