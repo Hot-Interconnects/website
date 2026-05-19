@@ -55,6 +55,7 @@ Submit your tutorial proposal through <a href="https://easychair.org/conferences
 
 For questions, contact: tutorials@hoti.org
 
+
 <p align="center">
   <iframe width="800" height="450"
     src="https://www.youtube.com/embed/QE6qefoPqr4"
@@ -62,7 +63,7 @@ For questions, contact: tutorials@hoti.org
     frameborder="0"
     allowfullscreen>
   </iframe>
-</p>
+</p> 
 
 <!-- 
 ## Submission Format
