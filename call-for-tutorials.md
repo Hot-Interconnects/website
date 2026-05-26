@@ -23,6 +23,15 @@ IEEE Hot Interconnects invites proposals for tutorials that expand on the 2026 c
 | Notification of acceptance        |   June 12, 2026     |
 | Materials due |   July 31, 2026    |
 
+<p align="center">
+  <iframe width="800" height="450"
+    src="https://www.youtube.com/embed/QE6qefoPqr4"
+    title="CFP/CFT"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</p> 
+
 ## Topics of Interest 
 
 - Network software/hardware for AI/ML workloads
@@ -56,14 +65,7 @@ Submit your tutorial proposal through <a href="https://easychair.org/conferences
 For questions, contact: tutorials@hoti.org
 
 
-<p align="center">
-  <iframe width="800" height="450"
-    src="https://www.youtube.com/embed/QE6qefoPqr4"
-    title="CFP/CFT"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</p> 
+
 
 <!-- 
 ## Submission Format

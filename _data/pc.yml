@@ -1,81 +1,93 @@
-- name: Peter Del Vecchio
-  affiliation: Self
-  url:
-- name: Darius Bunandar
-  affiliation: Lightmatter, Inc.
-  url: https://lightmatter.co/
-- name: Arjun Kashyap
-  affiliation: NVIDIA
-  url: https://www.nvidia.com/en-us/
-- name: Shelby Lockhart
-  affiliation: Advanced Micro Devices, Inc
-  url: https://www.amd.com/
-- name: Xiaoyi Lu
-  affiliation: University of Florida
-  url: https://www.ufl.edu/
-- name: Hugo Taboada
-  affiliation: CEA
-  url: https://www.cea.fr/english
-- name: Shinji Sumimoto
-  affiliation: The University of Tokyo
-  url: https://www.u-tokyo.ac.jp/en/
-- name: Adrien Roussel
-  affiliation: CEA
-  url: https://www.cea.fr/english
-- name: Kaushik Kandadi Suresh
-  affiliation: NVIDIA
-  url: https://www.nvidia.com/en-us/
-- name: Jithin Jose
-  affiliation: Microsoft
-  url: https://www.microsoft.com/
-- name: Ron Brightwell
+- name: Khaled Diab
+  affiliation: Hewlett Packard Enterprise
+  url: https://www.hpe.com/
+- name: Kapil Shrikhande
+  affiliation: Upscale AI
+  url: https://upscaleai.com/
+- name: Weiyang Wang
+  affiliation: Massachusetts Institute of Technology
+  url: https://www.mit.edu/
+- name: Yuyang Wang
+  affiliation: University of Connecticut
+  url: https://uconn.edu/
+- name: Scott Hemmert
   affiliation: Sandia National Laboratories
   url: https://www.sandia.gov/
-- name: Ferrol Aderholdt
+- name: Charles Clayton
   affiliation: NVIDIA
   url: https://www.nvidia.com/en-us/
-- name: Mohiuddin Mazumder
-  affiliation: Intel Corporation
-  url: https://www.intel.com
+- name: Xi Wang
+  affiliation: University of California, Merced
+  url: https://www.ucmerced.edu/
+- name: Jongryool Kim
+  affiliation: SK hynix Inc
+  url: https://www.sk.com/
+- name: Yiwei Yang
+  affiliation: University of California, Santa Cruz
+  url: https://www.ucsc.edu/
+- name: Aurelien Bouteiller
+  affiliation: AMD
+  url: https://www.amd.com/
 - name: Luke Chang
   affiliation: AMD
   url: https://www.amd.com/
-- name: Xin Yuan
-  affiliation: Florida State University
-  url: https://www.fsu.edu/
+- name: Peter Del Vecchio
+  affiliation: Self
+  url:
+- name: Shinji Sumimoto
+  affiliation: The University of Tokyo
+  url: https://www.u-tokyo.ac.jp/en/
+- name: Ferrol Aderholdt
+  affiliation: NVIDIA
+  url: https://www.nvidia.com/en-us/
+- name: Yuichiro Ajima
+  affiliation: Fujitsu Limited
+  url: https://www.fujitsu.com/global/
+- name: Ron Brightwell
+  affiliation: Sandia National Laboratories
+  url: https://www.sandia.gov/
 - name: Swadesh Choudhary
   affiliation: Intel
   url: https://www.intel.com
 - name: Hans Eberle
-  affiliation: Nvidia
+  affiliation: NVIDIA
   url: https://www.nvidia.com/en-us/
 - name: Pedro Javier Garcia
   affiliation: Universidad de Castilla-La Mancha
   url: https://www.uclm.es/
-- name: Yuichiro Ajima
-  affiliation: Fujitsu Limited
-  url: https://www.fujitsu.com/global/
-- name: Keith Underwood
-  affiliation: HPE
-  url: https://www.hpe.com/
-- name: Stephen Bates
-  affiliation: AMD
-  url: https://www.amd.com/
 - name: Hyun-Wook Jin
   affiliation: Konkuk University
   url: http://www.konkuk.ac.kr/do/Index.do
-- name: Kishore Punniyamurthy
-  affiliation: Nvidia
-  url: https://www.nvidia.com/en-us/
-- name: Aurelien Bouteiller
+- name: Jithin Jose
+  affiliation: Microsoft
+  url: https://www.microsoft.com/
+- name: Shelby Lockhart
   affiliation: AMD
   url: https://www.amd.com/
-- name: Craig Stunkel
+- name: Xiaoyi Lu
+  affiliation: University of California, Merced
+  url: https://www.ucmerced.edu/
+- name: Mohiuddin Mazumder
+  affiliation: Intel Corporation
+  url: https://www.intel.com
+- name: Md Atiqul Mollah
+  affiliation: Cornelis Networks
+  url: https://www.cornelisnetworks.com/
+- name: Kishore Punniyamurthy
+  affiliation: NVIDIA
+  url: https://www.nvidia.com/en-us/
+- name: Kaushik Kandadi Suresh
   affiliation: NVIDIA
   url: https://www.nvidia.com/en-us/
 - name: Raghunath Raja Chandrasekar
   affiliation: Amazon Web Services
   url: https://aws.amazon.com/
-- name: Atiqul Mollah
-  affiliation: Cornelis Networks
-  url: https://www.cornelisnetworks.com/
+- name: Adrien Roussel
+  affiliation: CEA
+  url: https://www.cea.fr/english
+- name: Craig Stunkel
+  affiliation: NVIDIA
+  url: https://www.nvidia.com/en-us/
+- name: Hugo Taboada
+  affiliation: CEA
+  url: https://www.cea.fr/english

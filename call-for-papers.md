@@ -65,7 +65,14 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
  -->
 
 
-
+<p align="center">
+  <iframe width="800" height="450"
+    src="https://www.youtube.com/embed/QE6qefoPqr4"
+    title="CFP/CFT"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</p>
 
 ## Topics of Interest
 
@@ -141,14 +148,7 @@ Authors are responsible for all content submitted. If the precise usage of AI fo
 IEEE Hot Interconnects follows <a href="https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/#ai-generated-content">[IEEE's Guidelines for Artificial Intelligence (AI)-Generated Text]</a> for reviewers. Public AI platforms may not be used for the evaluation of manuscripts under review in order to avoid breaching confidentiality. 
 
 
-<p align="center">
-  <iframe width="800" height="450"
-    src="https://www.youtube.com/embed/QE6qefoPqr4"
-    title="CFP/CFT"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</p>
+
 
 
 <!-- ## Posters and Tutorials 
