@@ -1,11 +1,11 @@
 ---
 
 ---
-<!-- <div style="max-width: 850px; margin: 0 auto; text-align: center">
+<div style="max-width: 850px; margin: 0 auto; text-align: center">
   <div style="text-align: center; font-size: 30px">
     <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
   </div>
-</div> -->
+</div>
 
 <!-- <div style="text-align: center; font-size: 30px">
     <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>

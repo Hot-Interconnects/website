@@ -5,7 +5,7 @@
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
-    <!-- <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br> -->
+    <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
     <strong>Welcome to the 33rd iteration of the IEEE Hot Interconnects symposium. </strong>
     <strong>HotI’2026 will be held virtually.</strong> <br><br>
     <strong>2026 Conference Theme<br>
