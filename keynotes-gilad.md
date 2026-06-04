@@ -10,9 +10,11 @@ Senior Vice President Marketing at NVIDIA
 <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" width="200">
 <!-- <img src="{{ '/assets/img/GiladShainer.jpg' | relative_url }}"> -->
 
-**Title:** TBD
+**Title:**  Networking Innovations for Gigascale AI Systems
 
-**Abstract:** TBD
+**Abstract:** As AI factories grow to hundreds of thousands, and soon millions of interconnected GPUs, the network has become the defining architecture of large-scale AI. Achieving uncompromised performance requires fabrics that scale up, scale-out and scale-across. In this session, we will discuss the full breadth of networking innovations that enable the construction of gigascale AI infrastructure, delivering the performance required to train massive foundation models, deploy real-time inference pipelines, and interconnect federated AI factories globally.
+
+
 
 **Biography:** 
 <div style="text-align: justify; text-indent: 0em;">

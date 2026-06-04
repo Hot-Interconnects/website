@@ -50,7 +50,7 @@
     <!-- Row: titles + details link -->
     <tr>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="keynotes-gilad.html">[details]</a>
+        <strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
