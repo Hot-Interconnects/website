@@ -33,9 +33,28 @@
   border-collapse: collapse;
 }
 
-.call-for-panel th, 
+.call-for-panel th,
 .call-for-panel td {
   border: 1px solid #ccc;
   padding: 8px;
   text-align: left;
+}
+
+.keynote-table {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.keynote-table td {
+  border-bottom: none; 
+}
+
+/* All source images are 300x300, shown at equal size in equal columns */
+.keynote-table img {
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  margin: 0 auto;
 }
