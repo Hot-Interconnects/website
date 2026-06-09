@@ -16,7 +16,8 @@ Senior Director of Product Line Management and Head of Interconnect Strategy, Ci
 **Biography:** 
 <div style="text-align: justify; text-indent: 0em;">
 <p>
-Bilal Riaz is Senior Director of Product Line Management at Ciena. With a strong focus on driving innovation in the field of high-speed connectivity, Bilal is responsible for leading the development of next-generation optical modems, including pluggables.</p>
+Bilal Riaz is Senior Director of Product Line Management at Ciena. With a strong focus on driving innovation in the field of high-speed connectivity, Bilal is responsible for leading the development of next-generation optical modems, including pluggables.
+</p>
 
 <p>
 With a keen eye for emerging trends and technologies, Bilal's role allows him to be at the forefront of the rapidly evolving landscape of high-bandwidth electro-optics and packaging technologies. His extensive experience and deep understanding of the industry contribute to Ciena's position as a global leader in high-speed connectivity.

@@ -79,6 +79,50 @@
 
 
 ## Sponsor Talks
-TBD
 
-
+<table class="sponsor-talks-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
+  <tbody>
+    <!-- Row: photos -->
+    <tr>
+      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/Mohan.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+      </td>
+      <!-- <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+      </td>
+      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+      </td> -->
+    </tr>
+    <!-- Row: names -->
+    <tr>
+      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Mohan Kalkunte</td>
+      <!-- <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">TBD</td>
+      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal TBD</td> -->
+    </tr>
+    <!-- Row: affiliations -->
+    <tr>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Vice President of Architecture & Technology, Core Switching Group, Broadcom
+      </td>
+      <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Vice Director of DC Networking at Meta
+      </td>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
+      </td> -->
+    </tr>
+    <!-- Row: titles + details link -->
+    <tr>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>TBD</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
+      </td>
+      <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
+      </td>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
+      </td> -->
+    </tr>
+  </tbody>
+</table>
