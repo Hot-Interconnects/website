@@ -20,13 +20,13 @@
     <!-- Row: photos -->
     <tr>
       <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:100%; max-width:250px;">
       </td>
       <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:250px;">
       </td>
       <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:250px; height:auto; object-fit:cover; object-position:top;">
+        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:100%; max-width:250px;">
       </td>
     </tr>
     <!-- Row: names -->
