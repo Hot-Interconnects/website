@@ -150,7 +150,7 @@ Our objective is to address the data center networking and the supercomputing co
         <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
+        <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
       </td>
     </tr>
   </tbody>
