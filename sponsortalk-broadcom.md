@@ -40,5 +40,5 @@ Mohan Kalkunte is the Vice President of Architecture & Technology in the Core S
 <p>
 With over 35 years of experience, Mohan holds a Ph.D. in Engineering from The Ohio State University. He began his career at AT&T Bell Laboratories, later working at AMD, Nortel Networks, and Maverick Networks, which was acquired by Broadcom in 1999.
 Mohan holds over 150 patents and was elected Broadcom Fellow in 2009, IEEE Fellow in 2013 and to National Academy of Engineering in 2025 for his contributions to Ethernet Switching. He co-authored Gigabit Ethernet: Migrating to High-Bandwidth LANs and pioneered key innovations in Ethernet switch technology.
-</p>
+</p> 
 </div>
