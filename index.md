@@ -81,11 +81,19 @@ Interconnect Software: You can't touch it but you need it</strong>
       <tbody>
         <tr>
           <td>Proposals due</td>
-          <td>June 5, 2026</td>
+          <td>
+          <span style="color:gray"><del style="text-decoration-color:red"> June 5, 2026</del></span>
+          <br>
+          <span style="color:red">June 12, 2026</span>
+          </td>
         </tr>
         <tr>
           <td>Notification of acceptance</td>
-          <td>June 12, 2026</td>
+          <td>
+          <span style="color:gray"><del style="text-decoration-color:red"> June 12, 2026</del></span>
+          <br>
+          <span style="color:red">June 19, 2026</span>
+          </td>
         </tr>
         <tr>
           <td>Materials due</td>

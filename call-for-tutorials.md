@@ -16,13 +16,37 @@
 IEEE Hot Interconnects invites proposals for tutorials that expand on the 2026 conference theme of “Scale-Up, Scale-Out, Scale-Across: Do they really differ?” We seek half and full-day tutorials exploring the different interventions and technologies supporting data-center interconnects over long, short, and shorter distances. Tutorials will be held on the last day of the conference: Aug 21, 2026. We strongly encourage tutorial proposals to incorporate hands-on segments to engage the audience.
 
 ## Submissions and Schedule
-
-| Event                      | Date               |
-| -------------------------- | ------------------ |
-| Proposals due    |   June 5, 2026      |
-| Notification of acceptance        |   June 12, 2026     |
-| Materials due |   July 31, 2026    |
-
+ <div class="call-for-panel">
+    <h2>Call for Tutorials <a href="call-for-tutorials.html">[details]</a></h2>
+    <table>
+      <thead>
+        <tr><th>Event</th><th>Date</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Proposals due</td>
+          <td>
+          <span style="color:gray"><del style="text-decoration-color:red"> June 5, 2026</del></span>
+          <br>
+          <span style="color:red">June 12, 2026</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Notification of acceptance</td>
+          <td>
+          <span style="color:gray"><del style="text-decoration-color:red"> June 12, 2026</del></span>
+          <br>
+          <span style="color:red">June 19, 2026</span>
+          </td>
+        </tr>
+        <tr>
+          <td>Materials due</td>
+          <td>July 31, 2026</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
 <p align="center">
   <iframe width="800" height="450"
     src="https://www.youtube.com/embed/QE6qefoPqr4"
