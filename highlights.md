@@ -87,7 +87,9 @@
       <td style="width:33.33%; text-align:center; padding:10px; border:none;">
         <img src="{{ '/assets/img/Mohan.png' | relative_url }}" alt="Gilad Shainer" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
       </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;"></td>
+      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+      </td>
       <td style="width:33.33%; text-align:center; padding:10px; border:none;"></td>
       <!-- <td style="width:33.33%; text-align:center; padding:10px; border:none;">
         <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
@@ -99,6 +101,7 @@
     <!-- Row: names -->
     <tr>
       <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Mohan Kalkunte</td>
+      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Will Eatherton</td>
       <!-- <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">TBD</td>
       <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal TBD</td> -->
     </tr>
@@ -106,6 +109,9 @@
     <tr>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Vice President of Architecture & Technology, Core Switching Group, Broadcom
+      </td>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
       </td>
       <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Vice Director of DC Networking at Meta
@@ -118,6 +124,9 @@
     <tr>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
+      </td>
+      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
       </td>
       <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
