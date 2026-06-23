@@ -41,7 +41,7 @@
         Senior Vice President Marketing at NVIDIA
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Vice Director of DC Networking at Meta
+        Senior Director of Networking at Meta
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
@@ -53,7 +53,7 @@
         <strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
+        <strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a>
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
@@ -114,7 +114,7 @@
         SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
       </td>
       <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Vice Director of DC Networking at Meta
+        Senior Director of Networking at Meta
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
