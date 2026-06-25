@@ -77,6 +77,15 @@
   </tbody>
 </table>
 
+## Lightning Session
+The week before OFC (the Optical Fiber Communication Conference) held in Los Angeles in March, four new Multi-Source Agreements (MSAs) were announced. Each is designed to accelerate design choices for some aspect of the AI data center, ideally in a way that serves the needs of the operator customers. They are not intended to give any vendor an advantage over the others but are meant to speed deployment by getting the suppliers (sources) to agree on some not-very-controversial aspects of these solutions. For each MSA, we have asked one of the founding companies to speak and to explain what problem the MSA is solving, why all the existing standards bodies and consortia are not solving that problem, what the MSA promises to actually produce, how the MSA will avoid stifling innovation, and how companies can join the MSA.
+- OCI MSA, focusing on the optical compute interface; speaker: [Drew Alduino] (Meta)
+- Open CPX MSA, focusing on open-socket NPO and CPO; speaker: [Ryan Yu](https://www.linkedin.com/in/rangchenyu/) (Terahop) 
+- SDM4 MCF MSA, focusing on multi-core fiber; speaker: [Duane Robbins](https://www.linkedin.com/in/duane-robbins-230033113) (Corning)
+- XPO MSA, focusing on extreme pluggable optics; speaker: [Sunil Priyadarshi](https://www.linkedin.com/in/sunilpriyadarshi) (Arista)
+
+
+
 
 ## Sponsor Talks
 
