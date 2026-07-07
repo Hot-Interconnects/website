@@ -164,7 +164,7 @@
       </td> -->
     </tr>
     <!-- Row: titles + details link -->
-    <tr>
+    <tr> 
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Distributed Computing @ Scale for AI Training & Inference</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
       </td>
