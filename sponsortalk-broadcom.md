@@ -10,7 +10,7 @@ Vice President of Architecture & Technology, Core Switching Group, Broadcom
 
 <img src="{{ 'assets/img/Mohan.png' | relative_url }}">
 
-**Title:** TBD
+**Title:** Distributed Computing @ Scale for AI Training & Inference
 
 **Abstract:** 
 <div style="text-align: justify; text-indent: 0em;">

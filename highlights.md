@@ -166,7 +166,7 @@
     <!-- Row: titles + details link -->
     <tr>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
+        <strong>Distributed Computing @ Scale for AI Training & Inference</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
