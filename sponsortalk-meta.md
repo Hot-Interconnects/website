@@ -3,21 +3,22 @@
 ---
 # Sponsor Talk
 
-### Wesley Bland
+### Kirtesh Patil
 
-Research Scientist at Meta
+Tech Lead at Meta
 
-<img src="{{ '/assets/img/meta-wes.png' | relative_url }}">
+<img src="{{ '/assets/img/kritesh_patil.png' | relative_url }}" alt="Kritesh Patil" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
 
-**Title:** AI Infra at Meta
+
+**Title:** Co-Designing MTIA's Communication Stack
 
 **Abstract:** 
 <div style="text-align: justify; text-indent: 0em;">
-Meta is building AI infrastructure at enormous scale to handle a large breadth of workloads, from Generative AI to Machine Learning. These workloads require innovation in compute, storage, power, and of course, networking. Meta continue to take great strides to innovate in this space including creating our own custom silicon, MTIA, to improve both performance and cost. In this talk, we will take a quick tour of the work going on at Meta and see the direction it is moving.
+ As AI models grow, communication increasingly determines the performance of large-scale AI systems, in both training and inference. In inference, it sits on the token-generation critical path, where collective latency directly affects responsiveness. This talk describes how Meta treats communication as a first-class design concern for MTIA, its family of homegrown AI accelerators, co-designing silicon, network, and software so that collectives are offloaded, overlapped with computation, and fused into compute kernels to cut latency, all exposed through the collective communications library (HCCL), which integrates natively with PyTorch. On the network side, MTIA builds its scale-up and scale-out networks on standard Ethernet rather than a proprietary interconnect, so we can leverage the maturity and openness of the Ethernet ecosystem. Drawing on our recently accepted SC26 paper, we share the design principles behind this approach, early results, and open challenges in building communication infrastructure for next-generation AI.
 </div>
 <br>
 
 **Biography:** 
 <div style="text-align: justify; text-indent: 0em;">
-Wes Bland is a Research Scientist at Meta Platforms focusing primarily on HPC communication co-design. He has spent more than 15 years working in the HPC communication space including contributions to the MPI Standard as well as MPI implementations. He was previously the chair of the fault tolerance working group and has held the position of MPI Forum Secretary since 2017. Wesley received his PhD in Computer Science from the University of Tennessee, Knoxville.
+Kirtesh Patil is a tech lead at Meta, where he leads development of the collective communications library (HCCL) and co-designs the communication stack for MTIA, Meta's family of homegrown AI accelerators. He previously built the enforcement engine for Meta's Network Entitlement system (ACM SIGCOMM 2022), and earlier at Cisco worked on software-defined WAN, WAN optimization, and network security.
 </div>

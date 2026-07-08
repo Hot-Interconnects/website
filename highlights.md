@@ -115,70 +115,84 @@
 
 
 ## Sponsor Talks
-
 <table class="sponsor-talks-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tbody>
-    <!-- Row: photos -->
     <tr>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Mohan.png' | relative_url }}" alt="Gilad Shainer" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+      <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/Mohan.png' | relative_url }}" alt="Mohan Kalkunte" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+      <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ 'assets/img/napatech-Alex_Agerholm.jpeg' | relative_url }}" alt="Alex Agerholm" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+      <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ 'assets/img/napatech-Alex_Agerholm.jpeg' | relative_url }}" alt="Alex Omø Agerholm" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;"></td>
-      <!-- <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+      <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ 'assets/img/Rohan.Gandhi.eliyan.png' | relative_url }}" alt="Rohan Gandhi" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+      <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ 'assets/img/kritesh_patil.png' | relative_url }}" alt="Kritesh Patil" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
+      </td>
+      <!-- <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
+      </td>
+      <td style="width:20%; text-align:center; padding:10px; border:none;">
+        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td> -->
     </tr>
-    <!-- Row: names -->
     <tr>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Mohan Kalkunte</td>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Will Eatherton</td>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Alex Omø Agerholm</td>
-      <!-- <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">TBD</td>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal TBD</td> -->
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Mohan Kalkunte</td>
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Will Eatherton</td>
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Alex Omø Agerholm</td>
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Rohan Gandhi</td>
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Kritesh Patil</td>
+      <!-- <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">TBD</td>
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal TBD</td> -->
     </tr>
-    <!-- Row: affiliations -->
     <tr>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Vice President of Architecture & Technology, Core Switching Group, Broadcom
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Chief Product Architect, Napatech
       </td>
-      <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Vice President of Optical Marketing at Eliyan
+      </td>
+       <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+        Tech Lead at Meta
+      </td>
+      <!-- <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Director of Networking at Meta
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
         Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
       </td> -->
     </tr>
-    <!-- Row: titles + details link -->
     <tr> 
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Distributed Computing @ Scale for AI Training & Inference</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across</strong> <br> <a href="sponsortalk-napatech.html">[details]</a>
       </td>
-      <!-- <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure</strong> <br> <a href="sponsortalk-eliyan.html">[details]</a>
+      </td>
+      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong> Co-Designing MTIA's Communication Stack</strong> <br> <a href="sponsortalk-meta.html">[details]</a>
+      </td>
+      <!-- <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
         <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
+      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+        <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
       </td> -->
     </tr>
   </tbody>
