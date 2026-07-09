@@ -131,7 +131,7 @@
         <img src="{{ 'assets/img/Rohan.Gandhi.eliyan.png' | relative_url }}" alt="Rohan Gandhi" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td>
       <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ 'assets/img/kritesh_patil.png' | relative_url }}" alt="Kritesh Patil" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
+        <img src="{{ 'assets/img/kritesh_patil.png' | relative_url }}" alt="Kirtesh Patil" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
       </td>
       <!-- <td style="width:20%; text-align:center; padding:10px; border:none;">
         <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
@@ -145,7 +145,7 @@
       <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Will Eatherton</td>
       <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Alex Omø Agerholm</td>
       <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Rohan Gandhi</td>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Kritesh Patil</td>
+      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Kirtesh Patil</td>
       <!-- <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">TBD</td>
       <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal TBD</td> -->
     </tr>
