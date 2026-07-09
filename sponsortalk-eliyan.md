@@ -3,11 +3,11 @@
 ---
 # Sponsor Talk
 
-### Rohan Gahndi
+### Rohan Gandhi
 
 Vice President of Optical Marketing at Eliyan
 
-<img src="{{ 'assets/img/Rohan.Gandhi.eliyan.png'  | relative_url }}" alt="Rohan Gahndi" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+<img src="{{ 'assets/img/Rohan.Gandhi.eliyan.png'  | relative_url }}" alt="Rohan Gandhi" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
 
 **Title:** From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure
 
