@@ -3,7 +3,7 @@
 ---
 # Sponsor Talk
 
-### Rohan Gandhi
+### Rohan Gandhi 
 
 Vice President of Optical Marketing at Eliyan
 
