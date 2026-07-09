@@ -41,7 +41,11 @@ IEEE Hot Interconnects invites proposals for tutorials that expand on the 2026 c
         </tr>
         <tr>
           <td>Materials due</td>
-          <td>July 31, 2026</td>
+          <td>
+          <span style="color:gray"><del style="text-decoration-color:red"> July 31, 2026</del></span>
+          <br>
+          <span style="color:red">August 7, 2026</span>
+          </td>
         </tr>
       </tbody>
     </table>
