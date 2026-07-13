@@ -112,88 +112,151 @@
 
 
 
-
-
 ## Sponsor Talks
-<table class="sponsor-talks-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
-  <tbody>
-    <tr>
-      <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Mohan.png' | relative_url }}" alt="Mohan Kalkunte" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td>
-      <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td>
-      <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ 'assets/img/napatech-Alex_Agerholm.jpeg' | relative_url }}" alt="Alex Omø Agerholm" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td>
-      <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ 'assets/img/Rohan.Gandhi.eliyan.png' | relative_url }}" alt="Rohan Gandhi" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td>
-      <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ 'assets/img/kritesh_patil.png' | relative_url }}" alt="Kirtesh Patil" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td>
-      <!-- <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td>
-      <td style="width:20%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:100%; max-width:240px; aspect-ratio:1/1; object-fit:cover; object-position:top;">
-      </td> -->
-    </tr>
-    <tr>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Mohan Kalkunte</td>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Will Eatherton</td>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Alex Omø Agerholm</td>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Rohan Gandhi</td>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Kirtesh Patil</td>
-      <!-- <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">TBD</td>
-      <td style="width:20%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal TBD</td> -->
-    </tr>
-    <tr>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Vice President of Architecture & Technology, Core Switching Group, Broadcom
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Chief Product Architect, Napatech
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Vice President of Optical Marketing at Eliyan
-      </td>
-       <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Tech Lead at Meta
-      </td>
-      <!-- <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Senior Director of Networking at Meta
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
-        Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
-      </td> -->
-    </tr>
-    <tr> 
-      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Distributed Computing @ Scale for AI Training & Inference</strong> <br> <a href="sponsortalk-broadcom.html">[details]</a>
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale</strong> <br> <a href="sponsortalk-cisco.html">[details]</a>
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across</strong> <br> <a href="sponsortalk-napatech.html">[details]</a>
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure</strong> <br> <a href="sponsortalk-eliyan.html">[details]</a>
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong> Co-Designing MTIA's Communication Stack</strong> <br> <a href="sponsortalk-meta.html">[details]</a>
-      </td>
-      <!-- <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>TBD</strong> <br> <a href="keynotes-omar.html">[details]</a>
-      </td>
-      <td style="width:20%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
-      </td> -->
-    </tr>
-  </tbody>
-</table>
+
+<style>
+.sponsor-tier {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  column-gap: 1.75em;
+  row-gap: 3em;
+  max-width: 1020px;
+  margin: 0 auto 3.5em;
+}
+.sponsor-card {
+  grid-column: span 2;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+/* Offset the trailing pair by half a card -> chessboard stagger */
+.sponsor-card.offset-a { grid-column: 2 / span 2; }
+.sponsor-card.offset-b { grid-column: 4 / span 2; }
+
+.sponsor-card img {
+  width: 165px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  margin: 0 auto 0.9em;
+}
+.sponsor-name {
+  font-size: 1.15em;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+.sponsor-affiliation {
+  font-size: 0.9em;
+  line-height: 1.45;
+  opacity: 0.75;
+  margin-top: 0.35em;
+  text-wrap: balance;
+}
+.sponsor-title {
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.4;
+  margin-top: 0.9em;
+  text-wrap: balance;
+}
+.sponsor-details {
+  font-size: 0.9em;
+  margin-top: auto;
+  padding-top: 0.6em;
+}
+
+/* Diamond tier reads larger */
+.sponsor-tier.diamond .sponsor-card img { width: 200px; }
+.sponsor-tier.diamond .sponsor-name { font-size: 1.3em; }
+.sponsor-tier.diamond .sponsor-title { font-size: 1.08em; }
+
+/* 3-across -> 2-across (stagger drops, pair centers) */
+@media (max-width: 900px) {
+  .sponsor-tier { grid-template-columns: repeat(4, 1fr); max-width: 620px; }
+  .sponsor-card,
+  .sponsor-card.offset-a,
+  .sponsor-card.offset-b { grid-column: span 2; }
+}
+/* -> single column */
+@media (max-width: 560px) {
+  .sponsor-tier { grid-template-columns: 1fr; max-width: 300px; row-gap: 2.5em; }
+  .sponsor-card,
+  .sponsor-card.offset-a,
+  .sponsor-card.offset-b { grid-column: 1; }
+}
+</style>
+
+<!-- ============ DIAMOND ============ -->
+<div class="sponsor-tier diamond">
+
+  <div class="sponsor-card">
+    <img src="{{ 'assets/img/napatech-Alex_Agerholm.jpeg' | relative_url }}" alt="Alex Omø Agerholm">
+    <div class="sponsor-name">Alex Omø Agerholm</div>
+    <div class="sponsor-affiliation">Chief Product Architect, Napatech</div>
+    <div class="sponsor-title">AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across</div>
+    <div class="sponsor-details"><a href="sponsortalk-napatech.html">[details]</a></div>
+  </div>
+
+  <div class="sponsor-card">
+    <img src="{{ 'assets/img/nick-lightmatter.png'| relative_url }}" alt="Speaker TBD">
+    <div class="sponsor-name">Nick Harris</div>
+    <div class="sponsor-affiliation">Founder and CEO of Lightmatter, Lightmatter</div>
+    <div class="sponsor-title">BiDi DWDM: The Interconnect Foundation for High-Performance AI Training and Inference</div>
+    <div class="sponsor-details"><a href="sponsortalk-lightmatter.html">[details]</a></div>
+  </div>
+
+  <div class="sponsor-card">
+    <img src="{{ 'assets/img/placeholder-headshot.svg' | relative_url }}" alt="Speaker TBD">
+    <div class="sponsor-name">TBD</div>
+    <div class="sponsor-affiliation">Marvell: TBD</div>
+    <div class="sponsor-title">TBD</div>
+    <div class="sponsor-details"><a href="sponsortalk-diamond3.html">[details]</a></div>
+  </div>
+
+</div>
+
+<!-- ============ PLATINUM ============ -->
+<div class="sponsor-tier">
+
+  <div class="sponsor-card">
+    <img src="{{ '/assets/img/Mohan.png' | relative_url }}" alt="Mohan Kalkunte">
+    <div class="sponsor-name">Mohan Kalkunte</div>
+    <div class="sponsor-affiliation">Vice President of Architecture &amp; Technology, Core Switching Group, Broadcom</div>
+    <div class="sponsor-title">Distributed Computing @ Scale for AI Training &amp; Inference</div>
+    <div class="sponsor-details"><a href="sponsortalk-broadcom.html">[details]</a></div>
+  </div>
+
+  <div class="sponsor-card">
+    <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton">
+    <div class="sponsor-name">Will Eatherton</div>
+    <div class="sponsor-affiliation">SVP, Data Center, Internet &amp; Cloud Infrastructure Engineering at Cisco</div>
+    <div class="sponsor-title">Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale</div>
+    <div class="sponsor-details"><a href="sponsortalk-cisco.html">[details]</a></div>
+  </div>
+
+  <div class="sponsor-card">
+    <img src="{{ 'assets/img/Rohan.Gandhi.eliyan.png' | relative_url }}" alt="Rohan Gandhi">
+    <div class="sponsor-name">Rohan Gandhi</div>
+    <div class="sponsor-affiliation">Vice President of Optical Marketing at Eliyan</div>
+    <div class="sponsor-title">From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure</div>
+    <div class="sponsor-details"><a href="sponsortalk-eliyan.html">[details]</a></div>
+  </div>
+
+  <div class="sponsor-card offset-a">
+    <img src="{{ 'assets/img/kritesh_patil.png' | relative_url }}" alt="Kirtesh Patil">
+    <div class="sponsor-name">Kirtesh Patil</div>
+    <div class="sponsor-affiliation">Tech Lead at Meta</div>
+    <div class="sponsor-title">Co-Designing MTIA's Communication Stack</div>
+    <div class="sponsor-details"><a href="sponsortalk-meta.html">[details]</a></div>
+  </div>
+
+  <div class="sponsor-card offset-b">
+    <img src="{{ 'assets/img/placeholder-headshot.svg' | relative_url }}" alt="Speaker TBD">
+    <div class="sponsor-name">TBD</div>
+    <div class="sponsor-affiliation">Qualcomm: TBD</div>
+    <div class="sponsor-title">TBD</div>
+    <div class="sponsor-details"><a href="sponsortalk-qualcomm.html">[details]</a></div>
+  </div>
+
+</div>
