@@ -128,13 +128,18 @@
   display: flex;
   flex-direction: column;
   text-align: center;
+  /* Grid items default to min-width:auto and refuse to shrink below their
+     longest word, which overflows the tier on narrow screens. */
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 /* Offset the trailing pair by half a card -> chessboard stagger */
 .sponsor-card.offset-a { grid-column: 2 / span 2; }
 .sponsor-card.offset-b { grid-column: 4 / span 2; }
 
 .sponsor-card img {
-  width: 165px;
+  width: 100%;
+  max-width: 165px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   object-position: top;
@@ -167,23 +172,14 @@
 }
 
 /* Diamond tier reads larger */
-.sponsor-tier.diamond .sponsor-card img { width: 200px; }
+.sponsor-tier.diamond .sponsor-card img { max-width: 200px; }
 .sponsor-tier.diamond .sponsor-name { font-size: 1.3em; }
 .sponsor-tier.diamond .sponsor-title { font-size: 1.08em; }
 
-/* 3-across -> 2-across (stagger drops, pair centers) */
-@media (max-width: 900px) {
-  .sponsor-tier { grid-template-columns: repeat(4, 1fr); max-width: 620px; }
-  .sponsor-card,
-  .sponsor-card.offset-a,
-  .sponsor-card.offset-b { grid-column: span 2; }
-}
-/* -> single column */
+/* Stays 3-across at every width (like the keynote table) — cards scale
+   down rather than reflow. Narrow screens only tighten the gutters. */
 @media (max-width: 560px) {
-  .sponsor-tier { grid-template-columns: 1fr; max-width: 300px; row-gap: 2.5em; }
-  .sponsor-card,
-  .sponsor-card.offset-a,
-  .sponsor-card.offset-b { grid-column: 1; }
+  .sponsor-tier { column-gap: 0.75em; row-gap: 2.5em; }
 }
 </style>
 
@@ -207,11 +203,11 @@
   </div>
 
   <div class="sponsor-card">
-    <img src="{{ 'assets/img/placeholder-headshot.svg' | relative_url }}" alt="Speaker TBD">
-    <div class="sponsor-name">TBD</div>
-    <div class="sponsor-affiliation">Marvell: TBD</div>
-    <div class="sponsor-title">TBD</div>
-    <div class="sponsor-details"><a href="sponsortalk-diamond3.html">[details]</a></div>
+    <img src="{{ 'assets/img/Marvell_Ravi.png' | relative_url }}" alt="Ravi Mahatme">
+    <div class="sponsor-name">Ravi Mahatme</div>
+    <div class="sponsor-affiliation">Senior Director, Product Management, Photonic Fabric Business Unit, Marvell</div>
+    <div class="sponsor-title">A Shared Memory Architecture for Token-Efficient AI Infrastructure</div>
+    <div class="sponsor-details"><a href="sponsortalk-marvell.html">[details]</a></div>
   </div>
 
 </div>
