@@ -252,10 +252,10 @@
   </div>
 
   <div class="sponsor-card offset-b">
-    <img src="{{ 'assets/img/placeholder-headshot.svg' | relative_url }}" alt="Speaker TBD">
-    <div class="sponsor-name">TBD</div>
-    <div class="sponsor-affiliation">Qualcomm: TBD</div>
-    <div class="sponsor-title">TBD</div>
+    <img src="{{ 'assets/img/dave-qualcomm.png' | relative_url }}" alt="Speaker TBD">
+    <div class="sponsor-name">Dave Kulansky</div>
+    <div class="sponsor-affiliation">Director of Product Management at Qualcomm</div>
+    <div class="sponsor-title">Scaling AI with Chiplets & CPO</div>
     <div class="sponsor-details"><a href="sponsortalk-qualcomm.html">[details]</a></div>
   </div>
 
