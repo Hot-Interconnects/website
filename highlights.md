@@ -56,7 +56,7 @@
         <strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a>
       </td>
       <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
-        <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
+        <strong>The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
       </td>
     </tr>
   </tbody>
@@ -79,36 +79,128 @@
 
 ## Lightning Session
 
-<table style="width:100%; border-collapse:collapse; border:none;">
-  <tr style="vertical-align:top;">
-    <td style="width:60%; padding:10px; border:none; text-align:justify;">
-      The week before OFC (the Optical Fiber Communication Conference) held in Los
-      Angeles in March, four new Multi-Source Agreements (MSAs) were announced.
-      Each is designed to accelerate design choices for some aspect of the AI data
-      center, ideally in a way that serves the needs of the operator customers.
-      They are not intended to give any vendor an advantage over the others but are
-      meant to speed deployment by getting the suppliers (sources) to agree on some
-      not-very-controversial aspects of these solutions. For each MSA, we have
-      asked one of the founding companies to speak and to explain what problem the
-      MSA is solving, why all the existing standards bodies and consortia are not
-      solving that problem, what the MSA promises to actually produce, how the MSA
-      will avoid stifling innovation, and how companies can join the MSA.
-      <br><br>
-      <ul>
-        <li><strong>OCI MSA</strong>, focusing on the optical compute interface; speaker: Drew Alduino (Meta)</li>
-        <li><strong>Open CPX MSA</strong>, focusing on open-socket NPO and CPO; speaker:
-          <a href="https://www.linkedin.com/in/rangchenyu/" target="_blank">Ryan Yu</a> (Terahop)
-        </li>
-        <li><strong>SDM4 MCF MSA</strong>, focusing on multi-core fiber; speaker:
-          <a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank">Duane Robbins</a> (Corning)
-        </li>
-        <li><strong>XPO MSA</strong>, focusing on extreme pluggable optics; speaker:
-          <a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank">Sunil Priyadarshi</a> (Arista)
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<style>
+.lightning-intro {
+  max-width: 1020px;
+  margin: 0 auto 2.5em;
+  text-align: justify;
+}
+.lightning-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 1.75em;
+  row-gap: 2.5em;
+  max-width: 1020px;
+  margin: 0 auto 3.5em;
+}
+.lightning-card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* Grid items default to min-width:auto and refuse to shrink below their
+     longest word, which overflows the grid on narrow screens. Hyphenate long
+     names ("Priyadarshi") rather than snapping them mid-word; break-word is
+     only the last resort. */
+  min-width: 0;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+.lightning-card img {
+  width: 100%;
+  max-width: 190px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  margin: 0 auto 0.9em;
+}
+.lightning-name {
+  font-size: 1.15em;
+  line-height: 1.3;
+  font-weight: bold;
+  text-wrap: balance;
+}
+.lightning-affiliation {
+  font-size: 0.9em;
+  line-height: 1.45;
+  opacity: 0.75;
+  margin-top: 0.2em;
+}
+.lightning-msa {
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.4;
+  margin-top: 0.8em;
+  padding-top: 0.7em;
+  border-top: 3px solid #cc0000;
+}
+.lightning-focus {
+  font-size: 0.9em;
+  line-height: 1.45;
+  margin-top: 0.3em;
+  text-wrap: balance;
+}
+/* Stays 4-across at every width (like the keynote table) — cards scale down
+   rather than reflow. A quarter of a phone screen is ~80px, so the type has
+   to come down with the gutters to keep the longest names on one line. */
+@media (max-width: 700px) {
+  .lightning-grid { column-gap: 0.75em; row-gap: 2em; }
+  .lightning-name { font-size: 0.85em; }
+  .lightning-msa { font-size: 0.78em; padding-top: 0.5em; border-top-width: 2px; }
+  .lightning-affiliation,
+  .lightning-focus { font-size: 0.72em; }
+}
+</style>
+
+<div class="lightning-intro">
+  The week before OFC (the Optical Fiber Communication Conference) held in Los
+  Angeles in March, four new Multi-Source Agreements (MSAs) were announced.
+  Each is designed to accelerate design choices for some aspect of the AI data
+  center, ideally in a way that serves the needs of the operator customers.
+  They are not intended to give any vendor an advantage over the others but are
+  meant to speed deployment by getting the suppliers (sources) to agree on some
+  not-very-controversial aspects of these solutions. For each MSA, we have
+  asked one of the founding companies to speak and to explain what problem the
+  MSA is solving, why all the existing standards bodies and consortia are not
+  solving that problem, what the MSA promises to actually produce, how the MSA
+  will avoid stifling innovation, and how companies can join the MSA.
+</div>
+
+<div class="lightning-grid">
+
+  <div class="lightning-card">
+    <img src="{{ '/assets/img/lightning-drew-alduino.jpg' | relative_url }}" alt="Drew Alduino">
+    <div class="lightning-name">Drew Alduino</div>
+    <div class="lightning-affiliation">Meta</div>
+    <div class="lightning-msa">OCI MSA</div>
+    <div class="lightning-focus">Optical compute interface</div>
+  </div>
+
+  <div class="lightning-card">
+    <img src="{{ '/assets/img/lightning-ryan-yu.jpeg' | relative_url }}" alt="Ryan Yu">
+    <div class="lightning-name"><a href="https://www.linkedin.com/in/rangchenyu/" target="_blank">Ryan Yu</a></div>
+    <div class="lightning-affiliation">TeraHop</div>
+    <div class="lightning-msa">Open CPX MSA</div>
+    <div class="lightning-focus">Open-socket NPO and CPO</div>
+  </div>
+
+  <div class="lightning-card">
+    <img src="{{ '/assets/img/lightning-duane-robbins.jpeg' | relative_url }}" alt="Duane Robbins">
+    <div class="lightning-name"><a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank">Duane Robbins</a></div>
+    <div class="lightning-affiliation">Corning</div>
+    <div class="lightning-msa">SDM4 MCF MSA</div>
+    <div class="lightning-focus">Multi-core fiber</div>
+  </div>
+
+  <div class="lightning-card">
+    <img src="{{ '/assets/img/lightning-sunil-priyadarshi.jpeg' | relative_url }}" alt="Sunil Priyadarshi">
+    <div class="lightning-name"><a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank">Sunil Priyadarshi</a></div>
+    <div class="lightning-affiliation">Arista</div>
+    <div class="lightning-msa">XPO MSA</div>
+    <div class="lightning-focus">Extreme pluggable optics</div>
+  </div>
+
+</div>
 
 
 

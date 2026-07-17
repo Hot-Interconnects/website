@@ -47,7 +47,13 @@
 }
 
 .keynote-table td {
-  border-bottom: none; 
+  border-bottom: none;
+  /* Fixed layout gives each cell a third of the viewport, which on a phone is
+     narrower than single title words like "High-Performance" or
+     "Interconnects:". Without these the long word juts out of the cell and
+     drags the whole page wider than the screen. */
+  hyphens: auto;
+  overflow-wrap: break-word;
 }
 
 /* All source images are 300x300, shown at equal size in equal columns */

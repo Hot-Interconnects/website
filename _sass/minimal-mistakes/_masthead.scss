@@ -104,6 +104,12 @@
   .nav-items {
     display: flex;
     align-items: center;
+    /* Without wrap, the menu items form one unbreakable row that pushes the
+       whole page wider than a phone viewport. Wrap only engages when the
+       items no longer fit, so desktop layout is unaffected. */
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    min-width: 0;
   }
 }
 

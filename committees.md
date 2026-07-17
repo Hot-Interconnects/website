@@ -194,6 +194,16 @@
   text-decoration: underline;
 }
 
+/* nowrap above keeps the short titles on one line between the decorative
+   rules. On a phone the longest ones ("Sponsor Engagement, Marketing and
+   Outreach") are wider than the screen, so let those wrap instead. */
+@media (max-width: 700px) {
+  .position-title {
+    white-space: normal;
+    text-align: center;
+  }
+}
+
 .members-grid {
   display: flex;
   flex-wrap: wrap;
