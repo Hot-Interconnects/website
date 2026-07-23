@@ -71,11 +71,109 @@
       <td style="width: 60%; padding: 10px; border: none; text-align: justify;">
         <large><strong>Title: Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now? </strong></large>  <br>
         Moderator: Timothy Crawford, Managing Director at KeyBanc Capital Markets <br>
-        <small>Abstract: Inference is moving in a big way from the Core to the Edge, in the form of Edge data centers (and smaller things at the edge), whether operated by Neoclouds, specialized operators, industries, or enterprises. How do the interconnects within and between these Edge data centers differ from those of the Core? Where do the constraints of power and latency influence the architectures and technologies for Scale-Up, Scale-Out, and Scale-Across? When do they operate cooperatively versus standalone? When is the connection to the Core considered Scale-Across or just the WAN? In this panel we will examine this critical, emerging venue for interconnects and learn what it can tell us about these classifications and applicable technologies. <a href="highlight-panel.html"> [details]</a></small>
+        Abstract: Inference is moving in a big way from the Core to the Edge, in the form of Edge data centers (and smaller things at the edge), whether operated by Neoclouds, specialized operators, industries, or enterprises. How do the interconnects within and between these Edge data centers differ from those of the Core? Where do the constraints of power and latency influence the architectures and technologies for Scale-Up, Scale-Out, and Scale-Across? When do they operate cooperatively versus standalone? When is the connection to the Core considered Scale-Across or just the WAN? In this panel we will examine this critical, emerging venue for interconnects and learn what it can tell us about these classifications and applicable technologies. <a href="highlight-panel.html"> [details]</a>
       </td>
     </tr>
   </tbody>
 </table>
+
+<style>
+.panelist-tier {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  column-gap: 1.75em;
+  row-gap: 3em;
+  max-width: 1020px;
+  margin: 0 auto 3.5em;
+}
+.panelist-card {
+  grid-column: span 2;          /* 6 cols / span 2 => 3 across */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+/* Center the trailing pair on row 2 */
+.panelist-card.offset-a { grid-column: 2 / span 2; }
+.panelist-card.offset-b { grid-column: 4 / span 2; }
+
+.panelist-card img {
+  width: 100%;
+  max-width: 165px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  margin: 0 auto 0.9em;
+}
+.panelist-name {
+  font-size: 1.15em;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+.panelist-affiliation {
+  font-size: 0.9em;
+  line-height: 1.45;
+  opacity: 0.75;
+  margin-top: 0.35em;
+  text-wrap: balance;
+}
+
+.panelist-role {
+  font-size: 0.78em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  margin-bottom: 0.3em;
+}
+
+/* Stays 3-across at every width — cards scale down rather than reflow. */
+@media (max-width: 560px) {
+  .panelist-tier { column-gap: 0.75em; row-gap: 2.5em; }
+}
+</style>
+
+<div class="panelist-tier">
+
+  <div class="panelist-card">
+    <img src="{{ '/assets/img/Tim_Crawford.jpg' | relative_url }}" alt="Timothy Crawford">
+    <div class="panelist-role">Moderator</div>
+    <div class="panelist-name">Timothy Crawford</div>
+    <div class="panelist-affiliation">Managing Director, KeyBanc Capital Markets</div>
+  </div>
+
+  <div class="panelist-card">
+    <img src="{{ 'assets/img/Inder_Monga_panelist.jpeg' | relative_url }}" alt="Inder Monga">
+    <div class="panelist-name">Inder Monga</div>
+    <div class="panelist-affiliation">Director of Berkeley Lab’s Scientific Networking Division and Executive Director of Energy Sciences Network (ESnet)</div>
+  </div>
+
+  <div class="panelist-card">
+    <img src="{{ 'assets/img/Yosuke_Aragane_panelist.jpeg' | relative_url }}" alt="Yosuke Aragane">
+    <div class="panelist-name">Yosuke Aragane</div>
+    <div class="panelist-affiliation">Vice President, IOWN Development Office, NTT</div>
+  </div>
+
+  <div class="panelist-card">
+    <img src="{{ 'assets/img/Tanner_Ryan_panelist.jpeg' | relative_url }}" alt="Tanner Ryan">
+    <div class="panelist-name">Tanner Ryan</div>
+    <div class="panelist-affiliation">Network Engineer at Cloudflare</div>
+  </div>
+
+  <div class="panelist-card">
+    <img src="{{ 'assets/img/Marc_Austin_panelist.jpeg' | relative_url }}" alt="Marc Austin">
+    <div class="panelist-name">Marc Austin</div>
+    <div class="panelist-affiliation">CEO and Founder - Hedgehog</div>
+  </div>
+
+  <div class="panelist-card">
+    <img src="{{ 'assets/img/Ofer_Shapiro_panelist.jpeg' | relative_url }}" alt="Ofer Shapiro">
+    <div class="panelist-name">Ofer Shapiro</div>
+    <div class="panelist-affiliation">Investor</div>
+  </div>
+
+</div>
 
 ## Lightning Session
 
