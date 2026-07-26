@@ -37,25 +37,25 @@
     </tr>
     <!-- Row: affiliations -->
     <tr>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Vice President Marketing at NVIDIA
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Director of Networking at Meta
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
       </td>
     </tr>
     <!-- Row: titles + details link -->
     <tr>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong>The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
       </td>
     </tr>
@@ -347,12 +347,19 @@
   opacity: 0.75;
   margin-top: 0.35em;
   text-wrap: balance;
+  /* The red rule below only reads as intentional if it lands at the same
+     height across a row, so the affiliation block is floored at two lines —
+     the longest any of them wraps to at full width. (The lightning cards get
+     this for free: their affiliations are all one-word companies.) */
+  min-height: 2.9em;
 }
 .sponsor-title {
   font-size: 1em;
   font-weight: bold;
   line-height: 1.4;
   margin-top: 0.9em;
+  padding-top: 0.7em;
+  border-top: 3px solid #cc0000;
   text-wrap: balance;
 }
 .sponsor-details {
@@ -370,6 +377,9 @@
    down rather than reflow. Narrow screens only tighten the gutters. */
 @media (max-width: 560px) {
   .sponsor-tier { column-gap: 0.75em; row-gap: 2.5em; }
+  /* Cards are a third of a phone screen here, so affiliations wrap further */
+  .sponsor-affiliation { min-height: 5.8em; }
+  .sponsor-title { padding-top: 0.5em; border-top-width: 2px; }
 }
 </style>
 

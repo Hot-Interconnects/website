@@ -143,25 +143,25 @@ Our objective is to address the data center networking and the supercomputing co
     </tr>
     <!-- Row: affiliations -->
     <tr>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Vice President Marketing at NVIDIA
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Director of Networking at Meta
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:0px; border:none; font-size: 1em;">
+      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
       </td>
     </tr>
     <!-- Row: titles + details link -->
     <tr>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a>
       </td>
-      <td style="width:33.33%; vertical-align:top; text-align:center; padding:5px; border:none; font-size: 1.3em;">
+      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong>The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
       </td>
     </tr>

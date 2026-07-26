@@ -64,3 +64,27 @@
   height: auto;
   margin: 0 auto;
 }
+
+/* Red rule splitting "who is speaking" from "what they are speaking about",
+   matching the lightning-session cards. The border lives on the title row so
+   the three rules line up by construction; the affiliation row above it just
+   supplies the breathing room. Both rules override the theme's table borders,
+   which is why the cells no longer carry an inline `border:none`. */
+.keynote-table .keynote-affiliation {
+  border: none;
+  padding: 0 0 0.8em;
+}
+
+.keynote-table .keynote-title {
+  border: none;
+  border-top: 3px solid #cc0000;
+  padding: 0.7em 5px 5px;
+}
+
+@media (max-width: 700px) {
+  .keynote-table .keynote-affiliation { padding-bottom: 0.5em; }
+  .keynote-table .keynote-title {
+    border-top-width: 2px;
+    padding-top: 0.5em;
+  }
+}
