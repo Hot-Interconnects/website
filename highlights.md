@@ -15,52 +15,98 @@
 
 ## Keynote Speakers
 
-<table class="keynote-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
-  <tbody>
-    <!-- Row: photos -->
-    <tr>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:100%; max-width:250px;">
-      </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado" style="width:100%; max-width:250px;">
-      </td>
-      <td style="width:33.33%; text-align:center; padding:10px; border:none;">
-        <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:100%; max-width:250px;">
-      </td>
-    </tr>
-    <!-- Row: names -->
-    <tr>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Gilad Shainer</td>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Omar Baldonado</td>
-      <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal Riaz</td>
-    </tr>
-    <!-- Row: affiliations -->
-    <tr>
-      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
-        Senior Vice President Marketing at NVIDIA
-      </td>
-      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
-        Senior Director of Networking at Meta
-      </td>
-      <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
-        Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
-      </td>
-    </tr>
-    <!-- Row: titles + details link -->
-    <tr>
-      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
-        <strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a>
-      </td>
-      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
-        <strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a>
-      </td>
-      <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
-        <strong>The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<style>
+/* Keynote speakers — the SAME card + subgrid pattern as the Lightning and
+   Sponsor tiers below, so every speaker gets their OWN red rule (one per
+   column, separated by the column gap) instead of one continuous line across
+   the row. Each card borrows the tier's rows via subgrid, so the affiliation
+   row is as tall as the longest affiliation and all three rules start on the
+   same line. Styling is local to this page (does not rely on main.scss). */
+.keynote-tier {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, auto);   /* image · name · affiliation · title */
+  column-gap: 1.75em;
+  row-gap: 0;
+  max-width: 1020px;
+  margin: 0 auto 3.5em;
+}
+.keynote-card {
+  grid-row: 1 / span 4;
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-template-columns: minmax(0, 1fr);
+  text-align: center;
+  /* Each column is a third of the viewport — narrower on a phone than single
+     title words like "High-Performance" or "Interconnects:" — so hyphenate and
+     break long words to keep them inside the card. */
+  min-width: 0;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+/* Source images are 300x300; shown square at equal size in equal columns. */
+.keynote-card img {
+  width: 100%;
+  max-width: 250px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  margin: 0 auto 0.9em;
+}
+.keynote-name {
+  font-size: 1.3em;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+.keynote-affiliation {
+  font-size: 1em;
+  line-height: 1.45;
+  opacity: 0.75;
+  margin-top: 0.35em;
+  text-wrap: balance;
+}
+/* Red rule splitting "who is speaking" from "what they're speaking about". It
+   lives on the title row, which the subgrid shares across all three cards, so
+   the rules line up by construction. */
+.keynote-title {
+  font-size: 1.3em;
+  line-height: 1.4;
+  margin-top: 0.9em;
+  padding-top: 0.7em;
+  border-top: 3px solid #cc0000;
+  text-wrap: balance;
+}
+@media (max-width: 700px) {
+  .keynote-tier { column-gap: 0.75em; }
+  .keynote-title { padding-top: 0.5em; border-top-width: 2px; }
+}
+</style>
+
+<div class="keynote-tier">
+
+  <div class="keynote-card">
+    <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer">
+    <div class="keynote-name">Gilad Shainer</div>
+    <div class="keynote-affiliation">Senior Vice President Marketing at NVIDIA</div>
+    <div class="keynote-title"><strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a></div>
+  </div>
+
+  <div class="keynote-card">
+    <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado">
+    <div class="keynote-name">Omar Baldonado</div>
+    <div class="keynote-affiliation">Senior Director of Networking at Meta</div>
+    <div class="keynote-title"><strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a></div>
+  </div>
+
+  <div class="keynote-card">
+    <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz">
+    <div class="keynote-name">Bilal Riaz</div>
+    <div class="keynote-affiliation">Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena</div>
+    <div class="keynote-title"><strong>The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a></div>
+  </div>
+
+</div>
 
 
 ## Panel
@@ -81,24 +127,33 @@
 .panelist-tier {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
+  /* Two bands of three, each row: image · role · name · affiliation. A spacer
+     row sets the gap between the bands while row-gap stays 0, so the intra-card
+     rows stay tight and each band aligns its own red rule. */
+  grid-template-rows: repeat(4, auto) 3em repeat(4, auto);
   column-gap: 1.75em;
-  row-gap: 3em;
+  row-gap: 0;
   max-width: 1020px;
   margin: 0 auto 3.5em;
 }
 .panelist-card {
   grid-column: span 2;          /* 6 cols / span 2 => 3 across */
-  display: flex;
-  flex-direction: column;
+  grid-row: 1 / span 4;         /* first band */
+  display: grid;
+  grid-template-rows: subgrid;  /* share the band's rows -> aligned red rule */
+  grid-template-columns: minmax(0, 1fr);
   text-align: center;
   min-width: 0;
   overflow-wrap: break-word;
 }
-/* Center the trailing pair on row 2 */
-.panelist-card.offset-a { grid-column: 2 / span 2; }
-.panelist-card.offset-b { grid-column: 4 / span 2; }
+/* The last three cards form the second band, below the spacer row (line 6). */
+.panelist-card:nth-child(n + 4) { grid-row: 6 / span 4; }
 
+/* Pin each part to a fixed row so the affiliations — and the rule beneath them —
+   line up across the row even though only the moderator card carries a role
+   label. Cards without a role simply leave row 2 empty. */
 .panelist-card img {
+  grid-row: 1;
   width: 100%;
   max-width: 165px;
   aspect-ratio: 1 / 1;
@@ -107,30 +162,43 @@
   display: block;
   margin: 0 auto 0.9em;
 }
+.panelist-role {
+  grid-row: 2;
+  font-size: 0.78em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #cc0000;      /* was: opacity: 0.6; */
+  margin-bottom: 0.3em;
+}
 .panelist-name {
+  grid-row: 3;
   font-size: 1.15em;
   line-height: 1.3;
   text-wrap: balance;
 }
+/* Red rule below every panelist's affiliation, matching the other sections. The
+   affiliation stretches to fill its (shared) row, so its bottom border lands on
+   one line across the row no matter how long each affiliation is; shorter ones
+   just get more space above the rule. */
 .panelist-affiliation {
+  grid-row: 4;
   font-size: 0.9em;
   line-height: 1.45;
   opacity: 0.75;
   margin-top: 0.35em;
+  padding-bottom: 0.9em;
+  border-bottom: 3px solid #cc0000;
   text-wrap: balance;
 }
 
-.panelist-role {
-  font-size: 0.78em;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  opacity: 0.6;
-  margin-bottom: 0.3em;
-}
-
-/* Stays 3-across at every width — cards scale down rather than reflow. */
+/* Cards keep their 3-across layout at every width — only the gutters and the
+   band spacer tighten on narrow screens. */
 @media (max-width: 560px) {
-  .panelist-tier { column-gap: 0.75em; row-gap: 2.5em; }
+  .panelist-tier {
+    column-gap: 0.75em;
+    grid-template-rows: repeat(4, auto) 2em repeat(4, auto);
+  }
+  .panelist-affiliation { padding-bottom: 0.5em; border-bottom-width: 2px; }
 }
 </style>
 
@@ -170,7 +238,7 @@
   <div class="panelist-card">
     <img src="{{ 'assets/img/Ofer_Shapiro_panelist.jpeg' | relative_url }}" alt="Ofer Shapiro">
     <div class="panelist-name">Ofer Shapiro</div>
-    <div class="panelist-affiliation">Investor</div>
+    <div class="panelist-affiliation">CEO and Co-Founder - Resolight</div>
   </div>
 
 </div>
@@ -183,17 +251,24 @@
   margin: 0 auto 2.5em;
   text-align: justify;
 }
+/* Same subgrid trick as the sponsor tier below: every card borrows the grid's
+   five rows (image · name · affiliation · MSA · focus), so the red rule above
+   each MSA lands on one straight line across the row no matter how the
+   affiliations wrap. */
 .lightning-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, auto);
   column-gap: 1.75em;
-  row-gap: 2.5em;
+  row-gap: 0;
   max-width: 1020px;
   margin: 0 auto 3.5em;
 }
 .lightning-card {
-  display: flex;
-  flex-direction: column;
+  grid-row: 1 / span 5;          /* every card occupies the 5 shared rows */
+  display: grid;
+  grid-template-rows: subgrid;   /* -> the red rule sits on one shared line */
+  grid-template-columns: minmax(0, 1fr);
   text-align: center;
   /* Grid items default to min-width:auto and refuse to shrink below their
      longest word, which overflows the grid on narrow screens. Hyphenate long
@@ -242,7 +317,7 @@
    rather than reflow. A quarter of a phone screen is ~80px, so the type has
    to come down with the gutters to keep the longest names on one line. */
 @media (max-width: 700px) {
-  .lightning-grid { column-gap: 0.75em; row-gap: 2em; }
+  .lightning-grid { column-gap: 0.75em; }
   .lightning-name { font-size: 0.85em; }
   .lightning-msa { font-size: 0.78em; padding-top: 0.5em; border-top-width: 2px; }
   .lightning-affiliation,
@@ -305,27 +380,45 @@
 ## Sponsor Talks
 
 <style>
+/* Each tier is a grid; every card is itself a subgrid that borrows the tier's
+   rows (image · name · affiliation · title · details). Because corresponding
+   rows are shared across all cards in a band, the affiliation row is as tall as
+   the LONGEST affiliation in that band, and every title — and therefore every
+   red rule — starts on the same line. A shorter affiliation simply gets more
+   empty space above the rule; the rule itself never rides up or down between
+   cards in the same row. (This replaces the old min-height guess, which broke
+   the moment an affiliation wrapped to one more line than expected.) */
 .sponsor-tier {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(5, auto);
   column-gap: 1.75em;
-  row-gap: 3em;
+  row-gap: 0;
   max-width: 1020px;
   margin: 0 auto 3.5em;
 }
+/* The platinum tier wraps to a second band. A fixed spacer row sets the gap
+   between the two bands, while row-gap stays 0 so the card's internal rows stay
+   tight and each band lines up its own red rule independently. */
+.sponsor-tier:not(.diamond) {
+  grid-template-rows: repeat(5, auto) 3em repeat(5, auto);
+}
 .sponsor-card {
   grid-column: span 2;
-  display: flex;
-  flex-direction: column;
+  grid-row: 1 / span 5;
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-template-columns: minmax(0, 1fr);
   text-align: center;
   /* Grid items default to min-width:auto and refuse to shrink below their
      longest word, which overflows the tier on narrow screens. */
   min-width: 0;
   overflow-wrap: break-word;
 }
-/* Offset the trailing pair by half a card -> chessboard stagger */
-.sponsor-card.offset-a { grid-column: 2 / span 2; }
-.sponsor-card.offset-b { grid-column: 4 / span 2; }
+/* Offset the trailing pair by half a card and drop them below the spacer row
+   (grid line 7) so they form the centered second band -> chessboard stagger. */
+.sponsor-card.offset-a { grid-column: 2 / span 2; grid-row: 7 / span 5; }
+.sponsor-card.offset-b { grid-column: 4 / span 2; grid-row: 7 / span 5; }
 
 .sponsor-card img {
   width: 100%;
@@ -347,11 +440,6 @@
   opacity: 0.75;
   margin-top: 0.35em;
   text-wrap: balance;
-  /* The red rule below only reads as intentional if it lands at the same
-     height across a row, so the affiliation block is floored at two lines —
-     the longest any of them wraps to at full width. (The lightning cards get
-     this for free: their affiliations are all one-word companies.) */
-  min-height: 2.9em;
 }
 .sponsor-title {
   font-size: 1em;
@@ -364,7 +452,6 @@
 }
 .sponsor-details {
   font-size: 0.9em;
-  margin-top: auto;
   padding-top: 0.6em;
 }
 
@@ -373,12 +460,13 @@
 .sponsor-tier.diamond .sponsor-name { font-size: 1.3em; }
 .sponsor-tier.diamond .sponsor-title { font-size: 1.08em; }
 
-/* Stays 3-across at every width (like the keynote table) — cards scale
-   down rather than reflow. Narrow screens only tighten the gutters. */
+/* Cards keep their 3-across / offset layout at every width (like the keynote
+   table) — only the gutters and the band spacer tighten on narrow screens. */
 @media (max-width: 560px) {
-  .sponsor-tier { column-gap: 0.75em; row-gap: 2.5em; }
-  /* Cards are a third of a phone screen here, so affiliations wrap further */
-  .sponsor-affiliation { min-height: 5.8em; }
+  .sponsor-tier { column-gap: 0.75em; }
+  .sponsor-tier:not(.diamond) {
+    grid-template-rows: repeat(5, auto) 2em repeat(5, auto);
+  }
   .sponsor-title { padding-top: 0.5em; border-top-width: 2px; }
 }
 </style>

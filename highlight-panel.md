@@ -13,18 +13,19 @@ Inference is moving in a big way from the Core to the Edge, in the form of Edge 
 <br>
 
 **Moderator:** 
-
 <table style="width: 100%; border-collapse: collapse;">
     <tbody>
         <tr style="vertical-align: top; text-align: left;">
-        <td style="width: 30%; padding: 10px; border: none; text-align: center; font-size: 1.3em;">
+        <td style="position: relative; width: 30%; padding: 10px 10px 32px; border: none; text-align: center; font-size: 1.3em;">
             <img src="{{ '/assets/img/Tim_Crawford.jpg' | relative_url }}" alt="Timothy Crawford" style="width: 150px; height: auto; display: block; margin-left: auto; margin-right: auto;">
             <br>
             <strong>Timothy Crawford</strong><br>
             <small>Managing Director, KeyBanc Capital Markets</small>
+            <div style="position: absolute; left: 10px; right: 10px; bottom: 10px; border-bottom: 4px solid #c00000;"></div>
         </td>
-        <td style="width: 70%; padding: 10px; border: none; text-align: justify;  font-size: 1.2em;">
+        <td style="position: relative; width: 70%; padding: 10px 10px 32px; border: none; text-align: justify;  font-size: 1.2em;">
             Timothy Crawford is Managing Director and Co-Head of the Mosaic group at KeyBanc Capital Markets, where he leads product development, strategy, and industry outreach for emerging technology. Tim joined KeyBanc Capital Markets through its acquisition of Pacific Crest Securities. Prior to joining the firm in 2008, he held a variety of engineering and program management roles over nine years at IBM, and managed global teams in both IBM’s Software and Systems Groups. Tim received an M.B.A. with Distinction from Cornell University's S.C. Johnson Graduate School of Management, an M.B.A. from Queens University in Ontario, Canada, and a B.S. in Electrical Engineering with Honors from the University of Arizona.
+            <div style="position: absolute; left: 10px; right: 10px; bottom: 10px; border-bottom: 4px solid #c00000;"></div>
         </td>
         </tr>
     </tbody>
@@ -82,7 +83,7 @@ Inference is moving in a big way from the Core to the Edge, in the form of Edge 
       <td style="width: 25%; padding: 10px; text-align: center; font-size: 1.3em;">
         <img src="assets/img/Ofer_Shapiro_panelist.jpeg" alt="Ofer Shapiro" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
         <strong>Ofer Shapiro</strong><br>
-        <small>Investor</small>
+        <small>CEO and Co-Founder - Resolight</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
         Ofer is a founder, inventor, investor, mentor and board member in startup companies. Since 2015, he has lead the funding of twelve  companies and worked with entrepreneurs in creating successful companies with breakthrough technologies that has the potential to change the world. As Vidyo co-founder and CEO for ten years and in RADVSION, he was an innovative force at the heart of major architectural transformations in the videoconferencing industry since 1996. He developed both the technologies and go-to-market approach that help shaped this industry. He loves building strategic partnerships and done this successfully with giants such as Google, HP, Nintendo, Philips, Ricoh, Hitachi and many others. He has also raised more than $150M for Vidyo. Technology innovations are often enabled by standards. He was involved in the development of the H.323 specification and the first IP based multi-point control unit architecture and gatekeepers, as well as the use of H.264 Scalable Video Coding (SVC) for video conferencing, and led the development of a new media relay based architecture- the VidyoRouter. He is named inventor 80 patents including patents relating to H.264, H265 V2 and VP8 payload format. Ofer was named a World Economic Forum Technology Pioneer, and received the Wall Street Journal Innovation award for economic disruption that transformed the industry, in the category of Internet, Networking and Broadband.

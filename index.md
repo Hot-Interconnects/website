@@ -118,12 +118,12 @@ IEEE Hot Interconnects is the premier international forum for researchers and de
 
 Our objective is to address the data center networking and the supercomputing communities. We hope you can join us and benefit not only by the content but also by the prime networking opportunities this event always offers.
 
-
+<!-- 
 ## Keynotes
 
 <table class="keynote-table" style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tbody>
-    <!-- Row: photos -->
+    
     <tr>
       <td style="width:33.33%; text-align:center; padding:10px; border:none;">
         <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer" style="width:100%; max-width:250px;">
@@ -135,13 +135,13 @@ Our objective is to address the data center networking and the supercomputing co
         <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz" style="width:100%; max-width:250px;">
       </td>
     </tr>
-    <!-- Row: names -->
+   
     <tr>
       <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Gilad Shainer</td>
       <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Omar Baldonado</td>
       <td style="width:33.33%; text-align:center; padding:0px; border:none; font-size: 1.3em;">Bilal Riaz</td>
     </tr>
-    <!-- Row: affiliations -->
+   
     <tr>
       <td class="keynote-affiliation" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1em;">
         Senior Vice President Marketing at NVIDIA
@@ -153,7 +153,7 @@ Our objective is to address the data center networking and the supercomputing co
         Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena
       </td>
     </tr>
-    <!-- Row: titles + details link -->
+   
     <tr>
       <td class="keynote-title" style="width:33.33%; vertical-align:top; text-align:center; font-size: 1.3em;">
         <strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a>
@@ -166,8 +166,104 @@ Our objective is to address the data center networking and the supercomputing co
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
+
+
+## Keynote Speakers
+
+<style>
+/* Keynote speakers — the SAME card + subgrid pattern as the Lightning and
+   Sponsor tiers below, so every speaker gets their OWN red rule (one per
+   column, separated by the column gap) instead of one continuous line across
+   the row. Each card borrows the tier's rows via subgrid, so the affiliation
+   row is as tall as the longest affiliation and all three rules start on the
+   same line. Styling is local to this page (does not rely on main.scss). */
+.keynote-tier {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, auto);   /* image · name · affiliation · title */
+  column-gap: 1.75em;
+  row-gap: 0;
+  max-width: 1020px;
+  margin: 0 auto 3.5em;
+}
+.keynote-card {
+  grid-row: 1 / span 4;
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-template-columns: minmax(0, 1fr);
+  text-align: center;
+  /* Each column is a third of the viewport — narrower on a phone than single
+     title words like "High-Performance" or "Interconnects:" — so hyphenate and
+     break long words to keep them inside the card. */
+  min-width: 0;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+/* Source images are 300x300; shown square at equal size in equal columns. */
+.keynote-card img {
+  width: 100%;
+  max-width: 250px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  margin: 0 auto 0.9em;
+}
+.keynote-name {
+  font-size: 1.3em;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+.keynote-affiliation {
+  font-size: 1em;
+  line-height: 1.45;
+  opacity: 0.75;
+  margin-top: 0.35em;
+  text-wrap: balance;
+}
+/* Red rule splitting "who is speaking" from "what they're speaking about". It
+   lives on the title row, which the subgrid shares across all three cards, so
+   the rules line up by construction. */
+.keynote-title {
+  font-size: 1.3em;
+  line-height: 1.4;
+  margin-top: 0.9em;
+  padding-top: 0.7em;
+  border-top: 3px solid #cc0000;
+  text-wrap: balance;
+}
+@media (max-width: 700px) {
+  .keynote-tier { column-gap: 0.75em; }
+  .keynote-title { padding-top: 0.5em; border-top-width: 2px; }
+}
+</style>
+
+<div class="keynote-tier">
+
+  <div class="keynote-card">
+    <img src="{{ '/assets/img/GiladShainer.png' | relative_url }}" alt="Gilad Shainer">
+    <div class="keynote-name">Gilad Shainer</div>
+    <div class="keynote-affiliation">Senior Vice President Marketing at NVIDIA</div>
+    <div class="keynote-title"><strong> Networking Innovations for Gigascale AI Systems</strong> <br> <a href="keynotes-gilad.html">[details]</a></div>
+  </div>
+
+  <div class="keynote-card">
+    <img src="{{ '/assets/img/Omar_Headshot.jpg' | relative_url }}" alt="Omar Baldonado">
+    <div class="keynote-name">Omar Baldonado</div>
+    <div class="keynote-affiliation">Senior Director of Networking at Meta</div>
+    <div class="keynote-title"><strong>Lessons from networking Meta's gigawatt-scale AI fleet</strong> <br> <a href="keynotes-omar.html">[details]</a></div>
+  </div>
+
+  <div class="keynote-card">
+    <img src="{{ '/assets/img/riaz_bilal_ciena_headshot_1.jpg' | relative_url }}" alt="Bilal Riaz">
+    <div class="keynote-name">Bilal Riaz</div>
+    <div class="keynote-affiliation">Senior Director of Product Line Management and Head of Interconnect Strategy, Ciena</div>
+    <div class="keynote-title"><strong>The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure</strong> <br> <a href="keynotes-Bilal.html">[details]</a></div>
+  </div>
+
+</div>
 
 
 ## Panel
