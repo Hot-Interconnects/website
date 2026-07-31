@@ -230,7 +230,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">15:30 - 15:40</td>
 <td markdown="span">**HotI Awards**</td>
-<td markdown="span">Ryan Grant<br>**Session chairs:** Ryan Grant / Yiltan</td>
+<td markdown="span">Ryan Grant<br>**Session chairs:** Ryan Grant and Yiltan</td>
 </tr>
 <tr>
 <td markdown="span">15:40 - 15:55</td>
