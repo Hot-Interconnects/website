@@ -1,0 +1,86 @@
+Color code,,,,,,,,,
+Confirmed,,,,,,,,,
+Tentative,,,,,,,,,
+,,,,,,,,,
+Begin Time,End Time,Length,Topic,Session chair,Speaker(s),Bio Received,Online Chair Activity (Matthew) - MT,Online Chair Activity (Subhadeep) - PT,Online Chair Activity (Ryan) - PT
+(All times in PST),,,,,,,,,
+,,,,,,,,,
+"Day 1: Wednesday, August 19",,,,,,,,,
+8:30,9:00,,,,,,Hosting,,Hosting
+9:00,9:15,0:15,Introduction & Day 1 welcome,Sayan Ghosh,Sayan Ghosh,,Hosting,,Hosting
+,,,,,,,Hosting,,Hosting
+9:15,10:15,1:00,Keynote 1: Lessons from networking Meta's gigawatt-scale AI fleet,Dan Pitt,Omar Baldonado,,Hosting,,Hosting
+,,,,,,,Hosting,,Hosting
+10:15,10:30,0:15,Diamond sponsor: Lightmatter,Sayan Ghosh,Nick Harris,,Hosting,,Hosting
+,,,,,,,Hosting,,Hosting
+10:30,10:40,0:10,Break,,,,Hosting,,Hosting
+,,,,,,,Hosting,,Hosting
+10:40,11:40,1:00,Technical Paper Session A: Network Design at Scale,Kapil Shrikhande,,,Hosting,,Hosting
+,,0:30,Extreme-Scale Interconnection Networks,,,,Hosting,,Hosting
+,,0:30,Scaling Inference Prefill with High-Radix Photonic Interconnect,,,,Hosting,,Hosting
+,,,,,,,Hosting,,Hosting
+11:40,11:50,0:10,Platinum sponsor: Broadcom,Kapil Shrikhande,Mohan Kalkunte,,Hosting,,Hosting
+11:50,12:00,0:10,Platinum sponsor: Cisco,Kapil Shrikhande,Will Eatherton,,Hosting,,Hosting
+12:00,12:10,0:10,Platinum sponsor: Meta,Kapil Shrikhande,Kirtesh Patil,,Hosting,,Hosting
+,,,,,,,Hosting,,Hosting
+12:10,13:00,0:50,Lunch,,,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+13:00,14:00,1:00,Technical Paper Session B: Hot Topic Presentations,Darius Bunandar,,,Hosting,Hosting,
+,,0:15,Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform,,,,Hosting,Hosting,
+,,0:15,Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale,,,,Hosting,Hosting,
+,,0:15,The Multipath Reliable Connection (MRC) Transport,,,,Hosting,Hosting,
+,,0:15,Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry,,,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+14:00,15:30,1:30,"Panel: Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now?",Dan Pitt and Timothy Crawford,,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+15:30,15:45,0:15,The Head Bubba Memorial and HotI Closing Remarks Day 1,Dan Pitt,Dan Pitt,,Hosting,Hosting,
+,,,,,,,,,
+"Day 2: Thursday, August 20",,,,,,,,,
+Begin Time,End Time,Length,Topic,,,,,,
+8:50,9:00,0:10,Day 2 Welcome,Sayan Ghosh,Sayan Ghosh,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+9:00,10:00,1:00,Keynote 2: Networking Innovations for Gigascale AI Systems,Ron Brightwell,Gilad Shainer,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+10:00,10:15,0:15,Diamond sponsor: Marvell,Ron Brightwell,Ravi Mahatme,,Hosting,Hosting,
+10:15,10:30,0:15,Diamond sponsor: Napatech,Ron Brightwell,Alex Omø Agerholm,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+10:30,10:40,0:10,Break,,,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+10:40,11:40,1:00,MSA Lightning Talk Session,Dan Pitt,,,Hosting,Hosting,
+,,0:10,OCI,,Drew Alduino,,Hosting,Hosting,
+,,0:10,Open CPX,,Ryan Yu,,Hosting,Hosting,
+,,0:10,SDM4 MCF,,Duane Robbins,,Hosting,Hosting,
+,,0:10,XPO,,Sunil Priyadarshi,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+11:40,11:50,0:10,Platinum sponsor: Qualcomm,Dan Pitt,Dave Kulansky,,Hosting,Hosting,
+11:50,12:00,0:10,Platinum sponsor: Eliyan,Dan Pitt,Rohan Gandhi,,Hosting,Hosting,
+,,,,,,,Hosting,Hosting,
+12:00,13:00,1:00:00,Lunch,,,,,Hosting,Hosting
+,,,,,,,,Hosting,Hosting
+13:00,14:00,1:00,Keynote 3: The Future of AI Interconnects: Open Approaches to High‑Performance AI Infrastructure,Pasha Shamis?,Bilal Riaz,,,Hosting,Hosting
+,,,,,,,,Hosting,Hosting
+14:00,15:30,1:30,Technical Paper Session C: Distributed AI Communication,Shelby Lockhart,,,,Hosting,Hosting
+,,0:30,Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory,,,,,Hosting,Hosting
+,,0:30,From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA,,,,,Hosting,Hosting
+,,0:30,Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication,,,,,Hosting,Hosting
+,,,,,,,,Hosting,Hosting
+15:30,15:40,0:10,HotI Awards,Ryan Grant/Yiltan,Ryan Grant,,,Hosting,Hosting
+15:40,15:55,0:15,HotI Closing Remarks,David Ozog,David Ozog,,,Hosting,Hosting
+,,,,,,,,,
+"Day 3: Friday, August 21 - Track 1",,,,,,,Hosting,,
+Begin Time,End Time,Length,Topic,,,,Hosting,,
+9:00,12:15,3:15,GPU Communication Libraries for Accelerating HPC and AI Applications,,,,Hosting,,
+12:15,13:30,1:15,Break,,,,Hosting,,
+13:30,16:30,3:00,Principles and Practice of Scalable and Distributed AI Training and Inference,,,,Hosting,,
+,,,,,,,,,
+"Day 3: Friday, August 21 - Track 2",,,,,,,,,Hosting
+Begin Time,End Time,Length,Topic,,,,,,Hosting
+8:00,11:00,3:00,Open Interconnect Innovations: A Deep Dive into the UALink Chiplet Specification Tutorial presented by UALink and UCIe Consortia,Shannon Kinkead,,,,,Hosting
+11:00,11:30,0:30,Break,,,,,,Hosting
+11:30,15:15,3:45,A Practical Guide to Communicaiton Libraries on AMD GPUs,,,,,,Hosting
+,,,,,,,,,
+"Day 3: Friday, August 21 - Track 3",,,,,,,,Hosting,
+Begin Time,End Time,Length,Topic,Amanda Bienz,,,,Hosting,
+9:00,12:00,3:00,High Performance and Smart Networking Technologies for HPC and AI,,,,,Hosting,
+12:00,12:30,0:30,Break,,,,,Hosting,
+12:30,17:00,4:30,Understanding Communication Performance on Emerging Heterogeneous Architectures,,,,,Hosting,

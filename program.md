@@ -2,42 +2,23 @@
 # title: Program
 ---
 
-# Program
+<!-- # Program -->
 
- 
-
-<!-- <br>
-
-<table >
-  <tr>
-    <td style="width: 40%; padding: 10px; border: 1px solid #ddd;">
-    <img src="assets/img/join-slack.png" alt="Announcement" style="width: 100%; display: block;">
-    </td>
-    <td style="width: 60%; padding: 10px; border: 1px solid #ddd;">
-    NOTE: Q&A's are handled in Slack, the link is provided in the Zoom Lobby!
-    </td>
-  </tr>
-</table> -->
-<br>
-
-<div style="text-align: center; font-size: 30px">
-    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+<div style="text-align: center; font-size: 32px">
+  <strong>Hot Interconnects 2026 Program</strong>
 </div>
 
 <br>
 
-The times in the program below are Pacific Time (PT).
+All times below are Pacific Time (PT). The program is subject to change.
 
-
-
-## Conference Day 1: Wednesday, August 20
+## Conference Day 1: Wednesday, August 19
 
 <table>
 <colgroup>
-<col width="10%" />
-<col width="45%" />
-<col width="45%" />
+<col width="14%" />
+<col width="56%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -47,187 +28,106 @@ The times in the program below are Pacific Time (PT).
 </tr>
 </thead>
 <tbody>
-
 <tr>
-<td markdown="span">09:20</td>
-<td markdown="span">**Introduction and Day 1 Welcome**
-    <a href="{{ '/assets/slides/2025_08_20_Welcome_day1_Artem.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    
-</td>
-<td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
+<td markdown="span">09:00 - 09:15</td>
+<td markdown="span">**Introduction &amp; Day 1 Welcome**</td>
+<td markdown="span">Sayan Ghosh<br>**Session chair:** Sayan Ghosh</td>
 </tr>
-
 <tr>
-<td markdown="span">09:30 - 10:30</td>
-<td markdown="span">**Keynote 1**: Now in Focus: the Fifth, GenAI Epoch of Computing Infrastructure
-<br>
-<a href="keynotes-amin.html">[details]</a>
-<br>
-<br>
-**Session chair**: Artem Polyakov (NVIDIA)
-</td>
-<td markdown="span"> Amin Vahdat (Google)
-<br>
-</td>
+<td markdown="span">09:15 - 10:15</td>
+<td markdown="span">**Keynote 1:** Lessons from networking Meta's gigawatt-scale AI fleet<br><a href="keynotes-omar.html">[details]</a></td>
+<td markdown="span">Omar Baldonado<br>**Session chair:** Dan Pitt</td>
 </tr>
-
-<!-- icon-pdf image source: https://www.veryicon.com/icons/file-type/file-type-1/pdf-icon.html, with license Free for personal and commercial purpose -->
 <tr>
-<td markdown="span">10:30 - 10:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Lightmatter <br> Transforming AI Infrastructure with the Power of 3D Photonics 
-    <a href="sponsortalk-lightmatter.html">[details]</a>
-    <a href="{{ '/assets/slides/2025_08_20_day1_Morning_Lightmatter_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span">Nick Harris (Lightmatter)</td>
+<td markdown="span">10:15 - 10:30</td>
+<td markdown="span">**Diamond Sponsor Talk:** Lightmatter<br><a href="sponsortalk-lightmatter.html">[details]</a></td>
+<td markdown="span">Nick Harris<br>**Session chair:** Sayan Ghosh</td>
 </tr>
-
 <tr>
-  <td markdown="span">10:45 - 11:00</td>
-  <td markdown="span">
-    **Diamond Sponsor Talk:** Cornelis Networks <br> Reimagining the Scale-Out Architecture for HPC and AI 
-    <a href="sponsortalk-cornelis.html">[details]</a>
-    <a href="{{ '/assets/slides/2025_08_20_day1-Morning_Cornelis_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-  </td>
-  <td markdown="span">Matt Williams (Cornelis Networks)</td>
+<td markdown="span">10:30 - 10:40</td>
+<td markdown="span">*Break*</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">11:00 - 12:00</td>
-<td markdown="span">**Technical Paper Session A**: <br>Network Synchronization and Routing</td>
-<td markdown="span">**Session chair**: Atiqul Mollah (Cornelis Networks)</td>
+<td markdown="span">10:40 - 11:40</td>
+<td markdown="span">**Technical Paper Session A:** Network Design at Scale</td>
+<td markdown="span">**Session chair:** Kapil Shrikhande</td>
 </tr>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">bittide: Control Time, Not Flows 
-    <a href="{{ '/assets/slides/2025_08_20_day1_SessionA_bittide_control_time_not_flows_Martijn_Bastiaan.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244764/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2503.05033" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> <strong>Martijn Bastiaan</strong>, Christiaan Baaij (QBayLogic), Martin Izzard (Google DeepMind), Felix Klein (QBayLogic), Sanjay Lall (Google DeepMind, Stanford University) and Tammo Spalink (Stanford University) </td>
+<td markdown="span">Extreme-Scale Interconnection Networks</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Deadlock-free routing for Full-mesh networks without using Virtual Channels
-    <a href="{{ '/assets/slides/2025_08_20_day1_SessionA_Deadlock-free_routing.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244771/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2510.14730" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <br>
-    <span style="color: #D4AF37; font-weight: bold;">🏆 Best Academic Paper Award</span>
-</td>
-<td markdown="span"><strong>Alejandro Cano Cos</strong>, Cristóbal Camarero, Carmen Martinez (Universidad de Cantabria) and Ramon Beivide (Universidad de Cantabria, Barcelona Supercomputing Center) </td>
+<td markdown="span">Scaling Inference Prefill with High-Radix Photonic Interconnect</td>
+<td markdown="span"></td>
 </tr>
-
-
 <tr>
-<td markdown="span">12:00 - 12:30</td>
+<td markdown="span">11:40 - 11:50</td>
+<td markdown="span">**Platinum Sponsor Talk:** Broadcom<br><a href="sponsortalk-broadcom.html">[details]</a></td>
+<td markdown="span">Mohan Kalkunte<br>**Session chair:** Kapil Shrikhande</td>
+</tr>
+<tr>
+<td markdown="span">11:50 - 12:00</td>
+<td markdown="span">**Platinum Sponsor Talk:** Cisco<br><a href="sponsortalk-cisco.html">[details]</a></td>
+<td markdown="span">Will Eatherton<br>**Session chair:** Kapil Shrikhande</td>
+</tr>
+<tr>
+<td markdown="span">12:00 - 12:10</td>
+<td markdown="span">**Platinum Sponsor Talk:** Meta<br><a href="sponsortalk-meta.html">[details]</a></td>
+<td markdown="span">Kirtesh Patil<br>**Session chair:** Kapil Shrikhande</td>
+</tr>
+<tr>
+<td markdown="span">12:10 - 13:00</td>
 <td markdown="span">*Lunch*</td>
 <td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">12:30</td>
-<td markdown="span">**Technical Paper Session B**: Co-packaged Optics</td>
-<td markdown="span">**Session chair**: Hossein Hashemi (University of Southern California, Astera Labs)</td>
+<td markdown="span">13:00 - 14:00</td>
+<td markdown="span">**Technical Paper Session B:** Hot Topic Presentations</td>
+<td markdown="span">**Session chair:** Darius Bunandar</td>
 </tr>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Accelerating Frontier MoE Training with 3D Integrated Optics 
-    <a href="{{ '/assets/slides/2025_08_20_day1_SessionB_Accelerating_Frontier_MoE_Training_with_3D_Integrated_Optics.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244753/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2510.15893" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <br>
-    <span style="color: #D4AF37; font-weight: bold;">🏆 Best Industry Paper Award</span>
-</td>
-<td markdown="span"> <strong>Taylor Groves</strong>, Mikhail Bernadskiy, Ho John Lee, Peter Carson, Thomas Graham and Eric Yeh (Lightmatter)</td>
+<td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Silicon Photonic Accelerated Memory Pooling for Efficient Compute Resource Allocation 
-    <a href="{{ '/assets/slides/2025_08_20_day1_SessionB_Wu_SiPAM_HOTI2025_Zhenguo_Wu.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244774/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> <strong>Zhenguo Wu</strong> and Keren Bergman (Columbia University)</td>
+<td markdown="span">Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">13:30-13:45</td>
-<td markdown="span">**Diamond Sponsor Talk:** Cisco <br> Managing the fabrics underpinning AI infrastructure 
-    <a href="sponsortalk-cisco.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_20_day1_Afternoon_Cisco_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> Will Eatherton (Cisco)</td>
+<td markdown="span"></td>
+<td markdown="span">The Multipath Reliable Connection (MRC) Transport</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">13:45-14:00</td>
-<td markdown="span">**Diamond Sponsor Talk:** Nubis <br> Overcoming Operational Barriers to AI Scale-Up with Co-Packaged Optics Integration 
-    <a href="sponsortalk-nubis.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_20_day1_Nubis_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> Peter Winzer (Nubis)</td>
+<td markdown="span"></td>
+<td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
 <td markdown="span">14:00 - 15:30</td>
-<td markdown="span">**Panel** -- LLM Token Economy: How is networking going to play in the age of agents?
-<a href="highlight-panel.html">[details]</a> <br>
-**Session chair**: Alan Benjamin (GigaIO)
-</td>
-<td markdown="span">
-**Moderator**: Peter Olcott (First Spark Ventures) <br>
-**Panelists**: Phil Brown (Meta), Davor Capalija (Tenstorrent Inc.), Ethan Lockshin (Groq), Sid Sheth (d-Matrix)
-</td>
+<td markdown="span">**Panel:** Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now?<br><a href="highlight-panel.html">[details]</a></td>
+<td markdown="span">**Session chairs:** Dan Pitt and Timothy Crawford</td>
 </tr>
-
 <tr>
-<td markdown="span">15:30</td>
-<td markdown="span">**The Head Bubba Memorial & HotI Closing Remarks Day 1**</td>
-<td markdown="span"> Dan Pitt (Palo Alto Innovation Advisors) </td>
+<td markdown="span">15:30 - 15:45</td>
+<td markdown="span">**The Head Bubba Memorial and HotI Closing Remarks Day 1**</td>
+<td markdown="span">Dan Pitt<br>**Session chair:** Dan Pitt</td>
 </tr>
-
 </tbody>
 </table>
 
-## Conference Day 2: Thursday, August 21
+## Conference Day 2: Thursday, August 20
 
 <table>
 <colgroup>
-<col width="10%" />
-<col width="45%" />
-<col width="45%" />
+<col width="14%" />
+<col width="56%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -237,304 +137,118 @@ The times in the program below are Pacific Time (PT).
 </tr>
 </thead>
 <tbody>
-
 <tr>
-<td markdown="span">08:50</td>
-<td markdown="span">**Day 2 Welcome**
-    <a href="{{ '/assets/slides/2025_08_21_Welcome_day2_Artem.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span">General Chair: Artem Polyakov (NVIDIA)</td>
+<td markdown="span">08:50 - 09:00</td>
+<td markdown="span">**Day 2 Welcome**</td>
+<td markdown="span">Sayan Ghosh<br>**Session chair:** Sayan Ghosh</td>
 </tr>
-
 <tr>
 <td markdown="span">09:00 - 10:00</td>
-<td markdown="span">**Keynote 2**: Evolving inter-connect fabric and SDN in the cloud to meet the needs of AI
-<br>
-<a href="keynotes-deepak.html">[details]</a>
-<a href="{{ '/assets/slides/2025_08_21_day2-Morning_Keynote_Microsoft_Deepak_Bansal.pdf' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</a>
-<br>
-<br>
-**Session chair**: Dan Pitt (Palo Alto Innovation Advisors)
-</td>
-<td markdown="span"> Deepak Bansal (Microsoft)
-<br>
-</td>
+<td markdown="span">**Keynote 2:** Networking Innovations for Gigascale AI Systems<br><a href="keynotes-gilad.html">[details]</a></td>
+<td markdown="span">Gilad Shainer<br>**Session chair:** Ron Brightwell</td>
 </tr>
-
 <tr>
 <td markdown="span">10:00 - 10:15</td>
-<td markdown="span">**Diamond Sponsor Talk:** Avicena <br>Paradigm Shift in AI Scale Up Clusters using microLED based Interconnects 
-    <a href="sponsortalk-avicena.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_21_day2-Morning_Avicena_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span"> Chris Pfistner (Avicena) </td>
+<td markdown="span">**Diamond Sponsor Talk:** Marvell<br><a href="sponsortalk-marvell.html">[details]</a></td>
+<td markdown="span">Ravi Mahatme<br>**Session chair:** Ron Brightwell</td>
 </tr>
-
 <tr>
-<td markdown="span">10:15 - 10:25</td>
-<td markdown="span">**Platinum Sponsor Talk:** Arista <br> Multiple Pathways to Energy Efficient Optics <a href="sponsortalk-arista.html">[details]</a> </td>
-<td markdown="span"> Andreas Bechtolsheim (Arista Networks) </td>
+<td markdown="span">10:15 - 10:30</td>
+<td markdown="span">**Diamond Sponsor Talk:** Napatech<br><a href="sponsortalk-napatech.html">[details]</a></td>
+<td markdown="span">Alex Omø Agerholm<br>**Session chair:** Ron Brightwell</td>
 </tr>
-
 <tr>
-<td markdown="span">10:25 - 10:30</td>
-<td markdown="span">**Gold Sponsor Talk:** GigaIO <br> GigaIO: Empowering Every Accelerator to Lead the AI Inference Revolution 
-    <a href="sponsortalk-gigaio.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_21_day2-Morning_GigaIO_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span"> Alan Benjamin (GigaIO) </td>
-</tr>
-
-<tr>
-<td markdown="span">10:30 - 12:00</td>
-<td markdown="span">**Technical Paper Session C**: <br>Interconnect Software -- Runtimes & Workloads</td>
-<td markdown="span">**Session chair**: Galen Shipman (Los Alamos National Laboratory)</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms
-    <a href="{{ '/assets/slides/2025_08_21_day2_SessionC_demystifying_nccl_hoti_presentation.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244782/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2507.04786" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"><strong>Zhiyi Hu</strong>, Siyuan Shen, Tommaso Bonato (ETH Zurich), Sylvain Jeaugey (NVIDIA), Cedell Alexander, Eric Spada (Broadcom), James Dinan, Jeff Hammond (NVIDIA) and Torsten Hoefler (ETH Zurich)</td>
-</tr>
-
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Characterizing Communication Patterns in Distributed LLM Inference
-    <a href="{{ '/assets/slides/2025_08_21_day2_SessionC_Inference-hoti25.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244786/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2507.14392" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> <strong>Lang Xu</strong>, Kaushik Kandadi Suresh, Quentin Anthony, Nawras Alnaasan and Dhabaleswar K Panda (The Ohio State University)</td>
-</tr>
-
-<tr>
-<td markdown="span"></td>
-<td markdown="span">FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network
-    <a href="https://ieeexplore.ieee.org/document/11244766/" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244766/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2405.16378" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> Timo Schneider, <strong>Pengcheng Xu</strong> and Torsten Hoefler (ETH Zurich)</td>
-</tr>
-
-<tr>
-<td markdown="span">12:00 - 12:30</td>
-<td markdown="span">*Lunch*</td>
+<td markdown="span">10:30 - 10:40</td>
+<td markdown="span">*Break*</td>
 <td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span"> </td>
-<td markdown="span">**Invited Talk Session:** Next Gen Interconnects</td>
-<td markdown="span">**Session chair**: Taylor Groves (Lightmatter)</td>
+<td markdown="span">10:40 - 11:40</td>
+<td markdown="span">**MSA Lightning Talk Session**<br><a href="highlights.html#lightning-session">[details]</a></td>
+<td markdown="span">**Session chair:** Dan Pitt</td>
 </tr>
-
-<tr>
-<td markdown="span">12:30 - 13:00</td>
-<td markdown="span">Ultra Ethernet for next-generation AI and HPC workloads <br> 
-    <a href="invitedtalk-torsten.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_21_day2_Invited_talk_Ultra_Ethernet.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span">Torsten Hoefler (ETH Zurich)</td>
-</tr>
-
-<tr>
-<td markdown="span">13:00 - 13:30</td>
-<td markdown="span">Building Custom AI Infrastructure with NVLink Fusion <br> 
-    <a href="invitedtalk-krishnan.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_21_day2_Invited_talk_NVIDIA_NVLink_Fusion.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span">Krishnan Geeyarpuram (NVIDIA)</td>
-</tr>
-
-<tr>
-<td markdown="span">13:30 - 13:40</td>
-<td markdown="span">**Platinum Sponsor Talk:** UALink <br> Why UALink: A Protocol-Level Comparison for Rack-Scale AI 
-<a href="sponsortalk-ualink.html">[details]</a> 
-<a href="{{ '/assets/slides/2025_08_21_day2_Afternoon_UALink_sponsor_talk.pdf' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</a>
-</td>
-<td markdown="span"> Sharada Yeluri (Astera Labs)</td>
-</tr>
-
-<tr>
-<td markdown="span">13:40 - 13:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Celestial AI <br> Photonic Fabric: Optical Scale-Up Networks for Accelerated Computing 
-    <a href="sponsortalk-celestalai.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_21_day2_Afternoon_CelestialAI_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> Ravi Mahatme (Celestial AI) </td>
-</tr>
-
-<tr>
-<td markdown="span">13:50 - 14:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Meta <br>AI Infra at Meta 
-    <a href="sponsortalk-meta.html">[details]</a> 
-    <a href="{{ '/assets/slides/2025_08_21_day2_Afternoon_Meta_sponsor_talk.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span"> Wesley Bland (Meta)</td>
-</tr>
-
-<tr>
-<td markdown="span">14:00 - 15:00</td>
-<td markdown="span">**Technical Paper Session D**: Scale-up Interconnects</td>
-<td markdown="span">**Session chair**: Letizia Giuliano (Alphawave Semi)</td>
-</tr>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Micro-LED data interconnect for scale-up networks with record energy efficiency
-    <a href="{{ '/assets/slides/Avicena_HotI_presentation_Aug_2025.pdf' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    <a href="https://ieeexplore.ieee.org/document/11244769/" target="_blank">
-            <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-        </a>
-</td>
-<td markdown="span"><strong>Bardia Pezeshki</strong>, Alex Tselikov, Rob Kalman, Suresh Rangarajan, Ivan Huang, Jeff Pepper, Sarah Zou, Howard Rourke and Alasdair Fikouras (AvicenaTech Corp)</td>
+<td markdown="span">OCI</td>
+<td markdown="span">Drew Alduino</td>
 </tr>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">On-Package Memory with Universal Chiplet Interconnect Express (UCIe): A Low Power, High Bandwidth, Low Latency and Low Cost Approach
-    <a href="{{ '/assets/slides/2025_08_21_day2_SessionD_UCIe_Mem.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-    <a href="https://ieeexplore.ieee.org/document/11244781/" target="_blank">
-        <img src="{{ '/assets/img/ieee_logo.png' | relative_url }}" alt="Download PDF1" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a><a href="https://arxiv.org/abs/2510.06513" target="_blank">
-        <img src="{{ '/assets/img/arxiv-logo2.png' | relative_url }}" alt="Download PDF2" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"><strong>Debendra Das Sharma</strong>, Swadesh Choudhary, Peter Onufryk (Intel) and Robert Pelt (AMD) </td>
+<td markdown="span">Open CPX</td>
+<td markdown="span"><a href="https://www.linkedin.com/in/rangchenyu/" target="_blank" rel="noopener noreferrer">Ryan Yu</a></td>
 </tr>
-
-
-<tr>
-<td markdown="span">15:00</td>
-<td markdown="span">**HotI Awards**
-    <a href="{{ '/assets/slides/2025_08_21_Awards.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span"> Yiltan Temucin (AMD) and Ryan Grant (Queen's University)</td>
-</tr>
-
-<tr>
-<td markdown="span">15:10</td>
-<td markdown="span">**HotI Closing Remarks**
-    <a href="{{ '/assets/slides/2025_08_21_ClosingRemarks.pdf' | relative_url }}" target="_blank">
-        <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-    </a>
-</td>
-<td markdown="span">Vice Chair: Sayan Ghosh (Pacific Northwest National Laboratory)</td>
-</tr>
-
-</tbody>
-</table>
-
-## Tutorial: <br> Conference Day 3: Friday, August 22
-### Track 1
-<table>
-<colgroup>
-<col width="10%" />
-<col width="45%" />
-<col width="45%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Time</th>
-<th>Title</th>
-<th>Presenters</th>
-</tr>
-</thead>
-<tbody>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">**Morning Sessions**</td>
-<td markdown="span">**Session chair**: Mike Adams (University of New Mexico)</td>
+<td markdown="span">SDM4 MCF</td>
+<td markdown="span"><a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank" rel="noopener noreferrer">Duane Robbins</a></td>
 </tr>
-
 <tr>
-<td markdown="span">08:30 - 12:00</td>
-<td markdown="span">Principles and Practice of Scalable and Distributed Deep Neural Networks Training and Inference
-<br>
-<a href="/tutorials-dl-training.html">[details]</a>
-<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_Track1_DL.pdf' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University) 
-<br>
-</td>
+<td markdown="span"></td>
+<td markdown="span">XPO</td>
+<td markdown="span"><a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank" rel="noopener noreferrer">Sunil Priyadarshi</a></td>
 </tr>
-
+<tr>
+<td markdown="span">11:40 - 11:50</td>
+<td markdown="span">**Platinum Sponsor Talk:** Qualcomm<br><a href="sponsortalk-qualcomm.html">[details]</a></td>
+<td markdown="span">Dave Kulansky<br>**Session chair:** Dan Pitt</td>
+</tr>
+<tr>
+<td markdown="span">11:50 - 12:00</td>
+<td markdown="span">**Platinum Sponsor Talk:** Eliyan<br><a href="sponsortalk-eliyan.html">[details]</a></td>
+<td markdown="span">Rohan Gandhi<br>**Session chair:** Dan Pitt</td>
+</tr>
 <tr>
 <td markdown="span">12:00 - 13:00</td>
 <td markdown="span">*Lunch*</td>
 <td markdown="span"></td>
 </tr>
-
-
+<tr>
+<td markdown="span">13:00 - 14:00</td>
+<td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a></td>
+<td markdown="span">Bilal Riaz<br>**Session chair:** Pasha Shamis?</td>
+</tr>
+<tr>
+<td markdown="span">14:00 - 15:30</td>
+<td markdown="span">**Technical Paper Session C:** Distributed AI Communication</td>
+<td markdown="span">**Session chair:** Shelby Lockhart</td>
+</tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">**Afternoon Session**</td>
-<td markdown="span">**Session chair**: Nicole Avans (Tennessee Technological University)</td>
+<td markdown="span">Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">13:00 - 16:30</td>
-<td markdown="span">High-Performance and Smart Networking Technologies for HPC and AI
-<br>
-<a href="/tutorials-smart-network.html">[details]</a>
-<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_Track1_HPNetworks.pdf' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University) 
-<br>
-</td>
+<td markdown="span"></td>
+<td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA</td>
+<td markdown="span"></td>
 </tr>
-
+<tr>
+<td markdown="span"></td>
+<td markdown="span">Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">15:30 - 15:40</td>
+<td markdown="span">**HotI Awards**</td>
+<td markdown="span">Ryan Grant<br>**Session chairs:** Ryan Grant / Yiltan</td>
+</tr>
+<tr>
+<td markdown="span">15:40 - 15:55</td>
+<td markdown="span">**HotI Closing Remarks**</td>
+<td markdown="span">David Ozog<br>**Session chair:** David Ozog</td>
+</tr>
 </tbody>
 </table>
 
-### Track 2
+## Conference Day 3: Friday, August 21
+
+### Track 1
+
 <table>
 <colgroup>
-<col width="10%" />
-<col width="45%" />
-<col width="45%" />
+<col width="14%" />
+<col width="56%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -544,47 +258,118 @@ The times in the program below are Pacific Time (PT).
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td markdown="span"></td>
-<td markdown="span">**Morning Sessions A**</td>
-<td markdown="span">**Session chair**: Matthew Dosanjh (Sandia National Laboratories)</td>
+<td markdown="span">**Morning Sessions**</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">7:00 - 8:30</td>
-<td markdown="span">Libfabric Communication Library
-<br>
-<a href="/tutorials-libfabric.html">[details]</a>
-<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_Libfabric.pdf' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-</td>
-<td markdown="span">Rajalaxmi Angadi, Alexia Ingerson (Intel) 
-<br>
-</td>
+<td markdown="span">09:00 - 12:15</td>
+<td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications</td>
+<td markdown="span"></td>
 </tr>
-
+<tr>
+<td markdown="span">12:15 - 13:30</td>
+<td markdown="span">*Break*</td>
+<td markdown="span"></td>
+</tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">**Morning Sessions B**</td>
-<td markdown="span">**Session chair**: Jackson Wesley (UNM)</td>
+<td markdown="span">**Afternoon Sessions**</td>
+<td markdown="span"></td>
 </tr>
-
 <tr>
-<td markdown="span">08:30 - 12:00</td>
-<td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
-<br>
-<a href="/tutorials-nccl-nvshmem.html">[details]</a>
-<a href="{{ '/assets/slides/2025_08_22_day3_Tutorial_NVIDIA_Julich_GPU_Communications_v2.pdf' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/img/icon-pdf.png' | relative_url }}" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;"></a>
-<a href="https://github.com/NVIDIA/hoti-2025-gpu-comms-tutorial" target="_blank">
-    <img src="{{ '/assets/img/icon-src.png' | relative_url }}" alt="GitHub" style="width:24px; vertical-align:middle; margin-left: 5px;"></a>
-</td>
-<td markdown="span">Benjamin Glick Pouya Kousha, Arnav Goel (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)
-<br>
-</td>
+<td markdown="span">13:30 - 16:30</td>
+<td markdown="span">Principles and Practice of Scalable and Distributed AI Training and Inference</td>
+<td markdown="span"></td>
 </tr>
-<!-- https://www.veryicon.com/icons/miscellaneous/eva-icon-fill/github-41.html -->
+</tbody>
+</table>
 
+### Track 2
+
+<table>
+<colgroup>
+<col width="14%" />
+<col width="56%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Title</th>
+<th>Presenters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span"></td>
+<td markdown="span">**Morning Sessions**</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">08:00 - 11:00</td>
+<td markdown="span">Open Interconnect Innovations: A Deep Dive into the UALink Chiplet Specification Tutorial presented by UALink and UCIe Consortia</td>
+<td markdown="span">**Session chair:** Shannon Kinkead</td>
+</tr>
+<tr>
+<td markdown="span">11:00 - 11:30</td>
+<td markdown="span">*Break*</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span"></td>
+<td markdown="span">**Afternoon Sessions**</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">11:30 - 15:15</td>
+<td markdown="span">A Practical Guide to Communication Libraries on AMD GPUs</td>
+<td markdown="span"></td>
+</tr>
+</tbody>
+</table>
+
+### Track 3
+
+<table>
+<colgroup>
+<col width="14%" />
+<col width="56%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Title</th>
+<th>Presenters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span"></td>
+<td markdown="span">**Morning Sessions**</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">09:00 - 12:00</td>
+<td markdown="span">High Performance and Smart Networking Technologies for HPC and AI</td>
+<td markdown="span">**Session chair:** Amanda Bienz</td>
+</tr>
+<tr>
+<td markdown="span">12:00 - 12:30</td>
+<td markdown="span">*Break*</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span"></td>
+<td markdown="span">**Afternoon Sessions**</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">12:30 - 17:00</td>
+<td markdown="span">Understanding Communication Performance on Emerging Heterogeneous Architectures</td>
+<td markdown="span"></td>
+</tr>
 </tbody>
 </table>
