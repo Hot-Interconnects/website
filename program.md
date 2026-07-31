@@ -31,7 +31,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">09:00 - 09:15</td>
 <td markdown="span">**Introduction &amp; Day 1 Welcome**</td>
-<td markdown="span">Sayan Ghosh<br>**Session chair:** Sayan Ghosh</td>
+<td markdown="span">Sayan Ghosh</td>
 </tr>
 <tr>
 <td markdown="span">09:15 - 10:15</td>
@@ -116,7 +116,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">15:30 - 15:45</td>
 <td markdown="span">**The Head Bubba Memorial and HotI Closing Remarks Day 1**</td>
-<td markdown="span">Dan Pitt<br>**Session chair:** Dan Pitt</td>
+<td markdown="span">Dan Pitt</td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +140,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">08:50 - 09:00</td>
 <td markdown="span">**Day 2 Welcome**</td>
-<td markdown="span">Sayan Ghosh<br>**Session chair:** Sayan Ghosh</td>
+<td markdown="span">Sayan Ghosh</td>
 </tr>
 <tr>
 <td markdown="span">09:00 - 10:00</td>
@@ -205,7 +205,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:00 - 14:00</td>
 <td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a></td>
-<td markdown="span">Bilal Riaz<br>**Session chair:** Pasha Shamis?</td>
+<td markdown="span">Bilal Riaz<br>**Session chair:**</td>
 </tr>
 <tr>
 <td markdown="span">14:00 - 15:30</td>
@@ -235,7 +235,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">15:40 - 15:55</td>
 <td markdown="span">**HotI Closing Remarks**</td>
-<td markdown="span">David Ozog<br>**Session chair:** David Ozog</td>
+<td markdown="span">David Ozog</td>
 </tr>
 </tbody>
 </table>
