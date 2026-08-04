@@ -31,17 +31,17 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">09:00 - 09:15</td>
 <td markdown="span">**Introduction &amp; Day 1 Welcome**</td>
-<td markdown="span">Sayan Ghosh</td>
+<td markdown="span">Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
 <tr>
 <td markdown="span">09:15 - 10:15</td>
 <td markdown="span">**Keynote 1:** Lessons from networking Meta's gigawatt-scale AI fleet<br><a href="keynotes-omar.html">[details]</a></td>
-<td markdown="span">Omar Baldonado<br>**Session chair:** Dan Pitt</td>
+<td markdown="span">Omar Baldonado (Meta)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
 <td markdown="span">10:15 - 10:30</td>
-<td markdown="span">**Diamond Sponsor Talk:** Lightmatter<br><a href="sponsortalk-lightmatter.html">[details]</a></td>
-<td markdown="span">Nick Harris<br>**Session chair:** Sayan Ghosh</td>
+<td markdown="span">**Diamond Sponsor Talk:** Lightmatter<br>BiDi DWDM: The Interconnect Foundation for High-Performance AI Training and Inference<br><a href="sponsortalk-lightmatter.html">[details]</a></td>
+<td markdown="span">Nick Harris<br>**Session chair:** Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
 <tr>
 <td markdown="span">10:30 - 10:40</td>
@@ -51,7 +51,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">10:40 - 11:40</td>
 <td markdown="span">**Technical Paper Session A:** Network Design at Scale</td>
-<td markdown="span">**Session chair:** Kapil Shrikhande</td>
+<td markdown="span">**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
@@ -65,18 +65,18 @@ All times below are Pacific Time (PT). The program is subject to change.
 </tr>
 <tr>
 <td markdown="span">11:40 - 11:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Broadcom<br><a href="sponsortalk-broadcom.html">[details]</a></td>
-<td markdown="span">Mohan Kalkunte<br>**Session chair:** Kapil Shrikhande</td>
+<td markdown="span">**Platinum Sponsor Talk:** Broadcom<br>Distributed Computing @ Scale for AI Training &amp; Inference<br><a href="sponsortalk-broadcom.html">[details]</a></td>
+<td markdown="span">Mohan Kalkunte<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
 <td markdown="span">11:50 - 12:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Cisco<br><a href="sponsortalk-cisco.html">[details]</a></td>
-<td markdown="span">Will Eatherton<br>**Session chair:** Kapil Shrikhande</td>
+<td markdown="span">**Platinum Sponsor Talk:** Cisco<br>Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale<br><a href="sponsortalk-cisco.html">[details]</a></td>
+<td markdown="span">Will Eatherton<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
 <td markdown="span">12:00 - 12:10</td>
-<td markdown="span">**Platinum Sponsor Talk:** Meta<br><a href="sponsortalk-meta.html">[details]</a></td>
-<td markdown="span">Kirtesh Patil<br>**Session chair:** Kapil Shrikhande</td>
+<td markdown="span">**Platinum Sponsor Talk:** Meta<br>Co-Designing MTIA's Communication Stack<br><a href="sponsortalk-meta.html">[details]</a></td>
+<td markdown="span">Kirtesh Patil<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
 <td markdown="span">12:10 - 13:00</td>
@@ -86,7 +86,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:00 - 14:00</td>
 <td markdown="span">**Technical Paper Session B:** Hot Topic Presentations</td>
-<td markdown="span">**Session chair:** Darius Bunandar</td>
+<td markdown="span">**Session chair:** Darius Bunandar (Lightmatter)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
@@ -111,12 +111,12 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">14:00 - 15:30</td>
 <td markdown="span">**Panel:** Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now?<br><a href="highlight-panel.html">[details]</a></td>
-<td markdown="span">**Session chairs:** Dan Pitt and Timothy Crawford</td>
+<td markdown="span">**Panelists:** Inder Monga (ESnet), Yosuke Aragane (NTT), Tanner Ryan (Cloudflare), Marc Austin (Hedgehog), Ofer Shapiro (Resolight)<br>**Session chairs:** Dan Pitt (Palo Alto Innovation Advisors) and Timothy Crawford (KeyBanc Capital Markets)</td>
 </tr>
 <tr>
 <td markdown="span">15:30 - 15:45</td>
 <td markdown="span">**The Head Bubba Memorial and HotI Closing Remarks Day 1**</td>
-<td markdown="span">Dan Pitt</td>
+<td markdown="span">Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 </tbody>
 </table>
@@ -140,22 +140,22 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">08:50 - 09:00</td>
 <td markdown="span">**Day 2 Welcome**</td>
-<td markdown="span">Sayan Ghosh</td>
+<td markdown="span">Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
 <tr>
 <td markdown="span">09:00 - 10:00</td>
 <td markdown="span">**Keynote 2:** Networking Innovations for Gigascale AI Systems<br><a href="keynotes-gilad.html">[details]</a></td>
-<td markdown="span">Gilad Shainer<br>**Session chair:** Ron Brightwell</td>
+<td markdown="span">Gilad Shainer (NVIDIA)<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">10:00 - 10:15</td>
-<td markdown="span">**Diamond Sponsor Talk:** Marvell<br><a href="sponsortalk-marvell.html">[details]</a></td>
-<td markdown="span">Ravi Mahatme<br>**Session chair:** Ron Brightwell</td>
+<td markdown="span">**Diamond Sponsor Talk:** Marvell<br>A Shared Memory Architecture for Token-Efficient AI Infrastructure<br><a href="sponsortalk-marvell.html">[details]</a></td>
+<td markdown="span">Ravi Mahatme<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">10:15 - 10:30</td>
-<td markdown="span">**Diamond Sponsor Talk:** Napatech<br><a href="sponsortalk-napatech.html">[details]</a></td>
-<td markdown="span">Alex Omø Agerholm<br>**Session chair:** Ron Brightwell</td>
+<td markdown="span">**Diamond Sponsor Talk:** Napatech<br>AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across<br><a href="sponsortalk-napatech.html">[details]</a></td>
+<td markdown="span">Alex Omø Agerholm<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">10:30 - 10:40</td>
@@ -165,37 +165,37 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">10:40 - 11:40</td>
 <td markdown="span">**MSA Lightning Talk Session**<br><a href="highlights.html#lightning-session">[details]</a></td>
-<td markdown="span">**Session chair:** Dan Pitt</td>
+<td markdown="span">**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">OCI</td>
-<td markdown="span">Drew Alduino</td>
+<td markdown="span">Drew Alduino (Meta)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Open CPX</td>
-<td markdown="span"><a href="https://www.linkedin.com/in/rangchenyu/" target="_blank" rel="noopener noreferrer">Ryan Yu</a></td>
+<td markdown="span"><a href="https://www.linkedin.com/in/rangchenyu/" target="_blank" rel="noopener noreferrer">Ryan Yu</a> (TeraHop)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">SDM4 MCF</td>
-<td markdown="span"><a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank" rel="noopener noreferrer">Duane Robbins</a></td>
+<td markdown="span"><a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank" rel="noopener noreferrer">Duane Robbins</a> (Corning)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">XPO</td>
-<td markdown="span"><a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank" rel="noopener noreferrer">Sunil Priyadarshi</a></td>
+<td markdown="span"><a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank" rel="noopener noreferrer">Sunil Priyadarshi</a> (Arista)</td>
 </tr>
 <tr>
 <td markdown="span">11:40 - 11:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Qualcomm<br><a href="sponsortalk-qualcomm.html">[details]</a></td>
-<td markdown="span">Dave Kulansky<br>**Session chair:** Dan Pitt</td>
+<td markdown="span">**Platinum Sponsor Talk:** Qualcomm<br>Scaling AI with Chiplets &amp; CPO<br><a href="sponsortalk-qualcomm.html">[details]</a></td>
+<td markdown="span">Dave Kulansky<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
 <td markdown="span">11:50 - 12:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Eliyan<br><a href="sponsortalk-eliyan.html">[details]</a></td>
-<td markdown="span">Rohan Gandhi<br>**Session chair:** Dan Pitt</td>
+<td markdown="span">**Platinum Sponsor Talk:** Eliyan<br>From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure<br><a href="sponsortalk-eliyan.html">[details]</a></td>
+<td markdown="span">Rohan Gandhi<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
 <td markdown="span">12:00 - 13:00</td>
@@ -205,12 +205,12 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:00 - 14:00</td>
 <td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a></td>
-<td markdown="span">Bilal Riaz<br>**Session chair:**</td>
+<td markdown="span">Bilal Riaz (Ciena)<br>**Session chair:**</td>
 </tr>
 <tr>
 <td markdown="span">14:00 - 15:30</td>
 <td markdown="span">**Technical Paper Session C:** Distributed AI Communication</td>
-<td markdown="span">**Session chair:** Shelby Lockhart</td>
+<td markdown="span">**Session chair:** Shelby Lockhart (AMD)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
@@ -230,12 +230,12 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">15:30 - 15:40</td>
 <td markdown="span">**HotI Awards**</td>
-<td markdown="span">Ryan Grant<br>**Session chairs:** Ryan Grant and Yiltan</td>
+<td markdown="span">Ryan Grant (Queen's University)<br>**Session chair:** Ryan Grant (Queen's University)</td>
 </tr>
 <tr>
 <td markdown="span">15:40 - 15:55</td>
 <td markdown="span">**HotI Closing Remarks**</td>
-<td markdown="span">David Ozog</td>
+<td markdown="span">David Ozog (NVIDIA)</td>
 </tr>
 </tbody>
 </table>
@@ -266,7 +266,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">09:00 - 12:15</td>
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications</td>
-<td markdown="span">**Organizers:** NVIDIA, Jülich</td>
+<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)</td>
 </tr>
 <tr>
 <td markdown="span">12:15 - 13:30</td>
@@ -281,7 +281,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:30 - 16:30</td>
 <td markdown="span">Principles and Practice of Scalable and Distributed AI Training and Inference</td>
-<td markdown="span">**Organizers:** Ohio State University</td>
+<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan, Benjamin Michalowicz (The Ohio State University)</td>
 </tr>
 </tbody>
 </table>
@@ -310,7 +310,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">08:00 - 11:00</td>
 <td markdown="span">Open Interconnect Innovations: A Deep Dive into the UALink Chiplet Specification Tutorial presented by UALink and UCIe Consortia</td>
-<td markdown="span">**Organizers:** AMD, Intel<br>**Session chair:** Shannon Kinkead</td>
+<td markdown="span">Rob Pelt (AMD), Peter Onufryk (Intel Corporation)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">11:00 - 11:30</td>
@@ -325,7 +325,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">11:30 - 15:15</td>
 <td markdown="span">A Practical Guide to Communication Libraries on AMD GPUs</td>
-<td markdown="span">**Organizers:** AMD</td>
+<td markdown="span">Aurelien Bouteiller, Corey Derochie, Edgar Gabriel, Nusrat Islam (AMD)</td>
 </tr>
 </tbody>
 </table>
@@ -354,7 +354,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">09:00 - 12:00</td>
 <td markdown="span">High Performance and Smart Networking Technologies for HPC and AI</td>
-<td markdown="span">**Organizers:** Ohio State University<br>**Session chair:** Amanda Bienz</td>
+<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan, Benjamin Michalowicz (The Ohio State University)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
 </tr>
 <tr>
 <td markdown="span">12:00 - 12:30</td>
@@ -369,7 +369,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">12:30 - 17:00</td>
 <td markdown="span">Understanding Communication Performance on Emerging Heterogeneous Architectures</td>
-<td markdown="span">**Organizers:** AMD, University of New Mexico, University of Oregon</td>
+<td markdown="span">Bob Robey, Shelby Lockhart, Giacomo Capodaglio (AMD), Amanda Bienz, Patrick Bridges (University of New Mexico), Sameer Shende (University of Oregon)</td>
 </tr>
 </tbody>
 </table>

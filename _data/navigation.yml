@@ -5,8 +5,8 @@ main:
     submenu:
       - title: Highlights
         url: "/highlights.html"
-      # - title: Program
-      #   url: "/program.html"
+      - title: Program
+        url: "/program.html"
       # - title: HPCwire Q/A
       #   url: "/hpcwire.html"
       # - title: Tutorials

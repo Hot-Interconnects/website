@@ -6,6 +6,7 @@
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
     <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
+    <a href="program.html" style="color:white; background-color: red">The HotI'2026 Program is released. Click here to view it!</a><br><br>
     <strong>Welcome to the 33rd iteration of the IEEE Hot Interconnects symposium. </strong>
     <strong>HotI’2026 will be held virtually.</strong> <br><br>
     <strong>2026 Conference Theme<br>
@@ -32,84 +33,6 @@
 Interconnect Software: You can't touch it but you need it</strong>
 </div> -->
 
-
-
-<!-- before this line you have your intro… -->
-<br>
-
-<div class="call-for-container">
-
-  <div class="call-for-panel">
-    <h2>Call for Papers <a href="call-for-papers.html">[details]</a></h2>
-    <table>
-      <thead>
-        <tr><th>Event</th><th>Deadline (AoE)</th></tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Paper abstract deadline</td>
-          <td><span style="color:gray"><del style="text-decoration-color:red"> May 9, 2026</del></span>
-          <br>
-          <span style="color:red">May 20, 2026</span>
-          </td>
-        </tr>
-        <tr>
-          <td>Submission deadline</td>
-          <td><span style="color:gray"><del style="text-decoration-color:red"> May 15, 2026</del></span>
-          <br>
-          <span style="color:red">May 20, 2026</span>
-          </td>
-        </tr>
-        <tr>
-          <td>Notification of acceptance</td>
-          <td><span style="color:gray">June 26, 2026</span></td>
-        </tr>
-        <tr>
-          <td>Camera-ready due</td>
-          <td><span style="color:gray">July 17, 2026</span></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <div class="call-for-panel">
-    <h2>Call for Tutorials <a href="call-for-tutorials.html">[details]</a></h2>
-    <table>
-      <thead>
-        <tr><th>Event</th><th>Date</th></tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Proposals due</td>
-          <td>
-          <span style="color:gray"><del style="text-decoration-color:red"> June 5, 2026</del></span>
-          <br>
-          <span style="color:red">June 12, 2026</span>
-          </td>
-        </tr>
-        <tr>
-          <td>Notification of acceptance</td>
-          <td>
-          <span style="color:gray"><del style="text-decoration-color:red"> June 12, 2026</del></span>
-          <br>
-          <span style="color:red">June 19, 2026</span>
-          </td>
-        </tr>
-        <tr>
-          <td>Materials due</td>
-          <td>
-          <span style="color:gray"><del style="text-decoration-color:red"> July 31, 2026</del></span>
-          <br>
-          <span style="color:red">August 7, 2026</span>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-</div>
-
-<!-- then continues with HotI32 overview… -->
 
 
 ## HotI33 (2026) Overview
