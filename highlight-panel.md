@@ -91,11 +91,11 @@ Inference is moving in a big way from the Core to the Edge, in the form of Edge 
         Ofer is a serial entrepreneur, investor, mentor and board member in multiple startup companies with breakthrough technology in photonics, AI, and the infrastructure needed to support these industries. He has created 12 ventures and delivered five disruptive architectures, which have been licensed by Google, Cisco, HP, Nintendo, Philips, Ricoh, Hitachi, and many others. The World Economic Forum named Ofer a Technology Pioneer and he received the Wall Street Journal Innovation award for economic disruption that transformed the industry in the category of Internet, Networking, and Broadband. He is a named inventor on 52 patents. Ofer is also CEO and co-founder of Quantum Pulse Ventures.
       </td>
     </tr>
-    <!-- Amy Jaklich Leeland (GEICO) -->
+    <!-- Amy Leeland (GEICO) -->
     <tr style="vertical-align: top;">
       <td style="width: 25%; padding: 10px; text-align: center; font-size: 1.3em;">
-        <img src="assets/img/headshot_placeholder.png" alt="Amy Jaklich Leeland" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
-        <strong>Amy Jaklich Leeland</strong><br>
+        <img src="assets/img/headshot_placeholder.png" alt="Amy Leeland" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
+        <strong>Amy Leeland</strong><br>
         <small>Sr. Dir., Compute &amp; Storage Cloud Engineering, GEICO</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
