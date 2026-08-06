@@ -94,7 +94,7 @@ Inference is moving in a big way from the Core to the Edge, in the form of Edge 
     <!-- Amy Leeland (GEICO) -->
     <tr style="vertical-align: top;">
       <td style="width: 25%; padding: 10px; text-align: center; font-size: 1.3em;">
-        <img src="assets/img/headshot_placeholder.png" alt="Amy Leeland" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
+        <img src="assets/img/Amy_Leeland_panelist.jpeg" alt="Amy Leeland" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
         <strong>Amy Leeland</strong><br>
         <small>Sr. Dir., Compute &amp; Storage Cloud Engineering, GEICO</small>
       </td>

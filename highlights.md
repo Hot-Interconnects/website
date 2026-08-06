@@ -247,7 +247,7 @@
   </div>
 
   <div class="panelist-card">
-    <img src="{{ 'assets/img/headshot_placeholder.png' | relative_url }}" alt="Amy Leeland">
+    <img src="{{ 'assets/img/Amy_Leeland_panelist.jpeg' | relative_url }}" alt="Amy Leeland">
     <div class="panelist-name">Amy Leeland</div>
     <div class="panelist-affiliation">Sr. Dir., Compute &amp; Storage Cloud Engineering, GEICO</div>
   </div>
