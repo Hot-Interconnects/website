@@ -127,10 +127,11 @@
 .panelist-tier {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  /* Two bands of three, each row: image · role · name · affiliation. A spacer
-     row sets the gap between the bands while row-gap stays 0, so the intra-card
-     rows stay tight and each band aligns its own red rule. */
-  grid-template-rows: repeat(4, auto) 3em repeat(4, auto);
+  /* Three bands — the moderator alone, then two rows of three panelists. Each
+     band is four rows: image · role · name · affiliation. A spacer row sets the
+     gap between bands while row-gap stays 0, so the intra-card rows stay tight
+     and each band aligns its own red rule. */
+  grid-template-rows: repeat(4, auto) 3em repeat(4, auto) 3em repeat(4, auto);
   column-gap: 1.75em;
   row-gap: 0;
   max-width: 1020px;
@@ -146,8 +147,12 @@
   min-width: 0;
   overflow-wrap: break-word;
 }
-/* The last three cards form the second band, below the spacer row (line 6). */
-.panelist-card:nth-child(n + 4) { grid-row: 6 / span 4; }
+/* The moderator sits alone in the first band, centered over the three columns.
+   Panelists 1-3 form the second band (below the spacer row 5), panelists 4-6 the
+   third (below the spacer row 10). */
+.panelist-card:first-child { grid-column: 3 / span 2; }
+.panelist-card:nth-child(n + 2) { grid-row: 6 / span 4; }
+.panelist-card:nth-child(n + 5) { grid-row: 11 / span 4; }
 
 /* Pin each part to a fixed row so the affiliations — and the rule beneath them —
    line up across the row even though only the moderator card carries a role
@@ -196,7 +201,7 @@
 @media (max-width: 560px) {
   .panelist-tier {
     column-gap: 0.75em;
-    grid-template-rows: repeat(4, auto) 2em repeat(4, auto);
+    grid-template-rows: repeat(4, auto) 2em repeat(4, auto) 2em repeat(4, auto);
   }
   .panelist-affiliation { padding-bottom: 0.5em; border-bottom-width: 2px; }
 }
@@ -239,6 +244,12 @@
     <img src="{{ 'assets/img/Ofer_Shapiro_panelist.jpeg' | relative_url }}" alt="Ofer Shapiro">
     <div class="panelist-name">Ofer Shapiro</div>
     <div class="panelist-affiliation">CEO and Co-Founder - Resolight</div>
+  </div>
+
+  <div class="panelist-card">
+    <img src="{{ 'assets/img/headshot_placeholder.png' | relative_url }}" alt="Amy Jaklich Leeland">
+    <div class="panelist-name">Amy Jaklich Leeland</div>
+    <div class="panelist-affiliation">Sr. Dir., Compute &amp; Storage Cloud Engineering, GEICO</div>
   </div>
 
 </div>
@@ -483,7 +494,7 @@
   </div>
 
   <div class="sponsor-card">
-    <img src="{{ 'assets/img/nick-lightmatter.png'| relative_url }}" alt="Speaker TBD">
+    <img src="{{ 'assets/img/nick-lightmatter.png'| relative_url }}" alt="Nick Harris">
     <div class="sponsor-name">Nick Harris</div>
     <div class="sponsor-affiliation">Founder and CEO of Lightmatter, Lightmatter</div>
     <div class="sponsor-title">BiDi DWDM: The Interconnect Foundation for High-Performance AI Training and Inference</div>
@@ -536,7 +547,7 @@
   </div>
 
   <div class="sponsor-card offset-b">
-    <img src="{{ 'assets/img/dave-qualcomm.png' | relative_url }}" alt="Speaker TBD">
+    <img src="{{ 'assets/img/dave-qualcomm.png' | relative_url }}" alt="Dave Kulansky">
     <div class="sponsor-name">Dave Kulansky</div>
     <div class="sponsor-affiliation">Director of Product Management at Qualcomm</div>
     <div class="sponsor-title">Scaling AI with Chiplets & CPO</div>

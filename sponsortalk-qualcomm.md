@@ -7,7 +7,7 @@
 
 Director of Product Management at Qualcomm
 
-<img src="{{ '/assets/img/dave-qualcomm.png' | relative_url }}" alt="Nick Harris" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+<img src="{{ '/assets/img/dave-qualcomm.png' | relative_url }}" alt="Dave Kulansky" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
 
 **Title:** Scaling AI with Chiplets & CPO
 

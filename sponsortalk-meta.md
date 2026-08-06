@@ -7,7 +7,7 @@
 
 Tech Lead at Meta
 
-<img src="{{ '/assets/img/kritesh_patil.png' | relative_url }}" alt="Kritesh Patil" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
+<img src="{{ '/assets/img/kritesh_patil.png' | relative_url }}" alt="Kirtesh Patil" style="width:100%; max-width:250px; height:auto; object-fit:cover; object-position:top;">
 
 
 **Title:** Co-Designing MTIA's Communication Stack
