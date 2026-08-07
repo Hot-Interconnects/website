@@ -205,7 +205,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:00 - 14:00</td>
 <td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a></td>
-<td markdown="span">Bilal Riaz (Ciena)<br>**Session chair:**</td>
+<td markdown="span">Bilal Riaz (Ciena)<br>**Session chair:** Pasha Shamis (NVIDIA)</td>
 </tr>
 <tr>
 <td markdown="span">14:00 - 15:30</td>
@@ -281,7 +281,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:30 - 16:30</td>
 <td markdown="span">Principles and Practice of Scalable and Distributed AI Training and Inference</td>
-<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan, Benjamin Michalowicz (The Ohio State University)</td>
+<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University)</td>
 </tr>
 </tbody>
 </table>
@@ -354,7 +354,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">09:00 - 12:00</td>
 <td markdown="span">High Performance and Smart Networking Technologies for HPC and AI</td>
-<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan, Benjamin Michalowicz (The Ohio State University)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
+<td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
 </tr>
 <tr>
 <td markdown="span">12:00 - 12:30</td>
