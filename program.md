@@ -266,7 +266,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">09:00 - 12:15</td>
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications</td>
-<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)</td>
+<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)<br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)</td>
 </tr>
 <tr>
 <td markdown="span">12:15 - 13:30</td>
@@ -281,7 +281,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">13:30 - 16:30</td>
 <td markdown="span">Principles and Practice of Scalable and Distributed AI Training and Inference</td>
-<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University)</td>
+<td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University)<br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)</td>
 </tr>
 </tbody>
 </table>
@@ -325,7 +325,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">11:30 - 15:15</td>
 <td markdown="span">A Practical Guide to Communication Libraries on AMD GPUs</td>
-<td markdown="span">Aurelien Bouteiller, Corey Derochie, Edgar Gabriel, Nusrat Islam (AMD)</td>
+<td markdown="span">Aurelien Bouteiller, Corey Derochie, Edgar Gabriel, Nusrat Islam (AMD)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
 </tr>
 </tbody>
 </table>
@@ -369,7 +369,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">12:30 - 17:00</td>
 <td markdown="span">Understanding Communication Performance on Emerging Heterogeneous Architectures</td>
-<td markdown="span">Bob Robey, Shelby Lockhart, Giacomo Capodaglio (AMD), Amanda Bienz, Patrick Bridges (University of New Mexico), Sameer Shende (University of Oregon)</td>
+<td markdown="span">Bob Robey, Shelby Lockhart, Giacomo Capodaglio (AMD), Amanda Bienz, Patrick Bridges (University of New Mexico), Sameer Shende (University of Oregon)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
 </tr>
 </tbody>
 </table>

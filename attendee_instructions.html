@@ -36,6 +36,12 @@
       padding: 12px 16px;
       border-left: 4px solid #cc0000;
     }
+    /* Speakers using a different address than the one that got the invitation is
+       the single most common reason they can't get in, so it gets its own emphasis. */
+    .step p.email-warning {
+      background-color: #fff4f4;
+      border-left-width: 6px;
+    }
   </style>
 </head>
 <body>
@@ -116,6 +122,43 @@ If you lose your ticket you can recover it here: <a href="https://events.zoom.us
       Please do not share this link, as it is tied to your ticket and Zoom account.
     </p>
     <img src="assets/img/register_images/HOTI_Reg_Tutorial_2026_4.png" alt="Calendar event entry with Zoom join link">
+  </div>
+
+  <h2 id="speakers">Instructions for Speakers</h2>
+
+  <div class="step">
+    <p>
+      Speakers do <strong>not</strong> need to register separately. All speakers are automatically assigned a
+      general admission ticket, which grants access to all sessions for the conference days.
+    </p>
+  </div>
+
+  <div class="step">
+    <p>
+      To join IEEE HotI 2026 as a speaker:
+    </p>
+    <ol>
+      <li>Find the invitation email with the subject
+        <strong>&ldquo;You are invited to be a speaker for IEEE Hot Interconnects Symposium 2026.&rdquo;</strong></li>
+      <li>Open the email and click <strong>Join</strong>.</li>
+      <li>On the screen that follows, enter the event lobby in either of two ways: request and enter a
+        verification code sent to your invited email address, or sign in to your Zoom account.</li>
+    </ol>
+    <img src="assets/img/register_images/speaker_join_auth.png" alt="Authenticate to access the event: sign in with Zoom, or verify with the email address that received the invitation">
+    <p class="email-warning">
+      <strong>Important:</strong> Whichever option you choose, you must use the
+      <strong>same email address</strong> at which you received the speaker invitation. Using a different email
+      address may prevent you from accessing the event.
+    </p>
+  </div>
+
+  <div class="step">
+    <p>
+      Once you are authenticated, you land in the event lobby. Sessions you are speaking at are marked
+      <strong>You&rsquo;re the Speaker</strong>, and you can join them from there. Q&amp;A is handled in Slack &mdash;
+      the link is provided in the lobby.
+    </p>
+    <img src="assets/img/register_images/speaker_lobby.png" alt="Zoom Events lobby showing sessions in progress with a You're the Speaker tag">
   </div>
 
    <!-- <div class="step">
