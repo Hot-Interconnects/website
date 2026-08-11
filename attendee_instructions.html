@@ -42,6 +42,14 @@
       background-color: #fff4f4;
       border-left-width: 6px;
     }
+    /* The heading links to itself so this section can be shared directly
+       (#speakers); clicking it puts the deep link in the address bar. */
+    h2 a {
+      text-decoration: none;
+    }
+    h2 a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -124,7 +132,7 @@ If you lose your ticket you can recover it here: <a href="https://events.zoom.us
     <img src="assets/img/register_images/HOTI_Reg_Tutorial_2026_4.png" alt="Calendar event entry with Zoom join link">
   </div>
 
-  <h2 id="speakers">Instructions for Speakers</h2>
+  <h2 id="speakers"><a href="#speakers">Instructions for Speakers</a></h2>
 
   <div class="step">
     <p>
