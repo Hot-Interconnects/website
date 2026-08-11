@@ -5,5 +5,6 @@ hoti.org
 vendor
 *.zip
 .DS_Store
+tmp
 Gemfile
 Gemfile.lock
