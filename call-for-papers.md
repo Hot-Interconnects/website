@@ -135,8 +135,33 @@ This year we invite papers to be submitted either as regular (long) papers (up t
 * Materials other than the abstract, main paper body, and references will be read at the committee’s discretion.
 * Authors may post their preprints in arXiv.org, TechRxiv.org, or any not-for-profit preprint server approved by the IEEE Publication Services and Products Board (PSPB), in Author’s employer’s website or institutional repository, or in Author’s personal website.
 * Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. 
-* We plan to invite the best papers for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission which will be peer reviewed for further consideration. The special issue will require an additional 30% new content, and the page length for this special issue will be 8 pages.
+* We plan to invite the best papers for an <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> Special issue submission which will be peer reviewed for further consideration. The special issue will require an additional 30% new content. See [How to Submit](#ieee-micro-special-issue-how-to-submit) below for the submission steps and length limits.
 * After a paper is accepted, the authors must follow the conference and <a href="https://www.computer.org/conferences/cps">[IEEE CPS guidelines]</a> in publishing the paper. Review <a href="https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/">[IEEE post publication policies]</a>. 
+
+
+## IEEE Micro Special Issue: How to Submit
+
+Authors invited to the Hot Interconnects Special Issue of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> should follow the steps below. A printable version is also available: [(How to Submit)](assets/slides/HotI26_IEEEMicro_How_to_Submit.pdf)
+
+If you have any questions that are not answered here, please do not hesitate to reach out to the special issue editors for HotI: Whit Schonbein (<a href="mailto:wwschon@sandia.gov">wwschon@sandia.gov</a>) or Joseph Schuchart (<a href="mailto:joseph.schuchart@stonybrook.edu">joseph.schuchart@stonybrook.edu</a>).
+
+### To submit
+
+1. Go to <a href="https://www.computer.org/csdl/magazine/mi">https://www.computer.org/csdl/magazine/mi</a>
+2. Select the "Write for Us → Submit a Manuscript" option. Note: the Hot Interconnects IEEE Special Issue will not appear under the "Call for Papers" as this is an invited special issue.
+3. Select the "Start Submission" button.
+4. Select the "Article Type" button, and from the dropdown list, select "SI: Hot Interconnects". If the special issue is not an option, it is because those responsible for adding it to the website have not yet done so, so check back later.
+5. After the previous step, follow the instructions as requested by the IEEE Micro submission system.
+
+### Additional information
+
+* IEEE Micro is considered by IEEE to be a *magazine* rather than a journal. Consequently, while the articles remain technical, they are typically shorter than a journal article. The content should be written for a broader audience.
+* IEEE Micro enforces a word limit of 6000 words, where each figure counts as 250 words, as well as imposing limits on the number of references and length of abstract. See <a href="https://www.computer.org/csdl/magazine/mi/write-for-us/14289">[IEEE Micro author information]</a> for more information.
+* To distinguish an IEEE Micro article from the conference proceedings version, there should be 30% new content. Because the length of the IEEE Micro article is likely to be *less* than the original conference paper, this means a submission may require significant editing to both trim the length while adding new content.
+* To distinguish an IEEE Micro article from the conference proceedings version, please use a *different title* for the IEEE Micro article.
+* It is permissible for the author list to change for the IEEE Micro submission (either through re-ordering or adding or subtracting authors) in comparison to the conference version.
+* Use of a specific IEEE Micro article LaTeX template is not required for submitting the manuscript for review. One can use, e.g., a generic LaTeX article class. If one wants to use the IEEE Micro template, it can be downloaded using the <a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/">[IEEE template selector]</a>.
+* Author biographies are required, and follow a <a href="https://www.computer.org/publications/author-resources#author-biographies">[prescribed format]</a>.
 
 
 ## Author/Reviewer Guidelines for Artificial Intelligence (AI)-Generated Text
