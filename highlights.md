@@ -369,8 +369,8 @@
   </div>
 
   <div class="lightning-card">
-    <img src="{{ '/assets/img/lightning-duane-robbins.jpeg' | relative_url }}" alt="Duane Robbins">
-    <div class="lightning-name"><a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank">Duane Robbins</a></div>
+    <img src="{{ '/assets/img/lightning-gabe-sudduth.jpeg' | relative_url }}" alt="Gabe Sudduth">
+    <div class="lightning-name"><a href="https://www.linkedin.com/in/gabriel-sudduth/" target="_blank">Gabe Sudduth</a></div>
     <div class="lightning-affiliation">Corning</div>
     <div class="lightning-msa">SDM4 MCF MSA</div>
     <div class="lightning-focus">Multi-core fiber</div>

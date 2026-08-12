@@ -180,7 +180,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span"></td>
 <td markdown="span">SDM4 MCF</td>
-<td markdown="span"><a href="https://www.linkedin.com/in/duane-robbins-230033113" target="_blank" rel="noopener noreferrer">Duane Robbins</a> (Corning)</td>
+<td markdown="span"><a href="https://www.linkedin.com/in/gabriel-sudduth/" target="_blank" rel="noopener noreferrer">Gabe Sudduth</a> (Corning)</td>
 </tr>
 <tr>
 <td markdown="span"></td>

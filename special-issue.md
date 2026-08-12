@@ -1,5 +1,5 @@
 ---
-title: "Special Issue Instructions"
+# title: "Special Issue Instructions"
 description: "How to submit to the Hot Interconnects Special Issue of IEEE Micro. Submission steps, word limits, template and author biography requirements for authors invited from HotI 2026."
 ---
 
