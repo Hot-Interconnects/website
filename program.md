@@ -310,7 +310,7 @@ All times below are Pacific Time (PT). The program is subject to change.
 <tr>
 <td markdown="span">08:00 - 11:00</td>
 <td markdown="span">Open Interconnect Innovations: A Deep Dive into the UALink Chiplet Specification Tutorial presented by UALink and UCIe Consortia</td>
-<td markdown="span">Rob Pelt (AMD), Peter Onufryk (Intel Corporation)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
+<td markdown="span">Rob Pelt (AMD), Peter Onufryk (Intel), Swadesh Choudhary (Intel), Joe Wu (Intel), Gerald Pasdast (Intel)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">11:00 - 11:30</td>
