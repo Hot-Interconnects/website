@@ -10,7 +10,7 @@
 
 <br>
 
-All times below are Pacific Time (PT). The program is subject to change.
+All times below are Pacific Time (PT).
 
 ## Conference Day 1: Wednesday, August 19
 
