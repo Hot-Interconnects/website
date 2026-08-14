@@ -56,12 +56,12 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Multipass Random Leaf-Spine Networks for Extreme Scale Computing Systems</td>
-<td markdown="span"></td>
+<td markdown="span">**Alejandro Cano** , Cristina Brinza , Cristóbal Camarero , Carmen Martínez , Ramón Beivide</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Scaling Inference Prefill with High-Radix Photonic Interconnect</td>
-<td markdown="span"></td>
+<td markdown="span">**Arulselvan Madhavan** , Peter Carson , Taylor Groves , Thomas Graham</td>
 </tr>
 <tr>
 <td markdown="span">11:40 - 11:50</td>
@@ -91,22 +91,22 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform</td>
-<td markdown="span"></td>
+<td markdown="span">**Sunil Priyadarshi** , Andreas Bechtolsheim , Link Wang , Gian Carlo Lambert , Jimmy Deng , Bala Ganesh Kalirajan , Brian Park , Vijay Vusirikala , Aarushi Abraham Karimpanal , Gargi Kailkhura , William Liu , Yiduo Zhang</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale</td>
-<td markdown="span"></td>
+<td markdown="span">**Philipp Berdesinski** , Laurent Montigny , John Shalf , George Michelogiannakis</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">The Multipath Reliable Connection (MRC) Transport</td>
-<td markdown="span"></td>
+<td markdown="span">Rip Sohan , Eric Spada , Eric Davis , Mark Handley , Idan Burstein , Tony Hurson , Jithin Jose , Vivek Kashyap , Rong Pan , Sayantan Sur , Sreevatsa Anantharamu , Aviv Barnea , Adrian Caulfield , Elazar Cohen , Elliot Edmunds , Yamin Friedman , Mahdieh Ghazi , Murali Guramali , Torsten Hoefler , Vipin Jain , Abdul Kabbani , Noam Katz , Yanfang Le , Charlie Mbariky , Guglielmo Morandin , Masoud Moshref , Shane O'Neil , Michael Papamichael , Jonas Pfefferle , Siva Santosh Pyla , Costin Raiciu , David Riddoch , Karen Schramm , Yuval Shpigelman , Shahaf Shuler , Shy Shyman , Raghava Sivaramu , Amin Tootoonchian , Yang Wang</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry</td>
-<td markdown="span"></td>
+<td markdown="span">Aaron Welch , Shubhendra Pal Singhal , Akihiro Hayashi , Jun Shirako , Oscar Hernandez , Vivek Sarkar , Steve Poole</td>
 </tr>
 <tr>
 <td markdown="span">14:00 - 15:30</td>
@@ -215,17 +215,17 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory</td>
-<td markdown="span"></td>
+<td markdown="span">**Bole Ma** , Jan Eitzinger , Harald Köstler , Gerhard Wellein</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA</td>
-<td markdown="span"></td>
+<td markdown="span">Zhonghao Chen , Yuke Li , Xiaoyi Lu</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication</td>
-<td markdown="span"></td>
+<td markdown="span">**Yijun Ma** , Siyuan Shen , Tiancheng Chen , Akhil Langer , Jiri Kraus , Benjamin Glick , Craig Belusar , Jeff Hammond , Torsten Hoefler</td>
 </tr>
 <tr>
 <td markdown="span">15:30 - 15:40</td>
