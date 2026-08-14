@@ -30,6 +30,10 @@ title: Contact Us
         <td><a href="mailto:tutorials@hoti.org">tutorials@hoti.org</a></td>
       </tr>
       <tr>
+        <td>IEEE Micro Special Issue</td>
+        <td><a href="mailto:specialissue@hoti.org">specialissue@hoti.org</a></td>
+      </tr>
+      <tr>
         <td>Online Conference</td>
         <td><a href="mailto:onlinechair@hoti.org">onlinechair@hoti.org</a></td>
       </tr>

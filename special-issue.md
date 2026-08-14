@@ -7,7 +7,7 @@ description: "How to submit to the Hot Interconnects Special Issue of IEEE Micro
 
 Authors invited to the Hot Interconnects Special Issue of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40">[IEEE Micro]</a> should follow the steps below. A printable version is also available: [(How to Submit)](assets/slides/HotI26_IEEEMicro_How_to_Submit.pdf)
 
-If you have any questions that are not answered here, please do not hesitate to reach out to the special issue editors for HotI: Whit Schonbein (<a href="mailto:wwschon@sandia.gov">wwschon@sandia.gov</a>) or Joseph Schuchart (<a href="mailto:joseph.schuchart@stonybrook.edu">joseph.schuchart@stonybrook.edu</a>).
+If you have any questions that are not answered here, please do not hesitate to reach out to the special issue editors for HotI at <a href="mailto:specialissue@hoti.org">specialissue@hoti.org</a>.
 
 ## To Submit
 
