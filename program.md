@@ -101,12 +101,12 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">The Multipath Reliable Connection (MRC) Transport</td>
-<td markdown="span">Rip Sohan , Eric Spada , Eric Davis , Mark Handley , Idan Burstein , Tony Hurson , Jithin Jose , Vivek Kashyap , Rong Pan , Sayantan Sur , Sreevatsa Anantharamu , Aviv Barnea , Adrian Caulfield , Elazar Cohen , Elliot Edmunds , Yamin Friedman , Mahdieh Ghazi , Murali Guramali , Torsten Hoefler , Vipin Jain , Abdul Kabbani , Noam Katz , Yanfang Le , Charlie Mbariky , Guglielmo Morandin , Masoud Moshref , Shane O'Neil , Michael Papamichael , Jonas Pfefferle , Siva Santosh Pyla , Costin Raiciu , David Riddoch , Karen Schramm , Yuval Shpigelman , Shahaf Shuler , Shy Shyman , Raghava Sivaramu , Amin Tootoonchian , Yang Wang</td>
+<td markdown="span">**Rip Sohan** , Eric Spada , Eric Davis , Mark Handley , Idan Burstein , Tony Hurson , Jithin Jose , Vivek Kashyap , Rong Pan , Sayantan Sur , Sreevatsa Anantharamu , Aviv Barnea , Adrian Caulfield , Elazar Cohen , Elliot Edmunds , Yamin Friedman , Mahdieh Ghazi , Murali Guramali , Torsten Hoefler , Vipin Jain , Abdul Kabbani , Noam Katz , Yanfang Le , Charlie Mbariky , Guglielmo Morandin , Masoud Moshref , Shane O'Neil , Michael Papamichael , Jonas Pfefferle , Siva Santosh Pyla , Costin Raiciu , David Riddoch , Karen Schramm , Yuval Shpigelman , Shahaf Shuler , Shy Shyman , Raghava Sivaramu , Amin Tootoonchian , Yang Wang</td>
 </tr>
 <tr>
 <td markdown="span"></td>
 <td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry</td>
-<td markdown="span">Aaron Welch , Shubhendra Pal Singhal , Akihiro Hayashi , Jun Shirako , Oscar Hernandez , Vivek Sarkar , Steve Poole</td>
+<td markdown="span">**Aaron Welch** , Shubhendra Pal Singhal , Akihiro Hayashi , Jun Shirako , Oscar Hernandez , Vivek Sarkar , Steve Poole</td>
 </tr>
 <tr>
 <td markdown="span">14:00 - 15:30</td>
@@ -220,7 +220,7 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 <td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA</td>
-<td markdown="span">Zhonghao Chen , Yuke Li , Xiaoyi Lu</td>
+<td markdown="span">**Zhonghao Chen** , Yuke Li , Xiaoyi Lu</td>
 </tr>
 <tr>
 <td markdown="span"></td>
