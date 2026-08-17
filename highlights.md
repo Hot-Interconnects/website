@@ -526,7 +526,7 @@
     <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" alt="Will Eatherton">
     <div class="sponsor-name">Will Eatherton</div>
     <div class="sponsor-affiliation">SVP, Data Center, Internet &amp; Cloud Infrastructure Engineering at Cisco</div>
-    <div class="sponsor-title">Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale</div>
+    <div class="sponsor-title">Ethernet for Shared AI Fabrics, Full Performance with Multi-Tenant Scale</div>
     <div class="sponsor-details"><a href="sponsortalk-cisco.html">[details]</a></div>
   </div>
 

@@ -70,7 +70,7 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">11:50 - 12:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Cisco<br>Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale<br><a href="sponsortalk-cisco.html">[details]</a></td>
+<td markdown="span">**Platinum Sponsor Talk:** Cisco<br>Ethernet for Shared AI Fabrics, Full Performance with Multi-Tenant Scale<br><a href="sponsortalk-cisco.html">[details]</a></td>
 <td markdown="span">Will Eatherton<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>

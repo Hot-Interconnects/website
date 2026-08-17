@@ -9,13 +9,14 @@ SVP, Data Center, Internet & Cloud Infrastructure Engineering at Cisco
 
 <img src="{{ '/assets/img/cisco-will.jpg' | relative_url }}" style="width:auto; height:250px;">
 
-**Title:** Ethernet for Shared AI Fabrics: InfiniBand-Class Performance with Multi-Tenant Scale
+**Title:** Ethernet for Shared AI Fabrics, Full Performance with Multi-Tenant Scale
 
 **Abstract:** 
 <div style="text-align: justify; text-indent: 0em;">
-AI and HPC clusters are moving from isolated, dedicated and proprietary networks to shared, multi-tenant, open standards-based infrastructures. In these settings, networks must provide more than high bandwidth. They require consistent performance, strong tenant isolation, rapid congestion recovery, and efficient accelerator-to-accelerator communication at scale. This session demonstrates how modern Ethernet fabrics are purpose-built to match or exceed InfiniBand by leveraging technologies such as RoCEv2, MRC, SRv6, Priority Flow Control, adaptive routing, packet-level multipathing, and hardware-assisted transport.
+AI and HPC clusters are moving from isolated, dedicated, single-tenant networks to shared, multi-tenant, open standards-based infrastructures. In these settings, networks must provide more than high bandwidth. They require consistent performance, strong tenant isolation, rapid congestion recovery, and efficient accelerator-to-accelerator communication at scale. This session demonstrates how modern Ethernet fabrics are purpose-built to deliver the lossless, predictable, high-throughput performance these workloads demand by leveraging technologies such as RoCEv2, MRC, SRv6, Priority Flow Control, adaptive routing, packet-level multipathing, and hardware-assisted transport.
 <br>
-This presentation will outline the key technologies and architectural decisions that establish Ethernet as the preferred network for large-scale, distributed AI training and HPC production. We will highlight how integrated multi-job scheduling, strict tenant isolation, congestion avoidance, and intelligent traffic management make Ethernet a foundational solution. Additionally, we will discuss how Ultra Ethernet, programmable congestion control, and open standardization enhance Ethernet’s scalability, interoperability, and readiness for next-generation AI workloads.
+<br>
+This presentation will outline the key technologies and architectural decisions that establish Ethernet as the preferred network for large-scale, distributed AI training and HPC production. We will highlight how integrated multi-job scheduling, strict tenant isolation, congestion avoidance, and intelligent traffic management make Ethernet a foundational solution. Additionally, we will discuss how Ultra Ethernet, programmable congestion control, and open standardization enhance Ethernet's scalability, interoperability, and readiness for next-generation AI workloads.
 </div>
 <br>
 
