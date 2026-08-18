@@ -8,7 +8,10 @@
     <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
     <a href="program.html" style="color:white; background-color: red">Click here to VIEW HotI'26 Program</a><br><br>
     <strong>Welcome to the 33rd iteration of the IEEE Hot Interconnects symposium. </strong>
-    <strong>HotI’2026 will be held virtually.</strong> <br><br>
+    <strong>HotI’2026 will be held virtually.</strong><br><br>
+    <div style="position: relative; width: 100%; max-width: 720px; margin: 0 auto 24px; padding-top: 56.25%;">
+        <iframe class="fitvidsignore" src="https://www.youtube.com/embed/WyFpEGTr63Q" title="HotI 2026 video" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
     <strong>2026 Conference Theme<br>
     Scale-Up, Scale-Out, Scale-Across: Do they really differ?</strong>
     </div>
