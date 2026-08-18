@@ -67,15 +67,19 @@ Inference is moving in a big way from the Core to the Edge, in the form of Edge 
         Tanner is a Network Engineer at Cloudflare, where he helps grow one of the world’s largest global networks: 500 Tbps of edge capacity across 330+ cities in 120+ countries, interconnected with over 13,000 networks. His work spans peering and transit, data center and interconnection architecture, BGP and traffic optimization, and automation for efficient infrastructure scaling.
       </td>
     </tr>
-    <!-- Marc Austin, CEO of Hedgehog. -->
+    <!-- Gabriel Montanti, VP Sales of Hedgehog. -->
     <tr style="vertical-align: top;">
       <td style="width: 25%; padding: 10px; text-align: center; font-size: 1.3em;">
-        <img src="assets/img/Marc_Austin_panelist.jpeg" alt="Marc Austin" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
-        <strong>Marc Austin</strong><br>
-        <small>CEO and Founder - Hedgehog</small>
+        <img src="assets/img/gabriel-headshot.jpeg" alt="Gabriel Montanti" style="width: 150px; height: auto; display: block; margin: 0 auto;"><br>
+        <strong>Gabriel Montanti</strong><br>
+        <small>VP Sales, Hedgehog</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        Marc Austin is the Chief Executive Officer and founder of Hedgehog. Marc is a fox who knows many things and a hedgehog who knows one big thing. As a Hedgehog he knows that millions of cloud operations teams will use Hedgehog AI networks to train and fine tune AI models for inference at the data edge. As a fox he knows many things from his experience leading mass-scale automation strategy at Cisco, Internet of Things networking at Jasper, digital media delivery at Amazon, mobile application development founding Canvas, the birth of smartphones at AT&T, early mobile ride sharing founding Mobiquity, internet search at Infoseek, e-commerce at Internet Shopping Network and leading people through adversity in the United States Army.
+        Gabe's passions are building cloud infrastructure and networking solutions that transform how enterprises connect, scale, and innovate. From the earliest stages of my career, I’ve been driven by the challenge of turning complex technical problems into simple, elegant platforms that unlock new possibilities for customers.
+        <br><br>
+        Over the years, I’ve led product organizations through growth, transformation, and market disruption. I’ve built businesses from the ground up, restructured portfolios to restore profitability, and introduced breakthrough products that redefined how enterprises approach multi-cloud connectivity. Along the way, I’ve guided teams spread across the globe, developed leaders who now shape the industry, and partnered with some of the world’s most influential enterprises to co-create solutions that moved entire markets forward.
+        <br><br>
+        My leadership philosophy blends technical depth with business acumen. I thrive at the intersection of product, engineering, and customer needs—where bold vision meets disciplined execution. I’ve cultivated expertise across cloud-native networking, software-defined infrastructure, and AI-ready platforms, while also shaping the financial and strategic frameworks that sustain growth at scale.
       </td>
     </tr>
     <!-- Ofer Shapiro, Investor. -->

@@ -235,9 +235,9 @@
   </div>
 
   <div class="panelist-card">
-    <img src="{{ 'assets/img/Marc_Austin_panelist.jpeg' | relative_url }}" alt="Marc Austin">
-    <div class="panelist-name">Marc Austin</div>
-    <div class="panelist-affiliation">CEO and Founder - Hedgehog</div>
+    <img src="{{ 'assets/img/gabriel-headshot.jpeg' | relative_url }}" alt="Gabriel Montanti">
+    <div class="panelist-name">Gabriel Montanti</div>
+    <div class="panelist-affiliation">VP Sales, Hedgehog</div>
   </div>
 
   <div class="panelist-card">
