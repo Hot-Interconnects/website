@@ -111,7 +111,7 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">14:00 - 15:30</td>
 <td markdown="span">**Panel:** Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now?<br><a href="highlight-panel.html">[details]</a></td>
-<td markdown="span">**Panelists:** Inder Monga (ESnet), Yosuke Aragane (NTT), Tanner Ryan (Cloudflare), Marc Austin (Hedgehog), Ofer Shapiro (Resolight), Amy Leeland (GEICO)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)<br>**Moderator:** Timothy Crawford (KeyBanc Capital Markets)</td>
+<td markdown="span">**Panelists:** Inder Monga (ESnet), Yosuke Aragane (NTT), Tanner Ryan (Cloudflare), Gabriel Montanti (Hedgehog), Ofer Shapiro (Resolight), Amy Leeland (GEICO)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)<br>**Moderator:** Timothy Crawford (KeyBanc Capital Markets)</td>
 </tr>
 <tr>
 <td markdown="span">15:30 - 15:45</td>

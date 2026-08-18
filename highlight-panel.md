@@ -75,11 +75,11 @@ Inference is moving in a big way from the Core to the Edge, in the form of Edge 
         <small>VP Sales, Hedgehog</small>
       </td>
       <td style="width: 75%; padding: 10px; font-size: 1.2em;">
-        Gabe's passions are building cloud infrastructure and networking solutions that transform how enterprises connect, scale, and innovate. From the earliest stages of my career, I’ve been driven by the challenge of turning complex technical problems into simple, elegant platforms that unlock new possibilities for customers.
+        Gabe's passions are building cloud infrastructure and networking solutions that transform how enterprises connect, scale, and innovate. From the earliest stages of his career, he has been driven by the challenge of turning complex technical problems into simple, elegant platforms that unlock new possibilities for customers.
         <br><br>
-        Over the years, I’ve led product organizations through growth, transformation, and market disruption. I’ve built businesses from the ground up, restructured portfolios to restore profitability, and introduced breakthrough products that redefined how enterprises approach multi-cloud connectivity. Along the way, I’ve guided teams spread across the globe, developed leaders who now shape the industry, and partnered with some of the world’s most influential enterprises to co-create solutions that moved entire markets forward.
+        Over the years, Gabe has led product organizations through growth, transformation, and market disruption, building businesses from the ground up, restructured portfolios to restore profitability, and introduced breakthrough products that redefined how enterprises approach multi-cloud connectivity. Along the way, he has guided teams spread across the globe, developed leaders who now shape the industry, and partnered with some of the world’s most influential enterprises to co-create solutions that moved entire markets forward.
         <br><br>
-        My leadership philosophy blends technical depth with business acumen. I thrive at the intersection of product, engineering, and customer needs—where bold vision meets disciplined execution. I’ve cultivated expertise across cloud-native networking, software-defined infrastructure, and AI-ready platforms, while also shaping the financial and strategic frameworks that sustain growth at scale.
+        His leadership philosophy blends technical depth with business acumen. He thrives at the intersection of product, engineering, and customer needs—where bold vision meets disciplined execution. He has cultivated expertise across cloud-native networking, software-defined infrastructure, and AI-ready platforms, while also shaping the financial and strategic frameworks that sustain growth at scale.
       </td>
     </tr>
     <!-- Ofer Shapiro, Investor. -->
