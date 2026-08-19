@@ -230,7 +230,7 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">15:30 - 15:40</td>
 <td markdown="span">**HotI Awards**</td>
-<td markdown="span">Ryan Grant (Queen's University)<br>**Session chair:** Ryan Grant (Queen's University)</td>
+<td markdown="span">Ryan Grant (Queen's University), Yiltan Temucin (NVIDIA)<br>**Session chair:** Ryan Grant (Queen's University)</td>
 </tr>
 <tr>
 <td markdown="span">15:40 - 15:55</td>
