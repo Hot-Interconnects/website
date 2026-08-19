@@ -30,17 +30,33 @@ All times below are Pacific Time (PT).
 <tbody>
 <tr>
 <td markdown="span">09:00 - 09:15</td>
-<td markdown="span">**Introduction &amp; Day 1 Welcome**</td>
+<td markdown="span">**Introduction &amp; Day 1 Welcome**
+  <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a> -->
+    <!-- <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> -->
+    
+</td>
 <td markdown="span">Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
 <tr>
 <td markdown="span">09:15 - 10:15</td>
-<td markdown="span">**Keynote 1:** Lessons from networking Meta's gigawatt-scale AI fleet<br><a href="keynotes-omar.html">[details]</a></td>
+<td markdown="span">**Keynote 1:** Lessons from networking Meta's gigawatt-scale AI fleet<br><a href="keynotes-omar.html">[details]</a>
+  <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a> -->
+
+</td>
 <td markdown="span">Omar Baldonado (Meta)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
 <td markdown="span">10:15 - 10:30</td>
-<td markdown="span">**Diamond Sponsor Talk:** Lightmatter<br>BiDi DWDM: The Interconnect Foundation for High-Performance AI Training and Inference<br><a href="sponsortalk-lightmatter.html">[details]</a></td>
+<td markdown="span">**Diamond Sponsor Talk:** Lightmatter<br>BiDi DWDM: The Interconnect Foundation for High-Performance AI Training and Inference<br><a href="sponsortalk-lightmatter.html">[details]</a>
+  <a href="assets/slides/02-Nick-Harris_Lightmatter_The Interconnect Foundation for High-Performance AI Training and Inference_HotI2026.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Nick Harris<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
@@ -55,27 +71,55 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Multipass Random Leaf-Spine Networks for Extreme Scale Computing Systems</td>
+<td markdown="span">Multipass Random Leaf-Spine Networks for Extreme Scale Computing Systems
+  <a href="assets/slides/03-Alejandro-Cano.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+  
+</td>
 <td markdown="span">**Alejandro Cano** , Cristina Brinza , Cristóbal Camarero , Carmen Martínez , Ramón Beivide</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Scaling Inference Prefill with High-Radix Photonic Interconnect</td>
+<td markdown="span">Scaling Inference Prefill with High-Radix Photonic Interconnect
+
+  <a href="assets/slides/04-Arul Madhavan_Lightmatter_Scaling Inference Prefill with High Radix Photonic Interconnects_HotI2026.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+  
+</td>
 <td markdown="span">**Arulselvan Madhavan** , Peter Carson , Taylor Groves , Thomas Graham</td>
 </tr>
 <tr>
 <td markdown="span">11:40 - 11:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Broadcom<br>Distributed Computing @ Scale for AI Training &amp; Inference<br><a href="sponsortalk-broadcom.html">[details]</a></td>
+<td markdown="span">**Platinum Sponsor Talk:** Broadcom<br>Distributed Computing @ Scale for AI Training &amp; Inference<br><a href="sponsortalk-broadcom.html">[details]</a>
+  <a href="assets/slides/05-broadcom-sponsor-talk.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Mohan Kalkunte<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
 <td markdown="span">11:50 - 12:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Cisco<br>Ethernet for Shared AI Fabrics, Full Performance with Multi-Tenant Scale<br><a href="sponsortalk-cisco.html">[details]</a></td>
+<td markdown="span">**Platinum Sponsor Talk:** Cisco<br>Ethernet for Shared AI Fabrics, Full Performance with Multi-Tenant Scale<br><a href="sponsortalk-cisco.html">[details]</a>
+  <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a> -->
+
+
+</td>
 <td markdown="span">Will Eatherton<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
 <td markdown="span">12:00 - 12:10</td>
-<td markdown="span">**Platinum Sponsor Talk:** Meta<br>Co-Designing MTIA's Communication Stack<br><a href="sponsortalk-meta.html">[details]</a></td>
+<td markdown="span">**Platinum Sponsor Talk:** Meta<br>Co-Designing MTIA's Communication Stack<br><a href="sponsortalk-meta.html">[details]</a>
+  <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a> -->
+
+
+</td>
 <td markdown="span">Kirtesh Patil<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
 </tr>
 <tr>
@@ -90,22 +134,46 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform</td>
+<td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform
+  <a href="assets/slides/08-High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform_Sunil_Priyadarshi Sunil Priyadarshi.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+
+</td>
 <td markdown="span">**Sunil Priyadarshi** , Andreas Bechtolsheim , Link Wang , Gian Carlo Lambert , Jimmy Deng , Bala Ganesh Kalirajan , Brian Park , Vijay Vusirikala , Aarushi Abraham Karimpanal , Gargi Kailkhura , William Liu , Yiduo Zhang</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale</td>
+<td markdown="span">Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale
+  <a href="assets/slides/09-breaking-through-network-wall.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+
+</td>
 <td markdown="span">**Philipp Berdesinski** , Laurent Montigny , John Shalf , George Michelogiannakis</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">The Multipath Reliable Connection (MRC) Transport</td>
+<td markdown="span">The Multipath Reliable Connection (MRC) Transport
+  <a href="assets/slides/10-The_Multipath_Reliable_Connection_Transport Rip Sohan.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+
+</td>
 <td markdown="span">**Rip Sohan** , Eric Spada , Eric Davis , Mark Handley , Idan Burstein , Tony Hurson , Jithin Jose , Vivek Kashyap , Rong Pan , Sayantan Sur , Sreevatsa Anantharamu , Aviv Barnea , Adrian Caulfield , Elazar Cohen , Elliot Edmunds , Yamin Friedman , Mahdieh Ghazi , Murali Garimella , Torsten Hoefler , Vipin Jain , Abdul Kabbani , Noam Katz , Yanfang Le , Charlie Mbariky , Guglielmo Morandin , Masoud Moshref , Shane O'Neil , Michael Papamichael , Jonas Pfefferle , Siva Santosh Pyla , Costin Raiciu , David Riddoch , Karen Schramm , Yuval Shpigelman , Shahaf Shuler , Shy Shyman , Raghava Sivaramu , Amin Tootoonchian , Yang Wang</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry</td>
+<td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry
+  <a href="assets/slides/11-hoti-omnistat-v4 Aaron Welch.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+
+</td>
 <td markdown="span">**Aaron Welch** , Shubhendra Pal Singhal , Akihiro Hayashi , Jun Shirako , Oscar Hernandez , Vivek Sarkar , Steve Poole</td>
 </tr>
 <tr>
