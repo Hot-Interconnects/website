@@ -41,7 +41,7 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">10:15 - 10:30</td>
 <td markdown="span">**Diamond Sponsor Talk:** Lightmatter<br>BiDi DWDM: The Interconnect Foundation for High-Performance AI Training and Inference<br><a href="sponsortalk-lightmatter.html">[details]</a></td>
-<td markdown="span">Nick Harris<br>**Session chair:** Sayan Ghosh (Pacific Northwest National Laboratory)</td>
+<td markdown="span">Nick Harris<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
 <td markdown="span">10:30 - 10:40</td>
