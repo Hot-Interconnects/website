@@ -132,7 +132,7 @@ All times below are Pacific Time (PT).
 <td markdown="span">**Technical Paper Session B:** Hot Topic Presentations</td>
 <td markdown="span">**Session chair:** Darius Bunandar (Lightmatter)</td>
 </tr>
-<tr>
+<tr> 
 <td markdown="span"></td>
 <td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform
   <a href="assets/slides/08-High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform_Sunil_Priyadarshi Sunil Priyadarshi.pdf" target="_blank">
