@@ -105,7 +105,7 @@ All times below are Pacific Time (PT).
 <td markdown="span">**Platinum Sponsor Talk:** Cisco<br>Ethernet for Shared AI Fabrics, Full Performance with Multi-Tenant Scale<br><a href="sponsortalk-cisco.html">[details]</a>
   <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a> -->
+  </a> --> 
 
 
 </td>
@@ -334,7 +334,7 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">09:00 - 12:15</td>
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications</td>
-<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Andreas Herten (Jülich Supercomputing Centre)<br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)</td>
+<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Michal Rajski (Jülich Supercomputing Centre) and Andreas Herten (Jülich Supercomputing Centre) Session chairs: Mike Adams, Jackson Wesley (University of New Mexico) </td>
 </tr>
 <tr>
 <td markdown="span">12:15 - 13:30</td>
