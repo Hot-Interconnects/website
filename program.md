@@ -334,7 +334,10 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">09:00 - 12:15</td>
 <td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications</td>
-<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Michal Rajski (Jülich Supercomputing Centre) and Andreas Herten (Jülich Supercomputing Centre) Session chairs: Mike Adams, Jackson Wesley (University of New Mexico) </td>
+<td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Michal Rajski (Jülich Supercomputing Centre) and Andreas Herten (Jülich Supercomputing Centre)
+<br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)
+
+</td>
 </tr>
 <tr>
 <td markdown="span">12:15 - 13:30</td>
