@@ -395,7 +395,12 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">11:30 - 15:15</td>
-<td markdown="span">A Practical Guide to Communication Libraries on AMD GPUs</td>
+<td markdown="span">A Practical Guide to Communication Libraries on AMD GPUs
+ <a href="assets/slides/HoTI-AMD-CommLibs-Tutorial_final Edgar Gabriel.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Aurelien Bouteiller, Corey Derochie, Edgar Gabriel, Nusrat Islam (AMD)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
 </tr>
 </tbody>
