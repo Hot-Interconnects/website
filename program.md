@@ -237,22 +237,41 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">OCI</td>
+<td markdown="span">OCI
+  <a href="assets/slides/Taylor Groves - Optical Compute Interconnects MSA - Hot Interconnects '26 Final.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Drew Alduino (Meta)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Open CPX</td>
+<td markdown="span">Open CPX
+  <a href="assets/slides/Taylor Groves - Open CPX MSA for AI Scaling Ryan 2026-0817.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span"><a href="https://www.linkedin.com/in/rangchenyu/" target="_blank" rel="noopener noreferrer">Ryan Yu</a> (TeraHop)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">SDM4 MCF</td>
+<td markdown="span">SDM4 MCF
+  <a href="assets/slides/Taylor Groves - Corning SDM4 MSA discussion.pptx" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+</td>
 <td markdown="span"><a href="https://www.linkedin.com/in/gabriel-sudduth/" target="_blank" rel="noopener noreferrer">Gabe Sudduth</a> (Corning)</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">XPO</td>
+<td markdown="span">XPO
+  <a href="assets/slides/Taylor Groves - IEEE HOTI XPO Lightining Session_2026_Sunil Priyadarshi.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span"><a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank" rel="noopener noreferrer">Sunil Priyadarshi</a> (Arista)</td>
 </tr>
 <tr>
@@ -282,17 +301,34 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory</td>
+<td markdown="span">Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory
+<a href="assets/slides/12-paper-dodoco_bole_ma Bole Ma.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">**Bole Ma** , Jan Eitzinger , Harald Köstler , Gerhard Wellein</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA</td>
+<td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA
+<a href="assets/slides/13-paper-HotI_2026 Zhonghao Chen.pptx" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">**Zhonghao Chen** , Yuke Li , Xiaoyi Lu</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication</td>
+
+<td markdown="span">Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication
+<a href="assets/slides/14-paper-NVSHMEM_Yijun Ma.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+
+</td>
 <td markdown="span">**Yijun Ma** , Siyuan Shen , Tiancheng Chen , Akhil Langer , Jiri Kraus , Benjamin Glick , Craig Belusar , Jeff Hammond , Torsten Hoefler</td>
 </tr>
 <tr>
@@ -333,7 +369,12 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">09:00 - 12:15</td>
-<td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications</td>
+<td markdown="span">GPU Communication Libraries for Accelerating HPC and AI Applications
+<a href="assets/slides/GPU Comms HotI Tutorial-2026-real Ben Glick.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Michal Rajski (Jülich Supercomputing Centre) and Andreas Herten (Jülich Supercomputing Centre)
 <br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)
 
@@ -351,7 +392,12 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">13:30 - 16:30</td>
-<td markdown="span">Principles and Practice of Scalable and Distributed AI Training and Inference</td>
+<td markdown="span">Principles and Practice of Scalable and Distributed AI Training and Inference
+<a href="assets/slides/hoti26-hpcai Nawras Alnaasan.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University)<br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)</td>
 </tr>
 </tbody>
@@ -380,7 +426,12 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">08:00 - 11:00</td>
-<td markdown="span">Open Interconnect Innovations: A Deep Dive into the UALink Chiplet Specification Tutorial presented by UALink and UCIe Consortia</td>
+<td markdown="span">Open Interconnect Innovations: A Deep Dive into the UALink Chiplet Specification Tutorial presented by UALink and UCIe Consortia
+<a href="assets/slides/HotI2026_UCIe_UALink Tutorial Nolan Morgan.pptx" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Rob Pelt (AMD), Peter Onufryk (Intel), Swadesh Choudhary (Intel), Joe Wu (Intel), Gerald Pasdast (Intel)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
 </tr>
 <tr>
@@ -429,7 +480,12 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">09:00 - 12:00</td>
-<td markdown="span">High Performance and Smart Networking Technologies for HPC and AI</td>
+<td markdown="span">High Performance and Smart Networking Technologies for HPC and AI
+<a href="assets/slides/OSU_HPN_HotI-2026 Benjamin Michalowicz.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
 </tr>
 <tr>
@@ -444,7 +500,12 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">12:30 - 17:00</td>
-<td markdown="span">Understanding Communication Performance on Emerging Heterogeneous Architectures</td>
+<td markdown="span">Understanding Communication Performance on Emerging Heterogeneous Architectures
+<a href="assets/slides/UnderstandingCommunicationPerformanceOnHeteroArchTutorial-Final Shelby Lockhart.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+</td>
 <td markdown="span">Bob Robey, Shelby Lockhart, Giacomo Capodaglio (AMD), Amanda Bienz, Patrick Bridges (University of New Mexico), Sameer Shende (University of Oregon)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
 </tr>
 </tbody>
