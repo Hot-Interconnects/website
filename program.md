@@ -281,7 +281,13 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">11:50 - 12:00</td>
-<td markdown="span">**Platinum Sponsor Talk:** Eliyan<br>From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure<br><a href="sponsortalk-eliyan.html">[details]</a></td>
+<td markdown="span">**Platinum Sponsor Talk:** Eliyan<br>From Long Reach to Smart Reach: The Evolution of SerDes for AI Infrastructure<br><a href="sponsortalk-eliyan.html">[details]</a>
+  <a href="assets/slides/2026 Hot Interconnects - Smart SerDes Rohan Gandhi.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
+
+
+</td>
 <td markdown="span">Rohan Gandhi<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
