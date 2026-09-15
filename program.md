@@ -34,7 +34,7 @@ All times below are Pacific Time (PT).
   <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a> -->
-    <!-- <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> -->
+  <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=10" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
     
 </td>
 <td markdown="span">Sayan Ghosh (Pacific Northwest National Laboratory)</td>
@@ -45,6 +45,7 @@ All times below are Pacific Time (PT).
   <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a> -->
+  <a href="https://youtu.be/tkmyZNmoWHI?si=zCbDI2_82BgCUwoe" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Omar Baldonado (Meta)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
@@ -55,6 +56,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/02-Nick-Harris_Lightmatter_The Interconnect Foundation for High-Performance AI Training and Inference_HotI2026.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=CoDo5P8NG3g&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=13" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Nick Harris<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
@@ -75,7 +77,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/03-Alejandro-Cano.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
-  
+  <a href="https://www.youtube.com/watch?v=DIbYCGBd-4o&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=12" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 </td>
 <td markdown="span">**Alejandro Cano** , Cristina Brinza , Cristóbal Camarero , Carmen Martínez , Ramón Beivide</td>
 </tr>
@@ -86,6 +88,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/04-Arul Madhavan_Lightmatter_Scaling Inference Prefill with High Radix Photonic Interconnects_HotI2026.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=mUkJAp1SLZc&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=14" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
   
 </td>
 <td markdown="span">**Arulselvan Madhavan** , Peter Carson , Taylor Groves , Thomas Graham</td>
@@ -96,6 +99,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/05-broadcom-sponsor-talk.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=SJs0sLMH-3c&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=15" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Mohan Kalkunte<br>**Session chair:** Kapil Shrikhande (Upscale AI)</td>
@@ -106,6 +110,7 @@ All times below are Pacific Time (PT).
   <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a> --> 
+  <a href="https://www.youtube.com/watch?v=nDz0kLI9dvg&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=16" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 
 </td>
@@ -117,6 +122,7 @@ All times below are Pacific Time (PT).
   <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a> -->
+  <a href="https://www.youtube.com/watch?v=QIzeSr_rFmo&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=17" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 
 </td>
@@ -138,6 +144,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/08-High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform_Sunil_Priyadarshi Sunil Priyadarshi.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=Z0uuw1h0RZs&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=18" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 
 </td>
@@ -149,6 +156,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/09-breaking-through-network-wall.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=yrDEloefTac&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=19" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 
 </td>
@@ -160,7 +168,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/10-The_Multipath_Reliable_Connection_Transport Rip Sohan.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
-
+<a href="https://www.youtube.com/watch?v=jnGn9vm8Euk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=20" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">**Rip Sohan** , Eric Spada , Eric Davis , Mark Handley , Idan Burstein , Tony Hurson , Jithin Jose , Vivek Kashyap , Rong Pan , Sayantan Sur , Sreevatsa Anantharamu , Aviv Barnea , Adrian Caulfield , Elazar Cohen , Elliot Edmunds , Yamin Friedman , Mahdieh Ghazi , Murali Garimella , Torsten Hoefler , Vipin Jain , Abdul Kabbani , Noam Katz , Yanfang Le , Charlie Mbariky , Guglielmo Morandin , Masoud Moshref , Shane O'Neil , Michael Papamichael , Jonas Pfefferle , Siva Santosh Pyla , Costin Raiciu , David Riddoch , Karen Schramm , Yuval Shpigelman , Shahaf Shuler , Shy Shyman , Raghava Sivaramu , Amin Tootoonchian , Yang Wang</td>
@@ -171,19 +179,23 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/11-hoti-omnistat-v4 Aaron Welch.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
-
+<a href="https://www.youtube.com/watch?v=qZyr93vUPPE&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=21" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">**Aaron Welch** , Shubhendra Pal Singhal , Akihiro Hayashi , Jun Shirako , Oscar Hernandez , Vivek Sarkar , Steve Poole</td>
 </tr>
 <tr>
 <td markdown="span">14:00 - 15:30</td>
-<td markdown="span">**Panel:** Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now?<br><a href="highlight-panel.html">[details]</a></td>
-<td markdown="span">**Panelists:** Inder Monga (ESnet), Yosuke Aragane (NTT), Tanner Ryan (Cloudflare), Gabriel Montanti (Hedgehog), Ofer Shapiro (Resolight), Amy Leeland (GEICO)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)<br>**Moderator:** Timothy Crawford (KeyBanc Capital Markets)</td>
+<td markdown="span">**Panel:** Interconnects at the Edge Data Center: What are the roles of Scale-Up, Scale-Out, and Scale-Across now?<br><a href="highlight-panel.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=7Ae-dZOAZhg&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=22" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
+</td>
+<td markdown="span">**Panelists:** Inder Monga (ESnet), Yosuke Aragane (NTT), Tanner Ryan (Cloudflare), Gabriel Montanti (Hedgehog), Ofer Shapiro (Resolight), Amy Leeland (GEICO)<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)<br>**Moderator:** Timothy Crawford (KeyBanc Capital Markets)</td> 
 </tr>
 <tr>
 <td markdown="span">15:30 - 15:45</td>
-<td markdown="span">**The Head Bubba Memorial and HotI Closing Remarks Day 1**</td>
+<td markdown="span">**The Head Bubba Memorial and HotI Closing Remarks Day 1**
+<a href="https://www.youtube.com/watch?v=BZh0A7r1r5c&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=23" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+</td>
 <td markdown="span">Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 </tbody>
@@ -207,22 +219,32 @@ All times below are Pacific Time (PT).
 <tbody>
 <tr>
 <td markdown="span">08:50 - 09:00</td>
-<td markdown="span">**Day 2 Welcome**</td>
+<td markdown="span">**Day 2 Welcome**
+<a href="https://www.youtube.com/watch?v=xSn7uAeQHDU&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=24" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
+</td>
 <td markdown="span">Sayan Ghosh (Pacific Northwest National Laboratory)</td>
 </tr>
 <tr>
 <td markdown="span">09:00 - 10:00</td>
-<td markdown="span">**Keynote 2:** Networking Innovations for Gigascale AI Systems<br><a href="keynotes-gilad.html">[details]</a></td>
+<td markdown="span">**Keynote 2:** Networking Innovations for Gigascale AI Systems<br><a href="keynotes-gilad.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=FjVjaxej7Yk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=39" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+</td>
 <td markdown="span">Gilad Shainer (NVIDIA)<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">10:00 - 10:15</td>
-<td markdown="span">**Diamond Sponsor Talk:** Marvell<br>A Shared Memory Architecture for Token-Efficient AI Infrastructure<br><a href="sponsortalk-marvell.html">[details]</a></td>
+<td markdown="span">**Diamond Sponsor Talk:** Marvell<br>A Shared Memory Architecture for Token-Efficient AI Infrastructure<br><a href="sponsortalk-marvell.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=V6oeXh3dj6M&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=35" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+
+</td>
 <td markdown="span">Ravi Mahatme<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
 </tr>
 <tr>
 <td markdown="span">10:15 - 10:30</td>
-<td markdown="span">**Diamond Sponsor Talk:** Napatech<br>AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across<br><a href="sponsortalk-napatech.html">[details]</a></td>
+<td markdown="span">**Diamond Sponsor Talk:** Napatech<br>AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across<br><a href="sponsortalk-napatech.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=gsWYS4-Rd_g&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=25" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+
+</td>
 <td markdown="span">Alex Omø Agerholm<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
 </tr>
 <tr>
@@ -232,7 +254,8 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">10:40 - 11:40</td>
-<td markdown="span">**MSA Lightning Talk Session**<br><a href="highlights.html#lightning-session">[details]</a></td>
+<td markdown="span">**MSA Lightning Talk Session**<br><a href="highlights.html#lightning-session">[details]</a> 
+</td>
 <td markdown="span">**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
@@ -241,6 +264,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/Taylor Groves - Optical Compute Interconnects MSA - Hot Interconnects '26 Final.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=0cT-_Bn8xPg&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=38" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a>
 
 </td>
 <td markdown="span">Drew Alduino (Meta)</td>
@@ -251,6 +275,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/Taylor Groves - Open CPX MSA for AI Scaling Ryan 2026-0817.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://youtu.be/0cT-_Bn8xPg?si=lhsNemr_rwaNrtZP&t=1120" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span"><a href="https://www.linkedin.com/in/rangchenyu/" target="_blank" rel="noopener noreferrer">Ryan Yu</a> (TeraHop)</td>
@@ -261,6 +286,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/Taylor Groves - Corning SDM4 MSA discussion.pptx" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://youtu.be/0cT-_Bn8xPg?si=Q5gikphBUwVClt-Y&t=2213" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 </td>
 <td markdown="span"><a href="https://www.linkedin.com/in/gabriel-sudduth/" target="_blank" rel="noopener noreferrer">Gabe Sudduth</a> (Corning)</td>
 </tr>
@@ -270,13 +296,17 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/Taylor Groves - IEEE HOTI XPO Lightining Session_2026_Sunil Priyadarshi.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://youtu.be/0cT-_Bn8xPg?si=CddOK-iHME7-JMda&t=2776" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span"><a href="https://www.linkedin.com/in/sunilpriyadarshi" target="_blank" rel="noopener noreferrer">Sunil Priyadarshi</a> (Arista)</td>
 </tr>
 <tr>
 <td markdown="span">11:40 - 11:50</td>
-<td markdown="span">**Platinum Sponsor Talk:** Qualcomm<br>Scaling AI with Chiplets &amp; CPO<br><a href="sponsortalk-qualcomm.html">[details]</a></td>
+<td markdown="span">**Platinum Sponsor Talk:** Qualcomm<br>Scaling AI with Chiplets &amp; CPO<br><a href="sponsortalk-qualcomm.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=ezcfsEEvCyw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=34" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+
+</td>
 <td markdown="span">Dave Kulansky<br>**Session chair:** Dan Pitt (Palo Alto Innovation Advisors)</td>
 </tr>
 <tr>
@@ -285,6 +315,7 @@ All times below are Pacific Time (PT).
   <a href="assets/slides/2026 Hot Interconnects - Smart SerDes Rohan Gandhi.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=FrC_ipjrlzg&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=37" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 
 </td>
@@ -297,7 +328,10 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">13:00 - 14:00</td>
-<td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a></td>
+<td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a>
+<a href="https://www.youtube.com/watch?v=-0YqFYwBbWI&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=27" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+
+</td>
 <td markdown="span">Bilal Riaz (Ciena)<br>**Session chair:** Pasha Shamis (NVIDIA)</td>
 </tr>
 <tr>
@@ -311,6 +345,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/12-paper-dodoco_bole_ma Bole Ma.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+<a href="https://www.youtube.com/watch?v=GQgd-7YrIUc&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=26" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">**Bole Ma** , Jan Eitzinger , Harald Köstler , Gerhard Wellein</td>
@@ -321,6 +356,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/13-paper-HotI_2026 Zhonghao Chen.pptx" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=v5XbA1inLbY&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=28" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">**Zhonghao Chen** , Yuke Li , Xiaoyi Lu</td>
@@ -332,6 +368,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/14-paper-NVSHMEM_Yijun Ma.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=kf-vylDz7XY&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=29" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 
 </td>
@@ -339,12 +376,16 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span">15:30 - 15:40</td>
-<td markdown="span">**HotI Awards**</td>
+<td markdown="span">**HotI Awards**
+<a href="https://www.youtube.com/watch?v=M1LQiOyd8LI&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=30" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+</td>
 <td markdown="span">Ryan Grant (Queen's University), Yiltan Temucin (NVIDIA)<br>**Session chair:** Ryan Grant (Queen's University)</td>
 </tr>
 <tr>
 <td markdown="span">15:40 - 15:55</td>
-<td markdown="span">**HotI Closing Remarks**</td>
+<td markdown="span">**HotI Closing Remarks**
+<a href="https://youtu.be/M1LQiOyd8LI?si=ITvhpOC5oeBRk4Ik&t=82" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+</td>
 <td markdown="span">David Ozog (NVIDIA)</td>
 </tr>
 </tbody>
@@ -379,7 +420,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/GPU Comms HotI Tutorial-2026-real Ben Glick.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
-
+<a href="https://www.youtube.com/watch?v=CCR7a1l5odk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=33" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 </td>
 <td markdown="span">Benjamin Glick, Pouya Kousha (NVIDIA), Michal Rajski (Jülich Supercomputing Centre) and Andreas Herten (Jülich Supercomputing Centre)
 <br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)
@@ -402,6 +443,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/hoti26-hpcai Nawras Alnaasan.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=0IWHp7bBT6w&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=6" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Nawras Alnaasan (The Ohio State University)<br>**Session chairs:** Mike Adams, Jackson Wesley (University of New Mexico)</td>
@@ -436,6 +478,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/HotI2026_UCIe_UALink Tutorial Nolan Morgan.pptx" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=1wo7YMMx6yw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=31" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Rob Pelt (AMD), Peter Onufryk (Intel), Swadesh Choudhary (Intel), Joe Wu (Intel), Gerald Pasdast (Intel)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
@@ -456,6 +499,7 @@ All times below are Pacific Time (PT).
  <a href="assets/slides/HoTI-AMD-CommLibs-Tutorial_final Edgar Gabriel.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+<a href="https://www.youtube.com/watch?v=6kbe6LEMJfs&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=8" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Aurelien Bouteiller, Corey Derochie, Edgar Gabriel, Nusrat Islam (AMD)<br>**Session chair:** Shannon Kinkead (Sandia National Laboratories)</td>
@@ -490,6 +534,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/OSU_HPN_HotI-2026 Benjamin Michalowicz.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=u0sFmUYE2Os&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=32" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Dhabaleswar K. (DK) Panda, Benjamin Michalowicz (The Ohio State University)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
@@ -510,6 +555,7 @@ All times below are Pacific Time (PT).
 <a href="assets/slides/UnderstandingCommunicationPerformanceOnHeteroArchTutorial-Final Shelby Lockhart.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=_MA10XbykgM&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=7" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
 </td>
 <td markdown="span">Bob Robey, Shelby Lockhart, Giacomo Capodaglio (AMD), Amanda Bienz, Patrick Bridges (University of New Mexico), Sameer Shende (University of Oregon)<br>**Session chair:** Amanda Bienz (University of New Mexico)</td>
