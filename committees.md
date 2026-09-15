@@ -1,13 +1,18 @@
 ---
 # title: Committees
 ---
-<div style="max-width: 850px; margin: 0 auto; text-align: center">
+<!-- <div style="max-width: 850px; margin: 0 auto; text-align: center">
   <div style="text-align: center; font-size: 30px">
     <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
   </div>
+</div> -->
+
+<br>
+<div style="text-align: center; font-size: 30px">
+    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11"> YouTube</a>!</strong>
+    <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
-
-
+<br>
 
 <div class="oc-container">
 

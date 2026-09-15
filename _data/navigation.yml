@@ -3,8 +3,8 @@ main:
   - title: Event
     url: /highlights.html
     submenu:
-      - title: Registration
-        url: "/attendee_instructions.html"
+      # - title: Registration
+      #   url: "/attendee_instructions.html"
       - title: Highlights
         url: "/highlights.html"
       - title: Program

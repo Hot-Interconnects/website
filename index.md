@@ -2,11 +2,16 @@
 # title: Home
 ---
 <br>
+<div style="text-align: center; font-size: 30px">
+    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11"> YouTube</a>!</strong>
+    <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+</div>
+<br>
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
-    <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
-    <a href="program.html" style="color:white; background-color: red">Click here to VIEW HotI'26 Program</a><br><br>
+    <!-- <a href="attendee_instructions.html" style="color:white; background-color: red">Click here to REGISTER or JOIN the event!</a><br><br>
+    <a href="program.html" style="color:white; background-color: red">Click here to VIEW HotI'26 Program</a><br><br> -->
     <strong>Welcome to the 33rd iteration of the IEEE Hot Interconnects symposium. </strong>
     <strong>HotI’2026 will be held virtually.</strong><br><br>
     <div style="position: relative; width: 100%; max-width: 720px; margin: 0 auto 24px; padding-top: 56.25%;">

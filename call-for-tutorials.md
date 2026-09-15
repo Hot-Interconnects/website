@@ -2,14 +2,13 @@
 # title: Call For Tutorials
 ---
 
-<!-- <br>
 
+<br>
 <div style="text-align: center; font-size: 30px">
-    <strong>HotI 2025 has concluded. Watch the recordings of all HotI 2025 sessions and talks on <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=b-ByJQDyWBU&list=PLBM5Lly_T4yRGBFgforeMTDpjasC_PV7r" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11"> YouTube</a>!</strong>
+    <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
-
-<br> -->
+<br>
 
 # Call For Tutorials
 
