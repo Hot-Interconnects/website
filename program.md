@@ -339,6 +339,9 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">11:40 - 11:50</td>
 <td markdown="span">**Platinum Sponsor Talk:** Qualcomm<br>Scaling AI with Chiplets &amp; CPO<br><a href="sponsortalk-qualcomm.html">[details]</a>
+<a href="assets/slides/IEEE_HotI_2026_Qualcomm.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
 <a href="https://www.youtube.com/watch?v=ezcfsEEvCyw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=34" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 <a href="assets/slack_html_export/2026-d2-1140-sponsor-qualcomm.html" target="_blank"> <img src="assets/img/slack.png" alt="Slack Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
