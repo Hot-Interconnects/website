@@ -244,6 +244,9 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">09:00 - 10:00</td>
 <td markdown="span">**Keynote 2:** Networking Innovations for Gigascale AI Systems<br><a href="keynotes-gilad.html">[details]</a>
+ <a href="assets/slides/NVIDIA_20Networking_20Innovations_20-_20Hoti_202026_20-_20Shainer.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
 <a href="https://www.youtube.com/watch?v=FjVjaxej7Yk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=39" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 </td>
 <td markdown="span">Gilad Shainer (NVIDIA)<br>**Session chair:** Ron Brightwell (Sandia National Laboratories)</td>
@@ -346,8 +349,12 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">13:00 - 14:00</td>
 <td markdown="span">**Keynote 3:** The Future of AI Interconnects: Open Approaches to High-Performance AI Infrastructure<br><a href="keynotes-Bilal.html">[details]</a>
-<a href="https://www.youtube.com/watch?v=-0YqFYwBbWI&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=27" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+ <a href="assets/slides/The Future of AI Interconnects_Bilal_Riaz_HOT_2026_vfinal.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
 
+<a href="https://www.youtube.com/watch?v=-0YqFYwBbWI&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=27" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+ 
 </td>
 <td markdown="span">Bilal Riaz (Ciena)<br>**Session chair:** Pasha Shamis (NVIDIA)</td>
 </tr>
