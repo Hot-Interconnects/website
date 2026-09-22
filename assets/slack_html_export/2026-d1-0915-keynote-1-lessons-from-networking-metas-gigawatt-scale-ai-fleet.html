@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-d1-0915-keynote-1-lessons-from-networking-metas-gigawatt-scale-ai-fleet</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d1c1d;
+    --muted: #616061;
+    --border: #e8e8e8;
+    --mention-bg: #e8f5fa;
+    --mention-text: #1264a3;
+    --code-bg: #f6f6f6;
+    --thread-border: #dddddd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.46668;
+  }
+  .archive-header {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .archive-header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+  }
+  .archive-header .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .conversation {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+  }
+  .message:hover {
+    background: #f8f8f8;
+  }
+  .avatar {
+    flex: 0 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .msg-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .msg-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .username {
+    font-weight: 900;
+  }
+  .timestamp {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+  .msg-text {
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  .msg-text pre {
+    background: var(--code-bg);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .msg-text code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+  .msg-text blockquote {
+    margin: 0.25rem 0;
+    padding-left: 0.75rem;
+    border-left: 3px solid #ddd;
+    color: var(--muted);
+  }
+  .mention {
+    background: var(--mention-bg);
+    color: var(--mention-text);
+    padding: 0 0.2rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .system-message {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    padding: 0.25rem 0.5rem 0.25rem 3.25rem;
+  }
+  .attachment img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 6px;
+    margin-top: 0.4rem;
+    border: 1px solid var(--border);
+    display: block;
+  }
+  .reactions {
+    margin-top: 0.35rem;
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .reaction {
+    background: #eef7fb;
+    border: 1px solid #cfe6f2;
+    border-radius: 12px;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  .thread {
+    margin: 0.5rem 0 0.25rem 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--thread-border);
+  }
+  .thread-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  hr.day-divider {
+    max-width: 760px;
+    margin: 1.75rem auto;
+    border: none;
+    border-top: 1px solid var(--border);
+    position: relative;
+  }
+  .day-label {
+    max-width: 760px;
+    margin: 1.75rem auto 0.5rem;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+</style>
+</head>
+<body>
+<div class="archive-header">
+  <h1>2026-d1-0915-keynote-1-lessons-from-networking-metas-gigawatt-scale-ai-fleet</h1>
+  <div class="meta">Archived conversation &middot; Aug 13, 2026 8:38 PM &ndash; Aug 21, 2026 8:03 AM &middot; 91 messages</div>
+</div>
+<div class="conversation">
+<div class="day-label">Thursday, August 13, 2026</div><hr class="day-divider">
+<div class="system-message">Ryan Scherbarth (nvidia) joined the channel</div>
+<div class="day-label">Friday, August 14, 2026</div><hr class="day-divider">
+<div class="system-message">Redfire joined the channel</div>
+<div class="day-label">Sunday, August 16, 2026</div><hr class="day-divider">
+<div class="system-message">Gunethra joined the channel</div>
+<div class="day-label">Monday, August 17, 2026</div><hr class="day-divider">
+<div class="system-message">alnonecat joined the channel</div>
+<div class="day-label">Tuesday, August 18, 2026</div><hr class="day-divider">
+<div class="system-message">Steve Glaser (NVIDIA) joined the channel</div>
+<div class="system-message">Dr ABANDA EVA Pierre Robert joined the channel</div>
+<div class="system-message">David Ozog joined the channel</div>
+<div class="system-message">Allen Baum joined the channel</div>
+<div class="system-message">Taylor Groves joined the channel</div>
+<div class="system-message">Sayan Ghosh joined the channel</div>
+<div class="system-message">Pepper Marts joined the channel</div>
+<div class="system-message">Marc Cohn joined the channel</div>
+<div class="system-message">Dan Pitt joined the channel</div>
+<div class="system-message">Rohit Zambre joined the channel</div>
+<div class="system-message">Matthew Fricke joined the channel</div>
+<div class="system-message">Yiltan Temucin joined the channel</div>
+<div class="system-message">Matthew Fricke renamed the channel from &quot;2026-d1-0915-lessons-from-networking-metas-gigawatt-scale-ai-fleet&quot; to &quot;2026-d1-0915-keynote-lessons-from-networking-metas-gigawatt-scale-ai-fleet&quot;</div>
+<div class="system-message">aysebilgehan_baspinar joined the channel</div>
+<div class="system-message">Kapil Shrikhande joined the channel</div>
+<div class="system-message">Subhadeep Bhattacharya joined the channel</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d1-0915-keynote-lessons-from-networking-metas-gigawatt-scale-ai-fleet&quot; to &quot;2026-d1-0915-keynote1-lessons-from-networking-metas-gigawatt-scale-ai-fleet&quot;</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d1-0915-keynote1-lessons-from-networking-metas-gigawatt-scale-ai-fleet&quot; to &quot;2026-d1-0915-keynote-1-lessons-from-networking-metas-gigawatt-scale-ai-fleet&quot;</div>
+<div class="day-label">Wednesday, August 19, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">10:49 AM</span>
+    </div>
+    <div class="msg-text">Hi everyone!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ahmed Khalil (unaffiliated)</span>
+      <span class="timestamp">10:57 AM</span>
+    </div>
+    <div class="msg-text">Hello all!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ramtin Soleymani</span>
+      <span class="timestamp">11:00 AM</span>
+    </div>
+    <div class="msg-text">Hello!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">W</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Weikai Sun</span>
+      <span class="timestamp">11:06 AM</span>
+    </div>
+    <div class="msg-text">conference proceedings username and password does not work</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">W</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Weikai Sun</span>
+      <span class="timestamp">11:06 AM</span>
+    </div>
+    <div class="msg-text"></div>
+    <div class="attachment"><img src="data:image/png;base64,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" alt="image.png"></div>
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">7 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">Y</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Yiltan Temucin</span>
+      <span class="timestamp">11:08 AM</span>
+    </div>
+    <div class="msg-text"><code>conf26//</code> should work</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">Y</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Yiltan Temucin</span>
+      <span class="timestamp">11:09 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Ryan Scherbarth (nvidia)</span> is there a typo in the zoom prompt</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ryan Scherbarth (nvidia)</span>
+      <span class="timestamp">11:10 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Matthew Fricke</span> / <span class="mention">@Subhadeep Bhattacharya</span> I'm not sure where this is configured off the top of my head</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">W</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Weikai Sun</span>
+      <span class="timestamp">11:11 AM</span>
+    </div>
+    <div class="msg-text">just followed the link and type the username/password. it does not work</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">Y</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Yiltan Temucin</span>
+      <span class="timestamp">11:12 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Weikai Sun</span> Just to double check, does the prompt match the note in the <span class="mention">#C0154F3UDTQ</span> channel?<br>
+<br>
+<a href="https://hot-interconnects.slack.com/archives/C0154F3UDTQ/p1786739573517959" target="_blank" rel="noopener">https://hot-interconnects.slack.com/archives/C0154F3UDTQ/p1786739573517959</a></div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Subhadeep Bhattacharya</span>
+      <span class="timestamp">11:13 AM</span>
+    </div>
+    <div class="msg-text">Fixed the lobby announcement.</div>
+    
+    <div class="reactions"><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">W</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Weikai Sun</span>
+      <span class="timestamp">11:13 AM</span>
+    </div>
+    <div class="msg-text">thanks. working now. missed the "//" in password in earlier announcement</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">11:08 AM</span>
+    </div>
+    <div class="msg-text">Hello Interconnects Folks</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">11:24 AM</span>
+    </div>
+    <div class="msg-text">Weikai, please post this issue in <span class="mention">#C0154F3UDTQ</span>.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">11:30 AM</span>
+    </div>
+    <div class="msg-text">Can you be more specific on "as large as possible" for the scale up domain? Assume a time frame of 2028+, if the network and technologies could support it, would this be over 1k GPU packages? And what bandwidth per GPU package would you desire?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">11:41 AM</span>
+    </div>
+    <div class="msg-text">I will make sure Omar gets to these questions in the Q&amp;amp;A.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ram Sharan Chaulagain</span>
+      <span class="timestamp">11:47 AM</span>
+    </div>
+    <div class="msg-text">As scale-up, scale-out, and scale-across become more integrated, do you think they’ll still stay remain fundamentally different networking domains, or are we moving toward a common architecture?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">11:50 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Omar Baldonado (Meta)</span>  If a new AL accelerator ASIC is ready to plug into Meta datacenter, what kind of network link or protocol enable the chip can plug-n-play w/o much customization at your side?  Or what kind of network link do you suggest we use in such chips?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">12:11 PM</span>
+    </div>
+    <div class="msg-text">Thanks a lot <span class="mention">@Omar Baldonado (Meta)</span>!  Ethernet connection for RDMA, plus some in-tray specific local links ... like PCIe or UCIe?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:40 PM</span>
+    </div>
+    <div class="msg-text">That's a pretty good summary - first you have to see for that ASIC what type of server/rack system it is sitting in (and what traffic requirements the ASIC will have in/out) - basically what scale-up is it going to sit in (or if it sits in one at all, vs. being part of say a regular front-end fabric). Then you can see what requirements need to go in/out of the ASIC and that informs the building-level fabric requirements (whether a backend scale-out fabric or a front-end fabric).</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">11:51 AM</span>
+    </div>
+    <div class="msg-text">Hi Cissy!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">11:52 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Omar Baldonado (Meta)</span>  Does Meta's AI specific links for AI can distinguish the traffic is for memory or computing?  AI chips require different traffic character for different challenges.  Thank you for sharing your insights!</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:42 PM</span>
+    </div>
+    <div class="msg-text">"For memory" - do you mean like what is RDMA traffic vs non-RDMA traffic? If so, then yes, we have telemetry from all the switches that is monitoring the traffic (protocol/endpoints/...)</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">11:54 AM</span>
+    </div>
+    <div class="msg-text">Aside from power delivery distance, how much does distance/accessibility to natural resources like water source matter in determining the breadth and potential expansion of the scale across domain?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">11:55 AM</span>
+    </div>
+    <div class="msg-text">HI <span class="mention">@Dan Pitt</span> So nice to see you again! ❤️  It's amazing HotI has made huge impacts to hardware industry every year!  Thank you and  HOTI committee for your exceptional leadership! 🙌 👏</div>
+    
+    <div class="reactions"><span class="reaction">👏 2</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Pankaj Mehra</span>
+      <span class="timestamp">11:59 AM</span>
+    </div>
+    <div class="msg-text">With scale-in and vendor proprietary integration growing to the scale of proprietary racks, are you not putting pressure on Ethernet to do things it was not designed to do?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:45 PM</span>
+    </div>
+    <div class="msg-text">The number of historical 802.x standards should we've continually been putting pressure on Ethernet over the decades 🙂 But seriously, not all of Ethernet is appropriate for scale-up/low-latency/high-bandwidth efficiency, and I wouldn't put an Ethernet switch in the middle of a compute tray for die-to-die communication if I didn't have to. We push for Ethernet because it provides a well-known, mature ecosystem of products, vendors, and researchers, even as we all push it to do new things.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">11:59 AM</span>
+    </div>
+    <div class="msg-text">Do you have an example of upgrading (or a plan to upgrade) the scale-out backend network with newer switches? What lessons were learned or how are you thinking about this?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:50 PM</span>
+    </div>
+    <div class="msg-text">Meta had a paper at SIGCOMM a few years ago (2023?) that gave examples of how we plan and do "drains" of fabrics. A lot of that is applied to our scale-out network. Something we also push for is warm-boot and ISSU-style capabilities - you can see within the OCP Switch Abstraction Interface (SAI) project of how we ask for this, because it lets us do these upgrades with less impact.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">H</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Hesham ElBakoury</span>
+      <span class="timestamp">12:00 PM</span>
+    </div>
+    <div class="msg-text">Can we have one standard for scale up instead of having NVLINK, UALINK, ESUN and SUE.</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:52 PM</span>
+    </div>
+    <div class="msg-text">Trying 🙂 One of the takeaways I shared is that scale-up is heavily part of the AI system and that varies heavily. ESUN is a multi-vendor initiative within OCP, including a number of those AI vendors. Small note: I believe SUE has moved to be more focused on transport layer (SUE-T), even as it leverages Ethernet underneath.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ahmed Khalil (unaffiliated)</span>
+      <span class="timestamp">12:04 PM</span>
+    </div>
+    <div class="msg-text">Really useful point that new accelerators, network hardware and topologies are entering the fleet so quickly. When one layer changes, say GPU/NIC, PCIe or CXL, transport, collective stack, or topology, how do you determine the smallest set of cross-layer assumptions that must be revalidated before rollout? Is there a machine-readable dependency model for that today, or is it still largely expert-driven? Thanks for sharing!</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">3 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:56 PM</span>
+    </div>
+    <div class="msg-text">Great question - internally, we've continually automate/standardize this as much as possible, with higher workload-level benchmarking/test suites as well as component-level benchmarks/test suites. Also, note there is a tradeoff between time to bring up capacity and time to optimize it. So in certain situations, we may take X% of roofline performance and have it working sooner, and then spend time optimizing it in parallel (rather than delaying the capacity, waiting for 100% roofline). This is because often there is so much to learn operationally when inserting a new component, that I want the experience with it as soon as possible.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ahmed Khalil (unaffiliated)</span>
+      <span class="timestamp">4:21 AM</span>
+    </div>
+    <div class="msg-text">That makes sense, Omar, getting safe capacity online early can be worth more than waiting for the last few percent. I am wondering then what defines the "safe to run real jobs" gate, and do issues found during bring-up normally become regression tests for future rollouts?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">2:21 PM</span>
+    </div>
+    <div class="msg-text">We have a few different levels of qualification gates defined, so that folks that want/get "early access" know that we're going to be working some things out still . And those issues indeed get folded in for future verification test suites for future capacity,</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Pankaj Mehra</span>
+      <span class="timestamp">12:07 PM</span>
+    </div>
+    <div class="msg-text">You haven't talked about ROUTING. Can you comment on differences versus traditional networking? Thanks</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">3 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:06 PM</span>
+    </div>
+    <div class="msg-text">I love routing (back in early 2000's, I worked for a company named RouteScience!). In scale-up, the routing problem is pretty easy 🙂 and in scale-across, there's definitely a similar routing problem. We use BGP actively even in our scale-out fabrics, but where we've had to extend the routing control plane some is to make sure failure handling is fast and propagated well. There's also a lot of work in load balancing (ECMP) to further ensure failures given all the parallel links we have.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">2:29 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Omar Baldonado (Meta)</span> , does Meta uses MRC? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">2:16 PM</span>
+    </div>
+    <div class="msg-text">I'd encourage you to come to our networking @scale event next week to see what we're doing in this transport area! <a href="https://atscaleconference.com/events/networking-2026/" target="_blank" rel="noopener">atscaleconference.com/events/networking-2026</a></div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">bsahu</span>
+      <span class="timestamp">12:07 PM</span>
+    </div>
+    <div class="msg-text">What is the most critical hardware component prone to fail first in a networking fleet? Is is the Laser, GPU/CPU chip, photonics chip, or the board components?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:18 PM</span>
+    </div>
+    <div class="msg-text">It's based on some older generation infrastructure from 2023/2024, but we shared some of AI infrastructure reliability learnings in our lengthy Llama3 paper (<a href="https://arxiv.org/pdf/2407.21783" target="_blank" rel="noopener">arxiv.org/pdf/2407.21783</a>). Section 3.3 covers some of the failure rates/components.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">syedmuavizurrehman019</span>
+      <span class="timestamp">12:08 PM</span>
+    </div>
+    <div class="msg-text"><strong>What is a Time-expanded Network (TEN), and why is it central to the TACOS framework's ability to synthesize topology-aware collective algorithms?</strong></div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:23 PM</span>
+    </div>
+    <div class="msg-text">Without going into the specifics of this framework, I can say that it relates to some of the lessons I presented in the talk. For example, the bubble elimination in a collective by overlapping comms and compute is an example where cross-layer/whole system knowledge is required. Topology-awareness is critical for jobs/collectives, especially when dealing with scale-across networks where there is much more heterogeneity in the network (as opposed to scale-up and scale-out). There are multiple ways to bring this sort of awareness into the researchers' development workflow.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">sankar ramamoorthi</span>
+      <span class="timestamp">12:09 PM</span>
+    </div>
+    <div class="msg-text">How are SD-WAN vendors adapting to the requirements of scale across HPC networks?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:25 PM</span>
+    </div>
+    <div class="msg-text">I'm not totally aware of this - I know how the switch/network ASIC vendors are responding, but we have our own in-house SD-WAN controller system.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Christoffer Wang Bjørnsen</span>
+      <span class="timestamp">12:11 PM</span>
+    </div>
+    <div class="msg-text">How do you secure programmability in the scale out and scale up networks as protocols like MRC, RoCEv2 evolve rapidly? Have you thought about FPGA-based NICs, to not be reliant on ASIC development.  </div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:28 PM</span>
+    </div>
+    <div class="msg-text">Meta will be talking more about some of our thoughts on protocols and NICs in our Networking @ Scale conference next week. <a href="https://atscaleconference.com/events/networking-2026/" target="_blank" rel="noopener">atscaleconference.com/events/networking-2026</a> - encourage you all to attend! Regarding FPGA-based NICs, yes we have looked at them, but those come with their pros/cons. Often in these technologies, we'll evaluate and use some at a certain scale, even as we push for more scalable/performant solutions in parallel.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Christoffer Wang Bjørnsen</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text">Thank you </div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rayun Kim</span>
+      <span class="timestamp">12:11 PM</span>
+    </div>
+    <div class="msg-text">What is the expected timeline for CPO adoption in scale-up architectures, beyond its initial use in scale-out network switches?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:35 PM</span>
+    </div>
+    <div class="msg-text">As you probably saw and refer to, we've been very active in evaluating CPO in general as a technology (initially in scale-out - where we announced some reliability results at ECOC last year). We also announced earlier the OCI MSA, which is related. Optics in scale-up has a clear value prop assuming you are moving to a certain size scale-up (which we want).</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Christoffer Wang Bjørnsen</span>
+      <span class="timestamp">12:15 PM</span>
+    </div>
+    <div class="msg-text">If you have any experience with heterogenous/disaggregated inference compute/deployments, where you combine GPU/XPUs from different vendors, how do you bridge the different scale-up and scale-out protocols?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:39 PM</span>
+    </div>
+    <div class="msg-text">I think heterogeneity in the fleet (at different layers like switches, NICs, etc) is different from GPU/XPU interoperability.  I think that is a really hard problem  and not just because of network but the whole software stack, numerics accuracy &amp;amp; compatibility, etc.  In a way, the network protocols are an easier part of the problem.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">2:35 PM</span>
+    </div>
+    <div class="msg-text">Does Meta uses disaggregated inference? </div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">12:16 PM</span>
+    </div>
+    <div class="msg-text">Thanks a lot <span class="mention">@Omar Baldonado (Meta)</span> for sharing your valuable insights! :rose:</div>
+    
+    <div class="reactions"><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ramtin Soleymani</span>
+      <span class="timestamp">12:17 PM</span>
+    </div>
+    <div class="msg-text">You mentioned that upgrading to newer generations of hardware is a challenge. In practice, do you usually phase in the new systems while older ones keep running, or do power, cooling, and network changes sometimes force you to rebuild larger sections at once?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:43 PM</span>
+    </div>
+    <div class="msg-text">It really depends on how interoperable the previous generation of hardware is. upgrading to the next-gen switch or NIC can keep leverage a lot of previous infrastructure, but later AI-system-level upgrades aren't compatible or cost effective with the existing building (e.g., we do liquid cooling in buildings without facility-level cooling, but we have to tradeoff cost/benefit/feasibility of such upgrades)</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ramtin Soleymani</span>
+      <span class="timestamp">4:46 PM</span>
+    </div>
+    <div class="msg-text">I see that makes sense Omar thank you so much for the reply.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:19 PM</span>
+    </div>
+    <div class="msg-text">Has META looked at AI workload performance based upon various server with variable number of GPUs, within a server, to determine which, Scale Up vs Scale Out, is more beneficial.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">G</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">gnotter</span>
+      <span class="timestamp">12:22 PM</span>
+    </div>
+    <div class="msg-text">great presentation.  How broadly might we see Scale Across deployed?  Are we talking about Training applications only (therefore likely Scale Across would require handfuls of DCs connected)... or do you expect it would be used for Inference (which might imply many more Scale Across locations connected)?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:51 PM</span>
+    </div>
+    <div class="msg-text">A lot of plans are focused on training - indeed, our Llama4 pretraining was done using the scale-across connecting buildings of our 129K cluster and we continue to do that. However, "inference" has a lot of different parts now between GPUs, CPUs, and storage. Hard right now to say how broad that will go.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">syedmuavizurrehman019</span>
+      <span class="timestamp">12:26 PM</span>
+    </div>
+    <div class="msg-text">NEXT SESSION TIME?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">12:29 PM</span>
+    </div>
+    <div class="msg-text">see <a href="https://hoti.org/2026/program.html" target="_blank" rel="noopener">hoti.org/2026/program.html</a> (10:40A PST after break)</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">12:29 PM</span>
+    </div>
+    <div class="msg-text">also, please use <span class="mention">#C0154F3UDTQ</span> channel</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:37 PM</span>
+    </div>
+    <div class="msg-text">HI y'all - thanks for attending and engaging with so many questions! As you can probably tell, I'm excited about all of this networking we have ahead of us!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">12:38 PM</span>
+    </div>
+    <div class="msg-text">I'm going through questions now</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">Y</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">ysun</span>
+      <span class="timestamp">12:42 PM</span>
+    </div>
+    <div class="msg-text">Hi Omar, thanks for the great talk! Is recording of your talk available for replay later? thank you</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">12:46 PM</span>
+    </div>
+    <div class="msg-text">All videos will be available on the platform in a few days. Then the entire conference will  be viewable on YouTube indefinitely. You may check out the HotI YouTube channel to see past talks.</div>
+    
+    <div class="reactions"><span class="reaction">🙏 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Omar Baldonado (Meta)</span>
+      <span class="timestamp">1:52 PM</span>
+    </div>
+    <div class="msg-text">Thanks again to all of you and to <span class="mention">@Dan Pitt</span> and all the HotInterconnects coordinators- see you all at the rest of the conference!</div>
+    
+    <div class="reactions"><span class="reaction">🙌 3</span><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="day-label">Friday, August 21, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#0891B2">G</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">gwhelan</span>
+      <span class="timestamp">8:03 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Omar Baldonado (Meta)</span> very insightful keynote, Thanks.   Would you, or a colleague, be interested in a short chat about Teradio's wireless OOB management network?  100G, Ethernet compatible, and no wires, truly out-of-band.  We're a spin-out from Northeastern U. and have US Gov $$$ to develop an adaptive wireless infrastructure for AI Data Centers. Our patented sub-THz pencil-beam technology makes it all work. It's actually an interesting architectural enhancement as well for other uses.  Love to chat. Best. Greg Whelan CEO Teradio</div>
+    
+    
+  </div>
+</div>
+</div>
+</body>
+</html>

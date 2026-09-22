@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-d2-0900-keynote-2-networking-innovations-for-gigascale-ai-systems</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d1c1d;
+    --muted: #616061;
+    --border: #e8e8e8;
+    --mention-bg: #e8f5fa;
+    --mention-text: #1264a3;
+    --code-bg: #f6f6f6;
+    --thread-border: #dddddd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.46668;
+  }
+  .archive-header {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .archive-header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+  }
+  .archive-header .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .conversation {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+  }
+  .message:hover {
+    background: #f8f8f8;
+  }
+  .avatar {
+    flex: 0 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .msg-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .msg-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .username {
+    font-weight: 900;
+  }
+  .timestamp {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+  .msg-text {
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  .msg-text pre {
+    background: var(--code-bg);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .msg-text code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+  .msg-text blockquote {
+    margin: 0.25rem 0;
+    padding-left: 0.75rem;
+    border-left: 3px solid #ddd;
+    color: var(--muted);
+  }
+  .mention {
+    background: var(--mention-bg);
+    color: var(--mention-text);
+    padding: 0 0.2rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .system-message {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    padding: 0.25rem 0.5rem 0.25rem 3.25rem;
+  }
+  .attachment img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 6px;
+    margin-top: 0.4rem;
+    border: 1px solid var(--border);
+    display: block;
+  }
+  .reactions {
+    margin-top: 0.35rem;
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .reaction {
+    background: #eef7fb;
+    border: 1px solid #cfe6f2;
+    border-radius: 12px;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  .thread {
+    margin: 0.5rem 0 0.25rem 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--thread-border);
+  }
+  .thread-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  hr.day-divider {
+    max-width: 760px;
+    margin: 1.75rem auto;
+    border: none;
+    border-top: 1px solid var(--border);
+    position: relative;
+  }
+  .day-label {
+    max-width: 760px;
+    margin: 1.75rem auto 0.5rem;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+</style>
+</head>
+<body>
+<div class="archive-header">
+  <h1>2026-d2-0900-keynote-2-networking-innovations-for-gigascale-ai-systems</h1>
+  <div class="meta">Archived conversation &middot; Aug 13, 2026 8:41 PM &ndash; Aug 21, 2026 7:39 AM &middot; 58 messages</div>
+</div>
+<div class="conversation">
+<div class="day-label">Thursday, August 13, 2026</div><hr class="day-divider">
+<div class="system-message">Ryan Scherbarth (nvidia) joined the channel</div>
+<div class="day-label">Friday, August 14, 2026</div><hr class="day-divider">
+<div class="system-message">Redfire joined the channel</div>
+<div class="day-label">Sunday, August 16, 2026</div><hr class="day-divider">
+<div class="system-message">Gunethra joined the channel</div>
+<div class="day-label">Monday, August 17, 2026</div><hr class="day-divider">
+<div class="system-message">alnonecat joined the channel</div>
+<div class="day-label">Tuesday, August 18, 2026</div><hr class="day-divider">
+<div class="system-message">Steve Glaser (NVIDIA) joined the channel</div>
+<div class="system-message">Dr ABANDA EVA Pierre Robert joined the channel</div>
+<div class="system-message">Allen Baum joined the channel</div>
+<div class="system-message">Taylor Groves joined the channel</div>
+<div class="system-message">David Ozog joined the channel</div>
+<div class="system-message">Sayan Ghosh joined the channel</div>
+<div class="system-message">Pepper Marts joined the channel</div>
+<div class="system-message">Dan Pitt joined the channel</div>
+<div class="system-message">Marc Cohn joined the channel</div>
+<div class="system-message">Matthew Fricke joined the channel</div>
+<div class="system-message">Rohit Zambre joined the channel</div>
+<div class="system-message">Yiltan Temucin joined the channel</div>
+<div class="system-message">Matthew Fricke renamed the channel from &quot;2026-d2-0900-networking-innovations-for-gigascale-ai-systems&quot; to &quot;2026-d2-0900-keynote-networking-innovations-for-gigascale-ai-systems&quot;</div>
+<div class="system-message">aysebilgehan_baspinar joined the channel</div>
+<div class="system-message">Kapil Shrikhande joined the channel</div>
+<div class="system-message">Subhadeep Bhattacharya joined the channel</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d2-0900-keynote-networking-innovations-for-gigascale-ai-systems&quot; to &quot;2026-d2-0900-keynote-2-networking-innovations-for-gigascale-ai-systems&quot;</div>
+<div class="day-label">Thursday, August 20, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">11:04 AM</span>
+    </div>
+    <div class="msg-text">Q: where CPU racks are deployed? Front-end or backend? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">11:07 AM</span>
+    </div>
+    <div class="msg-text">When we were first promoting SDN in ONF we predicted that networking would become an arm of computing. Gilad’s presentation shows that this has come to pass.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Chris Browning (Black Semi)</span>
+      <span class="timestamp">11:07 AM</span>
+    </div>
+    <div class="msg-text">CPU Racks for what purpose?  The ones working with the GPUs are integrated with the GPU on the same board.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">11:12 AM</span>
+    </div>
+    <div class="msg-text">What is the maximum distance supported by scale across solution? Has scale across solution been deployed in production? Is scale across solution based on back-to-sender notification?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">scots</span>
+      <span class="timestamp">11:25 AM</span>
+    </div>
+    <div class="msg-text">Scale-across begins roughly around 500 meters; but can span hundreds of kilometers.  Spectrum-XGS is based on Spectrum-X Ethernet with distance-aware algorithms</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">11:14 AM</span>
+    </div>
+    <div class="msg-text">How Enfabrica IP help Nvidia regarding KV cache or storage? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">Y</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Yusuke Ohara(Self)</span>
+      <span class="timestamp">11:15 AM</span>
+    </div>
+    <div class="msg-text">NVLink has now been expanded to two levels, allowing eight NVL72s to be connected within a single NVLink domain. But how are the individual NVL72s connected to one another? Is it correct to assume that half of the links from the NVSwitch are used to connect the switches to each other rather than to the GPUs?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">scots</span>
+      <span class="timestamp">11:43 AM</span>
+    </div>
+    <div class="msg-text">What I know what was disclosed about this topic is here; and a good read 🙂   <a href="https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer/" target="_blank" rel="noopener">NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer | NVIDIA Technical Blog</a></div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">Y</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Yusuke Ohara(Self)</span>
+      <span class="timestamp">11:57 AM</span>
+    </div>
+    <div class="msg-text">Yes, I’ve read this, but I can’t find any explanation of how the nine NVSwitch trays housed in each MGX rack are connected to one another.<br>
+Looking at the photos of the NVL576 prototype, it appears that two of the four NVSpines have been omitted, and instead, optical cables have been routed via media converters to connect to the 16 L2 NVSwitches housed in the rack to the right of the eight NVL72 units. Is this interpretation correct?</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">11:26 AM</span>
+    </div>
+    <div class="msg-text">What is Nvidia position about XPO ?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">ashkan.sobhani</span>
+      <span class="timestamp">11:38 AM</span>
+    </div>
+    <div class="msg-text">Does NVIDIA consider NIC disaggregation in its roadmap for NICs?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">11:43 AM</span>
+    </div>
+    <div class="msg-text">Does distance aware load balancing refer to choosing shortest path? Or it is something beyond this? </div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">scots</span>
+      <span class="timestamp">11:47 AM</span>
+    </div>
+    <div class="msg-text">Does not always mean shortest path. It depends on configuration of the scale-across.  Spectrum-XGS is based on algorithms to ensure that you are not paying additional latency penalty; like you do with OTS deep buffer switching.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">ashkan.sobhani</span>
+      <span class="timestamp">11:44 AM</span>
+    </div>
+    <div class="msg-text">Does distance-aware load balancing spray packets across DCIs?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kazuaki Ueda</span>
+      <span class="timestamp">11:44 AM</span>
+    </div>
+    <div class="msg-text">In yesterday's Meta keynote, it was highlighted that the "Scale-across" domain involves highly heterogeneous environments, particularly regarding distance (propagation delay) and bandwidth. Given this context, can Spectrum-XGS consistently guarantee optimal performance under such diverse conditions? I would love to hear your thoughts on the future challenges in this area!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">11:45 AM</span>
+    </div>
+    <div class="msg-text">Is DCI or context memory system also aware of type of network access, prefill vs decoding, normal KV $ vs MOE?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">11:45 AM</span>
+    </div>
+    <div class="msg-text">What is the relation between DOCA and DSX?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">andrewliang823</span>
+      <span class="timestamp">11:46 AM</span>
+    </div>
+    <div class="msg-text">you talked about Oberon Rack, how about the Kyber Rack for 144 per Rack?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">nicky</span>
+      <span class="timestamp">11:46 AM</span>
+    </div>
+    <div class="msg-text">What are the primary challenges you faced with hot liquid cooling especially with the large copper backplane?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">11:46 AM</span>
+    </div>
+    <div class="msg-text">Why SSD is not located in GPU server? </div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">J</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">jfkim</span>
+      <span class="timestamp">11:59 AM</span>
+    </div>
+    <div class="msg-text">The GPU servers typically do have SSDs for boot, OS, logs, etc.  But in most cases they don't have enough capacity or endurance for AI data or KV cache.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">G</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">gwhelan</span>
+      <span class="timestamp">11:48 AM</span>
+    </div>
+    <div class="msg-text">What about the Out-of-Band Management network?  What's next after 10G?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">11:48 AM</span>
+    </div>
+    <div class="msg-text">Will you deploy separate dedicated Vera racks for agentic services? If so, what is the bandwidth per GPU?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Thomas Deucher</span>
+      <span class="timestamp">11:49 AM</span>
+    </div>
+    <div class="msg-text">How will you approach scaling bandwidth with the Spectrum-X switch in future generations? WDM?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Danna Wang</span>
+      <span class="timestamp">11:49 AM</span>
+    </div>
+    <div class="msg-text">How do we access the DSX Air?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">scots</span>
+      <span class="timestamp">11:56 AM</span>
+    </div>
+    <div class="msg-text">Start here: <a href="https://www.nvidia.com/en-us/networking/ethernet-switching/air/" target="_blank" rel="noopener">NVIDIA DSX Air Platform for AI Factory Simulation</a> ; scroll down towards the end of the page to take a test drive</div>
+    
+    <div class="reactions"><span class="reaction">👍 2</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Danna Wang</span>
+      <span class="timestamp">12:09 PM</span>
+    </div>
+    <div class="msg-text">Amazing, thanks for sharing this <span class="mention">@scots</span> !</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nathan Brown</span>
+      <span class="timestamp">11:51 AM</span>
+    </div>
+    <div class="msg-text">How does MRC (or UEC) factor into the Scale-Out or Scale-Across RDMA network design?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mohammed Mahfuz</span>
+      <span class="timestamp">11:55 AM</span>
+    </div>
+    <div class="msg-text">Hi, Shainer.<br>
+Thanks for the nice talk<br>
+I have a question about Nvidia Spectrum CPO: What are the energy efficiency and bandwidth density?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ramtin Soleymani</span>
+      <span class="timestamp">11:57 AM</span>
+    </div>
+    <div class="msg-text">For a third-party XPU connecting through NVLink Fusion, what tends to be the hardest part to get right in hardware?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">J</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Jan Gray</span>
+      <span class="timestamp">11:58 AM</span>
+    </div>
+    <div class="msg-text">How might emerging new memory tiers, such as HBF, high bandwidth flash, impact CMX context storage architecture and its interconnect requirements?<br>
+(Fantastic talk reviewing your stunning chiplet-to-datacenters co-design, thank you.)</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:02 PM</span>
+    </div>
+    <div class="msg-text">is Ravi sharing?</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Matthew Fricke</span>
+      <span class="timestamp">12:07 PM</span>
+    </div>
+    <div class="msg-text">Thanks for letting us know</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:15 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Ravi Mahatme</span> What is the bandwidth overhead to support cache coherency vs using just <a href="http://CXL.io" target="_blank" rel="noopener">CXL.io</a>, for shared memory?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">rmahatme363</span>
+      <span class="timestamp">12:27 PM</span>
+    </div>
+    <div class="msg-text">We support <a href="http://cxl.io" target="_blank" rel="noopener">cxl.io</a> &amp;amp; cxl.mem . There is no native cache coherency</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:32 PM</span>
+    </div>
+    <div class="msg-text">Then why CXL. Why not just have a PCIe Gen6 &lt;-&gt;Memory (HBM/DDR) bridge? Are you just using the Port Routing feature of the CXL protocol?</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="day-label">Friday, August 21, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#0891B2">G</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">gwhelan</span>
+      <span class="timestamp">7:39 AM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@shainer</span> Great keynote.  Super insightful. Would you, or a colleague, be interested in a short chat about our "Adaptive Wireless Infrastructure for AI Data Centers"?  It's a great next generation Out-of-Band Management network.  100G, Ethernet Compatible and no more wires. Truly out-of-band.  Teradio is a spinout company from Northeastern Univ. (NU) and we've just raised $5M from the US NSF for advanced research on AI DCs wireless networking.  Nvidia is a sponsor of the research, though we'd like to have a strategic discussion with you as well.  Thank you, Greg Whelan, CEO Teradio, Inc.  &lt;mailto:gwhelan@teradop.co|gwhelan@terad&gt;<a href="http://io.co" target="_blank" rel="noopener">io.co</a></div>
+    
+    
+  </div>
+</div>
+</div>
+</body>
+</html>

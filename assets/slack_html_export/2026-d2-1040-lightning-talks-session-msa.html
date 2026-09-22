@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-d2-1040-lightning-talks-session-msa</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d1c1d;
+    --muted: #616061;
+    --border: #e8e8e8;
+    --mention-bg: #e8f5fa;
+    --mention-text: #1264a3;
+    --code-bg: #f6f6f6;
+    --thread-border: #dddddd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.46668;
+  }
+  .archive-header {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .archive-header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+  }
+  .archive-header .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .conversation {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+  }
+  .message:hover {
+    background: #f8f8f8;
+  }
+  .avatar {
+    flex: 0 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .msg-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .msg-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .username {
+    font-weight: 900;
+  }
+  .timestamp {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+  .msg-text {
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  .msg-text pre {
+    background: var(--code-bg);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .msg-text code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+  .msg-text blockquote {
+    margin: 0.25rem 0;
+    padding-left: 0.75rem;
+    border-left: 3px solid #ddd;
+    color: var(--muted);
+  }
+  .mention {
+    background: var(--mention-bg);
+    color: var(--mention-text);
+    padding: 0 0.2rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .system-message {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    padding: 0.25rem 0.5rem 0.25rem 3.25rem;
+  }
+  .attachment img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 6px;
+    margin-top: 0.4rem;
+    border: 1px solid var(--border);
+    display: block;
+  }
+  .reactions {
+    margin-top: 0.35rem;
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .reaction {
+    background: #eef7fb;
+    border: 1px solid #cfe6f2;
+    border-radius: 12px;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  .thread {
+    margin: 0.5rem 0 0.25rem 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--thread-border);
+  }
+  .thread-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  hr.day-divider {
+    max-width: 760px;
+    margin: 1.75rem auto;
+    border: none;
+    border-top: 1px solid var(--border);
+    position: relative;
+  }
+  .day-label {
+    max-width: 760px;
+    margin: 1.75rem auto 0.5rem;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+</style>
+</head>
+<body>
+<div class="archive-header">
+  <h1>2026-d2-1040-lightning-talks-session-msa</h1>
+  <div class="meta">Archived conversation &middot; Aug 13, 2026 8:41 PM &ndash; Aug 21, 2026 2:41 PM &middot; 53 messages</div>
+</div>
+<div class="conversation">
+<div class="day-label">Thursday, August 13, 2026</div><hr class="day-divider">
+<div class="system-message">Ryan Scherbarth (nvidia) joined the channel</div>
+<div class="day-label">Friday, August 14, 2026</div><hr class="day-divider">
+<div class="system-message">Redfire joined the channel</div>
+<div class="day-label">Sunday, August 16, 2026</div><hr class="day-divider">
+<div class="system-message">Gunethra joined the channel</div>
+<div class="day-label">Monday, August 17, 2026</div><hr class="day-divider">
+<div class="system-message">alnonecat joined the channel</div>
+<div class="day-label">Tuesday, August 18, 2026</div><hr class="day-divider">
+<div class="system-message">Steve Glaser (NVIDIA) joined the channel</div>
+<div class="system-message">Dr ABANDA EVA Pierre Robert joined the channel</div>
+<div class="system-message">Allen Baum joined the channel</div>
+<div class="system-message">Taylor Groves joined the channel</div>
+<div class="system-message">David Ozog joined the channel</div>
+<div class="system-message">Sayan Ghosh joined the channel</div>
+<div class="system-message">Pepper Marts joined the channel</div>
+<div class="system-message">Dan Pitt joined the channel</div>
+<div class="system-message">Marc Cohn joined the channel</div>
+<div class="system-message">Matthew Fricke joined the channel</div>
+<div class="system-message">Rohit Zambre joined the channel</div>
+<div class="system-message">Yiltan Temucin joined the channel</div>
+<div class="system-message">aysebilgehan_baspinar joined the channel</div>
+<div class="system-message">Kapil Shrikhande joined the channel</div>
+<div class="system-message">Subhadeep Bhattacharya joined the channel</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d2-1040-msa-lightning-talks&quot; to &quot;2026-d2-1040-lightning-talks-msa&quot;</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d2-1040-lightning-talks-msa&quot; to &quot;2026-d2-1040-lightning-talks-session-msa&quot;</div>
+<div class="day-label">Thursday, August 20, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">12:46 PM</span>
+    </div>
+    <div class="msg-text">When will have first scale up rack with optics in industry? </div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">acalduino</span>
+      <span class="timestamp">1:37 PM</span>
+    </div>
+    <div class="msg-text">It's likely we'll see early product implementations in 2027</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">H</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Hank Lee</span>
+      <span class="timestamp">12:47 PM</span>
+    </div>
+    <div class="msg-text">The OCI MSA 1.0 announced this year supports 200Gbps/fiber/direction.<br>
+Is there a possibility of evolving to 400Gbps/fiber/direction in the future?<br>
+If so, are there any architectures currently being considered?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">acalduino</span>
+      <span class="timestamp">1:39 PM</span>
+    </div>
+    <div class="msg-text">As we shared in the talk (slide 5), we are targeting a GEN2 / 400G spec in 2027.  We'll share more details on architecture at a later date.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">12:48 PM</span>
+    </div>
+    <div class="msg-text">Thanks for the talk Drew, what do you see as the key technical decisions that remain on Gen 1 and Gen 2 link architectures?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">3 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:00 PM</span>
+    </div>
+    <div class="msg-text">In reference to the "yarn ball" you showed.  Anything stand out as a top priority or concern?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">acalduino</span>
+      <span class="timestamp">1:40 PM</span>
+    </div>
+    <div class="msg-text">GEN1 is completed.  GEN2 architectures are still being considered.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">acalduino</span>
+      <span class="timestamp">1:41 PM</span>
+    </div>
+    <div class="msg-text">re: yarn ball - there are many categories here, and they're all evolving, power efficient, manufacturable BW scaling is the #1 challenge and goal</div>
+    
+    <div class="reactions"><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:11 PM</span>
+    </div>
+    <div class="msg-text">Is it possible to use CPO for XPU? It was not mentioned in usecases? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ahmed Khalil (unaffiliated)</span>
+      <span class="timestamp">1:16 PM</span>
+    </div>
+    <div class="msg-text">One thing that jumped out was the deskew and relink timing table being in the hundreds of milliseconds. Is “low latency” here mainly steady-state link latency, and will OCI eventually define a tighter bounded-recovery target for a link flap?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">acalduino</span>
+      <span class="timestamp">2:41 PM</span>
+    </div>
+    <div class="msg-text">Link initialization, which is what is captured with deskew and relink timing, is very different than a link flap.  It is unlikely that OCI MSA will define/bound the "link flap" time as it is dependent on each user and training workload.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">1:17 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Rang-Chen Yu</span>  Impressive talk!  Great to know so many options available to innovate system architecture.  What's the relationship of open CPX and OCI?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rang-Chen Yu</span>
+      <span class="timestamp">1:45 PM</span>
+    </div>
+    <div class="msg-text">Hi Cissy: As I discussed on last page of Roadmap, CPX defines socket and form factor, OCI is Optical PMD. So CPX optics can support OCI as a viriant of Open CPX type.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">bsahu</span>
+      <span class="timestamp">1:18 PM</span>
+    </div>
+    <div class="msg-text">What are the advanced packaging technologies used in Diablo 1 6.4T optical engines?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Chris Browning (Black Semi)</span>
+      <span class="timestamp">1:18 PM</span>
+    </div>
+    <div class="msg-text">CPX is a connector / formfactor.  OCI is an optical / optical PHY standard. OCI would go in a CPX</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:20 PM</span>
+    </div>
+    <div class="msg-text">Thanks Ryan, on the CPX roadmap slide how will OpenCPX support different link architectures and physical dimensions (e.g. 400G to OCI gearbox on the top right).  Will there be more classifications beyond Type 1/2, ELS/ILS in the future?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rang-Chen Yu</span>
+      <span class="timestamp">1:47 PM</span>
+    </div>
+    <div class="msg-text">We defined 1st release spec. for 32x200G-DR optics. There will be more variants coming up as part of OpenCPX project.</div>
+    
+    <div class="reactions"><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">andrewliang823</span>
+      <span class="timestamp">1:20 PM</span>
+    </div>
+    <div class="msg-text">MCF benifit cw+siph more or vcsel array too?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:21 PM</span>
+    </div>
+    <div class="msg-text">Can't MCF be used for scale up? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">1:22 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Gabe Sudduth</span> MCF is on-chip or on-die since chips are all multi-core already?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rang-Chen Yu</span>
+      <span class="timestamp">1:54 PM</span>
+    </div>
+    <div class="msg-text">As part of SDM4 MCF MSA founding member, We have demonstrated MCF native 800G and 1.6T optical transceivers with interface from TRx to MCF.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">1:22 PM</span>
+    </div>
+    <div class="msg-text">Thanks Ryan, great talk - showing how Open CPX can provide the full range of optical / copper , XPU / Switch, CPO / NPO connectivity.</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rang-Chen Yu</span>
+      <span class="timestamp">1:48 PM</span>
+    </div>
+    <div class="msg-text">That's our mission to provide widest choice and options for end customer deployment.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">nicky</span>
+      <span class="timestamp">1:29 PM</span>
+    </div>
+    <div class="msg-text">Thank you that was really insightful,, is the long-term vision essentially to have standardised optical links like OCI on one side, but increasingly integrated PIC interfaces like GlassBridge on the other ?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">H</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Hank Lee</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text">I like both your talks yesterday and today.<br>
+Can XPO be companied with LPO, instead of LRO? If yes, what do you expect the energy effiency would be? (XPO LRO was 10pJ/b yesterday)</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rang-Chen Yu</span>
+      <span class="timestamp">1:50 PM</span>
+    </div>
+    <div class="msg-text">XPO supports LPO, RTLR (LRO), and FRO (fully retimed). LPO power efficiency ~ 6pj/b</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">1:52 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@spriyadarshi</span></div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">G</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Gabe Sudduth</span>
+      <span class="timestamp">1:42 PM</span>
+    </div>
+    <div class="msg-text">On MCF, scale up solutions are under review (whether SiPh or vcsel) by many in industry.  Several factors to address there that are different than scale out, inc. factoring how cores need to connect to all other gpus in the rack or pod</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ahmed Khalil (unaffiliated)</span>
+      <span class="timestamp">1:43 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Gabe Sudduth</span> The 4x density is compelling. One thing I’m wondering: does putting four cores in one cladding also turn one dirty connector, bad splice or marginal bend into a four-channel fault? Will the spec define core mapping and per-core pass/fail tests all the way through installation?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">spriyadarshi</span>
+      <span class="timestamp">1:48 PM</span>
+    </div>
+    <div class="msg-text">hi</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:57 PM</span>
+    </div>
+    <div class="msg-text">Does Qualcomm have optical scale up in their roadmap? </div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:58 PM</span>
+    </div>
+    <div class="msg-text">You want to put this in :<span class="mention">#C0BQYJA3WTX</span></div>
+    
+    
+  </div>
+</div>
+</div>
+</div>
+</body>
+</html>

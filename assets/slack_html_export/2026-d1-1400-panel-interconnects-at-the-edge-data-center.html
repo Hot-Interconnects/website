@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-d1-1400-panel-interconnects-at-the-edge-data-center</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d1c1d;
+    --muted: #616061;
+    --border: #e8e8e8;
+    --mention-bg: #e8f5fa;
+    --mention-text: #1264a3;
+    --code-bg: #f6f6f6;
+    --thread-border: #dddddd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.46668;
+  }
+  .archive-header {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .archive-header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+  }
+  .archive-header .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .conversation {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+  }
+  .message:hover {
+    background: #f8f8f8;
+  }
+  .avatar {
+    flex: 0 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .msg-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .msg-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .username {
+    font-weight: 900;
+  }
+  .timestamp {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+  .msg-text {
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  .msg-text pre {
+    background: var(--code-bg);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .msg-text code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+  .msg-text blockquote {
+    margin: 0.25rem 0;
+    padding-left: 0.75rem;
+    border-left: 3px solid #ddd;
+    color: var(--muted);
+  }
+  .mention {
+    background: var(--mention-bg);
+    color: var(--mention-text);
+    padding: 0 0.2rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .system-message {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    padding: 0.25rem 0.5rem 0.25rem 3.25rem;
+  }
+  .attachment img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 6px;
+    margin-top: 0.4rem;
+    border: 1px solid var(--border);
+    display: block;
+  }
+  .reactions {
+    margin-top: 0.35rem;
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .reaction {
+    background: #eef7fb;
+    border: 1px solid #cfe6f2;
+    border-radius: 12px;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  .thread {
+    margin: 0.5rem 0 0.25rem 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--thread-border);
+  }
+  .thread-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  hr.day-divider {
+    max-width: 760px;
+    margin: 1.75rem auto;
+    border: none;
+    border-top: 1px solid var(--border);
+    position: relative;
+  }
+  .day-label {
+    max-width: 760px;
+    margin: 1.75rem auto 0.5rem;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+</style>
+</head>
+<body>
+<div class="archive-header">
+  <h1>2026-d1-1400-panel-interconnects-at-the-edge-data-center</h1>
+  <div class="meta">Archived conversation &middot; Aug 13, 2026 8:40 PM &ndash; Aug 19, 2026 5:39 PM &middot; 64 messages</div>
+</div>
+<div class="conversation">
+<div class="day-label">Thursday, August 13, 2026</div><hr class="day-divider">
+<div class="system-message">Ryan Scherbarth (nvidia) joined the channel</div>
+<div class="day-label">Sunday, August 16, 2026</div><hr class="day-divider">
+<div class="system-message">Gunethra joined the channel</div>
+<div class="day-label">Monday, August 17, 2026</div><hr class="day-divider">
+<div class="system-message">alnonecat joined the channel</div>
+<div class="day-label">Tuesday, August 18, 2026</div><hr class="day-divider">
+<div class="system-message">Steve Glaser (NVIDIA) joined the channel</div>
+<div class="system-message">Dr ABANDA EVA Pierre Robert joined the channel</div>
+<div class="system-message">Allen Baum joined the channel</div>
+<div class="system-message">Taylor Groves joined the channel</div>
+<div class="system-message">David Ozog joined the channel</div>
+<div class="system-message">Sayan Ghosh joined the channel</div>
+<div class="system-message">Pepper Marts joined the channel</div>
+<div class="system-message">Dan Pitt joined the channel</div>
+<div class="system-message">Marc Cohn joined the channel</div>
+<div class="system-message">Matthew Fricke joined the channel</div>
+<div class="system-message">Taylor Groves renamed the channel from &quot;2026-d1-1400-interconnects-at-the-edge-data-center&quot; to &quot;2026-d1-1400-panel-interconnects-at-the-edge-data-center&quot;</div>
+<div class="system-message">Yiltan Temucin joined the channel</div>
+<div class="system-message">Rohit Zambre joined the channel</div>
+<div class="system-message">aysebilgehan_baspinar joined the channel</div>
+<div class="system-message">Kapil Shrikhande joined the channel</div>
+<div class="system-message">Subhadeep Bhattacharya joined the channel</div>
+<div class="system-message">test-hoti joined the channel</div>
+<div class="day-label">Wednesday, August 19, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:26 PM</span>
+    </div>
+    <div class="msg-text">ESNET question: what is driving real-time requirements for scientific data streaming? it would seem to me that most data can be recorded and then analyzed offline, and on the slide I saw data flowing in one direction only.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">4:29 PM</span>
+    </div>
+    <div class="msg-text">Does NTT uses scale across for inference? Or remote storage?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">4:29 PM</span>
+    </div>
+    <div class="msg-text">Does scale up and out have different requirements at edge than central cloud? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">4:30 PM</span>
+    </div>
+    <div class="msg-text">Are NTT or Geico edge DCs liquid cooled?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">4:31 PM</span>
+    </div>
+    <div class="msg-text">What are opinions about workload aware or compute aware routing in network?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Tanner Ryan (Cloudflare)</span>
+      <span class="timestamp">5:16 PM</span>
+    </div>
+    <div class="msg-text">In a power constrained environment (many facilities and regions), it turns into an optimization problem: dispatching workloads to a data center or server having the right capacity (CPU / GPU / bandwidth), and lowest latency to the requesting user.<br>
+<br>
+For the bulk / non-latency sensitive workloads, it turns into an arbitrage problem: scheduling the jobs in locations with available capacity. When operating network capacity spanning multiple geographies, this can potentially defer expansions.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:32 PM</span>
+    </div>
+    <div class="msg-text">GEICO question: how are business applications driving latency requirements? or other requirements such as throughput or reliability more important?</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">4:33 PM</span>
+    </div>
+    <div class="msg-text">What would be potentials of AI grid (telco infra) in inference market??</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:37 PM</span>
+    </div>
+    <div class="msg-text">(comment: AI crawlers seem to have evolved to resemble DDoS, unfortunately)</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Tanner Ryan (Cloudflare)</span>
+      <span class="timestamp">4:48 PM</span>
+    </div>
+    <div class="msg-text">Yes. Some crawlers can crawl at rather aggressive rates, even ignoring well-knowns such as robots.txt: <a href="https://blog.cloudflare.com/ai-crawler-traffic-by-purpose-and-industry/" target="_blank" rel="noopener">blog.cloudflare.com/ai-crawler-traffic-by-purpose-and-industry</a><br>
+<br>
+Crawl speed is one of the indicators that can be used to determine automated/bot traffic from human-originated traffic.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:41 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Bob Lantz</span> Real-time streaming is an important requirement for many facilities. I will give some examples:<br>
+1. A scientist at a beamline looking at a sample wants to see the 3-D movie reconstruction of the sample so they can change the depth of the view, or angle of the sample, or verify the hypothesis or come up with a different approach to view the sample. <br>
+2. SLAC’s LCLSII and BNL’s EIC are producing data at a rate that is very hard to store..they are projecting 1 Tbps of streaming of data which is very hard to store as raw data in storage given that the growth of storage i/o has not been at the same scale as network bandwidth. <br>
+3. For astronomy, there are people wanting real-time AI algorithms to find supernovae so all the telescopes in the world can point to it and get information at a deeper level…<br>
+In many of these cases, the raw data is not important to sotre, or hard to store, or expensive to store.<br>
+<br>
+With automated labs, robotics, they also want this rapid reconstruction to steer the experiment. Think of a fusion reactor and shots, the plasma has to be managed as real-time as possible so it can continue to operate.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:41 PM</span>
+    </div>
+    <div class="msg-text">I am not sure if this helps <span class="mention">@Bob Lantz</span></div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:41 PM</span>
+    </div>
+    <div class="msg-text">yes streaming is mostly one way - that was not a full engineering diagram.</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:46 PM</span>
+    </div>
+    <div class="msg-text">Thanks for your great response and interesting examples!</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:49 PM</span>
+    </div>
+    <div class="msg-text">yes there is reverse traffic to inform the load balancing algorithms, but that was not indicated in the diagram for simplicity</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Matthew Fricke</span>
+      <span class="timestamp">4:42 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Ofer Shapiro</span>, <span class="mention">@Amy Leeland</span> welcome</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:42 PM</span>
+    </div>
+    <div class="msg-text">Some of the kinds of things we want to observe is the vibration of an atom and how that affects material properties</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:42 PM</span>
+    </div>
+    <div class="msg-text">that requires real-time view as well</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:42 PM</span>
+    </div>
+    <div class="msg-text">or how the protien unfolds when getting cut, how does the structure change</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">3 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:46 PM</span>
+    </div>
+    <div class="msg-text">as you note, interactive and control applications (vs. one-way data streaming) seem like they would have a real-time control loop; though I might possibly expect less data vs. huge non-interactive experiments, maybe that is not correct</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:50 PM</span>
+    </div>
+    <div class="msg-text">that is corect</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">I</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">imonga</span>
+      <span class="timestamp">4:51 PM</span>
+    </div>
+    <div class="msg-text">the only difference is the underlying data and real-time analysis informing the control is huge and is one-way streaming</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ofer Shapiro</span>
+      <span class="timestamp">4:42 PM</span>
+    </div>
+    <div class="msg-text">Hi Everyone. This is &lt;mailto:ofer@resolight.ai|ofer@resolight.ai&gt;</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Matthew Fricke</span>
+      <span class="timestamp">4:44 PM</span>
+    </div>
+    <div class="msg-text">Yosuke is not on slack so I am posting replies on his behalf:<br>
+Q: Does NTT uses scale across for inference? Or remote storage?<br>
+A: NTT is trying to develop inter-DC AI inference infrastructure including remote GPU and remote storage. it comes from requirements from users and infrastructure environments.<br>
+<br>
+Q: Does scale up and out have different requirements at edge than central cloud?<br>
+A: Yes they are different. For scale-out, securing multi-tennancy and data-sovereignity is very important requirement in edge-DC. Therefore, dynamic inter-rack interconnect is an essential capability.<br>
+For scale-up, low-power consumption is very important in the edge-DC.<br>
+Anyway, orchestration between scale-up/out/across is a key for AI inference era.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">4:44 PM</span>
+    </div>
+    <div class="msg-text">How agentic AI impacts traffic of scale out and across? </div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Tanner Ryan (Cloudflare)</span>
+      <span class="timestamp">4:55 PM</span>
+    </div>
+    <div class="msg-text">Topology independent, AI crawlers can generate very different traffic patterns from humans from the edge perspective.<br>
+<br>
+If you are hosting AI workloads, depending on where the GPU/compute capacity is located, with respect to the storage location, scale-across may generate substantital East-West traffic, requiring additional network capacity to support.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:47 PM</span>
+    </div>
+    <div class="msg-text">(comment: this is another answer to Dan's [I think] question earlier about what the differences are between scale-across and WAN)</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Matthew Fricke</span>
+      <span class="timestamp">4:51 PM</span>
+    </div>
+    <div class="msg-text">On behalf of Amy Leeland:<br>
+<br>
+At GEICO, many of the workloads we're evaluating for AI, automation, and platform services can tolerate hundreds of milliseconds of latency and still deliver a good user experience. What often matters more is reliability, economics, and operational simplicity<br>
+For example, if an associate uses a copilot for document summarization, claims analysis, knowledge retrieval, or content generation, whether the response comes back in 300 milliseconds or 700 milliseconds usually isn't what determines success.<br>
+What determines success is:<br>
+<br>
+Is the service available?<br>
+Is it accurate?<br>
+Is it cost effective?<br>
+Can it scale reliably?<br>
+Can we operate it securely?<br>
+That's why I often say the more interesting question isn't latency, it's data movement.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">4:53 PM</span>
+    </div>
+    <div class="msg-text">On behalf of Yosuke Aragane:<br>
+<br>
+Q: How agentic AI impacts traffic of scale out and across?<br>
+A: It makes a great impact. Traffic amount is increasing as an explosion. From edge-DC perspective, scale-across is more impactful rather than scale-out. Edge-DC does not have ultimate computing capability. It should cooperate with center DC so that scale-across is essential capability between edge-DC and center-DC.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">4:56 PM</span>
+    </div>
+    <div class="msg-text">Resolight question: copper has the advantages of avoiding optical-electrical conversion and wires being cheaper than fibers, as well as lower complexity, easier manufacturing, etc.; what is the rationale for replacing copper <em>within</em> the rack? is the argument that it is justified overall by power savings?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ofer Shapiro</span>
+      <span class="timestamp">5:02 PM</span>
+    </div>
+    <div class="msg-text">Hi Bob,<br>
+<br>
+take the example of 30Kw racks, with a need to Scale up to a combined power of five of them (more or less get to the NVL72 rack performance). The issue is that once you go further than few feet cooper can’t keep up with the speed without huge energy spend (if it can do it all).<br>
+<br>
+this is why in NVL 72 the switch is in the middle the rack to keep few feet of cable with the GPU above and below the switch.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">5:05 PM</span>
+    </div>
+    <div class="msg-text">are you saying that copper is still sufficient within the rack, but hits limits between racks (and there is perhaps another argument that extreme rack power/cooling density is undesirable?)</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Dan Pitt</span>
+      <span class="timestamp">4:58 PM</span>
+    </div>
+    <div class="msg-text">For Resolight: What does it mean for the rack to become a scope?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">4:59 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Ofer Shapiro</span> <span class="mention">@mari</span></div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">4:59 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Ofer Shapiro</span> <span class="mention">@mari</span></div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">5:10 PM</span>
+    </div>
+    <div class="msg-text">Resolight: <span class="mention">@Ofer Shapiro</span>  if the GPU-&amp;gt;Optical Interface-&amp;gt;Optical Switch, where is the "switching logic" being done?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ofer Shapiro</span>
+      <span class="timestamp">5:13 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Rabindra Guha (Cerio)</span> switching logics - still happen at the switch, but by request from endpoint, rather than by packet header read</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Chris Browning (Black Semi)</span>
+      <span class="timestamp">5:15 PM</span>
+    </div>
+    <div class="msg-text">is this more of a circuit switch than package switch / grainularity?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ofer Shapiro</span>
+      <span class="timestamp">5:16 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Bob Lantz</span> the issue is - can copper carry these signal as far as the distance between multiple racks (e.g. across the aisle) - it can’t</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">5:19 PM</span>
+    </div>
+    <div class="msg-text">that sounds like "between racks" rather than "in the rack" (my original question) or maybe I am missing something; gabriel just said that "most efficient within the rack will be DAC copper" - is he correct?</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">O</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ofer Shapiro</span>
+      <span class="timestamp">5:18 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Dan Pitt</span> poor choice of words (‘scope’) - the intent is that the workload is not happing all inside the rack as ‘compute chassis’ but across multiple racks.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">5:25 PM</span>
+    </div>
+    <div class="msg-text">Has anyone deployed OCS in edge data center? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">5:38 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Ofer Shapiro</span> </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bob Lantz</span>
+      <span class="timestamp">5:39 PM</span>
+    </div>
+    <div class="msg-text">thanks for the interesting sessions and thoughtful question reponses!</div>
+    
+    
+  </div>
+</div>
+</div>
+</body>
+</html>

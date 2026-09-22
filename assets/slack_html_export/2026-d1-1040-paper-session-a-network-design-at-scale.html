@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-d1-1040-paper-session-a-network-design-at-scale</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d1c1d;
+    --muted: #616061;
+    --border: #e8e8e8;
+    --mention-bg: #e8f5fa;
+    --mention-text: #1264a3;
+    --code-bg: #f6f6f6;
+    --thread-border: #dddddd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.46668;
+  }
+  .archive-header {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .archive-header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+  }
+  .archive-header .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .conversation {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+  }
+  .message:hover {
+    background: #f8f8f8;
+  }
+  .avatar {
+    flex: 0 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .msg-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .msg-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .username {
+    font-weight: 900;
+  }
+  .timestamp {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+  .msg-text {
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  .msg-text pre {
+    background: var(--code-bg);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .msg-text code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+  .msg-text blockquote {
+    margin: 0.25rem 0;
+    padding-left: 0.75rem;
+    border-left: 3px solid #ddd;
+    color: var(--muted);
+  }
+  .mention {
+    background: var(--mention-bg);
+    color: var(--mention-text);
+    padding: 0 0.2rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .system-message {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    padding: 0.25rem 0.5rem 0.25rem 3.25rem;
+  }
+  .attachment img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 6px;
+    margin-top: 0.4rem;
+    border: 1px solid var(--border);
+    display: block;
+  }
+  .reactions {
+    margin-top: 0.35rem;
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .reaction {
+    background: #eef7fb;
+    border: 1px solid #cfe6f2;
+    border-radius: 12px;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  .thread {
+    margin: 0.5rem 0 0.25rem 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--thread-border);
+  }
+  .thread-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  hr.day-divider {
+    max-width: 760px;
+    margin: 1.75rem auto;
+    border: none;
+    border-top: 1px solid var(--border);
+    position: relative;
+  }
+  .day-label {
+    max-width: 760px;
+    margin: 1.75rem auto 0.5rem;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+</style>
+</head>
+<body>
+<div class="archive-header">
+  <h1>2026-d1-1040-paper-session-a-network-design-at-scale</h1>
+  <div class="meta">Archived conversation &middot; Aug 13, 2026 8:39 PM &ndash; Aug 19, 2026 2:09 PM &middot; 66 messages</div>
+</div>
+<div class="conversation">
+<div class="day-label">Thursday, August 13, 2026</div><hr class="day-divider">
+<div class="system-message">Ryan Scherbarth (nvidia) joined the channel</div>
+<div class="day-label">Friday, August 14, 2026</div><hr class="day-divider">
+<div class="system-message">Arulselvan Madhavan joined the channel</div>
+<div class="system-message">Redfire joined the channel</div>
+<div class="day-label">Sunday, August 16, 2026</div><hr class="day-divider">
+<div class="system-message">Gunethra joined the channel</div>
+<div class="day-label">Monday, August 17, 2026</div><hr class="day-divider">
+<div class="system-message">alnonecat joined the channel</div>
+<div class="day-label">Tuesday, August 18, 2026</div><hr class="day-divider">
+<div class="system-message">Steve Glaser (NVIDIA) joined the channel</div>
+<div class="system-message">Dr ABANDA EVA Pierre Robert joined the channel</div>
+<div class="system-message">David Ozog joined the channel</div>
+<div class="system-message">Allen Baum joined the channel</div>
+<div class="system-message">Taylor Groves joined the channel</div>
+<div class="system-message">Sayan Ghosh joined the channel</div>
+<div class="system-message">Pepper Marts joined the channel</div>
+<div class="system-message">Marc Cohn joined the channel</div>
+<div class="system-message">Dan Pitt joined the channel</div>
+<div class="system-message">Matthew Fricke joined the channel</div>
+<div class="system-message">Yiltan Temucin joined the channel</div>
+<div class="system-message">Rohit Zambre joined the channel</div>
+<div class="system-message">aysebilgehan_baspinar joined the channel</div>
+<div class="system-message">Kapil Shrikhande joined the channel</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d1-1040-network-design-at-scale&quot; to &quot;2026-d1-1040-paper-network-design-at-scale&quot;</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d1-1040-paper-network-design-at-scale&quot; to &quot;2026-d1-1040-paper-session-a-network-design-at-scale&quot;</div>
+<div class="day-label">Wednesday, August 19, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">12:39 PM</span>
+    </div>
+    <div class="msg-text">Hi everyone !</div>
+    
+    <div class="reactions"><span class="reaction">👏 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">12:43 PM</span>
+    </div>
+    <div class="msg-text">Welcome to the session : Network Design and Scale.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">12:43 PM</span>
+    </div>
+    <div class="msg-text">Feel free to enter your questions here.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">12:58 PM</span>
+    </div>
+    <div class="msg-text">Do you see MRLS as applicable to back-end scale out networks? It seems like increasing diameter beyond 2 would not be desirable and that MRLS would only be applicable to the front end network.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:59 PM</span>
+    </div>
+    <div class="msg-text">This sound similar to Rockport Networks Torus Networking technology.</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:07 PM</span>
+    </div>
+    <div class="msg-text">Is this posted in website of Cerio? </div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">pgilbert</span>
+      <span class="timestamp">12:59 PM</span>
+    </div>
+    <div class="msg-text">Does this use stndard routing protocols or is there a new routing protocol?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">4 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">1:02 PM</span>
+    </div>
+    <div class="msg-text">I think any packet based protocol, that has a SRC and DST address. Thus Ethernet is a supported protocol.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">pgilbert</span>
+      <span class="timestamp">1:02 PM</span>
+    </div>
+    <div class="msg-text">he mentioned you need to do 2 lookup's that new?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">pgilbert</span>
+      <span class="timestamp">1:05 PM</span>
+    </div>
+    <div class="msg-text">still not clear 😀</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#0891B2">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Alejandro Cano</span>
+      <span class="timestamp">2:09 PM</span>
+    </div>
+    <div class="msg-text">The underlying minimal routing tables can be built using standard mechanisms, but what changes is how packets are forwarded. Usually, standard routings do 1 lookup to the routing table. Polarized routing needs 2 lookups of the minimal routing table: one querying the source and the other for the destination. It requires both to compute the correct ports.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">1:00 PM</span>
+    </div>
+    <div class="msg-text">Does your cost model take into account differences in copper vs. optical interconnect. And how does the MRLS topology compare to Fat-tree in its breakdown of optical vs. copper links .</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">1:01 PM</span>
+    </div>
+    <div class="msg-text">Is it possible to do parallel simulation in CAMINOS, because with more endpoints, serial simulation overhead can be significant? Also, have you considered including the topology/routing on existing discrete event simulators like SST/Macro (which may support parallel simulation)?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:02 PM</span>
+    </div>
+    <div class="msg-text">What is hardware requirement in switch? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">1:07 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Alejandro Cano</span>  So MRLS expands the network to new nodes with the trade off to reduce the bandwidth of existing nodes?  Is it possible to add another layer of fat tree at top when the workload is too much, so it's 2D MRLS?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:07 PM</span>
+    </div>
+    <div class="msg-text">Does it run over commodity switches? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:09 PM</span>
+    </div>
+    <div class="msg-text">What about per pkt state? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">1:32 PM</span>
+    </div>
+    <div class="msg-text">Please enter your questions for the second Paper of the session.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Laurent Montigny</span>
+      <span class="timestamp">1:33 PM</span>
+    </div>
+    <div class="msg-text">Any insight regarding the impact on power for this study with optical?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">3 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:37 PM</span>
+    </div>
+    <div class="msg-text">4.3pJ/b used based of hardware from the lab.  That's all in SerDes, laser, optics.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:38 PM</span>
+    </div>
+    <div class="msg-text">You'd compare that against your long-reach 224G SerDes from your favorite source for the electrical link.  If it's a pluggable optics its going to be much higher ~16pJ/b.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#C026D3">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Laurent Montigny</span>
+      <span class="timestamp">1:41 PM</span>
+    </div>
+    <div class="msg-text">Great, thank for the details</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Chris Browning (Black Semi)</span>
+      <span class="timestamp">1:33 PM</span>
+    </div>
+    <div class="msg-text">Do you think some of the assumptions in the analysis will change with the introduction of XPO formfactore, increasing the density of pluggable optics for a more classic system (copper/optics)</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:39 PM</span>
+    </div>
+    <div class="msg-text">XPO is a good density solution keep pluggables relevant for a while longer, but not going to be as efficient as CPO.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kapil Shrikhande</span>
+      <span class="timestamp">1:34 PM</span>
+    </div>
+    <div class="msg-text">Is there a reason you showed the scale-up domain up to 1152 GPUs ? Where is the constraint coming from – is it from the optics, o# racks, distance ?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text">It is limited by switch radix</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#65A30D">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nitin Garg</span>
+      <span class="timestamp">1:35 PM</span>
+    </div>
+    <div class="msg-text">Can someone share the link to the paper?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">B</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Bole Ma</span>
+      <span class="timestamp">1:35 PM</span>
+    </div>
+    <div class="msg-text">Do you need more fault-tolerant designs for photonic interconnects?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:43 PM</span>
+    </div>
+    <div class="msg-text">You do add more components (e.g. laser + PIC) with photonics, but there are lots of options for making these reliable and replaceable.  External laser, detatchable fibers, redundancy in design, etc.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Chris Browning (Black Semi)</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text">The papers are up in the conference proceedings</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Nitin Garg</span> paper can be fetched from proceedings:<br>
+<a href="https://hot-interconnects.slack.com/archives/C0154F3UDTQ/p1786739573517959" target="_blank" rel="noopener">https://hot-interconnects.slack.com/archives/C0154F3UDTQ/p1786739573517959</a></div>
+    
+    <div class="reactions"><span class="reaction">👍 2</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text">Are the rack size defined by NVL72? Is the scale out interface for NVLink or Ethernet?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Arulselvan Madhavan</span>
+      <span class="timestamp">1:45 PM</span>
+    </div>
+    <div class="msg-text">I think I answered this in the call. Our modeling assumptions take rack size to be 72 XPUx. Scale-out bandwidth are ethernet/infiniband over pluggable optics</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">K</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Kazuaki Ueda</span>
+      <span class="timestamp">1:36 PM</span>
+    </div>
+    <div class="msg-text">I understand that the bandwidth difference between electrical and optical scale-up connection contributes to the latency. Aside from bandwidth, are the pure signal transmission and round-trip propagation delays exactly the same for both? If they differ, could you explain whether this might impact overall latency?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Thomas Graham</span>
+      <span class="timestamp">1:45 PM</span>
+    </div>
+    <div class="msg-text">We modeled the same propagation delays in this paper. The collective operations in prefill are more dominated by link BW than latency, which is why we made this assumption. As Arul mentioned, inference decode is more sensitive to link latency, so we have an upcoming paper that explores this more.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:37 PM</span>
+    </div>
+    <div class="msg-text">Did scale out refer to electrical scale up only? </div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Thomas Graham</span>
+      <span class="timestamp">1:47 PM</span>
+    </div>
+    <div class="msg-text">Scale-out refers to going over the scale-out network - i.e. usually using 800G or 1.6T pluggables. In the optical scale-up, we look at a larger scale-up domain (i.e. up to 1152), so you don't go over the scale-out network</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Pankaj Mehra</span>
+      <span class="timestamp">1:38 PM</span>
+    </div>
+    <div class="msg-text">What will CPC do to your comparison?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:45 PM</span>
+    </div>
+    <div class="msg-text">CPC is still limited by the bandwidth you can escape off the chip shoreline.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:46 PM</span>
+    </div>
+    <div class="msg-text">Whereas Passage is allowing for 3D stacking to get area-bandwidth-density.  Then fibers are much more bandwidth dense than a copper wire.</div>
+    
+    <div class="reactions"><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:39 PM</span>
+    </div>
+    <div class="msg-text">You had scale out in title of your slide! What does it refer to? </div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Pankaj Mehra</span>
+      <span class="timestamp">1:39 PM</span>
+    </div>
+    <div class="msg-text">co-packaged copper</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">1:39 PM</span>
+    </div>
+    <div class="msg-text">So to clarify, this is NVL72 scale up (copper) + scale out (pluggable optical) to get to different racks versus a single flat scale up domain using photoconics, correct?</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:41 PM</span>
+    </div>
+    <div class="msg-text">I think so</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">T</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Taylor Groves</span>
+      <span class="timestamp">1:48 PM</span>
+    </div>
+    <div class="msg-text">Yes, identical GPU Compute and Memory,  and number of GPUs in the system. Just changing the size of the scale-up network.  And a second system config that increases scale-up network bandwidth per GPU.</div>
+    
+    
+  </div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-d1-1015-sponsor-talk-lightmatter</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d1c1d;
+    --muted: #616061;
+    --border: #e8e8e8;
+    --mention-bg: #e8f5fa;
+    --mention-text: #1264a3;
+    --code-bg: #f6f6f6;
+    --thread-border: #dddddd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.46668;
+  }
+  .archive-header {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .archive-header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+  }
+  .archive-header .meta {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .conversation {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .message {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 6px;
+  }
+  .message:hover {
+    background: #f8f8f8;
+  }
+  .avatar {
+    flex: 0 0 auto;
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .msg-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .msg-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .username {
+    font-weight: 900;
+  }
+  .timestamp {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+  .msg-text {
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  .msg-text pre {
+    background: var(--code-bg);
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  .msg-text code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+  .msg-text blockquote {
+    margin: 0.25rem 0;
+    padding-left: 0.75rem;
+    border-left: 3px solid #ddd;
+    color: var(--muted);
+  }
+  .mention {
+    background: var(--mention-bg);
+    color: var(--mention-text);
+    padding: 0 0.2rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .system-message {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    padding: 0.25rem 0.5rem 0.25rem 3.25rem;
+  }
+  .attachment img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 6px;
+    margin-top: 0.4rem;
+    border: 1px solid var(--border);
+    display: block;
+  }
+  .reactions {
+    margin-top: 0.35rem;
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .reaction {
+    background: #eef7fb;
+    border: 1px solid #cfe6f2;
+    border-radius: 12px;
+    padding: 0.05rem 0.5rem;
+    font-size: 0.85rem;
+  }
+  .thread {
+    margin: 0.5rem 0 0.25rem 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--thread-border);
+  }
+  .thread-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  hr.day-divider {
+    max-width: 760px;
+    margin: 1.75rem auto;
+    border: none;
+    border-top: 1px solid var(--border);
+    position: relative;
+  }
+  .day-label {
+    max-width: 760px;
+    margin: 1.75rem auto 0.5rem;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+</style>
+</head>
+<body>
+<div class="archive-header">
+  <h1>2026-d1-1015-sponsor-talk-lightmatter</h1>
+  <div class="meta">Archived conversation &middot; Aug 18, 2026 1:09 PM &ndash; Aug 19, 2026 2:40 PM &middot; 56 messages</div>
+</div>
+<div class="conversation">
+<div class="day-label">Tuesday, August 18, 2026</div><hr class="day-divider">
+<div class="system-message">Ryan Scherbarth (nvidia) joined the channel</div>
+<div class="system-message">Sayan Ghosh joined the channel</div>
+<div class="system-message">David Ozog joined the channel</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d1-1030-sponsor-lightmatter&quot; to &quot;2026-d1-1030-sponsor-talk-lightmatter&quot;</div>
+<div class="system-message">Ryan Scherbarth (nvidia) renamed the channel from &quot;2026-d1-1030-sponsor-talk-lightmatter&quot; to &quot;2026-d1-1015-sponsor-talk-lightmatter&quot;</div>
+<div class="system-message">Jiaqi Lou joined the channel</div>
+<div class="system-message">bsahu joined the channel</div>
+<div class="system-message">Fabian joined the channel</div>
+<div class="system-message">Francois Labonte joined the channel</div>
+<div class="system-message">Daud Arslan joined the channel</div>
+<div class="system-message">Shahbozbek Hakimov joined the channel</div>
+<div class="system-message">Tong Xu joined the channel</div>
+<div class="system-message">myoung-gyun.suh joined the channel</div>
+<div class="system-message">xi.chen joined the channel</div>
+<div class="system-message">Mahfuz joined the channel</div>
+<div class="system-message">Varun Chotalia joined the channel</div>
+<div class="system-message">pierre-louis.benard joined the channel</div>
+<div class="system-message">Matthew Fricke joined the channel</div>
+<div class="system-message">Advm joined the channel</div>
+<div class="system-message">ahmadrazarehman033 joined the channel</div>
+<div class="system-message">Howard Wang joined the channel</div>
+<div class="system-message">rashid-ahmed.kukkady joined the channel</div>
+<div class="day-label">Wednesday, August 19, 2026</div><hr class="day-divider">
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">11:25 AM</span>
+    </div>
+    <div class="msg-text">Hello lightmatter team, u guys are doing great work:)</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ayush Chaturvedi</span>
+      <span class="timestamp">12:24 PM</span>
+    </div>
+    <div class="msg-text">question: if we use different colors, how do you handle challenges that comes with different wavelength and in turn different speeds</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ayush Chaturvedi</span>
+      <span class="timestamp">12:26 PM</span>
+    </div>
+    <div class="msg-text">my question is now answered</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Peter Carson</span>
+      <span class="timestamp">12:26 PM</span>
+    </div>
+    <div class="msg-text">Hi <span class="mention">@Ayush Chaturvedi</span>, take a look at the performance metrics on Nick's next slide.</div>
+    
+    <div class="reactions"><span class="reaction">✅ 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">12:26 PM</span>
+    </div>
+    <div class="msg-text">With BiDi using 8 wavelengths each way on a single fiber, what do you see as the biggest scaling challenge as you move toward 400G per fiber and eventually higher bandwidths?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">5 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">12:45 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Nick Harris</span> can u answer this too ?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:48 PM</span>
+    </div>
+    <div class="msg-text">We already have 1600 G</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:48 PM</span>
+    </div>
+    <div class="msg-text">Scaling challenges were inventing Guide for 16 wavelengths per fiber at 100 Gbps modulation</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:48 PM</span>
+    </div>
+    <div class="msg-text">Need great power and spectral stability</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">12:50 PM</span>
+    </div>
+    <div class="msg-text">That’s really interesting, Nick. I’m actually using 8-wavelength WDM in my photonic CNN to parallelize pooling operations, so the power and spectral stability challenge you mentioned is directly relevant to my work. I’d be very interested in understanding how Lightmatter approaches wavelength-level stability and calibration as you scale from 8 to 16+ wavelengths.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Peter Carson</span>
+      <span class="timestamp">12:26 PM</span>
+    </div>
+    <div class="msg-text">These are measured results.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">P</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Peter Carson</span>
+      <span class="timestamp">12:27 PM</span>
+    </div>
+    <div class="msg-text">I'll leave your 400G / 8 lambda question to Nick.</div>
+    
+    <div class="reactions"><span class="reaction">👍 1</span></div>
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DB2777">M</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Mike Capuano</span>
+      <span class="timestamp">12:27 PM</span>
+    </div>
+    <div class="msg-text">What material in Guide generates the light?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:38 PM</span>
+    </div>
+    <div class="msg-text">Indium phosphide</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:38 PM</span>
+    </div>
+    <div class="msg-text">not patterned. just material.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:29 PM</span>
+    </div>
+    <div class="msg-text">What is the power for 400Gbps, 800Gbps and 1.6Tbps? What cooling is required?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:38 PM</span>
+    </div>
+    <div class="msg-text">2pJ/bit. Cooling is air or liquid for the chips.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#7C3AED">D</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">dcherniak</span>
+      <span class="timestamp">2:40 PM</span>
+    </div>
+    <div class="msg-text">does this efficiency include laser power?</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">H</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Hank Lee</span>
+      <span class="timestamp">12:29 PM</span>
+    </div>
+    <div class="msg-text">OCI MSA adopts CWDM for BiDi, whereas LM adopts interleaving. Can you introduce pros and cons of those two approaches?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">2 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:39 PM</span>
+    </div>
+    <div class="msg-text">Interleaving is better and uses less optical power but you need better lasers.<br>
+<br>
+We can do band interleaved and already do 🙂</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">H</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Hank Lee</span>
+      <span class="timestamp">1:32 PM</span>
+    </div>
+    <div class="msg-text">Thank you so much for a kind reply 🙂</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">12:30 PM</span>
+    </div>
+    <div class="msg-text">To Nick: If photonics is going to become the dominant interconnect technology for AI scale-up, what is the one remaining problem that you think the industry is still underestimating?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">4 replies</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:39 PM</span>
+    </div>
+    <div class="msg-text">completed optical engine test and rack-scale infra definition are the last big things. working on both.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">12:45 PM</span>
+    </div>
+    <div class="msg-text">Thanks Nick — that’s really interesting. On the rack-scale side, as you move toward 512-XPU scale-up domains, do you see the bigger challenge being the physical optical architecture — fiber routing, connector count, BiDi/WDM scaling — or the system-level co-design between the optical engine, XPU tray, and switch fabric?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:50 PM</span>
+    </div>
+    <div class="msg-text">See the vision whitepaper at OCP that covers how the racks are going to be designed. we've been leading this effort with our 19 partners.</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#059669">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">saurabh(photonic researcher)</span>
+      <span class="timestamp">12:53 PM</span>
+    </div>
+    <div class="msg-text">thanks Nick - I'll definitely look at the OCP vision paper.</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ayush Chaturvedi</span>
+      <span class="timestamp">12:34 PM</span>
+    </div>
+    <div class="msg-text">can light matter also provide overview about their software stack and pre-requisites about making their hardware work with other OEMs</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">C</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Cissy Yuan</span>
+      <span class="timestamp">12:41 PM</span>
+    </div>
+    <div class="msg-text">Where can we use photonic interconnect today, can we replace all network links between nodes, between chips or inside chip package?  What are the limitation or constrain we need to consider?  How far is PIC integrate with EIC on die?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">R</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Rabindra Guha (Cerio)</span>
+      <span class="timestamp">12:43 PM</span>
+    </div>
+    <div class="msg-text">One issue with photonic is that it is still point-to-point. Will there ever be a Photonic switch that can split the SMF's wavelength/color, to support different routing, similar to spine-and-leaf based switches, to create a MESH network.</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:47 PM</span>
+    </div>
+    <div class="msg-text">photonic switches are built into passage. see m1000 demo on <a href="http://lightmatter.co" target="_blank" rel="noopener">lightmatter.co</a> &gt; products &gt; passage M1000 EVK</div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#4F46E5">A</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Ahmed Khalil (unaffiliated)</span>
+      <span class="timestamp">12:46 PM</span>
+    </div>
+    <div class="msg-text">The 2× decode result caught my attention. The HOTI paper is prefill-focused, so what model, batch and context regime, and copper baseline produced the decode number? Does it include the complete optical path, laser and control power, failures and retries, and KV-cache movement, or is it an analytical interconnect-only result?</div>
+    
+    
+  </div>
+</div>
+<div class="thread"><div class="thread-label">1 reply</div>
+<div class="message">
+  <div class="avatar" style="background:#2563EB">N</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Nick Harris</span>
+      <span class="timestamp">12:47 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Arulselvan Madhavan</span></div>
+    
+    
+  </div>
+</div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#DC2626">L</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Leila Rashidi</span>
+      <span class="timestamp">1:34 PM</span>
+    </div>
+    <div class="msg-text">Are you considering multiple rack as scale out?</div>
+    
+    
+  </div>
+</div>
+<div class="message">
+  <div class="avatar" style="background:#D97706">S</div>
+  <div class="msg-body">
+    <div class="msg-header">
+      <span class="username">Sayan Ghosh</span>
+      <span class="timestamp">1:35 PM</span>
+    </div>
+    <div class="msg-text"><span class="mention">@Leila Rashidi</span> do you want to ask the question here <span class="mention">#C0BPQE5R44X</span></div>
+    
+    
+  </div>
+</div>
+</div>
+</body>
+</html>
