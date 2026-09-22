@@ -3,10 +3,11 @@
 ---
 <br>
 <div style="text-align: center; font-size: 30px">
-    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=oJhnXBVRbXk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=1"> YouTube</a>!</strong>
+    <a href="https://www.youtube.com/watch?v=oJhnXBVRbXk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=1" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
 <br>
+
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center">
     <div style="text-align: center; font-size: 30px">
@@ -15,7 +16,13 @@
     <strong>Welcome to the 33rd iteration of the IEEE Hot Interconnects symposium. </strong>
     <strong>HotI’2026 will be held virtually.</strong><br><br>
     <div style="position: relative; width: 100%; max-width: 720px; margin: 0 auto 24px; padding-top: 56.25%;">
-        <iframe class="fitvidsignore" src="https://www.youtube.com/embed/WyFpEGTr63Q" title="HotI 2026 video" style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="fitvidsignore"
+            src="https://www.youtube.com/embed/oJhnXBVRbXk"
+            title="HotI 2026 video"
+            style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
     </div>
     <strong>2026 Conference Theme<br>
     Scale-Up, Scale-Out, Scale-Across: Do they really differ?</strong>

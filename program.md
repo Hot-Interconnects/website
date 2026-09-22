@@ -3,8 +3,8 @@
 ---
 
 <div style="text-align: center; font-size: 30px">
-    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11"> YouTube</a>!</strong>
-    <a href="https://www.youtube.com/watch?v=rocnBWH90qw&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=11" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
+    <strong>HotI 2026 has concluded. Watch the recordings of all HotI 2026 sessions and talks on <a href="https://www.youtube.com/watch?v=oJhnXBVRbXk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=1"> YouTube</a>!</strong>
+    <a href="https://www.youtube.com/watch?v=oJhnXBVRbXk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=1" target="_blank"> <img src="{{ '/assets/img/logo_youtube.png' | relative_url }}" alt="YouTube Logo" style="width: 50px; height: auto; vertical-align: middle;"></a>
 </div>
 <br>
 <!-- # Program -->
@@ -34,8 +34,20 @@ All times below are Pacific Time (PT).
 </thead>
 <tbody>
 <tr>
-<td markdown="span">09:00 - 09:15</td>
-<td markdown="span">**Introduction &amp; Day 1 Welcome**
+<td markdown="span">09:00 - 09:05</td>
+<td markdown="span">**Introduction**
+  <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a> -->
+  <a href="https://www.youtube.com/watch?v=oJhnXBVRbXk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=1" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+    
+</td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span">09:05 - 09:15</td>
+<td markdown="span">**Day 1 Welcome**
   <!-- <a href="/2025/assets/slides/2025_08_20_Welcome_day1_Artem.pdf" target="_blank">
           <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
   </a> -->
