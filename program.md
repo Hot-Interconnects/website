@@ -274,6 +274,9 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span">10:15 - 10:30</td>
 <td markdown="span">**Diamond Sponsor Talk:** Napatech<br>AI Fabrics in Motion: Programmable Interconnects for Scale-Up, Scale-Out, and Scale-Across<br><a href="sponsortalk-napatech.html">[details]</a>
+ <a href="assets/slides/AI_Fabrics_in_Motion_HotI2026.pdf" target="_blank">
+          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
+  </a>
 <a href="https://www.youtube.com/watch?v=gsWYS4-Rd_g&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=25" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 <a href="assets/slack_html_export/2026-d2-1015-sponsor-napatech.html" target="_blank"> <img src="assets/img/slack.png" alt="Slack Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
 
