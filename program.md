@@ -94,22 +94,16 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Multipass Random Leaf-Spine Networks for Extreme Scale Computing Systems
-  <a href="assets/slides/03-Alejandro-Cano.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=DIbYCGBd-4o&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=12" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Multipass Random Leaf-Spine Networks for Extreme Scale Computing Systems<br>
+  <a href="assets/slides/03-Alejandro-Cano.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=DIbYCGBd-4o&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=12" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766257/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
+
 </td>
 <td markdown="span">**Alejandro Cano** , Cristina Brinza , Cristóbal Camarero , Carmen Martínez , Ramón Beivide</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Scaling Inference Prefill with High-Radix Photonic Interconnect
-
-  <a href="assets/slides/04-Arul Madhavan_Lightmatter_Scaling Inference Prefill with High Radix Photonic Interconnects_HotI2026.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=mUkJAp1SLZc&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=14" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Scaling Inference Prefill with High-Radix Photonic Interconnect<br>
+  <a href="assets/slides/04-Arul Madhavan_Lightmatter_Scaling Inference Prefill with High Radix Photonic Interconnects_HotI2026.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=mUkJAp1SLZc&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=14" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766500/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
   
 </td>
 <td markdown="span">**Arulselvan Madhavan** , Peter Carson , Taylor Groves , Thomas Graham</td>
@@ -165,11 +159,8 @@ All times below are Pacific Time (PT).
 </tr>
 <tr> 
 <td markdown="span"></td>
-<td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform
-  <a href="assets/slides/08-High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform_Sunil_Priyadarshi Sunil Priyadarshi.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=Z0uuw1h0RZs&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=18" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Demonstration of the 12.8T 8×DR8 High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform<br>
+  <a href="assets/slides/08-High-Density Liquid-Cooled 64-Channel Pluggable XPO LRO Module and XPO Emulation Platform_Sunil_Priyadarshi Sunil Priyadarshi.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=Z0uuw1h0RZs&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=18" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766580/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 
 </td>
@@ -177,11 +168,8 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale
-  <a href="assets/slides/09-breaking-through-network-wall.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=yrDEloefTac&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=19" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Breaking Through the Network Wall: Petabit-Class Switching for Single-Hop MoE Training at Scale<br>
+  <a href="assets/slides/09-breaking-through-network-wall.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=yrDEloefTac&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=19" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766368/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 
 </td>
@@ -189,22 +177,16 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">The Multipath Reliable Connection (MRC) Transport
-  <a href="assets/slides/10-The_Multipath_Reliable_Connection_Transport Rip Sohan.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-<a href="https://www.youtube.com/watch?v=jnGn9vm8Euk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=20" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">The Multipath Reliable Connection (MRC) Transport<br>
+  <a href="assets/slides/10-The_Multipath_Reliable_Connection_Transport Rip Sohan.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=jnGn9vm8Euk&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=20" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766598/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 </td>
 <td markdown="span">**Rip Sohan** , Eric Spada , Eric Davis , Mark Handley , Idan Burstein , Tony Hurson , Jithin Jose , Vivek Kashyap , Rong Pan , Sayantan Sur , Sreevatsa Anantharamu , Aviv Barnea , Adrian Caulfield , Elazar Cohen , Elliot Edmunds , Yamin Friedman , Mahdieh Ghazi , Murali Garimella , Torsten Hoefler , Vipin Jain , Abdul Kabbani , Noam Katz , Yanfang Le , Charlie Mbariky , Guglielmo Morandin , Masoud Moshref , Shane O'Neil , Michael Papamichael , Jonas Pfefferle , Siva Santosh Pyla , Costin Raiciu , David Riddoch , Karen Schramm , Yuval Shpigelman , Shahaf Shuler , Shy Shyman , Raghava Sivaramu , Amin Tootoonchian , Yang Wang</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry
-  <a href="assets/slides/11-hoti-omnistat-v4 Aaron Welch.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-<a href="https://www.youtube.com/watch?v=qZyr93vUPPE&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=21" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Diagnosing Hidden Interconnect Bottlenecks with Omnistat and Cassini Telemetry<br>
+  <a href="assets/slides/11-hoti-omnistat-v4 Aaron Welch.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=qZyr93vUPPE&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=21" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766510/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 </td>
 <td markdown="span">**Aaron Welch** , Shubhendra Pal Singhal , Akihiro Hayashi , Jun Shirako , Oscar Hernandez , Vivek Sarkar , Steve Poole</td>
@@ -390,22 +372,16 @@ All times below are Pacific Time (PT).
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory
-<a href="assets/slides/12-paper-dodoco_bole_ma Bole Ma.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-<a href="https://www.youtube.com/watch?v=GQgd-7YrIUc&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=26" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Diagnosing Overhead in Dispatch Operations: Cross-architecture Observatory<br>
+  <a href="assets/slides/12-paper-dodoco_bole_ma Bole Ma.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=GQgd-7YrIUc&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=26" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766564/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 </td>
 <td markdown="span">**Bole Ma** , Jan Eitzinger , Harald Köstler , Gerhard Wellein</td>
 </tr>
 <tr>
 <td markdown="span"></td>
-<td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA
-<a href="assets/slides/13-paper-HotI_2026 Zhonghao Chen.pptx" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=v5XbA1inLbY&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=28" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">From Datacenter to Wide Area: Scale-Across Federated Learning on Real Long-Haul RDMA<br>
+  <a href="assets/slides/13-paper-HotI_2026 Zhonghao Chen.pptx" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=v5XbA1inLbY&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=28" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766398/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 </td>
 <td markdown="span">**Zhonghao Chen** , Yuke Li , Xiaoyi Lu</td>
@@ -413,11 +389,8 @@ All times below are Pacific Time (PT).
 <tr>
 <td markdown="span"></td>
 
-<td markdown="span">Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication
-<a href="assets/slides/14-paper-NVSHMEM_Yijun Ma.pdf" target="_blank">
-          <img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-left: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=kf-vylDz7XY&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=29" target="_blank"> <img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle;"></a> 
+<td markdown="span">Demystifying NVSHMEM: A System-Level Analysis on Symmetric Memory and Device-Initiated Operations in GPU Communication<br>
+  <a href="assets/slides/14-paper-NVSHMEM_Yijun Ma.pdf" target="_blank"><img src="assets/img/icon-pdf.png" alt="Download PDF" style="width:20px; vertical-align:middle; margin-right: 6px;"></a><a href="https://www.youtube.com/watch?v=kf-vylDz7XY&list=PLBM5Lly_T4ySdlP5aRwrxT7a4o1UQ6T1R&index=29" target="_blank"><img src="assets/img/logo_youtube.png" alt="YouTube Logo" style="width: 25px; height: auto; vertical-align: middle; margin-right: 6px;"></a><a href="https://ieeexplore.ieee.org/document/11766484/" target="_blank"><img src="assets/img/ieee_logo.png" alt="Download PDF" style="width:25px; vertical-align:middle;"></a>
 
 
 </td>
